@@ -1,0 +1,13 @@
+# Sources — network-effects
+
+> *Primary sources for the [network-effects](../SKILL.md) skill.*
+
+- AT&T (1909). *Annual Report.* The original source of "One Policy, One System, Universal Service." Archived corporate-history collections.
+- Brock, G. W. (1981). *The Telecommunications Industry: The Dynamics of Market Structure.* Harvard University Press. The standard scholarly history of Vail's consolidation strategy.
+- Lipartito, K. (1989). *The Bell System and Regional Business: The Telephone in the South, 1877-1920.* Johns Hopkins University Press. Documents Vail's regional acquisition strategy and the interconnection refusal tactics.
+- Metcalfe, R. (2013). "Metcalfe's Law After 40 Years of Ethernet." *IEEE Computer*, 46(12), pp. 26-31. Metcalfe's own retrospective on his 1980 formulation, with reflection on subsequent refinements. https://doi.org/10.1109/MC.2013.374
+- Briscoe, B., Odlyzko, A., & Tilly, B. (2006). "Metcalfe's Law is Wrong." *IEEE Spectrum*, 43(7), pp. 34-39. The major refinement arguing networks scale as n log n rather than n². https://doi.org/10.1109/MSPEC.2006.1653003
+- Zhang, X.-Z., Liu, J.-J., & Xu, Z.-W. (2015). "Tencent and Facebook Data Validate Metcalfe's Law." *Journal of Computer Science and Technology*, 30(2), pp. 246-251. Empirical study finding network value scales between n^1.6 and n^1.8 in real social networks.
+- Katz, M. L., & Shapiro, C. (1985). "Network Externalities, Competition, and Compatibility." *American Economic Review*, 75(3), pp. 424-440. The foundational economic treatment of network externalities (the academic term for what business people call network effects).
+- Eisenmann, T., Parker, G., & Van Alstyne, M. (2006). "Strategies for Two-Sided Markets." *Harvard Business Review*, October 2006. The canonical treatment of two-sided network effects in business strategy.
+- Currier, J. (2018). *The Network Effects Bible.* NFX. https://www.nfx.com/post/network-effects-bible — the modern operational framework distinguishing 13+ types of network effects across direct, indirect, data, and social mechanisms.

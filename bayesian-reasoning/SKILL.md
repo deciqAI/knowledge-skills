@@ -11,7 +11,7 @@ Bayes' theorem: **Posterior odds = Prior odds × Likelihood ratio**. The strengt
 
 This skill applies Bayesian discipline where people reason about probabilities informally — and failures follow predictable patterns: ignoring the base rate (prior), confusing P(E|H) with P(H|E) (prosecutor's fallacy), over-updating on vivid confirming evidence, treating correlated evidence as independent.
 
-Composes with [`probabilistic-thinking`](../probabilistic-thinking/SKILL.md) (Bayes is the operational engine), [`critical-thinking`](../critical-thinking/SKILL.md) (formalizes considering alternatives), [`logical-fallacies`](../logical-fallacies/SKILL.md) (prosecutor's fallacy and base-rate neglect), and [`first-principles`](../first-principles/SKILL.md) (the prior is bedrock).
+Composes with `probabilistic-thinking` (Bayes is the operational engine), `critical-thinking` (formalizes considering alternatives), `logical-fallacies` (prosecutor's fallacy and base-rate neglect), and [`first-principles`](../first-principles/SKILL.md) (the prior is bedrock).
 
 ## When to Use
 
@@ -117,4 +117,4 @@ A "pack" bundles the most common prior and LR patterns for a domain.
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These five skills are a free taste of the 130+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=bayesian-reasoning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=bayesian-reasoning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
