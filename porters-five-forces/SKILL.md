@@ -10,7 +10,7 @@ description: "Activate when: user asks 'is this a good industry to enter?', 'why
 
 Some industries earn 30%+ margins decade after decade; others fail to earn their cost of capital despite intelligent, well-funded firms. The cause is industry structure. Porter's 1979 five forces — new entrants, supplier power, buyer power, substitutes, rivalry — determine long-run profitability. A firm's earnings are the residual after those forces have taken their cut. Strategic goal: **position where the forces are weakest; where possible, change the forces in your favor** through scale, switching costs, differentiation, or vertical integration.
 
-Composes with [`network-effects`](../network-effects/SKILL.md), `switching-costs`, `signaling-games`, `pmf-crossing-the-chasm`.
+Composes with [`network-effects`](../network-effects/SKILL.md), [`switching-costs`](../switching-costs/SKILL.md), [`signaling-games`](../signaling-games/SKILL.md), [`pmf-crossing-the-chasm`](../pmf-crossing-the-chasm/SKILL.md).
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Validation: predicted ROIC <…> vs actual <…> | gap: <…>
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/porters-five-forces?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=porters-five-forces** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/porters-five-forces?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=porters-five-forces** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

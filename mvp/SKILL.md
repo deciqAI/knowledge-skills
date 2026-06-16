@@ -10,7 +10,7 @@ description: "Activate when: someone says 'MVP', 'minimum viable product', 'smok
 
 An MVP is **not a small version of your product** — it is a **test instrument**: the smallest artifact that produces trustworthy evidence about one specific demand-side assumption, with the least possible investment. Success criterion is **learning per dollar**, not features per dollar.
 
-Coined by Frank Robinson (SyncDev, 2001); operationalized by Eric Ries (*The Lean Startup*, 2011, p. 77) — sometimes the artifact has no software at all. Compose: [lean-startup](../lean-startup/SKILL.md) defines Build-Measure-Learn — this skill covers the Build phase. Use business-model-canvas to identify the assumption; [inversion](../inversion/SKILL.md) to stress-test it.
+Coined by Frank Robinson (SyncDev, 2001); operationalized by Eric Ries (*The Lean Startup*, 2011, p. 77) — sometimes the artifact has no software at all. Compose: [lean-startup](../lean-startup/SKILL.md) defines Build-Measure-Learn — this skill covers the Build phase. Use [business-model-canvas](../business-model-canvas/SKILL.md) to identify the assumption; [inversion](../inversion/SKILL.md) to stress-test it.
 
 ## When to Use
 
@@ -116,4 +116,4 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/mvp?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=mvp** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/mvp?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=mvp** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

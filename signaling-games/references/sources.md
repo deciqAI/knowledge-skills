@@ -1,0 +1,12 @@
+# Sources — signaling-games
+
+> *Primary sources for the [signaling-games](../SKILL.md) skill.*
+
+- Spence, A. M. (1973). "Job Market Signaling." *Quarterly Journal of Economics*, 87(3), pp. 355–374. The founding paper of formal signaling theory; introduces the single-crossing cost condition, separating and pooling equilibria, and the result that signaling can hold even when the signal has no intrinsic productive value. https://doi.org/10.2307/1882010
+- Spence, A. M. (1974). *Market Signaling: Informational Transfer in Hiring and Related Screening Processes*. Harvard University Press. The book-length elaboration of the 1973 paper, extending the framework to multiple types and richer cost structures.
+- Akerlof, G. A. (1970). "The Market for Lemons: Quality Uncertainty and the Market Mechanism." *Quarterly Journal of Economics*, 84(3), pp. 488–500. The companion text on adverse selection — what goes wrong in markets with asymmetric information *absent* a signaling mechanism. https://doi.org/10.2307/1879431
+- Zahavi, A. (1975). "Mate Selection — A Selection for a Handicap." *Journal of Theoretical Biology*, 53(1), pp. 205–214. The handicap principle in evolutionary biology — the peacock's tail and other costly signals — the same math as Spence's model, derived independently. https://doi.org/10.1016/0022-5193(75)90111-3
+- Milgrom, P., & Roberts, J. (1986). "Price and Advertising Signals of Product Quality." *Journal of Political Economy*, 94(4), pp. 796–821. The formal model of advertising as a quality signal — only firms expecting repeat purchases can profitably amortize ad spend. https://doi.org/10.1086/261408
+- Cho, I.-K., & Kreps, D. M. (1987). "Signaling Games and Stable Equilibria." *Quarterly Journal of Economics*, 102(2), pp. 179–221. The "intuitive criterion" for refining multiple equilibria in signaling games. https://doi.org/10.2307/1885060
+- The Royal Swedish Academy of Sciences (2001). "Markets with Asymmetric Information." Nobel Memorial Prize background note. The official summary of the 2001 Prize awarded jointly to Akerlof, Spence, and Stiglitz for their analyses of markets with asymmetric information. https://www.nobelprize.org/prizes/economic-sciences/2001/popular-information/
+- Klein, B., & Leffler, K. B. (1981). "The Role of Market Forces in Assuring Contractual Performance." *Journal of Political Economy*, 89(4), pp. 615–641. Brand-name capital as a hostage signal — quality firms invest in brand precisely to make low-quality cheating self-destructive. https://doi.org/10.1086/260996

@@ -9,7 +9,7 @@ description: "Activate when: user asks about starting early vs. later for saving
 
 Compound interest: a quantity grows at a rate proportional to its current size — growth itself grows — producing exponential accumulation. Formula: A = P × (1 + r)^t. Humans underestimate long-horizon outcomes because cognition extrapolates linearly. Two consequences: **Rule of 72** (doubles in ≈ 72/r periods); **late-period dominance** (most final value comes from the last few periods).
 
-Composes with `lindy-effect`, `hyperbolic-discounting`, `expected-value-and-kelly`, [`network-effects`](../network-effects/SKILL.md), `deep-work`.
+Composes with [`lindy-effect`](../lindy-effect/SKILL.md), [`hyperbolic-discounting`](../hyperbolic-discounting/SKILL.md), [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md), [`network-effects`](../network-effects/SKILL.md), [`deep-work`](../deep-work/SKILL.md).
 
 ## When to Use
 
@@ -114,4 +114,4 @@ Generalization: other dynamics / decay risks / commitments
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/compound-interest?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=compound-interest** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/compound-interest?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=compound-interest** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

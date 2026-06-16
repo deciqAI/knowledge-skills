@@ -12,7 +12,7 @@ A startup is a **temporary organization searching for a repeatable, scalable bus
 
 **Eric Ries** (2011): name the riskiest assumption, build the smallest test (MVP), measure real behavior, decide to **pivot or persevere** — the **Build–Measure–Learn loop**, run as fast as possible.
 
-**Compose:** [first-principles](../first-principles/SKILL.md) to find what the model truly depends on; probabilistic-thinking to calibrate experiments; [inversion](../inversion/SKILL.md) before each Build phase; business-model-canvas to surface the riskiest assumption blocks.
+**Compose:** [first-principles](../first-principles/SKILL.md) to find what the model truly depends on; [probabilistic-thinking](../probabilistic-thinking/SKILL.md) to calibrate experiments; [inversion](../inversion/SKILL.md) before each Build phase; [business-model-canvas](../business-model-canvas/SKILL.md) to surface the riskiest assumption blocks.
 
 ## When to Use
 
@@ -117,4 +117,4 @@ Validated learning: <one sentence carry-forward>
 - [ ] Validated learning is documented in one sentence carry-forward
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/lean-startup?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=lean-startup** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/lean-startup?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=lean-startup** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

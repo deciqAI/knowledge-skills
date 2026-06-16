@@ -10,7 +10,7 @@ description: "Activate when: user says 'we have network effects,' 'winner-take-m
 
 Some products get more valuable the more people use them — not because the company gets cheaper at scale, but because each user makes the product more useful to every other user. This is the **network effect**: value per user is an increasing function of total user count. Most products that claim this don't have it; they have scale economies, virality, or social proof — valuable, but structurally different. The skill diagnoses which is which, estimates the critical-mass threshold, and designs for amplification.
 
-Composes with `s-curve-technology-adoption`, `pmf-crossing-the-chasm`, `feedback-loops`, and `signaling-games`.
+Composes with [`s-curve-technology-adoption`](../s-curve-technology-adoption/SKILL.md), [`pmf-crossing-the-chasm`](../pmf-crossing-the-chasm/SKILL.md), [`feedback-loops`](../feedback-loops/SKILL.md), and [`signaling-games`](../signaling-games/SKILL.md).
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Run the **Network-Effect Audit**: diagnose, classify, size, design.
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/network-effects?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=network-effects** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/network-effects?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=network-effects** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

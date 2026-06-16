@@ -13,7 +13,7 @@ description: >
 
 Bastiat (1850) established the foundational insight: every visible benefit forecloses an invisible alternative. Buchanan (1969) formalized it: cost is subjective, prospective, decision-maker-specific — the accountant's number and the economist's number can diverge by 10x.
 
-Composes with `expected-value-and-kelly`, [`first-principles`](../first-principles/SKILL.md), [`pareto-principle`](../pareto-principle/SKILL.md), [`sunk-cost-fallacy`](../sunk-cost-fallacy/SKILL.md), [`compound-interest`](../compound-interest/SKILL.md).
+Composes with [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md), [`first-principles`](../first-principles/SKILL.md), [`pareto-principle`](../pareto-principle/SKILL.md), [`sunk-cost-fallacy`](../sunk-cost-fallacy/SKILL.md), [`compound-interest`](../compound-interest/SKILL.md).
 
 ## When to Use
 
@@ -115,4 +115,4 @@ Decision + reasoning:
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/opportunity-cost?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=opportunity-cost** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/opportunity-cost?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=opportunity-cost** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

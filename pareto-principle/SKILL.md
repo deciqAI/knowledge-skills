@@ -10,7 +10,7 @@ description: "Activate when: user says 'Pareto,' '80/20,' 'vital few,' 'long tai
 
 In most real systems, a small fraction of inputs produces the majority of outputs. The pattern — heavy-tailed distribution where the **vital few** dominate the **trivial many** — is empirically robust across operations, software, and revenue. Pareto (1896) documented the distribution; Juran (1951) coined "vital few and trivial many." Key hazard: different outputs have different vital fews, and asserting "80/20" without measuring is folk reasoning.
 
-**Compose:** [first-principles](../first-principles/SKILL.md) to identify what outcome you are driving; aarrr-pirate-metrics to instrument which inputs produce which outputs; probabilistic-thinking to test the split is real and not a small-sample artifact.
+**Compose:** [first-principles](../first-principles/SKILL.md) to identify what outcome you are driving; [aarrr-pirate-metrics](../aarrr-pirate-metrics/SKILL.md) to instrument which inputs produce which outputs; [probabilistic-thinking](../probabilistic-thinking/SKILL.md) to test the split is real and not a small-sample artifact.
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Run the **Pareto Analysis**: define output, measure distribution, identify vital
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/pareto-principle?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=pareto-principle** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/pareto-principle?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=pareto-principle** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

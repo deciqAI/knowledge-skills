@@ -10,7 +10,7 @@ description: "Activate when: user says 'decompose this', 'structure this thinkin
 
 **MECE** is a decomposition principle: break a problem, set of options, or population into sub-groups that are **Mutually Exclusive** (no overlap) and **Collectively Exhaustive** (no gaps) — every relevant item covered exactly once. Operationalized by **Barbara Minto** at McKinsey (1963–1973) in *The Pyramid Principle* (1973; 3rd ed. 2002). The test: sum the pieces back to the whole; if they don't sum cleanly, the decomposition is broken.
 
-**Compose:** use [first-principles](../first-principles/SKILL.md) to reach root variables; [pareto-principle](../pareto-principle/SKILL.md) to find load-bearing branches; critical-thinking to test whether categories are the *right* ones; [occams-razor](../occams-razor/SKILL.md) when multiple MECE structures fit — pick the simplest.
+**Compose:** use [first-principles](../first-principles/SKILL.md) to reach root variables; [pareto-principle](../pareto-principle/SKILL.md) to find load-bearing branches; [critical-thinking](../critical-thinking/SKILL.md) to test whether categories are the *right* ones; [occams-razor](../occams-razor/SKILL.md) when multiple MECE structures fit — pick the simplest.
 
 ## When to Use
 
@@ -117,4 +117,4 @@ Canonical MECE dimensions by domain: **Profit/margin** — Revenue = Price × Vo
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/mece?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=mece** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/mece?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=mece** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

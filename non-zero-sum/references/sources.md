@@ -1,0 +1,11 @@
+# Sources — non-zero-sum
+
+> *Primary sources for the [non-zero-sum](../SKILL.md) skill.*
+
+- **Axelrod, Robert.** *The Evolution of Cooperation.* Basic Books, 1984. **Primary source for the tournament, Tit-for-Tat results, and the conditions for cooperation.** Verbatim Overview quote from ch. 1. https://www.basicbooks.com/titles/robert-axelrod/the-evolution-of-cooperation/9780465021215/
+- **Axelrod, Robert.** "Effective Choice in the Prisoner's Dilemma." *Journal of Conflict Resolution* 24, no. 1 (1980): 3–25. **First academic publication of the tournament results.** https://doi.org/10.1177/002200278002400101
+- **Wright, Robert.** *Nonzero: The Logic of Human Destiny.* Pantheon, 2000. **Primary source for the historical-accumulation thesis.** Verbatim Overview quote from the Introduction. The book extends Axelrod's framework across human history, from hunter-gatherer trade to the emergence of nation-states.
+- **Rapoport, Anatol, and Chammah, Albert M.** *Prisoner's Dilemma: A Study in Conflict and Cooperation.* University of Michigan Press, 1965. **Primary source for the Prisoner's Dilemma framework** on which Axelrod's tournament is built. Documents the payoff structure and early empirical work on cooperation.
+- **Nowak, Martin A., and May, Robert M.** "Evolutionary Games and Spatial Chaos." *Nature* 359 (1992): 826–829. https://doi.org/10.1038/359826a0 — Extends Axelrod's results to spatial structure, showing that cooperation can emerge and persist even when reputation and direct reciprocity are absent, through spatial clustering of cooperators.
+
+**Not cited and why:** Popular descriptions of "win-win thinking" as a personality trait or negotiation attitude (as in Stephen Covey's *7 Habits of Highly Effective People*) are not cited here — this skill grounds non-zero-sum analysis in payoff-structure mathematics and evolutionary stability, not in motivational or attitudinal frameworks. Covey's framing is inspirational; Axelrod's is analytical.

@@ -10,7 +10,7 @@ description: "Activate when: user says 'customers aren't switching to us even th
 
 People don't buy products — they **hire** products to do a job (make progress in a specific circumstance, across functional, emotional, and social dimensions). Customers switch when a new hire does the job better; they churn when your product stops serving the job. Developed by Christensen, Moesta, and Taddy Hall; codified in *Competing Against Luck* (2016). Rooted in Levitt's 1960 insight: "People don't want a quarter-inch drill, they want a quarter-inch hole."
 
-Composes with `pmf-crossing-the-chasm`, [`mvp`](../mvp/SKILL.md), `switching-costs`, [`first-principles`](../first-principles/SKILL.md).
+Composes with [`pmf-crossing-the-chasm`](../pmf-crossing-the-chasm/SKILL.md), [`mvp`](../mvp/SKILL.md), [`switching-costs`](../switching-costs/SKILL.md), [`first-principles`](../first-principles/SKILL.md).
 
 ## When to Use
 
@@ -115,4 +115,4 @@ Implications: Features to build / cut / Marketing angle / Competitive set to tra
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/jobs-to-be-done?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=jobs-to-be-done** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/jobs-to-be-done?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=jobs-to-be-done** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

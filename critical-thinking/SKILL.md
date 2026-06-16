@@ -1,0 +1,119 @@
+---
+name: critical-thinking
+description: "Activate when: user says 'challenge my thinking', 'play devil's advocate', 'what's the strongest counter-argument', 'ACH', 'analysis of competing hypotheses'; user needs to evaluate a high-stakes claim or decision with multiple possible interpretations; user suspects motivated reasoning or a team is converging too fast on one answer.
+  Do NOT activate when: the claim is trivial or already well-validated; the decision is about values rather than facts (use regret-minimization or first-principles instead)."
+---
+
+# Critical Thinking
+
+## Overview
+
+**Critical thinking** evaluates a conclusion by **explicitly testing it against alternative interpretations** — the conclusion that survives the most disconfirmation attempts is the one to act on, not the one with the most confirming examples. Operationalized by **Richards J. Heuer Jr.** (CIA, 1999) as **Analysis of Competing Hypotheses (ACH)**: a matrix marking each evidence-hypothesis pair as Consistent / Inconsistent / N/A. The hypothesis with the **fewest Inconsistencies** wins.
+
+**Compose:** [first-principles](../first-principles/SKILL.md) (surface assumptions) · [probabilistic-thinking](../probabilistic-thinking/SKILL.md) (calibrate evidence) · [inversion](../inversion/SKILL.md) (generate alternatives). Critical thinking = *evaluation*; first-principles = *construction*; occams = *selection*; second-order = *projection*.
+
+## When to Use
+
+- High-stakes claim (yours or someone else's) that needs evaluation
+- Multiple interpretations of the same evidence are possible
+- Motivated reasoning detected — conclusion shaped by what you want to be true
+- Team converging on a hypothesis too fast without seriously considering alternatives
+
+**When NOT to use:** trivial/already-validated claim; only one hypothesis imaginable (use [first-principles](../first-principles/SKILL.md) first); time pressure makes 90-min ACH impossible; values question not a facts question.
+
+## Coaching Novices (Adaptive Front Door)
+
+- **Engine mode:** user has a concrete claim + evidence → run The Process directly.
+- **Coach mode:** user is unfamiliar or has no concrete case → guide step by step.
+In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output only that step's question, then stop.
+1. One-line what-it-is: critical thinking is **testing your conclusion against alternative explanations**, looking for the one with the **fewest unresolved contradictions** — not the most confirming examples.
+2. Check fit against When to Use / When NOT to use. Redirect if trivial or values-only.
+3. Elicit the specific claim under evaluation — "I want to evaluate my thinking" is too vague; need a *specific* claim. > **[WAIT — do not advance until user responds]**
+4. Walk through ACH steps one at a time with their input: list hypotheses → list evidence → score matrix → identify survivor. > **[WAIT — do not advance until user responds]**
+5. Close by naming the most-diagnostic evidence they discovered — the piece that most differentiates hypotheses. > **[WAIT — do not advance until user responds]**
+
+## The Process
+
+Run **Analysis of Competing Hypotheses (ACH)** — Heuer's 8-step procedure.
+1. **Identify hypotheses.** Brainstorm broadly — obvious, contrarian, and 2-3 in between. Generate at least 3 alternatives.
+2. **List significant evidence** for and against each hypothesis — include absence of expected evidence.
+3. **Prepare the matrix**: hypotheses across top, evidence down side. Mark each cell **C / I / N/A**. *Load-bearing step.*
+4. **Refine the matrix.** Remove evidence consistent with all hypotheses (no discriminating value). Focus where hypotheses disagree.
+5. **Draw tentative conclusions.** Count **Inconsistent** marks — the hypothesis with the **fewest I marks** is the survivor.
+6. **Sensitivity analysis.** If the most-important evidence were wrong, would the conclusion change? Identify linchpin assumptions.
+7. **Report conclusions** — alternatives considered, why rejected, and linchpin assumptions explicitly stated.
+8. **Set milestones** for future observation that may indicate events are taking a different course.
+
+### Output: the ACH Matrix
+
+```
+Hypotheses: H1 / H2 / H3 (≥3)
+Evidence: E1, E2, E3 … (include absence of expected evidence)
+Matrix: mark each cell C / I / N/A
+Inconsistencies count: H1=2, H2=3, H3=0 → H3 survives
+Linchpin assumptions: "If E2 were wrong, conclusion flips to H1"
+Alternatives rejected: H1 because E2+E5; H2 because E1+E4
+Milestones: "If X observed by <date>, re-run matrix"
+```
+
+*→ Method in Action: [ACH at the CIA and the Cuban Missile Crisis Pattern (1962 → 1999)](examples/ach-at-the-cia-and-the-cuban-missile-crisis-pattern-1962-1999.md)*
+
+## Analysis Packs
+
+Domain packs (canonical hypotheses, diagnostic evidence, typical bias, matrix conventions):
+- **Intel:** state intentions/capabilities; HUMINT/SIGINT/IMINT; bias = mirror-imaging.
+- **Medical:** differentials; history + labs + imaging; bias = premature closure.
+- **Business/investment:** market thesis alternatives; data + qualitative signals; bias = motivated reasoning.
+- **Engineering:** root-cause candidates; logs + repro steps; bias = fixing the visible symptom layer.
+
+## Applying It Well
+
+- **Alternatives before evidence** — listing evidence first lets your initial hypothesis shape selection.
+- **Fewest Inconsistencies beats most Consistencies** — Heuer's central insight.
+- **Diagnostic evidence > confirmatory** — evidence consistent with all hypotheses doesn't discriminate.
+- **Name linchpin assumptions** — without naming what would change your mind, the analysis is not falsifiable.
+- **Re-run as evidence accumulates** — Cuba 1962 failure was partly about never revisiting NIE 85-3-62.
+
+*→ Primary sources: [references/sources.md](references/sources.md)*
+
+## Common Rationalizations
+
+**[D] = designed upfront | [O] = observed in real use. [O] entries are more valuable.**
+
+| Fake move | Reality |
+|---|---|
+| [D] **Only one hypothesis considered** | The most common failure. If "there aren't any plausible alternatives," generate them via [first-principles](../first-principles/SKILL.md) before continuing. |
+| [D] **Counting Consistent marks** instead of Inconsistent marks | Confirmatory evidence often supports multiple hypotheses; what differentiates is the disconfirming evidence. |
+| [D] **Skipping the matrix** because "I can do this in my head" | The matrix exists *because* unaided reasoning systematically anchors on the first hypothesis. |
+| [D] **Discarding evidence that contradicts the favored hypothesis** | Mark it Inconsistent. Discarding it means the matrix is rigged. |
+| [D] **Confusing absence of evidence with evidence of absence** | If H1 predicts X and you don't see X, that's diagnostic — mark Inconsistent for H1. |
+| [D] **No linchpin assumptions stated** | If you cannot name what would change your conclusion, it is not falsifiable. |
+| [D] **Confirmation bias laundered as "intuition"** | "My intuition says H1" + writing up analysis to confirm H1 is the Sherman Kent 1962 failure mode. |
+| [D] **Motivated reasoning about the cost of being wrong** | Hypotheses implying painful actions are systematically under-weighted. Recognize and over-correct. |
+| [D] **One-shot analysis, never revisited** | New evidence requires re-running. The Cuba failure was partly about not revisiting NIE 85-3-62. |
+| *→ Add [O] entries here after each real use — paste the actual failure pattern* | *What went wrong and why* |
+
+## Red Flags
+
+- Only one hypothesis is being considered
+- "Supporting evidence" accumulated without checking against alternatives
+- Conclusion reached before the analysis (motivated reasoning)
+- No matrix or equivalent structured comparison exists
+- No statement of linchpin assumptions / what would change the conclusion
+- Disconfirming evidence explained away ("yes, but...") rather than entered into the matrix
+- Analysis done once and never revisited as new evidence arrived
+
+## Verification
+
+- [ ] At least 3 hypotheses are explicitly listed
+- [ ] Evidence is enumerated independently of any hypothesis preference
+- [ ] Each evidence-hypothesis pair is marked C / I / N/A
+- [ ] The matrix focuses on Inconsistencies, not Consistencies
+- [ ] Diagnostic evidence (where hypotheses disagree) is highlighted
+- [ ] Surviving hypothesis is the one with fewest Inconsistencies
+- [ ] Linchpin assumptions are explicitly named
+- [ ] Milestones for re-evaluation are set
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/critical-thinking?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=critical-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

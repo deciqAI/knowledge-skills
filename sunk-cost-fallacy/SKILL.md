@@ -7,7 +7,7 @@ description: "Activate when: user says 'we've come too far to quit', 'we can't w
 
 ## Overview
 
-The **sunk-cost fallacy** is the tendency to let prior, irrecoverable investments (money, time, effort, reputation) distort current decisions. Only *marginal future* costs and benefits should drive the next choice — sunk costs are already spent regardless of what you decide next. Composes with `loss-aversion-prospect-theory` (mechanism), `expected-value-and-kelly` (correct rule), [`regret-minimization`](../regret-minimization/SKILL.md), and [`inversion`](../inversion/SKILL.md) (fresh-start test).
+The **sunk-cost fallacy** is the tendency to let prior, irrecoverable investments (money, time, effort, reputation) distort current decisions. Only *marginal future* costs and benefits should drive the next choice — sunk costs are already spent regardless of what you decide next. Composes with [`loss-aversion-prospect-theory`](../loss-aversion-prospect-theory/SKILL.md) (mechanism), [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md) (correct rule), [`regret-minimization`](../regret-minimization/SKILL.md), and [`inversion`](../inversion/SKILL.md) (fresh-start test).
 
 ## When to Use
 
@@ -109,4 +109,4 @@ Structural fix: [kill criteria / stage gate / fresh-eyes / decision-rights separ
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/sunk-cost-fallacy?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=sunk-cost-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/sunk-cost-fallacy?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=sunk-cost-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

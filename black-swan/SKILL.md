@@ -10,7 +10,7 @@ description: "Activate when: user says 'this can't happen,' 'never happened in N
 
 Taleb (2007): a black swan is (1) outside all prior expectations, (2) extreme impact, (3) obvious in hindsight only. Many domains (markets, careers, tech) are **Extremistan** (power-law / fat-tail), yet most models assume **Mediocristan** (Gaussian / thin-tail) — underestimating tail risk by orders of magnitude. The Turkey Problem: 1000 days of feeding creates confidence; day 1001 is Thanksgiving.
 
-Composes with [`antifragile`](../antifragile/SKILL.md), `probabilistic-thinking`, [`inversion`](../inversion/SKILL.md), [`first-principles`](../first-principles/SKILL.md).
+Composes with [`antifragile`](../antifragile/SKILL.md), [`probabilistic-thinking`](../probabilistic-thinking/SKILL.md), [`inversion`](../inversion/SKILL.md), [`first-principles`](../first-principles/SKILL.md).
 
 ## When to Use
 
@@ -117,4 +117,4 @@ Extremistan (fat-tail) domains where Gaussian models consistently fail: stock re
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/black-swan?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=black-swan** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/black-swan?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=black-swan** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

@@ -1,0 +1,10 @@
+# Sources — peak-end-rule
+
+> *Primary sources for the [peak-end-rule](../SKILL.md) skill.*
+
+- **Kahneman, D., Fredrickson, B.L., Schreiber, C.A., & Redelmeier, D.A.** "When More Pain Is Preferred to Less: Adding a Better End." *Psychological Science*, Vol. 4, No. 6 (November 1993), pp. 401–405. **Primary source** for the cold pressor experiment and the original articulation of the peak-end rule. Verbatim quote above from p. 401. https://doi.org/10.1111/j.1467-9280.1993.tb00589.x
+- **Redelmeier, Donald A. & Kahneman, Daniel.** "Patients' Memories of Painful Medical Treatments: Real-Time and Retrospective Evaluations of Two Minimally Invasive Procedures." *Pain*, Vol. 66, Nos. 1–2 (July 1996), pp. 3–8. **Primary source** for the colonoscopy study and the clinical application. https://doi.org/10.1016/0304-3959(96)02994-6
+- **Kahneman, Daniel.** *Thinking, Fast and Slow.* Farrar, Straus and Giroux, 2011. Chapter 35 gives the most accessible full account of the experiencing self / remembering self framework and the peak-end rule's place within it.
+- **Fredrickson, Barbara L. & Kahneman, Daniel.** "Duration Neglect in Retrospective Evaluations of Affective Episodes." *Journal of Personality and Social Psychology*, Vol. 65, No. 1 (July 1993), pp. 45–55. The companion study establishing duration neglect as a robust finding across multiple positive-experience paradigms. https://doi.org/10.1037/0022-3514.65.1.45
+- **Do, Amy M., Rupert, Alexander V., & Wolford, George.** "Evaluations of Pleasurable Experiences: The Peak-End Rule." *Psychonomic Bulletin & Review*, Vol. 15, No. 1 (February 2008), pp. 96–98. Replication extending the peak-end rule to positive experiences (vacation slide shows). https://doi.org/10.3758/PBR.15.1.96
+- **Not cited as evidence:** Disney design anecdotes ("first and last impression") circulate widely online without primary-source documentation of effect sizes. They are illustrative, not evidence of effect magnitude. Use the Redelmeier-Kahneman and Fredrickson-Kahneman studies for calibration, not park management folklore.

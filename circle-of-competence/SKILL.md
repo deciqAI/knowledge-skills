@@ -11,7 +11,7 @@ Every decision-maker has a domain where judgments are reliable (inside the circl
 
 Canonical source: Buffett (1996) — "The size of that circle is not very important; knowing its boundaries, however, is vital."
 
-Composes with `dunning-kruger` (cognitive mechanism the circle counters), `metacognition` (self-monitoring the circle relies on), [`first-principles`](../first-principles/SKILL.md) (only reliable inside the circle), [`opportunity-cost`](../opportunity-cost/SKILL.md) (refusal has a real cost — measure it), `probabilistic-thinking` (calibration training establishes the boundary).
+Composes with [`dunning-kruger`](../dunning-kruger/SKILL.md) (cognitive mechanism the circle counters), [`metacognition`](../metacognition/SKILL.md) (self-monitoring the circle relies on), [`first-principles`](../first-principles/SKILL.md) (only reliable inside the circle), [`opportunity-cost`](../opportunity-cost/SKILL.md) (refusal has a real cost — measure it), [`probabilistic-thinking`](../probabilistic-thinking/SKILL.md) (calibration training establishes the boundary).
 
 ## When to Use
 
@@ -93,7 +93,7 @@ Decision & rationale: | Re-evaluation date:
 |---|---|
 | [D] "How hard could it be?" | Reliably correlated with being outside the circle — use it as a red flag. |
 | [D] "I learn fast" | Learning fast still takes 12-36 months of structured feedback; it doesn't make tomorrow's decision reliable. |
-| [D] "I've read a lot about it" | Reading is exposure, not competence. Self-assessment after reading is consistently inflated (see `dunning-kruger`). |
+| [D] "I've read a lot about it" | Reading is exposure, not competence. Self-assessment after reading is consistently inflated (see [`dunning-kruger`](../dunning-kruger/SKILL.md)). |
 | [D] "Everyone is doing this; if I don't I'll miss out" | FOMO is exactly when circle discipline is most valuable. Booms produce concentrated losses for those acting outside their circle. |
 | [D] "I have a great gut for this" | Without calibration data, gut feel in a novel domain is uncalibrated. |
 | [D] "I'll figure it out as I go" | For consequential decisions, this is the empirical signature of operating outside the circle without acknowledging it. |
@@ -117,4 +117,4 @@ Decision & rationale: | Re-evaluation date:
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/circle-of-competence?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=circle-of-competence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/circle-of-competence?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=circle-of-competence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

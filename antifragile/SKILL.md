@@ -14,7 +14,7 @@ Nassim Nicholas Taleb (2012) identified a third response to stress beyond fragil
 - **Robust:** linear — unchanged by stress. (Physical infrastructure, traditional skills.)
 - **Antifragile:** convex — improves under stress. (Evolution, the immune system, the restaurant industry as a whole.)
 
-Core warning: **most modern complex systems are hidden-fragile** — stable only because the tail event hasn't arrived yet. Composes with [`inversion`](../inversion/SKILL.md), [`black-swan`](../black-swan/SKILL.md), `expected-value-and-kelly`, `feedback-loops`.
+Core warning: **most modern complex systems are hidden-fragile** — stable only because the tail event hasn't arrived yet. Composes with [`inversion`](../inversion/SKILL.md), [`black-swan`](../black-swan/SKILL.md), [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md), [`feedback-loops`](../feedback-loops/SKILL.md).
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Core warning: **most modern complex systems are hidden-fragile** — stable only
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/antifragile?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=antifragile** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/antifragile?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=antifragile** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

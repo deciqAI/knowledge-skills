@@ -1,0 +1,11 @@
+# Sources — shi-momentum
+
+> *Primary sources for the [shi-momentum](../SKILL.md) skill.*
+
+1. **Sun Tzu** (c. 500 BC). *The Art of War* (孙子兵法), Chapter 5 — "兵势" (Military Momentum). Chinese text: https://ctext.org/art-of-war/army-on-the-march. Verbatim passage (Giles translation, 1910, adapted): "The momentum of one skilled in war is overwhelming, and his attack precisely regulated. His potential is that of a fully drawn crossbow; his timing, the release of the trigger." (势如弩，节如发机). This passage establishes 势 as a combination of accumulated potential (the drawn crossbow) and precise timing (the trigger release) — the two dimensions the five-phase model operationalizes.
+
+2. **Jullien, François** (2004). *A Treatise on Efficacy: Between Western and Chinese Thinking*. University of Hawaii Press. (Original French: *Traité de l'efficacité*, 1996). https://www.uhpress.hawaii.edu/title/a-treatise-on-efficacy/. Verbatim: "Efficacy in China... does not derive from a model projected ideally onto the real world. It comes instead from the capacity to exploit the 'potential inherent in the situation'... 势 (shì) refers to the propensity of things — the way in which a situation naturally tends to evolve." This is the primary Western scholarly analysis of 势 as distinct from Western notions of "power" or "force."
+
+3. **Bezos, Jeff** (1997). *Letter to Shareholders*, Amazon Annual Report. U.S. Securities and Exchange Commission EDGAR filing: https://www.sec.gov/Archives/edgar/data/1018724/0000950130-97-001298.txt. Verbatim: "We will continue to make investment decisions in light of long-term market leadership considerations rather than short-term profitability considerations or short-term Wall Street reactions." This documents Amazon's 得势 discipline — the explicit choice to pursue phase-appropriate activity over investor pressure.
+
+**What is NOT cited and why:** The Mencius aphorism "虽有智慧，不如乘势" is widely attributed to Mencius (*Mengzi*, c. 300 BC) but the exact phrasing varies across translations and the original classical Chinese phrasing is "虽有智慧，不如乘势" from Mengzi Gong Sun Chou I — because the exact scholarly edition and translator vary, it is referenced as a source aphorism rather than formally cited. Readers should consult the Chinese Text Project: https://ctext.org/mengzi/gong-sun-chou-i for the primary text.

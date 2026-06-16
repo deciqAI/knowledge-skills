@@ -10,7 +10,7 @@ description: "Activate when: user asks 'does this business have a moat', 'what s
 
 An **economic moat** is the durable, structural competitive advantage that protects a business's returns on capital from being competed away. Popularized by Warren Buffett (1986 Berkshire letter); codified into five sources: intangible assets, switching costs, network effects, cost advantages, efficient scale. Greenwald's test: if you cannot name a specific mechanism that would cost a well-funded rival years and tens of millions to overcome, you have execution — not a moat.
 
-Composes with [`network-effects`](../network-effects/SKILL.md) and `switching-costs` (two moat sources, deeper treatment), [`porters-five-forces`](../porters-five-forces/SKILL.md) (industry-level; moat is company-level), [`margin-of-safety`](../margin-of-safety/SKILL.md) (wide moat × discount price = Buffett formula), `lindy-effect` (long survivors demonstrate moat durability).
+Composes with [`network-effects`](../network-effects/SKILL.md) and [`switching-costs`](../switching-costs/SKILL.md) (two moat sources, deeper treatment), [`porters-five-forces`](../porters-five-forces/SKILL.md) (industry-level; moat is company-level), [`margin-of-safety`](../margin-of-safety/SKILL.md) (wide moat × discount price = Buffett formula), [`lindy-effect`](../lindy-effect/SKILL.md) (long survivors demonstrate moat durability).
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Assessment: width / primary source(s) / duration / operational implication
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/economic-moat?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=economic-moat** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/economic-moat?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=economic-moat** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

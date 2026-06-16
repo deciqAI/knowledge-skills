@@ -12,7 +12,7 @@ description: "Activate when: user asks how much buffer to build into a budget, t
 
 The unifying insight: **point estimates are systematically optimistic.** Margin of safety is the structural discipline that survives that optimism.
 
-Composes with [`antifragile`](../antifragile/SKILL.md) (margin = bounded-downside half), [`black-swan`](../black-swan/SKILL.md) (margin is what survives the tail you didn't predict), `expected-value-and-kelly` (margin sizing relates to Kelly fractional-betting), and [`first-principles`](../first-principles/SKILL.md) (audit the estimate first; then apply margin).
+Composes with [`antifragile`](../antifragile/SKILL.md) (margin = bounded-downside half), [`black-swan`](../black-swan/SKILL.md) (margin is what survives the tail you didn't predict), [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md) (margin sizing relates to Kelly fractional-betting), and [`first-principles`](../first-principles/SKILL.md) (audit the estimate first; then apply margin).
 
 ## When to Use
 
@@ -117,4 +117,4 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/margin-of-safety?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=margin-of-safety** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/margin-of-safety?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=margin-of-safety** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

@@ -1,0 +1,11 @@
+# Sources — strategic-commitment
+
+> *Primary sources for the [strategic-commitment](../SKILL.md) skill.*
+
+- Schelling, T.C. (1960). *The Strategy of Conflict.* Harvard University Press. The canonical source. Chapter 2 ("An Essay on Bargaining") and Chapter 3 contain the core commitment theory; the Cuba Missile Crisis analysis is in Chapter 8. https://www.hup.harvard.edu/books/9780674840317
+- Dixit, A. & Nalebuff, B. (1991). *Thinking Strategically.* W.W. Norton. The standard business-facing treatment; Chapter 6 covers commitment and credibility with extensive case studies. "Credibility is the key to making threats work." ISBN 978-0393310351.
+- Selten, R. (1975). "Reexamination of the Perfectness Concept for Equilibrium Points in Extensive Games." *International Journal of Game Theory*, 4(1), pp. 25–55. The formal game-theoretic basis: subgame perfect equilibrium eliminates non-credible threats from equilibrium strategies — commitment devices work by changing which equilibria are subgame perfect. https://doi.org/10.1007/BF01766400
+- Kreps, D.M. & Wilson, R. (1982). "Reputation and Imperfect Information." *Journal of Economic Theory*, 27(2), pp. 253–279. The mathematical basis for reputation-based commitment in repeated games; shows how even a small probability of being a "tough" type can sustain commitment across many interactions. https://doi.org/10.1016/0022-0531(82)90030-8
+- Nobel Prize Committee (2005). "Scientific Background: Thomas C. Schelling and Robert J. Aumann." The Royal Swedish Academy of Sciences. Documents the theoretical contributions recognized by the Nobel Prize, including the commitment and credibility framework. https://www.nobelprize.org/prizes/economic-sciences/2005/advanced-information/
+
+**What is not cited and why:** The phrases "burn your bridges" and "cutting off retreat" appear in many popular strategy texts but are attributed to historical figures (Cortes, Xiang Yu) without primary-source documentation sufficient to verify the specific strategic intent described. This skill uses the mathematically grounded commitment theory from Schelling and the game-theoretic formalization from Selten as its analytical foundation, not historical parables.

@@ -10,7 +10,7 @@ description: "Activate when: user says 'let's check what could go wrong before w
 
 Before committing to a plan, the team imagines that plan has already failed catastrophically, then works backward to enumerate causes. The retrospective frame ("it failed — what caused it?") surfaces risks the prospective frame ("what could go wrong?") systematically misses. Gary Klein operationalized this in *HBR* (2007), grounded in Mitchell-Russo-Pennington (1989) showing prospective hindsight increases correct failure-mode identification by 30%.
 
-Composes with [`inversion`](../inversion/SKILL.md) (premortem is inversion made operational), [`confirmation-bias`](../confirmation-bias/SKILL.md) (structural counter), `hindsight-bias` (leveraged as a feature), and `critical-thinking`.
+Composes with [`inversion`](../inversion/SKILL.md) (premortem is inversion made operational), [`confirmation-bias`](../confirmation-bias/SKILL.md) (structural counter), [`hindsight-bias`](../hindsight-bias/SKILL.md) (leveraged as a feature), and [`critical-thinking`](../critical-thinking/SKILL.md).
 
 ## When to Use
 
@@ -117,4 +117,4 @@ Re-premortem date:
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/premortem?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=premortem** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/premortem?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=premortem** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

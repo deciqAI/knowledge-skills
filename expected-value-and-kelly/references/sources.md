@@ -1,0 +1,11 @@
+# Sources — expected-value-and-kelly
+
+> *Primary sources for the [expected-value-and-kelly](../SKILL.md) skill.*
+
+- **Kelly, J. L., Jr.** "A New Interpretation of Information Rate." *Bell System Technical Journal*, Vol. 35, No. 4 (July 1956), pp. 917–926. **The primary source for the Kelly formula and its proof.** https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf
+- **Thorp, Edward O.** *Beat the Dealer: A Winning Strategy for the Game of Twenty-One*. Random House, 1962 (2nd ed. Vintage, 1966). **Primary source** for the first practical application of Kelly to a positive-edge real-world bet (blackjack card-counting).
+- **Thorp, Edward O.** "The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market." Paper for the 10th International Conference on Gambling and Risk Taking, Montreal, 1997. The clearest concise summary by Thorp himself; covers the fractional-Kelly trade-off. https://www.eecs.harvard.edu/cs286r/courses/fall12/papers/Thorpe_KellyCriterion2007.pdf
+- **Thorp, Edward O.** *A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market*. Random House, 2017. Autobiography; primary source on the Princeton-Newport years and Thorp's evolution from blackjack to markets.
+- **Bernoulli, Daniel.** "Exposition of a New Theory on the Measurement of Risk." Commentarii Academiae Scientiarum Imperialis Petropolitanae, Tomus V (St. Petersburg, 1738). English translation by Louise Sommer in *Econometrica*, Vol. 22, No. 1 (January 1954), pp. 23–36. **Primary source** for the utility-versus-EV distinction.
+- **Poundstone, William.** *Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*. Hill & Wang, 2005. The popular history; useful as a secondary reference and for the Bell Labs / Shannon / Kelly intellectual lineage.
+- The popular framing "the house always wins" is **not** cited here as a source — by this skill's own rule, an aphorism is not evidence. The Kelly criterion is precisely the formula for *the conditions under which the house does not always win* — when the player has a measurable positive edge.

@@ -11,7 +11,7 @@ description: "Activate when: user says 'we keep finding evidence that supports o
 
 The canonical proof: Wason's 1960 "2-4-6 task" showed ~80% of subjects (including PhD scientists) confidently announced a wrong rule after testing only sequences they expected to confirm — never proposing a sequence designed to refute the hypothesis.
 
-Composes with `critical-thinking`, [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md), `abductive-reasoning`, and `metacognition`.
+Composes with [`critical-thinking`](../critical-thinking/SKILL.md), [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md), [`abductive-reasoning`](../abductive-reasoning/SKILL.md), and [`metacognition`](../metacognition/SKILL.md).
 
 ## When to Use
 
@@ -104,4 +104,4 @@ Update conditions: trigger / re-examination date:
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/confirmation-bias?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=confirmation-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/confirmation-bias?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=confirmation-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

@@ -1,0 +1,11 @@
+# Sources — feedback-loops
+
+> *Primary sources for the [feedback-loops](../SKILL.md) skill.*
+
+- Forrester, J. W. (1961). *Industrial Dynamics*. MIT Press. The founding text of system dynamics; introduces the formal apparatus for modeling stocks, flows, and feedback loops in organizational and economic systems. ISBN 978-0915299881.
+- Sterman, J. D. (1989). "Modeling Managerial Behavior: Misperceptions of Feedback in a Dynamic Decision Making Experiment." *Management Science*, 35(3), 321–339. The first quantitative experimental measurement of the Beer Distribution Game: supply-line underweighting parameter of 0.34, bullwhip amplification from 23 (retailer) to 40 (factory) cases peak, and the demonstration that the dysfunction is structural rather than cognitive. https://doi.org/10.1287/mnsc.35.3.321
+- Sterman, J. D. (2000). *Business Dynamics: Systems Thinking and Modeling for a Complex World*. Irwin/McGraw-Hill. The comprehensive modern reference; includes detailed treatment of the Beer Game and dozens of other case studies. ISBN 978-0072389159.
+- Lee, H. L., Padmanabhan, V., & Whang, S. (1997). "Information Distortion in a Supply Chain: The Bullwhip Effect." *Management Science*, 43(4), 546–558. The canonical analysis of the bullwhip effect in real supply chains and the four operational sources: demand-signal processing, order batching, price fluctuation, and rationing/shortage gaming. https://doi.org/10.1287/mnsc.43.4.546
+- Meadows, D. H. (1999). *Leverage Points: Places to Intervene in a System*. Sustainability Institute. The famous list of twelve leverage points, ranked from least to most powerful: parameters, buffers, structures, delays, balancing loops, reinforcing loops, information flows, rules, self-organization, goals, paradigms, transcendence. https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/
+- Meadows, D. H. (2008, posthumous). *Thinking in Systems: A Primer*. Edited by D. Wright. Chelsea Green Publishing. The most accessible introduction to systems thinking and feedback-loop analysis. ISBN 978-1603580557.
+- Senge, P. M. (1990). *The Fifth Discipline: The Art and Practice of the Learning Organization*. Doubleday. Popularized systems thinking in management; chapter 3 introduces the Beer Distribution Game to a general management audience. ISBN 978-0385517256.

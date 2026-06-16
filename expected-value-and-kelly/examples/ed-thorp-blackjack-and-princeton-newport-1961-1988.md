@@ -1,0 +1,28 @@
+# Method in Action: Ed Thorp, Blackjack, and Princeton-Newport (1961 → 1988)
+
+> *Example for the [expected-value-and-kelly](../SKILL.md) skill.*
+
+A worked example. Not a casino fable — primary-source documented, including the Bell Labs origin.
+
+In 1960, **Ed Thorp**, a young mathematics professor at MIT, was reading Baldwin et al.'s 1956 paper on basic-strategy blackjack and realized something the casino-gambling literature had missed: because cards in blackjack are drawn *without replacement* from a finite deck, the composition of the remaining deck shifts the player's edge from hand to hand. A player who **tracks** the cards already played (a "counter") sees a small but real positive edge on certain deck compositions — typically when the remaining deck is rich in tens and aces.
+
+Thorp's contribution had two parts. First, he proved the math: a counting system (his "Ten-Count," later refined to the "High-Low" by Harvey Dubner) yields an average edge of roughly **+1% over the house** when applied disciplinedly. Second — and this is what most blackjack popularizers miss — he applied **Kelly sizing** to the bet: vary the wager up and down with the count, betting more when the count favored the player and the minimum when it didn't.
+
+To prove it in the field, Thorp went to Las Vegas and Reno casinos in spring 1961, funded by **Manny Kimmel**, a New York businessman with $10,000 in seed capital. Over a series of trips, they confirmed the math at the tables. The result was published in **Thorp's 1962 book *Beat the Dealer*** (Random House) — a primary source for everything in this Method-in-Action section. The casinos' second-order response was rapid: they changed rules, introduced multiple decks and shoe shuffles, and trained dealers to spot counters. Within a few years, Thorp's specific edge in single-deck games had been engineered out of most casinos.
+
+But the *framework* — combine a measurable edge with disciplined Kelly sizing across a repeated series of independent bets — translated. In 1969, Thorp co-founded **Princeton-Newport Partners**, one of the first quantitative hedge funds. The fund's strategy was convertible-bond arbitrage, statistical arbitrage, and other measurable-edge market trades, sized using Kelly principles (Thorp typically used a fractional Kelly given the higher estimation uncertainty in markets vs. casinos). **From 1969 to 1988, the fund returned 19.1% annually before fees with no down year** (Thorp, *A Man for All Markets*, 2017, ch. 14). The Princeton-Newport partnership ended for unrelated legal reasons in 1988.
+
+Walk through the EV-Kelly Sizing on Thorp's blackjack case:
+
+- **Repeatability (Step 1):** Tens of thousands of hands per casino trip. Strongly repeated. ✓
+- **Bet map (Step 2):** Per hand at a favorable count, win probability *p ≈ 0.505*, loss *q ≈ 0.495* (the +1% edge); payoff approximately 1:1 (with some variance from doubles, splits, blackjack 3:2).
+- **EV (Step 3):** ≈ +0.01 per unit staked. *Positive but small.*
+- **Edge gate (Step 4):** Positive. Proceed.
+- **Estimation uncertainty (Step 5):** In 1961, with a measurable card-counting system and verifiable math, this was as close to **casino-grade certainty** as bets get. Estimation uncertainty was unusually low (one of the few real-world cases where near-full Kelly is defensible).
+- **Kelly fraction (Step 6):** With *p = 0.505, q = 0.495, b = 1*: f\* = (1 × 0.505 − 0.495) / 1 = **0.01 = 1% of bankroll per hand at a favorable count**. (Thorp varied the bet *up* to roughly this level at the highest-positive counts and dropped to the table minimum at negative counts.)
+- **Fractional Kelly (Step 7):** Because the edge math was unusually well-measured, Thorp used closer to full Kelly than is typical for market trades. In later markets work at Princeton-Newport, he scaled to fractional Kelly given larger estimation uncertainty.
+- **Stop trigger (Step 8):** Casino rule changes (multiple decks, frequent shuffles) — *the casinos' second-order response* — eventually made the edge structure obsolete in most venues. Thorp re-estimated repeatedly and pivoted out.
+
+The inversion-style lesson Thorp himself emphasized later: **the most expensive mistake in EV-Kelly is using full Kelly with an estimated edge.** Half-Kelly costs roughly 25% of growth rate but cuts variance and ruin risk by far more (Thorp 1997 conference paper, §4).
+
+**Sources:** Kelly, J. L. **"A New Interpretation of Information Rate."** *Bell System Technical Journal*, Vol. 35, No. 4 (July 1956), pp. 917–926 — the primary source for the formula and its derivation. https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf . Thorp, Edward O. ***Beat the Dealer: A Winning Strategy for the Game of Twenty-One*** (Random House, 1962; 2nd ed. Vintage 1966) — primary source for the blackjack application. Thorp, Edward O. **"The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market."** Paper for the 10th International Conference on Gambling and Risk Taking, Montreal, 1997 — the clearest concise summary by Thorp himself. https://www.eecs.harvard.edu/cs286r/courses/fall12/papers/Thorpe_KellyCriterion2007.pdf . Thorp, Edward O. ***A Man for All Markets*** (Random House, 2017) — autobiography; primary source for the Princeton-Newport years. Bernoulli, Daniel. **"Exposition of a New Theory on the Measurement of Risk"** (St. Petersburg, 1738; English tr. Louise Sommer, *Econometrica*, Vol. 22, No. 1, January 1954, pp. 23–36) — primary source for the utility-vs-EV distinction. Poundstone, William. ***Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street*** (Hill & Wang, 2005) — the popular history of Kelly + Thorp, useful as a secondary reference.

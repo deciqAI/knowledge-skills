@@ -10,7 +10,7 @@ description: "Activate when: someone says 'let's just remove this', 'why do we s
 
 Before removing a rule, process, code path, or institution — you must understand why it was put there. Only when you can articulate the original purpose are you qualified to decide whether it still applies. Three components: (1) "I can't see the purpose" is evidence about you, not the fence; (2) investigation is mandatory, not optional; (3) demonstrated understanding is the prerequisite for change.
 
-Composes with `survivorship-bias`, [`second-order-thinking`](../second-order-thinking/SKILL.md), `feedback-loops`, [`first-principles`](../first-principles/SKILL.md).
+Composes with [`survivorship-bias`](../survivorship-bias/SKILL.md), [`second-order-thinking`](../second-order-thinking/SKILL.md), [`feedback-loops`](../feedback-loops/SKILL.md), [`first-principles`](../first-principles/SKILL.md).
 
 ## When to Use
 
@@ -116,4 +116,4 @@ Docs: updated fence docs / removal note / monitoring owner + rebuild criteria
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/chestertons-fence?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=chestertons-fence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/chestertons-fence?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=chestertons-fence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

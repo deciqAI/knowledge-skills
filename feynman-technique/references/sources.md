@@ -1,0 +1,11 @@
+# Sources — feynman-technique
+
+> *Primary sources for the [feynman-technique](../SKILL.md) skill.*
+
+- **Feynman, Richard P.** *"Surely You're Joking, Mr. Feynman!": Adventures of a Curious Character.* W.W. Norton, 1985. **Primary source for the epistemic principle.** The verbatim Overview quote is from "Cargo Cult Science" (Caltech commencement address, 1974, reprinted in this volume). https://archive.org/details/surelyyourejoki00feyn
+- **Feynman, Richard P.** *"What Do You Care What Other People Think?": Further Adventures of a Curious Character.* W.W. Norton, 1988. **Primary source for the Challenger O-ring investigation and the plain-explanation standard in practice.** "Appendix F: Personal Observations on the Reliability of the Shuttle" contains Feynman's complete technical findings.
+- **Feynman, Richard P., Leighton, Robert B., and Sands, Matthew.** *The Feynman Lectures on Physics.* Addison-Wesley, 1963–1965. Now freely available online at https://www.feynmanlectures.caltech.edu/ — the foundational text demonstrating the plain-explanation standard applied to all of physics.
+- **Presidential Commission on the Space Shuttle Challenger Accident (Rogers Commission).** *Report to the President, Volume II.* U.S. Government Printing Office, 1986. **Primary source for the Challenger investigation.** Feynman's Appendix F is available at https://science.ksc.nasa.gov/shuttle/missions/51-l/docs/rogers-commission/Appendix-F.txt
+- **Gleick, James.** *Genius: The Life and Science of Richard Feynman.* Pantheon, 1992. Primary biographical source corroborating Feynman's teaching and understanding methodology across multiple independent accounts.
+
+**Not cited and why:** The "Feynman Technique" as a branded four-step method is a later formalization by education content creators (most commonly attributed to Scott Young's popularization) drawing on Feynman's stated practice. The steps are consistent with Feynman's documented approach but the specific four-step framing is not in Feynman's own writings — it is used here as a practical scaffold, not as a Feynman original text.
