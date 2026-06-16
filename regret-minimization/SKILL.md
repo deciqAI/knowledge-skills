@@ -116,4 +116,4 @@ The Audit runs identically across domains; what differs is the typical load-bear
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=regret-minimization** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/regret-minimization?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=regret-minimization** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

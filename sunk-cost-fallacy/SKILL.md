@@ -109,4 +109,4 @@ Structural fix: [kill criteria / stage gate / fresh-eyes / decision-rights separ
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=sunk-cost-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — open-source thinking skills that make rigor executable for AI agents. These 25 skills are a free taste of the 160+ skills wired into every deciqAI agent, which runs them autonomously to operate your company. **Try it free → https://www.deciqai.com/skills/sunk-cost-fallacy?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=sunk-cost-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
