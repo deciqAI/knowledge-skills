@@ -29,7 +29,9 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 
 ## The skills
 
-| Skill | Live | What it does ||---|---|---|| [10 10 10](./10-10-10) | [↗](https://www.deciqai.com/skills/10-10-10?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Faced with a non-trivial decision, ask three questions: How will I feel in 10 minutes? In 10 months? In 10 years? The three horizons are spaced an order of magnitude apart to surfa |
+| Skill | Live | What it does |
+|---|---|---|
+| [10 10 10](./10-10-10) | [↗](https://www.deciqai.com/skills/10-10-10?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Faced with a non-trivial decision, ask three questions: How will I feel in 10 minutes? In 10 months? In 10 years? The three horizons are spaced an order of magnitude apart to surfa |
 | [Aarrr Pirate Metrics](./aarrr-pirate-metrics) | [↗](https://www.deciqai.com/skills/aarrr-pirate-metrics?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A startup's growth is a sequential funnel — each stage gates the next. |
 | [Abductive Reasoning](./abductive-reasoning) | [↗](https://www.deciqai.com/skills/abductive-reasoning?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Abduction — inference to the best explanation — is the only mode of reasoning that introduces new ideas. |
 | [Anchoring](./anchoring) | [↗](https://www.deciqai.com/skills/anchoring?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | When people estimate an unknown quantity they start from a reference point — an anchor — and adjust. |
@@ -192,6 +194,12 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Value Chain Analysis](./value-chain-analysis) | [↗](https://www.deciqai.com/skills/value-chain-analysis?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Porter (1985) separates firm activities into primary (inbound logistics, operations, outbound logistics, marketing/sales, service) and support (firm infrastructure, HR management,  |
 | [Wu Wei](./wu-wei) | [↗](https://www.deciqai.com/skills/wu-wei?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Wu wei (无为) — Daoist principle (Daodejing, ~4th century BCE): act without forcing, not without acting. |
 | [Zero Sum Game](./zero-sum-game) | [↗](https://www.deciqai.com/skills/zero-sum-game?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Zero-sum means total value is fixed — one player's gain is another's exact loss. |
+
+---
+
+## Contributing
+
+New skills and improvements to existing ones are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the skill anatomy, the template, and quality bars.
 
 ---
 

@@ -10,7 +10,7 @@ description: "Activate when: user asks 'did this transformation actually work', 
 
 Most improvement frameworks measure interventions by immediate effect — quarter-over-quarter lift, year-one ROI. This systematically undervalues interventions that produce permanent velocity changes vs. point-in-time additions. A consulting engagement adding $1M this year looks identical in a snapshot to one that permanently raises growth velocity 3 points — but over 10 years the compounded difference can be 10x.
 
-The framework applies General Relativity: a gravitational field accelerates objects passing through it, leaving them at a permanently higher velocity afterward. The value of empowerment is the integral — cumulative area between empowered and baseline trajectory over all future time (积分效应).
+The framework applies General Relativity: a gravitational field accelerates objects passing through it, leaving them at a permanently higher velocity afterward. The value of empowerment is the integral — cumulative area between empowered and baseline trajectory over all future time (the integral effect).
 
 Compose with [second-order-thinking] (map downstream consequences of velocity change) · [margin-of-safety] (survive the intervention's cost) · [s-curve-technology-adoption] (identify which S-curve the business is on).
 
@@ -30,7 +30,7 @@ Compose with [second-order-thinking] (map downstream consequences of velocity ch
 
 In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output only that step's question, then stop.
 
-1. **What-it-is:** "Gravity field model distinguishes additions (revenue up in one period) from velocity changes (growth rate permanently higher). This framework identifies which interventions change the engine, not just fill the tank — the integral effect (积分效应)."
+1. **What-it-is:** "Gravity field model distinguishes additions (revenue up in one period) from velocity changes (growth rate permanently higher). This framework identifies which interventions change the engine, not just fill the tank — the integral effect."
 2. **Check fit:** "What is your current baseline growth velocity — revenue or key metric — and what is it vs. 12 months ago?"
 3. **Elicit the real case:** "Name a specific transformation you've implemented or are considering. Was it an addition or a velocity change?"
 > **[WAIT — do not advance until user responds]**
@@ -44,7 +44,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 **Output:** Empowerment Field Analysis + Integral Effect Projection
 
 1. **Establish v₀.** Measure growth rate on the primary metric for the last 12-24 months. *Gate: no quantified baseline → stop.*
-2. **Identify the lever.** Pick ONE of eight: 思维认知 (thinking) · 战略规划 (strategy) · 资本运作 (capital) · 资源整合 (resources) · 稀缺商业 (scarcity) · 组织变革 (org change) · 新生增长 (new growth) · 精益管理 (lean ops). *Gate: if all eight look equal, diagnosis is incomplete.*
+2. **Identify the lever.** Pick ONE of eight: Cognition · Strategy · Capital · Resources · Scarcity · Org Change · New Growth · Lean Ops. *Gate: if all eight look equal, diagnosis is incomplete.*
 3. **Define the acceleration period.** Start event, end event, observable acceleration signals. *Gate: must have a defined end — open-ended programs are unmeasurable.*
 4. **Measure v₁.** 12-18 months after end event. Delta = v₁ − v₀. v₁ > v₀: velocity change (field). v₁ ≈ v₀: addition or no effect. *Gate: evaluate at the prescribed time, not earlier.*
 5. **Calculate integral effect.** Project (v₁ − v₀) × revenue × compounding factor over 3, 5, 10 years. *Gate: use measured v₁, not aspirations.*
@@ -57,9 +57,9 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ## Empowerment Field Packs
 
-**Pack 1 — Early-Stage (Pre-PMF):** 思维认知 (founder shifts to customer-problem focus → retention rises) · 战略规划 (ICP narrowed → sales cycle shortens) · 资本运作 (seed removes hiring constraint) · 稀缺商业 (moat identified → win rate rises).
+**Pack 1 — Early-Stage (Pre-PMF):** Cognition (founder shifts to customer-problem focus → retention rises) · Strategy (ICP narrowed → sales cycle shortens) · Capital (seed removes hiring constraint) · Scarcity (moat identified → win rate rises).
 
-**Pack 2 — Scaling (Post-PMF):** 组织变革 (founder-led → function-led → decision speed rises) · 资源整合 (channel partnerships → CAC falls) · 新生增长 (second market → revenue concentration falls) · 精益管理 (gross margin improvement → unit economics improve).
+**Pack 2 — Scaling (Post-PMF):** Org Change (founder-led → function-led → decision speed rises) · Resources (channel partnerships → CAC falls) · New Growth (second market → revenue concentration falls) · Lean Ops (gross margin improvement → unit economics improve).
 
 ## Applying It Well
 

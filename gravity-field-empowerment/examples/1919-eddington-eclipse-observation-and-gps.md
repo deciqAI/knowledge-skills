@@ -15,11 +15,11 @@ The Eddington eclipse observation of 1919 provides the most literal historical e
 
 **The integral effect — GPS:** The compounded integral effect of the 1919 empowerment event is visible today in the Global Positioning System. Without relativistic corrections (which account for both special and general relativistic effects), GPS satellites would accumulate position errors of approximately 10 kilometers per day. Every GPS-dependent system in the world — navigation, logistics, financial time-stamping, mobile networks — depends on the permanent velocity change created by the 1919 empowerment event.
 
-The intervention's cost: two scientific expeditions. The integral effect: the navigational infrastructure of the modern global economy. This is the 积分效应 at planetary scale.
+The intervention's cost: two scientific expeditions. The integral effect: the navigational infrastructure of the modern global economy. This is the integral effect at planetary scale.
 
 The mapped steps:
 1. Baseline velocity: Newtonian navigation, measurable error rates
-2. Empowerment lever: 思维认知 (thinking/cognition) — a new conceptual framework replacing the Newtonian model
+2. Empowerment lever: Cognition — a new conceptual framework replacing the Newtonian model
 3. Acceleration period: 1916-1919 (development and empirical confirmation of General Relativity)
 4. Velocity delta: measurable improvement in navigational accuracy, permanently higher
 5. Integral effect: GPS and all derivative systems
