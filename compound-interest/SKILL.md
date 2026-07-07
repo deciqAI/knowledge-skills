@@ -68,7 +68,7 @@ Options: A vs. B / recommended
 Generalization: other dynamics / decay risks / commitments
 ```
 
-*→ Method in Action: [Bernoulli 1683, Graham/Buffett, and the Compound-Advantage Tradition](examples/bernoulli-1683-graham-buffett.md)*
+*→ Method in Action: [Bernoulli 1683, Graham/Buffett, and the Compound-Advantage Tradition](examples/bernoulli-1683-graham-buffett.md) · [Franklin's Two-Hundred-Year Trusts](examples/franklin-1790-two-hundred-year-trusts.md)*
 
 ## Pack: Compound Interest Application Patterns
 

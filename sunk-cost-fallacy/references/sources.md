@@ -13,3 +13,5 @@
 - Cooper, R. G. (1990). "Stage-gate systems: A new tool for managing new products." *Business Horizons*, 33(3), 44-54.
 - Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. ISBN 978-0374275631.
 - Thaler, R. H. (2015). *Misbehaving: The Making of Behavioral Economics.* W. W. Norton. ISBN 978-0393080940.
+- Dawkins, R., & Carlisle, T. R. (1976). "Parental investment, mate desertion and a fallacy." *Nature*, 262, 131-133. https://doi.org/10.1038/262131a0 — coined the term "Concorde fallacy."
+- Hall, P. (1980). *Great Planning Disasters.* Weidenfeld & Nicolson. Concorde as a canonical planning failure.

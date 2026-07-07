@@ -66,7 +66,7 @@ Consequence of skipping:
 Near-miss tracking:  Quarterly review owner:
 ```
 
-*→ Method in Action: [B-17 1935 + Pronovost ICU + WHO Surgical](examples/b-17-1935-pronovost-icu-who-surgical.md)*
+*→ Method in Action: [B-17 1935 + Pronovost ICU + WHO Surgical](examples/b-17-1935-pronovost-icu-who-surgical.md) · [Van Halen's Brown M&M Rider Clause](examples/van-halen-brown-mms-rider-clause.md)*
 
 ## Pack: Domain Patterns
 

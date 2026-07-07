@@ -68,7 +68,7 @@ Method: [S-C-R / S-A-R / P-S-R / A-S-R] | Actions: | Mismatch cost (if any):
 Boundary watch: [shift signals | monitoring owner | re-diagnosis schedule]
 ```
 
-*→ Method in Action: [Snowden at IBM (1999) and the HBR Synthesis (2007)](examples/snowden-at-ibm-1999-and-the-hbr-synthesis-2007.md)*
+*→ Method in Action: [Snowden at IBM (1999) and the HBR Synthesis (2007)](examples/snowden-at-ibm-1999-and-the-hbr-synthesis-2007.md) · [Apollo 13 Mission Response (1970)](examples/apollo-13-1970-mission-response.md)*
 
 ## Pack: Cynefin Domain Patterns
 

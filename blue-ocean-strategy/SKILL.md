@@ -58,13 +58,18 @@ Target Canvas: To-Be scores + Focus / Divergence / Tagline check
 Buyer Utility: utility gaps closed + non-customer response + stop-rule decision
 ```
 
-*→ Method in Action: [Cirque du Soleil (1984)](examples/cirque-du-soleil-1984.md)*
+*→ Method in Action: [Cirque du Soleil (1984)](examples/cirque-du-soleil-1984.md) · [Yellow Tail Wine (2001)](examples/yellow-tail-wine-2001.md)*
 
 ## Innovation Packs
 
-- **Consumer goods/food-bev:** Eliminate conventions buyers don't value (Yellow Tail: removed wine-knowledge requirement). Stop-rule: if non-customer's stated reason for non-purchase was NOT the complexity you eliminated, you restructured for convenience, not their value.
-- **B2B software:** Canvas converges on features, integration depth, enterprise compliance. ERRC: eliminate customization depth / reduce onboarding friction / raise time-to-value / create self-serve. Stop-rule: if "Create" requires rebuilding enterprise security non-customers don't need, Eliminate is underperforming.
-- **Healthcare:** Raise/Create on convenience while Eliminating facility overhead. Stop-rule: if regulatory minimums are indistinguishable from "industry assumption" standards, you cannot Eliminate them.
+| Domain | Canvas convergence (what everyone competes on) | ERRC emphasis | Common failure |
+|---|---|---|---|
+| Consumer goods / food-bev | brand prestige, category expertise, range breadth | Eliminate conventions buyers don't value (Yellow Tail: removed the wine-knowledge requirement); Create ease of selection | eliminating complexity that was never the non-customer's stated reason for refusing — restructuring for convenience, not their value |
+| B2B software | features, integration depth, enterprise compliance | Eliminate customization depth / reduce onboarding friction / raise time-to-value / create self-serve | "Create" quietly rebuilds enterprise machinery non-customers don't need — Eliminate is underperforming |
+| Healthcare | facility scale, specialist breadth, coverage networks | Raise/Create convenience and access while Eliminating facility overhead | treating regulatory minimums as eliminable "industry assumptions" — they are fixed, map them before ERRC |
+| Travel / airlines | hub networks, seat classes, in-flight amenities | Eliminate lounges, meals, seat classes; Raise departure frequency; Create point-to-point speed priced against driving (Southwest) | benchmarking rival carriers instead of the substitute (the car) — Path 1 skipped |
+
+*Contribute a pack for your domain — see the template at the repo root.*
 
 ## Applying It Well
 

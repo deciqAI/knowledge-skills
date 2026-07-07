@@ -67,11 +67,20 @@ Resist "we should have seen it coming." Ask: *what was the epistemic state of we
 ## Narrative-fallacy check: past event <…> | story told <…> | actual epistemic state <…>
 ```
 
-*→ Method in Action: [Long-Term Capital Management Collapse, 1998](examples/long-term-capital-management-collapse-1998.md)*
+*→ Method in Action: [Long-Term Capital Management Collapse, 1998](examples/long-term-capital-management-collapse-1998.md) · [Fukushima Daiichi Tsunami, 2011](examples/fukushima-daiichi-tsunami-2011.md)*
 
 ## Pack: Black Swan Domains
 
-Extremistan (fat-tail) domains where Gaussian models consistently fail: stock returns, VC outcomes, tech market caps, geopolitical events, pandemic frequency, cyber breaches, catastrophe insurance claims, book sales. Mediocristan (safe to use averages): human heights, daily caloric intake, commute times on normal days.
+| Domain | Extremistan evidence | Tail-survival design | Common failure |
+|---|---|---|---|
+| Finance / trading | single crash day dominates decades of returns; 1987 was 20+ sigma under Gaussian | leverage that survives correlations→1; no ruin-level position sizing | VaR under Gaussian assumptions; "diversification" across risks that converge in crises |
+| Venture / startups | one fund-returner outweighs the rest of the portfolio combined | many small bets, convex upside; reserves for winners, not averages | modeling outcomes with expected values; concentrating on one "sure thing" |
+| Infrastructure / engineering | worst recorded flood / quake / tsunami dominates all damage totals | design margin above the full historical record; backups with no common-cause failure | design basis anchored to recent-instrumental maximum (Fukushima's 5.7 m seawall) |
+| Careers / creative work | a handful of hits, roles, or books produce most lifetime payoff | barbell: stable base + repeated cheap shots at unbounded upside | betting everything on one employer or project; reading a hot streak as a stable trend |
+
+Mediocristan (safe to use averages): human heights, daily caloric intake, commute times on normal days.
+
+*Contribute a pack for your domain — see the template at the repo root.*
 
 ## Applying It Well
 

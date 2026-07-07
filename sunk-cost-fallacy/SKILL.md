@@ -60,7 +60,7 @@ Mechanism: loss aversion / self-justification / social signaling / completion co
 Structural fix: [kill criteria / stage gate / fresh-eyes / decision-rights separation]
 ```
 
-*→ Method in Action: [Arkes & Blumer's 1985 Studies](examples/arkes-blumers-1985-studies.md)*
+*→ Method in Action: [Arkes & Blumer's 1985 Studies](examples/arkes-blumers-1985-studies.md) · [The Concorde Program](examples/concorde-program.md)*
 
 ## Pack: Sunk-Cost Patterns
 

@@ -1,0 +1,30 @@
+# Method in Action: The Apollo 13 Mission Response (1970)
+
+> *Example for the [cynefin](../SKILL.md) skill.*
+
+Apollo 13 is a compressed, four-day demonstration of every Cynefin domain — and of why survival depended on re-diagnosing the domain at each phase instead of running one method throughout.
+
+**The situation.** On April 13, 1970, roughly 56 hours into a routine lunar mission about 200,000 miles from Earth, oxygen tank 2 in the service module exploded, crippling the spacecraft's power, oxygen, and propulsion. Jim Lovell's report to Houston — "Houston, we've had a problem" — marked the instant the mission left its planned domain.
+
+**Phase 1 — Chaotic: Act–Sense–Respond.** In the first hour, cause-effect was absent: telemetry contradicted itself, controllers initially suspected instrumentation failure, oxygen was venting, and fuel cells were dying. There was no playbook for a dying service module en route to the Moon. Flight director Gene Kranz's move was the Chaotic-domain move: act first to establish order, not analyze. Mission Control powered down the command module Odyssey to preserve its re-entry batteries and moved the crew into the lunar module Aquarius as a lifeboat — an improvised, order-establishing action taken before anyone understood the cause. Deliberating would have cost the crew their margin. Only after order was established did the situation become sensible enough to re-classify.
+
+**Phase 2 — Complex: Probe–Sense–Respond.** With the crew stabilized, NASA faced novel problems with no procedures and emergent cause-effect: a lunar module designed to keep two men alive for two days now had to keep three alive for four; carbon dioxide was accumulating because the command module's square lithium hydroxide canisters did not fit the lunar module's round scrubber sockets; the power budget had no precedent. Experts could not simply compute the answer — ground teams probed. Engineers in Houston assembled a canister adapter from only the materials known to be aboard (plastic bags, cardboard, suit hose, tape), tested it, then read the build procedure up to the crew. Simulator teams ran candidate power-down and navigation configurations, sensed what held, amplified what worked, and discarded what failed. This was a portfolio of safe-to-fail experiments run on the ground so that failure would not be fatal in flight.
+
+**Phase 3 — Complicated: Sense–Analyze–Respond.** Some sub-problems were knowable with expertise and moved by analysis: the decision to use a free-return trajectory around the Moon rather than a risky direct abort, the PC+2 engine burn after lunar flyby to speed the return, and the command module power-up sequence — written and verified in simulators by astronaut Ken Mattingly and the ground team before being uplinked. Here the correct move was expert analysis of a knowable system, and NASA used it — but only for the sub-problems that genuinely lived in that domain.
+
+**Phase 4 — back to Clear.** After splashdown on April 17, 1970, NASA convened the Apollo 13 Review Board under Edgar Cortright. The board's Complicated-domain analysis traced the explosion to damaged wire insulation inside the oxygen tank, and its findings were converted into Clear-domain material: a redesigned tank, revised test procedures, and standard operating rules for later missions. The crisis's lessons were deliberately migrated down the domains until they became routine.
+
+**Mismatch cost, made visible.** The one moment the wrong-domain reflex surfaced was the abort debate: an immediate direct abort — turn the ship around now using the main engine — was the "do what the contingency plan says" answer. Analysis showed the main engine sat next to the damaged service module and could not be trusted; firing it was an unverifiable bet. Choosing the slower free-return trajectory was a domain-honest choice: it traded speed for a path whose cause-effect structure was actually knowable. Had Mission Control categorized the crisis as a standard abort scenario and fired the engine, the mismatch cost would likely have been the crew.
+
+**The misclassification watch.** The rescue worked because NASA never defaulted to its home domain. A nominal Apollo mission is Clear/Complicated territory — checklists and expert analysis — and the reflex to keep running the nominal playbook after the explosion would have been the classic Cynefin error. Instead, Mission Control treated domain diagnosis as continuous: chaotic action first, probes once stabilized, expert analysis for the knowable pieces, and codification afterward.
+
+The mapped steps:
+
+1. **Describe:** Crippled spacecraft 200,000 miles out; current approach (nominal mission procedures) invalidated; stakeholders: three crew, Mission Control, contractor engineers.
+2. **Diagnose the domain:** First hour — cause-effect absent, telemetry incoherent → Chaotic. After stabilization — survival problems novel and emergent, experts unable to converge on answers without trials → Complex. Trajectory and re-entry — knowable with expertise → Complicated.
+3. **Match approach to domain:** Chaotic → Act–Sense–Respond (power down Odyssey, move crew to Aquarius). Complex → Probe–Sense–Respond (scrubber adapter and power procedures built and tested on the ground, wins amplified). Complicated → Sense–Analyze–Respond (free-return decision, PC+2 burn, power-up checklist from simulation).
+4. **Check boundary movement:** Continuous re-diagnosis as the situation shifted Chaotic → Complex → Complicated; post-mission Review Board pushed the lessons into the Clear domain as redesigns and SOPs.
+
+The operational lesson: domains are phases, not labels. A single crisis can traverse the entire framework in days, and the team that survives is the one that keeps asking "which domain are we in now?" — not the one with the best plan for the domain it started in.
+
+Primary sources: Lovell, J., & Kluger, J. (1994). *Lost Moon: The Perilous Voyage of Apollo 13.* Houghton Mifflin. NASA (1970). *Report of the Apollo 13 Review Board* (Cortright Report). Washington, DC: NASA.

@@ -57,7 +57,7 @@ Run the **EV-Kelly Sizing** (EV → Kelly → fractional Kelly → stop trigger)
 ## Stop trigger: "I will re-estimate if <condition>."
 ## Correlation check: bets independent? <yes/no — adjustment>
 ```
-*→ Method in Action: [Ed Thorp, Blackjack, and Princeton-Newport (1961 → 1988)](examples/ed-thorp-blackjack-and-princeton-newport-1961-1988.md)*
+*→ Method in Action: [Ed Thorp, Blackjack, and Princeton-Newport (1961 → 1988)](examples/ed-thorp-blackjack-and-princeton-newport-1961-1988.md) · [Bill Benter, Hong Kong Horse Racing (1985 → 2001)](examples/bill-benter-hong-kong-horse-racing-1985-2001.md)*
 ## Sizing Packs
 
 | Domain | Fractional-Kelly | Stop trigger |

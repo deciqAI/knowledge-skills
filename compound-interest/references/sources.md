@@ -3,6 +3,7 @@
 > *Primary sources for the [compound-interest](../SKILL.md) skill.*
 
 - Bernoulli, J. (1683). "Quaestiones nonnullae de usuris, cum solutione problematis de sorte alearum." *Acta Eruditorum*. The original discovery of e via compound interest.
+- Franklin, B. (1789). Codicil to the Last Will and Testament of Benjamin Franklin. Reprinted in Smyth, A. H. (Ed.) (1907). *The Writings of Benjamin Franklin*, Vol. 10. Macmillan. The 200-year compounding trusts for Boston and Philadelphia.
 - Graham, B., & Dodd, D. L. (1934). *Security Analysis.* Whittlesey House. ISBN 978-0071592536 (2008 reprint). The investment-philosophy foundation.
 - Graham, B. (1949). *The Intelligent Investor.* Harper. ISBN 978-0060555665. The popular companion volume.
 - Buffett, W. E. (1956-present). Berkshire Hathaway Chairman's Letters. Available at berkshirehathaway.com. The longest-running practical demonstration.

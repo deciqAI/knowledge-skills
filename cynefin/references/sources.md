@@ -10,3 +10,5 @@
 - Polanyi, M. (1966). *The Tacit Dimension.* Doubleday. (Background on tacit knowledge.)
 - Stacey, R. D. (1996). *Complexity and Creativity in Organizations.* Berrett-Koehler. (Complexity-science background.)
 - U.S. Army (2012). *Mission Command: Command and Control of Army Forces.* ADP 6-0. (Operational adoption.)
+- Lovell, J., & Kluger, J. (1994). *Lost Moon: The Perilous Voyage of Apollo 13.* Houghton Mifflin. (Apollo 13 example.)
+- NASA (1970). *Report of the Apollo 13 Review Board* (Cortright Report). Washington, DC: NASA. (Apollo 13 example.)

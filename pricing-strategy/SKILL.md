@@ -58,7 +58,7 @@ Run the **Pricing Audit**. Value-first, anchor, structure, frame, test.
 | Anchor stress-test result (5–10 buyers) | |
 | 60-day metrics + re-evaluation date | |
 
-*→ Method in Action: [De Beers and the Engagement Ring (1947 → ongoing)](examples/de-beers-and-the-engagement-ring-1947-ongoing.md)*
+*→ Method in Action: [De Beers and the Engagement Ring (1947 → ongoing)](examples/de-beers-and-the-engagement-ring-1947-ongoing.md) · [Netflix's Qwikster Failure (2011)](examples/netflix-qwikster-price-restructuring-2011.md)*
 
 ## Pricing Packs
 

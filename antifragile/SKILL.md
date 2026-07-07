@@ -69,7 +69,7 @@ Core warning: **most modern complex systems are hidden-fragile** — stable only
 - Bounded downside: <yes/no> | Convexity verified: <how>
 ```
 
-*→ Method in Action: [Taleb's Framework, 2007-2012, and the 2008 Financial Crisis](examples/talebs-framework-2007-2012-and-the-2008-financial-crisis.md)*
+*→ Method in Action: [Taleb's Framework, 2007-2012, and the 2008 Financial Crisis](examples/talebs-framework-2007-2012-and-the-2008-financial-crisis.md) · [1956 Grand Canyon Collision & Aviation Safety](examples/1956-grand-canyon-collision-and-aviation-safety.md)*
 
 ## Pack: Antifragile Patterns
 

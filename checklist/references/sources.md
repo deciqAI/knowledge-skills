@@ -10,3 +10,4 @@
 - Boyer, S. P. (2014). *The Checklist Manifesto Comes to Aviation.* National Air and Space Museum reference.
 - Reason, J. (1990). *Human Error.* Cambridge University Press. The cognitive foundations.
 - Pronovost, P. & Vohr, E. (2010). *Safe Patients, Smart Hospitals.* Hudson Street Press. ISBN 978-1594630613. The Pronovost story.
+- Roth, D. L. (1997). *Crazy from the Heat.* Hyperion. The brown M&M rider clause as checklist verification.

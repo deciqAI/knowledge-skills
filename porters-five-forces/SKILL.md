@@ -73,7 +73,7 @@ Strategic response: <specific move>
 Validation: predicted ROIC <…> vs actual <…> | gap: <…>
 ```
 
-*→ Method in Action: [Porter's 1979 HBR Paper and Its Empirical Foundation](examples/porters-1979-hbr-paper-and-its-empirical-foundation.md)*
+*→ Method in Action: [Porter's 1979 HBR Paper and Its Empirical Foundation](examples/porters-1979-hbr-paper-and-its-empirical-foundation.md) · [Porter's US Passenger Airline Analysis](examples/us-passenger-airline-industry-analysis.md)*
 
 ## Pack: Five-Forces by Industry Archetype
 

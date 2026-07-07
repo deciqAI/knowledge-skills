@@ -63,7 +63,7 @@ Decision: [proposer: bold-but-defensible opening] / [respondent: name/reset/work
 Risk anchor still operating: […] (how I'll know if I've been pulled too far)
 ```
 
-*→ Method in Action: [Tversky & Kahneman's Wheel of Fortune, 1974](examples/tversky-kahneman-wheel-of-fortune-1974.md)*
+*→ Method in Action: [Tversky & Kahneman's Wheel of Fortune, 1974](examples/tversky-kahneman-wheel-of-fortune-1974.md) · [Judges Playing Dice with Criminal Sentences, 2006](examples/englich-judges-dice-criminal-sentences-2006.md)*
 
 ## Pack: Anchoring in Practice
 

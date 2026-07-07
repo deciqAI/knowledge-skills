@@ -66,7 +66,7 @@ Run the **Network-Effect Audit**: diagnose, classify, size, design.
 - Falsifier: <what observation would disprove the NE diagnosis>
 ```
 
-*→ Method in Action: [Theodore Vail at AT&T, 1907-1913 — and Metcalfe's Law, 1980](examples/theodore-vail-at-att-1907-1913-and-metcalfes-law-1980.md)*
+*→ Method in Action: [Theodore Vail at AT&T, 1907-1913 — and Metcalfe's Law, 1980](examples/theodore-vail-at-att-1907-1913-and-metcalfes-law-1980.md) · [The VHS vs. Betamax Format War](examples/vhs-vs-betamax-format-war.md)*
 
 ## Pack: Network-Effect Patterns
 

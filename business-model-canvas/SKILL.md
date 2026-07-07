@@ -75,13 +75,18 @@ Next-week experiments: To test <claim>: <smallest experiment by <date>>
 Comparison to incumbents: [block-by-block diff vs. closest competitor]
 ```
 
-*→ Method in Action: [Southwest Airlines (1971 → ongoing)](examples/southwest-airlines-1971.md)*
+*→ Method in Action: [Southwest Airlines (1971 → ongoing)](examples/southwest-airlines-1971.md) · [Nespresso's Razor-and-Blades Pivot](examples/nespresso-razor-and-blades-1986.md)*
 
 ## Industry Canvas Packs
 
-- **B2B SaaS:** load-bearing ASSUMED = time-to-value in Value Prop; failure = scaling sales before validating segment fit.
-- **Two-sided marketplaces:** two Segments/Value Props/Revenue Streams; load-bearing ASSUMED = cold-start on one side.
-- **DTC / professional services:** load-bearing = Channels (CAC) for DTC; Key Resources (specific people) for services.
+| Domain | Load-bearing block | Typical ASSUMED claim | Common failure |
+|---|---|---|---|
+| B2B SaaS | Value Propositions | time-to-value short enough to survive the pilot | scaling sales before validating segment fit |
+| Two-sided marketplaces | Customer Segments (×2) | cold-start liquidity on the harder side | mapping one side's canvas, skipping the other's Segments/Value Props/Revenue Streams |
+| DTC consumer | Channels | CAC below contribution margin at scale | pricing set before any willingness-to-pay evidence; Channels covering purchase but not after-sales |
+| Professional services | Key Resources | the specific people who deliver the value prop are retainable and replicable | selling capacity that walks out the door; Cost Structure left as "salaries" without utilization drivers |
+
+*Contribute a pack for your domain — see the template at the repo root.*
 
 ## Applying It Well
 

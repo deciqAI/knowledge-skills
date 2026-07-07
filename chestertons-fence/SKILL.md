@@ -60,7 +60,7 @@ Decision: Remove/Modify/Keep/Replace — reasoning
 Docs: updated fence docs / removal note / monitoring owner + rebuild criteria
 ```
 
-*→ Method in Action: [Chesterton 1929 and the Modern Software / Regulatory Application](examples/chesterton-1929-and-the-modern-software-regulatory-application.md)*
+*→ Method in Action: [Chesterton 1929 and the Modern Software / Regulatory Application](examples/chesterton-1929-and-the-modern-software-regulatory-application.md) · [The 1958 Great Sparrow Campaign](examples/1958-great-sparrow-campaign-and-the-ecological-fence.md)*
 
 ## Pack: Application Patterns by Domain
 

@@ -65,7 +65,7 @@ Boundary: current boundary | what would expand it
 Decision & rationale: | Re-evaluation date:
 ```
 
-*→ Method in Action: [Buffett's Tech-Stock Refusal, 1990s](examples/buffetts-tech-stock-refusal-1990s.md)*
+*→ Method in Action: [Buffett's Tech-Stock Refusal, 1990s](examples/buffetts-tech-stock-refusal-1990s.md) · [Quaker's Snapple Acquisition, 1994-1997](examples/quaker-snapple-acquisition-1994-1997.md)*
 
 ## Pack: Application Patterns
 

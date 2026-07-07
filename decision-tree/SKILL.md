@@ -62,7 +62,7 @@ Sensitivity: flips when p([key branch]) > [threshold]  |  EVPI=
 Recommendation: [option] — holds if [condition]; flips if [condition]
 ```
 
-*→ Method in Action: [Magee 1964 — Chemical Plant Investment (HBR)](examples/magee-1964-chemical-plant-investment-hbr.md)*
+*→ Method in Action: [Magee 1964 — Chemical Plant Investment (HBR)](examples/magee-1964-chemical-plant-investment-hbr.md) · [Eisenhower's D-Day Weather Decision](examples/eisenhower-1944-d-day-weather-decision.md)*
 
 ## Pack: Decision Tree by Domain
 

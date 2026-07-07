@@ -8,4 +8,5 @@
 - **Heskett, James L., Sasser, W. Earl, & Wheeler, Joe.** "Southwest Airlines: In a Different World." Harvard Business School Case 9-910-419 (2010) and earlier related HBS cases — standard teaching cases on Southwest's business model.
 - **Southwest Airlines Co.,** Annual Reports and SEC 10-K filings (1971–present) — primary-source evidence for the continuous-profitability claim and unit-economics differentiation. https://www.southwestairlinesinvestorrelations.com
 - **Gittell, Jody Hoffer.** *The Southwest Airlines Way: Using the Power of Relationships to Achieve High Performance*. McGraw-Hill, 2003. Academic analysis of the operating model.
+- **Kashani, Kamran & Miller, Joyce.** "Innovation and Renovation: The Nespresso Story." IMD Case IMD-5-0543, IMD Lausanne, 2000. The standard teaching case on Nespresso's 1986 failure and 1988 razor-and-blades rebuild — primary source for the Nespresso example.
 - The popular framing "disrupt the industry" is **not** cited here as a source — by this skill's own rule, an aphorism is not evidence. Southwest's differentiation was block-by-block in the canvas, not a generic "disruption."

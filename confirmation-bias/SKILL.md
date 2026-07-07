@@ -62,7 +62,7 @@ Countermeasure: [type] / Owner:
 Update conditions: trigger / re-examination date:
 ```
 
-*→ Method in Action: [Peter Wason's 2-4-6 Task, 1960](examples/peter-wasons-2-4-6-task-1960.md)*
+*→ Method in Action: [Peter Wason's 2-4-6 Task, 1960](examples/peter-wasons-2-4-6-task-1960.md) · [The FBI Mayfield Fingerprint Misidentification, 2004](examples/2004-fbi-mayfield-fingerprint-misidentification.md)*
 
 ## Pack: Confirmation Bias Patterns
 

@@ -9,3 +9,4 @@
 - Bourdieu, P. (1972). *Outline of a Theory of Practice.* Cambridge University Press. ISBN 978-0521291644. The anthropological foundation.
 - Kotter, J. P. (1996). *Leading Change.* Harvard Business School Press. ISBN 978-0875847474. Organizational-change methodology.
 - OECD (2008). *Building an Institutional Framework for Regulatory Impact Analysis (RIA): Guidance for Policy Makers.* The regulatory institutionalization.
+- Shapiro, J. (2001). *Mao's War Against Nature: Politics and the Environment in Revolutionary China.* Cambridge University Press. ISBN 978-0521786805. The Great Sparrow Campaign / ecological-fence application.

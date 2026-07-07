@@ -61,7 +61,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ## Confidence: start / mid-quarter / end actual
 ```
 
-*→ Method in Action: [Andy Grove at Intel, 1971; John Doerr at Google, 1999](examples/andy-grove-at-intel-1971-john-doerr-at-google-1999.md)*
+*→ Method in Action: [Andy Grove at Intel, 1971; John Doerr at Google, 1999](examples/andy-grove-at-intel-1971-john-doerr-at-google-1999.md) · [Bono's ONE Campaign](examples/bono-one-campaign-2002-2018.md)*
 
 ## Pack: OKR Patterns
 

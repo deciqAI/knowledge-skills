@@ -7,3 +7,4 @@
 - Taleb, N. N. (2018). *Skin in the Game: Hidden Asymmetries in Daily Life.* Random House. ISBN 978-0425284629. The follow-up on decision-maker / consequence alignment.
 - Mandelbrot, B. B., & Hudson, R. L. (2004). *The (Mis)Behavior of Markets.* Basic Books. The mathematical foundation for fat-tail risk that Taleb builds on.
 - Lo, A. W. (2017). *Adaptive Markets: Financial Evolution at the Speed of Thought.* Princeton University Press. Modern academic synthesis of adaptive/antifragile thinking in financial markets.
+- United States. *Federal Aviation Act of 1958*, Pub. L. 85-726, 72 Stat. 731 (August 23, 1958). The law that consolidated U.S. air-safety authority into the FAA after the 1956 Grand Canyon collision — the historical anchor for aviation as an antifragile system.

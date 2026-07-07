@@ -10,3 +10,5 @@
 - Howard, R. A. (1966). "Decision Analysis: Applied Decision Theory." *Proceedings of the 4th International Conference on Operational Research.* Stanford. Early theoretical grounding.
 - Howard, R. A., & Matheson, J. E. (Eds.) (1983). *Readings on the Principles and Applications of Decision Analysis.* Strategic Decisions Group. Comprehensive practitioner reference.
 - Clemen, R. T., & Reilly, T. (2013). *Making Hard Decisions with DecisionTools.* Cengage. Standard textbook treatment.
+- Eisenhower, D. D. (1948). *Crusade in Europe.* Doubleday. First-hand account of the D-Day weather go/no-go decision (worked example).
+- Stagg, J. M. (1971). *Forecast for Overlord.* Ian Allan. The SHAEF chief meteorologist's account of the June 1944 forecasts.

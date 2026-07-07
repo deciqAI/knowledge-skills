@@ -61,7 +61,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ## Falsifier: observation that would tell me my estimates are wrong: __
 ```
 
-*→ Method in Action: [Fisher and Ury, 1981 — The Harvard Negotiation Project](examples/fisher-and-ury-1981-the-harvard-negotiation-project.md)*
+*→ Method in Action: [Fisher and Ury, 1981 — The Harvard Negotiation Project](examples/fisher-and-ury-1981-the-harvard-negotiation-project.md) · [Camp David Accords, 1978](examples/camp-david-accords-sinai-1978.md)*
 
 ## Pack: BATNA & ZOPA Patterns
 

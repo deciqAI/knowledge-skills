@@ -68,14 +68,18 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 | Disposability commitment | ☐ MVP code thrown away; production rebuilt from validated learning |
 | Validated learning (post-test) | one sentence |
 
-*→ Method in Action: [Zappos's Concierge MVP (1999)](examples/zappos-concierge-mvp-1999.md)*
+*→ Method in Action: [Zappos's Concierge MVP (1999)](examples/zappos-concierge-mvp-1999.md) · [Airbnb's Air-Mattress MVP (2007)](examples/airbnbs-air-mattress-mvp-2007.md)*
 
 ## MVP Type Packs
 
-- **Consumer apps:** smoke tests + single-feature TestFlight builds dominate; concierge rare at scale.
-- **B2B SaaS:** paid pilots with 3–5 design partners; free pilots produce false-positive signal.
-- **Marketplaces:** concierge in one ZIP code to test matching value before building any platform.
-- **Hardware:** video demos + Kickstarter pre-orders; don't conflate pre-order revenue with retention signal.
+| Domain | First-choice MVP type | Why it fits the assumption | Common failure |
+|---|---|---|---|
+| Consumer apps | smoke test, then single-feature build | smoke test screens awareness-to-interest cheaply; single-feature tests whether one feature drives day-N retention; concierge rarely reaches consumer scale | polish creep turns the single-feature build into v1 before the retention data is in |
+| B2B SaaS | paid pilot with 3–5 design partners | enterprise WTP and integration complexity only surface when real budget moves; a smoke test can't reach the budget owner | free pilots treated as validated demand — everyone says yes to free |
+| Marketplaces | concierge in one ZIP code or one event | matching value is testable with the founders as the manual back-end before any platform exists (Airbnb 2007) | building both sides of the platform before proving anyone wants the match |
+| Hardware | video demo + pre-order (credit card captured) | tests demand and price point with zero tooling cost; the pre-order forces a payment decision, not a click | conflating pre-order revenue with retention or repeat-purchase signal |
+
+*Contribute a pack for your domain — see the template at the repo root.*
 
 ## Applying It Well
 

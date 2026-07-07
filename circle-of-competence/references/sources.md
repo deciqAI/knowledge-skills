@@ -9,3 +9,4 @@
 - Buffett, W. E. & Cunningham, L. A. (2013). *The Essays of Warren Buffett: Lessons for Corporate America* (4th ed.). The Cunningham Group. ISBN 978-1611634099.
 - Greenwald, B. C. N. et al. (2001). *Value Investing: From Graham to Buffett and Beyond.* Wiley. ISBN 978-0471463399. The academic treatment.
 - Pabrai, M. (2007). *The Dhandho Investor.* Wiley. ISBN 978-0470043899. A practitioner's application of the circle discipline.
+- Deighton, J. (2002). "How Snapple Got Its Juice Back." *Harvard Business Review*, 80(1). https://hbr.org/2002/01/how-snapple-got-its-juice-back. The documented account of the Quaker-Snapple acquisition failure and Triarc revival.

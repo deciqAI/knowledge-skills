@@ -10,3 +10,4 @@
 - Mercier, H. & Sperber, D. (2011). "Why do humans reason? Arguments for an argumentative theory." *Behavioral and Brain Sciences*, 34(2), 57-74.
 - Heuer, R. J. Jr. (1999). *Psychology of Intelligence Analysis.* CIA Center for the Study of Intelligence. The ACH (Analysis of Competing Hypotheses) operational methodology.
 - Klein, G. (2007). "Performing a Project Premortem." *Harvard Business Review*, 85(9), 18-19.
+- U.S. Department of Justice, Office of the Inspector General (2006). *A Review of the FBI's Handling of the Brandon Mayfield Case.* Washington, DC: DOJ OIG, March 2006. The documented real-world case of confirmation bias in forensic identification.
