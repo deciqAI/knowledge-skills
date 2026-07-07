@@ -8,6 +8,7 @@
 - Cournot, A. A. (1838). *Recherches sur les principes mathématiques de la théorie des richesses.* Paris: Hachette. The duopoly precursor.
 - Milgrom, P. (2004). *Putting Auction Theory to Work.* Cambridge University Press. ISBN 978-0521536729. The FCC auction case study.
 - Camerer, C. F. (2003). *Behavioral Game Theory: Experiments in Strategic Interaction.* Princeton University Press. ISBN 978-0691090399. Empirical deviations from Nash predictions.
+- Palacios-Huerta, I. (2003). "Professionals Play Minimax." *Review of Economic Studies*, 70(2), 395-415. Field test of mixed-strategy equilibrium on professional penalty kicks.
 - Roth, A. E. (2002). "The Economist as Engineer." *Econometrica*, 70(4), 1341-1378. Mechanism-design applications.
 - Schelling, T. C. (1960). *The Strategy of Conflict.* Harvard University Press. ISBN 978-0674840317. Strategic applications to security.
 - Tirole, J. (1988). *The Theory of Industrial Organization.* MIT Press. ISBN 978-0262200714. Industrial-organization applications.

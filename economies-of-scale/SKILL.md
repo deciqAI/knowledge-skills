@@ -62,7 +62,7 @@ Competitive:     Firm position | Competitor | Gap | Closure path
 Decision:        Below/at/beyond MES | Action | Stop rule
 ```
 
-*→ Method in Action: [Smith 1776 + Marshall 1890 + Costco 2024](examples/smith-1776-marshall-1890-costco-2024.md)*
+*→ Method in Action: [Smith 1776 + Marshall 1890 + Costco 2024](examples/smith-1776-marshall-1890-costco-2024.md) · [Ford's Model T 1908–1927](examples/ford-highland-park-model-t-1908-1927.md)*
 
 ## Pack: Economies of Scale by Sector
 

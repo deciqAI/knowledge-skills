@@ -58,7 +58,7 @@ Stakes class + decision rule applied:
 Final choice + acknowledged distortions + rationale:
 ```
 
-*→ Method in Action: [Kahneman and Tversky's 1979 Prospect Theory](examples/kahneman-and-tversky-1979-prospect-theory.md)*
+*→ Method in Action: [Kahneman and Tversky's 1979 Prospect Theory](examples/kahneman-and-tversky-1979-prospect-theory.md) · [PGA Tour Par vs. Birdie Putts](examples/pope-and-schweitzer-2011-pga-tour-putting.md)*
 
 ## Pack: Prospect Theory Patterns
 

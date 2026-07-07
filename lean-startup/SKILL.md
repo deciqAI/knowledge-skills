@@ -61,7 +61,7 @@ Decision: [ ] Persevere  [ ] Pivot (type: ___)  [ ] Re-test
 Validated learning: <one sentence carry-forward>
 ```
 
-*→ Method in Action: [Dropbox's Video MVP (2007)](examples/dropboxs-video-mvp-2007.md)*
+*→ Method in Action: [Dropbox's Video MVP (2007)](examples/dropboxs-video-mvp-2007.md) · [Votizen's Pivot Sequence (2010–2011)](examples/votizens-pivot-sequence-2010-2011.md)*
 ## Experiment Packs
 
 | Domain | Load-bearing assumption | MVP type | Common failure |

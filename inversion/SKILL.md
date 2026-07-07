@@ -62,7 +62,7 @@ Run the **Inversion Audit**. Trace backward from failure, rank by load-bearing, 
 ## What I might still be missing: <least-confident failure path — and how I'd test for it>
 ```
 
-*→ Method in Action: [Apollo 1 and the FMEA Mandate (1967)](examples/apollo-1-fmea-1967.md)*
+*→ Method in Action: [Apollo 1 and the FMEA Mandate (1967)](examples/apollo-1-fmea-1967.md) · [Wald's Bomber Survivorship Analysis (1942–1943)](examples/wald-bomber-survivorship-1943.md)*
 
 ## Inversion Packs
 

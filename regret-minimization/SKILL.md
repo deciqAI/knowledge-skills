@@ -62,7 +62,7 @@ Commitment: I commit to <option> by <date>. Stop relitigating after that.
 Re-open trigger: only if <specific observable evidence> before <date>.
 ```
 
-*→ Method in Action: [Jeff Bezos, D.E. Shaw → Amazon (1994)](examples/jeff-bezos-de-shaw-amazon-1994.md)*
+*→ Method in Action: [Jeff Bezos, D.E. Shaw → Amazon (1994)](examples/jeff-bezos-de-shaw-amazon-1994.md) · [Gilovich & Medvec, the Evidence for the Age-80 Test (1995)](examples/gilovich-medvec-regret-of-inaction-1995.md)*
 
 ## Regret Packs
 

@@ -55,7 +55,7 @@ Analogies: analogy | works when | breaks down when
 Summary: genuine (can reproduce/predict/extend) | surface only | irreducible core
 ```
 
-*→ Method in Action: [Feynman and the Challenger O-Ring Investigation (1986)](examples/feynman-challenger-o-ring-1986.md)*
+*→ Method in Action: [Feynman and the Challenger O-Ring Investigation (1986)](examples/feynman-challenger-o-ring-1986.md) · [The Freshman-Lecture Test and Spin-Statistics (1961–1963)](examples/feynman-freshman-lecture-spin-statistics-1961.md)*
 
 ## Feynman Audit Packs
 

@@ -9,6 +9,7 @@
 - Samuelson, W., & Zeckhauser, R. (1988). "Status quo bias in decision making." *Journal of Risk and Uncertainty*, 1(1), 7-59.
 - Camerer, C., Babcock, L., Loewenstein, G., & Thaler, R. (1997). "Labor supply of New York City cabdrivers: One day at a time." *Quarterly Journal of Economics*, 112(2), 407-441.
 - Benartzi, S., & Thaler, R. H. (1995). "Myopic loss aversion and the equity premium puzzle." *Quarterly Journal of Economics*, 110(1), 73-92.
+- Pope, D. G., & Schweitzer, M. E. (2011). "Is Tiger Woods Loss Averse? Persistent Bias in the Face of Experience, Competition, and High Stakes." *American Economic Review*, 101(1), 129-157. Field evidence from 2.5M PGA Tour putts: loss aversion persists among elite professionals at high stakes.
 - Gal, D., & Rucker, D. D. (2018). "The loss of loss aversion: Will it loom larger than its gain?" *Journal of Consumer Psychology*, 28(3), 497-516.
 - Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. ISBN 978-0374275631.
 - Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness.* Yale University Press. ISBN 978-0300122237.

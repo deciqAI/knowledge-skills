@@ -58,7 +58,7 @@ Upward Migration Path: Stage 1 → Stage 2 → Stage 3+ (customer tier + require
 Disruption Verdict: genuine / partial / no — if no, label accurately / primary invalidation risk
 ```
 
-*→ Method in Action: [Netflix vs. Blockbuster (1997–2010)](examples/netflix-vs-blockbuster-1997-2010.md)*
+*→ Method in Action: [Netflix vs. Blockbuster (1997–2010)](examples/netflix-vs-blockbuster-1997-2010.md) · [Steel Minimills vs. Integrated Mills (1965–2001)](examples/steel-minimills-vs-integrated-mills-1965-2001.md)*
 
 ## Disruption Packs
 

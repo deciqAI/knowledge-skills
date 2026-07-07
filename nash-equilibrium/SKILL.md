@@ -62,7 +62,7 @@ Decision: my action | Game redesign considered
 Counterparty response plan: expected action | contingency if they deviate
 ```
 
-*→ Method in Action: [Nash 1950-51 and the FCC Auctions 1994](examples/nash-1950-51-and-the-fcc-auctions-1994.md)*
+*→ Method in Action: [Nash 1950-51 and the FCC Auctions 1994](examples/nash-1950-51-and-the-fcc-auctions-1994.md) · [Penalty Kicks and the Minimax Test](examples/penalty-kicks-professionals-play-minimax.md)*
 
 ## Pack: Application Patterns
 

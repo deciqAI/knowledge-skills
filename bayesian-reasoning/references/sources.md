@@ -9,3 +9,5 @@
 - Tversky, A. & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124-1131. The foundational empirical work on systematic Bayesian failures in human reasoning.
 - McGrayne, S. B. (2011). *The Theory That Would Not Die.* Yale University Press. ISBN 978-0300188226. A history of Bayes' theorem and its practical applications, including legal misuses.
 - Schneps, L. & Colmez, C. (2013). *Math on Trial: How Numbers Get Used and Abused in the Courtroom.* Basic Books. ISBN 978-0465032921. Includes detailed analysis of the Sally Clark case.
+- Stone, L. D., Keller, C. M., Kratzke, T. M., & Strumpfer, J. P. (2014). "Search for the Wreckage of Air France Flight AF 447." *Statistical Science*, 29(1), 69-80. https://doi.org/10.1214/13-STS420. The Bayesian search analysis that located the AF 447 wreckage.
+- Stone, L. D. (1975). *Theory of Optimal Search.* Academic Press. The foundational text of Bayesian search theory, applied in the USS Scorpion (1968) and AF 447 searches.

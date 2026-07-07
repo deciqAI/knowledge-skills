@@ -62,7 +62,7 @@ Decision-process evaluation (process quality 1-5 / reasonable Y/N / EV / same de
 Structural fix (decision journal owner / pre-mortem owner / blind post-mortem protocol Y/N):
 ```
 
-*→ Method in Action: [Baruch Fischhoff's Nixon-China Trip Study, 1972-1975](examples/baruch-fischhoffs-nixon-china-trip-study-1972-1975.md)*
+*→ Method in Action: [Baruch Fischhoff's Nixon-China Trip Study, 1972-1975](examples/baruch-fischhoffs-nixon-china-trip-study-1972-1975.md) · [Anesthesia Malpractice Outcome-Bias Study, 1991](examples/caplan-posner-cheney-anesthesia-outcome-study-1991.md)*
 
 ## Pack: Hindsight Bias Patterns
 

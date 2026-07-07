@@ -70,7 +70,7 @@ Consensus check:<differs from first-level view? name the insight the crowd misse
 Confidence:     <where tracing turned to speculation; decay by hop>
 ```
 
-*→ Method in Action: [US Prohibition (1920–1933)](examples/us-prohibition-1920.md)*
+*→ Method in Action: [US Prohibition (1920–1933)](examples/us-prohibition-1920.md) · [The Hanoi Rat Bounty (1902)](examples/hanoi-rat-bounty-1902.md)*
 
 ## Cascade Packs
 

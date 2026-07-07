@@ -61,7 +61,7 @@ Run the **S-Curve Adoption Diagnosis**. Locate, predict, restrategize.
 
 `Adoption data` · `Current phase + evidence` · `Saturation ceiling` · `Trajectory projection` · `Next category + requirements` · `Strategy audit (positioning/channels/sales/pricing/onboarding — works for next?)` · `Chasm risk + crossing plan` · `Second curve: what + when`
 
-*→ Method in Action: [Ryan & Gross Iowa Hybrid Corn Study (1943) and Rogers's Synthesis (1962)](examples/ryan-gross-iowa-hybrid-corn-study-1943-and-rogers-synthesis-1962.md)*
+*→ Method in Action: [Ryan & Gross Iowa Hybrid Corn Study (1943) and Rogers's Synthesis (1962)](examples/ryan-gross-iowa-hybrid-corn-study-1943-and-rogers-synthesis-1962.md) · [Sailing Ships vs. Steamships (1819–1920s)](examples/sailing-ships-vs-steamships-technology-substitution.md)*
 
 ## Pack: S-Curve Strategy by Phase
 

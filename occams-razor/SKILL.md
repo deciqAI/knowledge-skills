@@ -59,7 +59,7 @@ Run the **Parsimony Audit** — fit *before* simplicity, count assumptions not w
 ## What would overturn this: <distinguishing evidence>
 ```
 
-*→ Method in Action: [Wegener and Continental Drift (1912)](examples/wegener-continental-drift-1912.md)*
+*→ Method in Action: [Wegener and Continental Drift (1912)](examples/wegener-continental-drift-1912.md) · [Semmelweis and Childbed Fever (1847–1861)](examples/semmelweis-childbed-fever-1847.md)*
 
 ## Audit Packs
 

@@ -11,3 +11,5 @@
 - Thiel, P. (2014). *Zero to One.* Crown. ISBN 978-0804139298. The startup application of moat thinking.
 - Collins, J. (2001). *Good to Great.* HarperBusiness. ISBN 978-0066620992. Empirical study of durable competitive advantage.
 - Lapidus, S. (1998). "The Moat Concept." Morningstar internal research. The original Morningstar formalization.
+- Christensen, C. M. (1997). *The Innovator's Dilemma.* Harvard Business School Press. ISBN 978-0875845852. The disruption mechanism behind moat erosion.
+- The Economist (2012). "The last Kodak moment?" January 14, 2012. https://www.economist.com/leaders/2012/01/14/the-last-kodak-moment. The Kodak film-moat erosion case.

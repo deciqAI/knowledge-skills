@@ -4,6 +4,7 @@
 
 - Newport, C. (2016). *Deep Work: Rules for Focused Success in a Distracted World.* Grand Central. ISBN 978-1455586691. The canonical articulation.
 - Knuth, D. E. (1990 / ongoing). "Knuth versus Email." Stanford homepage. https://www-cs-faculty.stanford.edu/~knuth/email.html. The earliest extreme-deep-work case study with the practitioner's own documentation.
+- Jung, C. G. (1962). *Memories, Dreams, Reflections.* Recorded and edited by Aniela Jaffé; trans. Richard and Clara Winston (1963). Pantheon. The chapter "The Tower" is Jung's own account of the Bollingen retreat practice — the canonical bimodal case.
 - Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). "The Role of Deliberate Practice in the Acquisition of Expert Performance." *Psychological Review*, 100(3), 363-406. The foundational empirical paper on expert performance and deliberate practice.
 - Mark, G., Gudith, D., & Klocke, U. (2008). "The Cost of Interrupted Work: More Speed and Stress." *CHI 2008 Proceedings*. The empirical psychology of attention-switching.
 - Leroy, S. (2009). "Why is it so hard to do my work? The challenge of attention residue when switching between work tasks." *Organizational Behavior and Human Decision Processes*, 109(2), 168-181. The "attention residue" concept.

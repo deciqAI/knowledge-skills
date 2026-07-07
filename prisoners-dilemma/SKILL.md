@@ -61,7 +61,7 @@ Recommended escape: <mechanism + why it changes the matrix>
 Test: re-draw post-escape matrix — confirm defection is no longer dominant
 ```
 
-*→ Method in Action: [Flood, Dresher, and Tucker — RAND, 1950](examples/flood-dresher-tucker-rand-1950.md)*
+*→ Method in Action: [Flood, Dresher, and Tucker — RAND, 1950](examples/flood-dresher-tucker-rand-1950.md) · [Live and Let Live in the WWI Trenches](examples/live-and-let-live-wwi-trenches.md)*
 
 ## Pack: Recognizing PD Patterns in the Wild
 

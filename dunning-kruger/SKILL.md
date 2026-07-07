@@ -62,7 +62,7 @@ Quartile diagnosis: self=X | external=Y | gap=Z pts | pattern=<novice-OC/calibra
 Intervention: <method> | Owner: | Re-measure:
 ```
 
-*→ Method in Action: [Kruger and Dunning's 1999 Cornell Studies](examples/kruger-and-dunnings-1999-cornell-studies.md)*
+*→ Method in Action: [Kruger and Dunning's 1999 Cornell Studies](examples/kruger-and-dunnings-1999-cornell-studies.md) · [Cost Forecasts in Public Works Projects](examples/cost-forecasts-in-public-works-projects.md)*
 
 ## Pack: Common Novice Overestimation Patterns
 

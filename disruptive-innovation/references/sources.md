@@ -8,6 +8,8 @@
 
 - Christensen, Clayton M. & Raynor, Michael E. (2003). *The Innovator's Solution: Creating and Sustaining Successful Growth.* Harvard Business School Press. Introduces the low-end vs. new-market disruption distinction and the "value network" concept explaining why incumbents cannot respond. https://www.hbs.edu/faculty/Pages/item.aspx?num=19579
 
+- Ghemawat, Pankaj (1992). "Nucor at a Crossroads." Harvard Business School Case 793-039. Company-level primary teaching case on Nucor's thin-slab casting decision (Crawfordsville, 1989) — the upward-migration step of the minimill disruption documented in Christensen (1997) and Christensen & Raynor (2003).
+
 - Netflix Q4 2010 Earnings Letter (primary data on subscriber count crossing 20M). Netflix Investor Relations: https://ir.netflix.net/
 
 - Blockbuster 10-K filings 2005–2009 on SEC EDGAR (late fee revenue, store count, bankruptcy filing). https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&company=blockbuster

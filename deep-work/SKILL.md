@@ -62,7 +62,7 @@ Shallow budget — %: | specific reductions:
 Defense — calendar mark: | comms norms: | output evidence to track:
 ```
 
-*→ Method in Action: [Donald Knuth and the No-Email Policy, 1990](examples/donald-knuth-no-email-policy-1990.md)*
+*→ Method in Action: [Donald Knuth and the No-Email Policy, 1990](examples/donald-knuth-no-email-policy-1990.md) · [Carl Jung's Bollingen Tower Retreats](examples/carl-jung-bollingen-tower-retreats.md)*
 
 ## Pack: Deep Work by Role
 

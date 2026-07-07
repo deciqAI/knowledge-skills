@@ -11,4 +11,7 @@
 - Sunstein, C. R. (2002). "Probability neglect: Emotion, worst cases, and law." *Yale Law Journal*, 112(1), 61-107.
 - Pachur, T., Hertwig, R., & Steinmann, F. (2012). "How do people judge risks: Availability heuristic, affect heuristic, or both?" *Journal of Experimental Psychology: Applied*, 18(3), 314-330.
 - Flyvbjerg, B. (2006). "From Nobel Prize to project management: Getting risks right." *Project Management Journal*, 37(3), 5-15.
+- Gigerenzer, G. (2004). "Dread Risk, September 11, and Fatal Traffic Accidents." *Psychological Science*, 15(4), 286-287.
+- Gigerenzer, G. (2006). "Out of the frying pan into the fire: Behavioral reactions to terrorist attacks." *Risk Analysis*, 26(2), 347-351.
+- Sivak, M., & Flannagan, M. J. (2003). "Flying and driving after the September 11 attacks." *American Scientist*, 91(1), 6-8.
 - Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. ISBN 978-0374275631.

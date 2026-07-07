@@ -63,7 +63,7 @@ Corrected estimate: <value> | Adjustment rationale:
 Decision implications: | Calibration log:
 ```
 
-*→ Method in Action: [Tversky and Kahneman's 1973 Availability Studies](examples/tversky-and-kahnemans-1973-availability-studies.md)*
+*→ Method in Action: [Tversky and Kahneman's 1973 Availability Studies](examples/tversky-and-kahnemans-1973-availability-studies.md) · [Post-9/11 Flight Avoidance and Road Fatalities](examples/post-9-11-flight-avoidance-and-road-fatalities.md)*
 
 ## Pack: Availability Bias Patterns
 

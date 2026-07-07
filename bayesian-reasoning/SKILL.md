@@ -68,7 +68,7 @@ Independence check:
 Decision threshold:  Action:  Next evidence:
 ```
 
-*→ Method in Action: [Sally Clark Case (1999)](examples/sally-clark-1999.md)*
+*→ Method in Action: [Sally Clark Case (1999)](examples/sally-clark-1999.md) · [Air France 447 Search (2009–2011)](examples/air-france-447-search.md)*
 
 ---
 

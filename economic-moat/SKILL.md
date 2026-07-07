@@ -65,7 +65,7 @@ Smart attacker: attack / cost + time / P(success)
 Assessment: width / primary source(s) / duration / operational implication
 ```
 
-*→ Method in Action: [Buffett's See's Candies, 1972-present](examples/buffetts-sees-candies-1972-present.md)*
+*→ Method in Action: [Buffett's See's Candies, 1972-present](examples/buffetts-sees-candies-1972-present.md) · [Kodak's Film Moat Erosion, 1975-2012](examples/kodaks-film-moat-erosion-1975-2012.md)*
 ## Pack: Moat Source Patterns
 
 | Source | Canonical example | Key signal | Common failure |

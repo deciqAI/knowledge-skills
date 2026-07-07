@@ -64,7 +64,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 - Falsifier: <what outcome would tell me the diagnosis is wrong>
 ```
 
-*→ Method in Action: [John Boyd and the F-86 vs MiG-15, Korean War 1950-1953](examples/john-boyd-f86-vs-mig15-korean-war-1950-1953.md)*
+*→ Method in Action: [John Boyd and the F-86 vs MiG-15, Korean War 1950-1953](examples/john-boyd-f86-vs-mig15-korean-war-1950-1953.md) · [Gulf War "Left Hook" and Maneuver-Warfare Doctrine](examples/gulf-war-left-hook-maneuver-warfare-1991.md)*
 
 ## Pack: OODA Patterns in Business
 

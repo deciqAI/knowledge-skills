@@ -60,7 +60,7 @@ Run the **First-Principles Teardown** (7 steps → one artifact). Do not skip th
 
 **Output template:** `Claim / Assumptions (tagged) / Bedrock / Reconstruction / What changes / Confidence & open questions`
 
-*→ Method in Action: [Wright Brothers and the Lift Tables (1901)](examples/wright-brothers-1901.md)*
+*→ Method in Action: [Wright Brothers and the Lift Tables (1901)](examples/wright-brothers-1901.md) · [SpaceX and the Cost of a Rocket (2002–2008)](examples/spacex-rocket-cost-2002.md)*
 
 ## Bedrock Packs
 

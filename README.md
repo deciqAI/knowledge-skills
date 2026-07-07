@@ -25,6 +25,8 @@ npx skills add deciqAI/knowledge-skills --skill first-principles
 
 Each folder is also a self-contained `SKILL.md` with `examples/` and `references/` — copy it into your agent's skills directory directly if you prefer.
 
+> Useful? **[Star this repo](https://github.com/deciqAI/knowledge-skills/stargazers)** — stars are how other agent builders find it.
+
 ---
 
 ## The skills
