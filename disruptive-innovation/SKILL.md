@@ -16,7 +16,7 @@ Compose with neighbors: [s-curve-technology-adoption](../s-curve-technology-adop
 
 ## When to Use
 
-Apply when: founder choosing market entry to avoid head-to-head; incumbent assessing low-price entrant threat; investor evaluating startup structural advantage; product team defining what to deliberately exclude from MVP.
+Apply when: founder choosing market entry to avoid head-to-head; incumbent assessing low-price entrant threat; investor evaluating startup structural advantage; product team defining what to deliberately exclude from MVP; someone asks whether AI agents / usage-based (per-outcome) pricing are disrupting seat-based SaaS incumbents or just a feature they'll absorb.
 
 **When NOT to use:** market requires absolute performance / no "good enough" threshold (aircraft engines, Class III devices); purely a price war with no cost-structure asymmetry; someone labeling every new entrant "disruptive" (Uber is sustaining innovation); insufficient data to assess overshooting.
 
@@ -59,6 +59,7 @@ Disruption Verdict: genuine / partial / no — if no, label accurately / primary
 ```
 
 *→ Method in Action: [Netflix vs. Blockbuster (1997–2010)](examples/netflix-vs-blockbuster-1997-2010.md) · [Steel Minimills vs. Integrated Mills (1965–2001)](examples/steel-minimills-vs-integrated-mills-1965-2001.md)*
+*→ 2026 lens: [AI agents vs. seat-based SaaS (2023–2026)](examples/ai-agents-vs-seat-based-saas-2023-2026.md) — is agentic AI disrupting incumbents, or just a seat add-on they'll absorb?*
 
 ## Disruption Packs
 

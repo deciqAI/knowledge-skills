@@ -20,6 +20,7 @@ Composes with [`pareto-principle`](../pareto-principle/SKILL.md) (80-20 is the m
 - Prioritizing customers, channels, content, or features where a small number account for most value
 - Assessing business risk — Gaussian risk models (VaR, std dev) systematically underestimate extreme risk
 - Any domain where "average" is the planning assumption and extreme outcomes are possible
+- Evaluating AI/compute concentration — AI capex, chip export controls, frontier-lab funding, or "AI bubble" questions where value is capturing into a thin tail of companies
 
 **Not when:** distribution is demonstrably Gaussian; stakes are low enough that shape doesn't affect the decision; audience will misuse power-law framing as nihilism.
 
@@ -64,6 +65,8 @@ Monitoring: metric | review trigger
 ```
 
 *→ Method in Action: [Pareto 1896, Mandelbrot 1963, and VC Return Data](examples/pareto-1896-mandelbrot-1963-and-vc-return-data.md)*
+
+*→ 2026 lens: [AI & venture returns concentration — a few labs plus Nvidia capture the tail (2023–2026)](examples/ai-venture-returns-concentration-2023-2026.md)*
 
 ## Pack: Power-Law Patterns Across Business Domains
 

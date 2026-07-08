@@ -16,7 +16,7 @@ Associated with **Jeff Bezos** (D.E. Shaw → Amazon, 1994); rooted in Stoic *Pr
 
 ## When to Use
 
-Apply when: decision is **major, hard-to-reverse, asymmetric** (career pivot, founding, relocation, relationship, children); EV math feels insufficient because **units are joy/meaning/identity**; hesitation is emotional, not analytical; user says "what would my 80-year-old self think?", "if I never try this will I regret it?", "I keep hesitating but the math is clear."
+Apply when: decision is **major, hard-to-reverse, asymmetric** (career pivot, founding, relocation, relationship, children); EV math feels insufficient because **units are joy/meaning/identity**; hesitation is emotional, not analytical; user says "what would my 80-year-old self think?", "if I never try this will I regret it?", "I keep hesitating but the math is clear," "should I quit big tech to go all-in on AI / join the AI wave / start a company now (bubble or export-control fears notwithstanding)?"
 
 **When NOT to use:** routine reversible decisions; EV is genuinely the right unit (portfolio allocation, pricing); framework being re-run weekly (procrastination); both regrets are unlivable (redesign the choice instead).
 
@@ -63,6 +63,7 @@ Re-open trigger: only if <specific observable evidence> before <date>.
 ```
 
 *→ Method in Action: [Jeff Bezos, D.E. Shaw → Amazon (1994)](examples/jeff-bezos-de-shaw-amazon-1994.md) · [Gilovich & Medvec, the Evidence for the Age-80 Test (1995)](examples/gilovich-medvec-regret-of-inaction-1995.md)*
+*→ 2026 lens: [The "go all-in on AI" career / founder decision (2023–2026)](examples/go-all-in-on-ai-career-2023-2026.md) — quit big tech for the AI wave, or stay?*
 
 ## Regret Packs
 

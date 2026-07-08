@@ -1,0 +1,37 @@
+# Method in Action: "The Next OpenAI" — Representativeness in AI-Startup Investing (2023–2026)
+
+> *Example for the [representativeness-heuristic](../SKILL.md) skill.*
+
+After ChatGPT's launch in late 2022, venture investing tilted heavily toward AI. By 2024–2025, a recurring pitch-meeting sentence became the tell: *"This founder looks like the next OpenAI"* or *"this company has the profile of the next Stripe."* The judgment was driven by resemblance to a celebrated prototype — ex-frontier-lab researchers, a Stanford/MIT pedigree, a demo that feels magical, a fast-rising usage chart — rather than by the base rate at which such companies actually become durable winners. This is the representativeness heuristic operating at the center of capital allocation, and it produces exactly the three errors Tversky and Kahneman named.
+
+**Step 1 — Identify judgment + profile.** The probability estimate: "this company will become a category-defining, venture-scale outcome." The profile driving it: the founder *resembles* the archetype assembled from a handful of visible megasuccesses — pedigreed technical founder, "we're building AGI / the platform layer" narrative, an impressive demo, and steep early adoption. None of these features is a base rate; each is a similarity signal. When an investor says "I know a generational founder when I see one," representativeness is at maximum activation.
+
+**Step 2 — Reference class + base rate.** The relevant reference class is venture-backed startups, and the durable base rate is unforgiving: the large majority of venture-backed companies fail to return meaningful capital, and venture returns are governed by a power law in which a very small number of investments drive most of the fund's return. That pattern is long-documented — Sequoia and others have publicly described how a handful of deals produce the bulk of returns, and academic work on venture portfolios shows returns are highly concentrated in a few winners. Inside AI specifically, an added base-rate problem appears: many application-layer startups sit on top of a foundation model they do not control, so their gross margins and defensibility depend on a supplier that can raise prices or ship the same feature. The base rate was almost never stated *before* the profile was assessed — the signature of representativeness.
+
+**Step 3 — Conjunction test.** AI pitches are unusually rich in conjunctions, and each added clause makes the story *feel* more probable while making it mathematically *less* so (P(A AND B) ≤ P(A)). Consider the composite thesis: "This company will (A) reach hundreds of millions in revenue, AND (B) build a proprietary data moat, AND (C) stay ahead of the frontier labs, AND (D) not be commoditized by the next base-model release." Each conjunct is individually uncertain; their conjunction is strictly less likely than the least likely component. Yet the detailed, coherent narrative reads as *more* credible than the bare claim "this company will be big" — the Linda-problem structure transplanted into a term sheet. The coherence of the story is being mistaken for the probability of the outcome.
+
+**Step 4 — Bayesian correction.** Start from the base rate, never from the profile. Prior: a low probability of a venture-scale outcome for any given company. Then ask the honest likelihood-ratio question: how much more often does the "looks like the next OpenAI" profile appear among the eventual winners than among the thousands of well-pedigreed, great-demo companies that quietly failed? Because the flashy profile is *common* among failures too, the likelihood ratio is far smaller than the prototype-matching intuition assumes — so the posterior stays close to the sobering prior. A strong profile should nudge the estimate, not replace it.
+
+**Step 5 — Prototype audit.** The "next OpenAI / next Stripe" prototype is built almost entirely from survivors. The prototype-defining features (elite pedigree, bold AGI framing, viral demo) were shared by a large population of companies that raised, burned capital, and disappeared — and those failures are largely invisible, so they never enter the prototype. The 2000 dot-com era is the cautionary base rate: many companies that "looked like the obvious internet winners" did not survive, while some eventual giants looked unremarkable early. Auditing the prototype means asking the one question the pattern-match skips: *how many companies that matched this exact profile failed, and what did they look like on the day we would have funded them?*
+
+**Step 6 — Calibrated output.**
+```
+Base rate: low (most venture-backed startups do not return meaningful capital; AI app-layer adds supplier/commoditization risk)
+Profile adjustment: modest positive — pedigree/demo/growth are weak signals, common among failures too
+Corrected estimate: still low in absolute terms; profile does not override the power-law prior
+Conjunction: P(big AND moat AND stays-ahead AND not-commoditized) ≤ P(big) — decompose and price each clause
+Recommendation: proceed only via portfolio construction sized for the power law (many small bets, expect most to fail),
+                not via conviction from prototype resemblance; gather base-rate and margin data before concentrating
+```
+
+**Transfer and the honest caveat.** The same structure recurs in adjacent 2024–2026 debates: "AI capex will obviously pay off because this looks like the early internet" (analogy to a survivor prototype, base rate of infrastructure-buildout ROI ignored); "adoption is exploding, so revenue durability is proven" (a steep early curve read as a causal state, like the basketball hot hand); and sky-high private AI valuations justified by resemblance to prior platform winners. The caveat matters for honesty: representativeness explains why *resemblance* is over-weighted — it does **not** prove any particular AI company will fail, and it is fully compatible with a few of these companies becoming enormous winners (that is what a power law predicts). The discipline is not cynicism; it is refusing to let a vivid profile stand in for a base rate.
+
+The mapped steps:
+1. Identify judgment + profile: "the next OpenAI/Stripe" — driven by pedigree, demo, and growth, not a rate
+2. Reference class + base rate: venture-backed startups, power-law returns, most fail — usually unstated before the profile
+3. Conjunction test: "big AND moat AND stays-ahead AND not-commoditized" feels more likely but is strictly less likely
+4. Bayesian correction: the flashy profile is common among failures, so the likelihood ratio is small — posterior ≈ prior
+5. Prototype audit: the archetype is assembled from survivors; matched failures are invisible (dot-com precedent)
+6. Calibrated output: size for the power law, decompose the conjunction, price supplier/commoditization risk explicitly
+
+*Sources: Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." Science, 185(4157), 1124–1131. · Tversky, A., & Kahneman, D. (1983). "Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in Probability Judgment." Psychological Review, 90(4), 293–315. · Kahneman, D. (2011). Thinking, Fast and Slow, ch. 14–15. · On venture power-law returns: widely documented in venture-capital practice and research (e.g., Sequoia Capital's public description of return concentration; academic analyses of concentrated venture portfolio returns). · Historical prototype-failure base rate: the 2000–2001 dot-com collapse, in which many "obvious internet winners" did not survive.*

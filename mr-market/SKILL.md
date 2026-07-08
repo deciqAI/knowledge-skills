@@ -21,6 +21,7 @@ Composes with [`margin-of-safety`](../margin-of-safety/SKILL.md) (price discipli
 - Acquisition pricing where comparable transaction markets have moved sharply
 - Any decision where a quoted price or implied valuation is pressuring your judgment
 - Someone says "the market is telling us," "valuation has dropped/risen," "everyone is doing X"
+- AI-era mega-cap volatility: "is this an AI bubble," "should I sell on the chip-stock crash / export-control headline," "AI capex boom," "the whole market moved on one AI headline"
 
 **Not when:** the quote reflects genuine new business information (not mood); forced sale or liquidity requirement; asset has no underlying value independent of its price (pure speculation).
 
@@ -67,6 +68,7 @@ Re-evaluation trigger (date):
 ```
 
 *→ Method in Action: [Graham 1949, Buffett 1987 + 2008](examples/graham-1949-buffett-1987-2008.md)*
+*→ 2026 lens: [Nvidia's manic-depressive quote & the CUDA moat (2023–2026)](examples/nvidia-manic-depressive-2023-2026.md)*
 
 ## Pack: Application Patterns
 

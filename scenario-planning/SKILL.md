@@ -14,7 +14,7 @@ Scenario planning accepts that certain futures are genuinely *unknowable* and pr
 
 ## When to Use
 
-Apply when: decision is large and hard to reverse; 3+ year horizon with a genuinely bi-directional driver; non-consensus outcome would be catastrophic; macro forces (geopolitics, regulation, technology) are pivotal.
+Apply when: decision is large and hard to reverse; 3+ year horizon with a genuinely bi-directional driver; non-consensus outcome would be catastrophic; macro forces (geopolitics, regulation, technology) are pivotal; a bet hinges on whether AI capex / AI valuations sustain or correct, or on how AI adoption and chip-supply policy unfold; or you are weighing how deep an AI-vendor commitment or multi-year enterprise AI-adoption bet to make while pricing, compute supply, and vendor viability are unsettled.
 
 **When NOT to use:** Tactical/short-reversibility decisions; single measurable driver (use sensitivity analysis); team lacks authority to change strategy; as a substitute for execution.
 
@@ -59,6 +59,7 @@ Leading Indicators & Monitoring (scenario / indicator / threshold / owner / cade
 ```
 
 *→ Method in Action: [Shell Group Planning and the 1973 Oil Crisis](examples/shell-group-planning-1973-oil-crisis.md)*
+*→ 2026 lens (buyer's seat): [An Enterprise Buyer's AI-Adoption Bet Under the Capex + Chip Fog (2024–2026)](examples/enterprise-ai-adoption-under-capex-and-chip-fog-2024-2026.md)*
 
 ## Scenario Packs
 

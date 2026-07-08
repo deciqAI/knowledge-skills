@@ -17,6 +17,7 @@ Neighbors: [first-principles](../first-principles/SKILL.md) · [occams-razor](..
 - Decision **repeats many times** — capital allocation, position sizing, VC portfolio, ad spend, A/B test budget
 - *How big to bet* matters as much as *whether to bet*; you have a **measurable or estimable edge**
 - Someone says: "expected value," "EV," "Kelly," "optimal bet size," "how much should we put on this?"
+- Sizing bets in a boom with power-law payoffs and possible ruin — **how much to allocate to AI startups / GPU-compute capex / AI-exposed equities** given frothy AI valuations, uncertain AI adoption, and correlated bets
 
 **When NOT to use:** one-shot life decisions → [regret-minimization](../regret-minimization/SKILL.md); negative-EV bets (don't bet); unestimable probabilities; correlated bets without portfolio adjustment.
 
@@ -58,6 +59,7 @@ Run the **EV-Kelly Sizing** (EV → Kelly → fractional Kelly → stop trigger)
 ## Correlation check: bets independent? <yes/no — adjustment>
 ```
 *→ Method in Action: [Ed Thorp, Blackjack, and Princeton-Newport (1961 → 1988)](examples/ed-thorp-blackjack-and-princeton-newport-1961-1988.md) · [Bill Benter, Hong Kong Horse Racing (1985 → 2001)](examples/bill-benter-hong-kong-horse-racing-1985-2001.md)*
+*→ 2026 lens: [Sizing Hyperscaler GPU/Compute Capex (2023–2026)](examples/hyperscaler-gpu-capex-kelly-2023-2026.md) — one CFO's repeated capex bet: wide CI, stranded-capital ruin tail, and fractional Kelly as staged, survivable capex.*
 ## Sizing Packs
 
 | Domain | Fractional-Kelly | Stop trigger |

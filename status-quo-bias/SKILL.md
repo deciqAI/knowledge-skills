@@ -19,6 +19,7 @@ Two directions: (1) **Design** — choose defaults that serve user interests, no
 - A product or system default needs to be designed or redesigned
 - Decision-maker is "leaning toward no change" but cannot articulate a positive case for the status quo
 - Benefits elections, 401(k) enrollment, subscription renewals, or governance votes are being designed
+- An organization is deferring AI adoption — defaulting to incumbent SaaS/vendors or existing workflows over AI-native alternatives, or waiting on AI capex/adoption decisions — and framing the delay as prudence
 
 **Not when:** status quo was explicitly evaluated and found optimal; primary mechanism is risk aversion (use [`loss-aversion-prospect-theory`](../loss-aversion-prospect-theory/SKILL.md)).
 
@@ -57,6 +58,7 @@ Default design justification: | Decision: [ ] Override [ ] Accept [ ] Redesign |
 ```
 
 *→ Method in Action: [Samuelson & Zeckhauser 1988 + Johnson & Goldstein 2003](examples/samuelson-zeckhauser-1988-johnson-goldstein-2003.md) · [NJ–PA Auto Insurance Defaults](examples/new-jersey-pennsylvania-auto-insurance-defaults.md)*
+*→ 2026 lens: [Enterprise AI Adoption and the Incumbent-Vendor Default (2023–2026)](examples/enterprise-ai-adoption-incumbent-default-2023-2026.md)*
 
 ## Pack: Status Quo Bias Across Domains
 

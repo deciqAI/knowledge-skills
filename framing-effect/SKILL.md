@@ -22,6 +22,7 @@ Composes with [`loss-aversion-prospect-theory`](../loss-aversion-prospect-theory
 - Evaluating persuasive communication: ad, political message, medical recommendation, pitch
 - Team moving toward a decision whose framing was not chosen neutrally
 - You suspect manipulation by frame choice
+- Framing a market or capex bet as "visionary investment" vs "bubble/overbuild" (e.g. AI capex, AI valuations, or AI-adoption spend cast as gain vs loss on identical facts)
 
 **Not when:** the alternative frame is genuinely misleading (not logically equivalent); analysis cost exceeds decision stakes.
 
@@ -62,6 +63,8 @@ Decision taken: [choice + justification]
 ```
 
 *→ Method in Action: [Tversky and Kahneman's 1981 "Asian Disease" Study](examples/tversky-and-kahnemans-1981-asian-disease-study.md)*
+
+*→ 2026 lens: [AI Capex — "Visionary Investment" vs "Bubble Overbuild" (2024–2026)](examples/ai-capex-visionary-investment-vs-bubble-overbuild-2024-2026.md)*
 
 ## Pack: Framing Patterns
 

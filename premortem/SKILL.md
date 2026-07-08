@@ -18,6 +18,7 @@ Composes with [`inversion`](../inversion/SKILL.md) (premortem is inversion made 
 - When the team has converged quickly on a single plan with little visible dissent
 - When a previous similar effort failed and the team is about to repeat the pattern
 - At project milestones to identify emerging failure modes
+- Before committing to an AI product launch, model migration, or AI capex/growth spend where model commoditization, inference unit economics, a safety incident, or stretched AI valuations could break the plan within a year
 
 **Not when:** small reversible decision; equivalent rigorous risk analysis already done; Chaotic domain (action before analysis); time-critical where premortem delays response.
 
@@ -67,6 +68,7 @@ Re-premortem date:
 ```
 
 *→ Method in Action: [Klein 2007 and the Mitchell-Russo-Pennington 1989 Foundation](examples/klein-2007-mitchell-russo-pennington-1989-foundation.md)*
+*→ 2026 lens: [Back-Casting a Failed AI Agent Startup 12 Months Out (2024–2026)](examples/backcasting-ai-agent-startup-failure-2024-2026.md)*
 
 ## Pack: Application Patterns
 

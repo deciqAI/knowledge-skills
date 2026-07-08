@@ -24,6 +24,7 @@ Composes with [`network-effects`](../network-effects/SKILL.md) (demand-side comp
 - Evaluating M&A "scale synergies" — are they real or justification?
 - Deciding optimal firm size, plant size, or team size
 - Analyzing why some industries consolidate and others fragment
+- Sizing whether AI-capex / chip-fab / cloud infrastructure has a scale moat only 2–3 firms can reach, or whether export controls and re-shoring push production below minimum efficient scale
 
 **Not when:** diseconomies arrive early (boutique services, artisanal production); competitive advantage is differentiation not cost; question is demand-side value growth (use [`network-effects`](../network-effects/SKILL.md)); unit economics don't improve with volume.
 
@@ -63,6 +64,7 @@ Decision:        Below/at/beyond MES | Action | Stop rule
 ```
 
 *→ Method in Action: [Smith 1776 + Marshall 1890 + Costco 2024](examples/smith-1776-marshall-1890-costco-2024.md) · [Ford's Model T 1908–1927](examples/ford-highland-park-model-t-1908-1927.md)*
+*→ 2026 lens: [Leading-edge fab economics & TSMC's scale moat (2024–2026)](examples/tsmc-leading-edge-fab-economics-2024-2026.md)*
 
 ## Pack: Economies of Scale by Sector
 

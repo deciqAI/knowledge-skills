@@ -19,6 +19,7 @@ Apply when:
 - Evaluating debt structure of a company, sector, or economy
 - Building a risk scenario for an investment, loan, or counterparty exposure
 - Someone says: *"this time is different," "leverage has been stable," "what's the tail risk," "is this a bubble?"*
+- Assessing an AI-capex / AI-infrastructure boom, circular ("round-trip") vendor financing, GPU-collateralized debt, or whether prolonged AI-boom stability is hiding an "AI bubble"
 
 **When NOT to use:**
 - Entity has no meaningful leverage — Minsky dynamics require debt
@@ -63,6 +64,8 @@ Fragility: <High/Medium/Low> | Implication: <...>
 ```
 
 *→ Method in Action: [US Subprime Mortgage Market (2003–2008)](examples/us-subprime-mortgage-market-2003-2008.md)*
+
+*→ 2026 lens: [The AI capex financing loop (2023–2026)](examples/ai-capex-circular-financing-2023-2026.md) — circular vendor financing among Nvidia, OpenAI, Oracle, CoreWeave and the hyperscalers*
 
 ## Minsky Packs
 

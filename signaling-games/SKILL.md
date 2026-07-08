@@ -20,6 +20,7 @@ Apply when:
 - You're **designing a credential, certification, warranty, or brand investment**
 - You're trying to **break into a market** with a signal competitors can't cheaply imitate
 - You need to **detect** real quality among multiple claimants
+- You're reading **geopolitical or policy moves as costly signals** — chip export controls, sanctions, AI-capex commitments, or a rival's public capability demo read as signals of hidden capability or resolve
 
 **When NOT to use:** information is symmetric; signal cost is the same for both types (expense, not signal); one-shot low-stakes interaction where direct verification is cheap.
 
@@ -70,6 +71,7 @@ Run the **Signaling Diagnosis**:
 ```
 
 *→ Method in Action: [Michael Spence, "Job Market Signaling," 1973](examples/michael-spence-job-market-signaling-1973.md)*
+*→ 2026 lens: [US advanced-chip export controls as a signaling game (2022–2026)](examples/us-chip-export-controls-2022-2026.md) — thresholds, the H20/China episodes, and rare-earth countermoves as costly signals of capability and resolve*
 
 ## Pack: Common Signaling Mechanisms
 

@@ -21,6 +21,7 @@ Composes with [`loss-aversion-prospect-theory`](../loss-aversion-prospect-theory
 - Advising a founder or asset owner on why their valuation differs from market offers
 - Structuring earnouts or deferred consideration to bridge a valuation gap
 - Detecting why a team is reluctant to abandon a feature or strategy they built (IKEA effect variant)
+- Deciding "build vs. buy" on AI — a team overvaluing its in-house model, dataset, or codebase versus a stronger/cheaper external foundation model, or a founder anchoring on a peak AI valuation in M&A/wind-down talks
 
 **Not when:** valuation difference is genuine information asymmetry; pure commodity with transparent market price; evaluating policy-level defaults (use [`status-quo-bias`](../status-quo-bias/SKILL.md)).
 
@@ -63,6 +64,8 @@ Decision:
 ```
 
 *→ Method in Action: [Kahneman, Knetsch & Thaler 1990 — The Cornell Mug Experiment](examples/kahneman-knetsch-thaler-1990-the-cornell-mug-experiment.md)*
+
+*→ 2026 lens: [The In-House Model Trap and Founder Valuation in the AI Cycle (2023–2026)](examples/ai-model-and-startup-valuation-endowment-2023-2026.md)*
 
 ## Pack: Endowment Effect Across Domains
 

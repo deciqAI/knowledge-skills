@@ -18,6 +18,7 @@ Composes with [`probabilistic-thinking`](../probabilistic-thinking/SKILL.md), [`
 - Someone says "I knew this would happen" without contemporaneous records
 - A decision is being evaluated against its outcome rather than the information available when made
 - An investor, judge, or jury evaluates a past decision with knowledge of how it turned out
+- Someone calls a market move "obvious in retrospect" — e.g. the AI boom, AI capex buildout, or frontier-AI valuations were "clearly inevitable" / "anyone should have seen the AI adoption wave coming"
 
 **Not when:** pre-commitment documentation exists and matches current memory; the goal is pattern-recognition from outcomes; the failure to predict was a genuine process failure with clear pre-outcome signals.
 
@@ -63,6 +64,7 @@ Structural fix (decision journal owner / pre-mortem owner / blind post-mortem pr
 ```
 
 *→ Method in Action: [Baruch Fischhoff's Nixon-China Trip Study, 1972-1975](examples/baruch-fischhoffs-nixon-china-trip-study-1972-1975.md) · [Anesthesia Malpractice Outcome-Bias Study, 1991](examples/caplan-posner-cheney-anesthesia-outcome-study-1991.md)*
+*→ 2026 lens: ["The AI Boom Was Obviously Coming" — retrospective inevitability in the ChatGPT/Nvidia era (2022–2026)](examples/ai-boom-obviously-coming-hindsight-2022-2026.md)*
 
 ## Pack: Hindsight Bias Patterns
 

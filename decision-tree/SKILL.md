@@ -17,6 +17,7 @@ Composes with [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md)
 - Outcomes uncertain; probabilities can be estimated (even roughly)
 - Payoffs quantifiable (NPV, revenue, cost, lives saved)
 - Multiple stakeholders need a shared visual model to align on assumptions
+- Sizing a big irreversible bet under AI uncertainty — build vs. buy vs. wait on AI capex, a fab investment, or committing while AI adoption / AI valuations are unproven
 
 **Not when:** one-shot choice with no stages; probabilities unestimable; payoffs purely qualitative; branch set too large (use scenario planning instead).
 
@@ -63,6 +64,7 @@ Recommendation: [option] — holds if [condition]; flips if [condition]
 ```
 
 *→ Method in Action: [Magee 1964 — Chemical Plant Investment (HBR)](examples/magee-1964-chemical-plant-investment-hbr.md) · [Eisenhower's D-Day Weather Decision](examples/eisenhower-1944-d-day-weather-decision.md)*
+*→ 2026 lens: [A Chipmaker's Leading-Edge Fab Investment Under AI Uncertainty (2024–2026)](examples/chipmaker-leading-edge-fab-investment-2024-2026.md)*
 
 ## Pack: Decision Tree by Domain
 

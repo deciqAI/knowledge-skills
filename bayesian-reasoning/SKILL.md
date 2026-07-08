@@ -19,6 +19,7 @@ Composes with [`probabilistic-thinking`](../probabilistic-thinking/SKILL.md) (Ba
 - "Evidence is consistent with X" is being treated as proof of X
 - Base rates ignored — a rare event treated as probable because evidence "looks like" it
 - Correlated evidence pieces treated as independent updates
+- A benchmark score, AI-capability claim, AI-adoption stat, or AI-capex/valuation figure is being treated as proof without asking how often that signal appears when the underlying claim is false
 - Someone says "Bayesian," "prior," "posterior," "base rate," "likelihood ratio," "update"
 
 **Not when:** genuinely deterministic; no data to anchor a prior; cost of formal update exceeds the value of being more right.
@@ -69,6 +70,7 @@ Decision threshold:  Action:  Next evidence:
 ```
 
 *→ Method in Action: [Sally Clark Case (1999)](examples/sally-clark-1999.md) · [Air France 447 Search (2009–2011)](examples/air-france-447-search.md)*
+*→ 2026 lens: [Updating Beliefs About AI Capability and Safety From Eval Results (2023–2026)](examples/ai-capability-safety-belief-updating-2023-2026.md)*
 
 ---
 

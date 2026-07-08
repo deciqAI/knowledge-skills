@@ -14,7 +14,7 @@ A specific cognitive mode for running an early-stage company — different from 
 
 ## When to Use
 
-Apply when: running an early-stage company (hire/fire/pivot/raise/cut burn decisions) · comfort-seeking is creeping in · cannot tell if on path to success or slow death · team is scaling prematurely · a specific hard problem has been on the list > 2 weeks · someone says *"founder mindset," "founder mode," "default alive or default dead," "do things that don't scale," "am I avoiding the hard thing?"*
+Apply when: running an early-stage company (hire/fire/pivot/raise/cut burn decisions) · comfort-seeking is creeping in · cannot tell if on path to success or slow death · team is scaling prematurely · a specific hard problem has been on the list > 2 weeks · deciding how much to raise/burn/hire amid the AI-startup gold rush (abundant capital, AI bubble talk, tiny high-agency teams) · someone says *"founder mindset," "founder mode," "default alive or default dead," "do things that don't scale," "am I avoiding the hard thing?"*
 
 **When NOT to use:** mature well-understood business · employee within a startup · purely tactical decision · "founder mindset" as performative identity.
 
@@ -60,6 +60,8 @@ Re-audit: every Monday
 ```
 
 *→ Method in Action: [Paul Graham's Essays and the YC Portfolio (2005–2024)](examples/paul-graham-essays-yc-portfolio-2005-2024.md)*
+
+*→ 2026 lens: [AI-native "founder mode" and the tiny high-agency team (2023–2026)](examples/ai-native-founder-mode-tiny-teams-2023-2026.md)*
 
 ## Founder Packs
 

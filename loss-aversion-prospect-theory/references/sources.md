@@ -13,3 +13,6 @@
 - Gal, D., & Rucker, D. D. (2018). "The loss of loss aversion: Will it loom larger than its gain?" *Journal of Consumer Psychology*, 28(3), 497-516.
 - Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. ISBN 978-0374275631.
 - Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving Decisions About Health, Wealth, and Happiness.* Yale University Press. ISBN 978-0300122237.
+- Shefrin, H., & Statman, M. (1985). "The disposition to sell winners too early and ride losers too long: Theory and evidence." *Journal of Finance*, 40(3), 777-790. Names the disposition effect and grounds it in prospect theory. (Cited in the 2023–2026 AI-drawdown example.)
+- Odean, T. (1998). "Are investors reluctant to realize their losses?" *Journal of Finance*, 53(5), 1775-1798. Large-brokerage evidence that investors sell winners at a higher rate than losers.
+- Contemporary reporting on the January 27, 2025 DeepSeek-driven sell-off in AI-exposed equities and the record single-session decline in Nvidia's market value — widely covered by Reuters, Bloomberg, and the Financial Times (late January 2025). Used as the dated anchor for the 2023–2026 disposition-effect example.

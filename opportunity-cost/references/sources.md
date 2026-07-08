@@ -10,3 +10,5 @@
 - Buffett, W. E. (2003). Berkshire Hathaway Chairman's Letter. Available at berkshirehathaway.com.
 - Grove, A. S. (1983). *High Output Management.* Random House. ISBN 978-0679762881. Opportunity cost applied to management.
 - Hazlitt, H. (1946). *Economics in One Lesson.* Harper & Brothers. ISBN 978-0517548233. A 20th-century re-presentation of Bastiat's argument.
+- Nvidia Corporation (2024–2025). Investor relations and quarterly financial filings, fiscal 2024–2025. investor.nvidia.com and nvidianews.nvidia.com. Data-center revenue growth and market-capitalization milestones — a market-priced signal of AI-compute capital flows; context for the 2023–2026 AI-era opportunity-cost example.
+- OpenAI and Anthropic (2023–2025). Public model and API pricing announcements (per-token price reductions; lower-cost model tiers). openai.com and anthropic.com. Documents the falling price of "renting" frontier intelligence that reshaped the build-vs-rent opportunity-cost calculus.

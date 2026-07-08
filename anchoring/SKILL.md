@@ -21,6 +21,7 @@ Apply when:
 - Estimating an uncertain quantity after a number has already been mentioned
 - A counterparty has opened and your reasoning is gravitating toward their number
 - Resetting expectations after an anchor has already been set
+- Sizing an AI startup valuation, raise, or AI-capex/adoption estimate where a headline round or a benchmark like Nvidia's market cap has already been floated as "the market"
 
 **When NOT to use:**
 - The number is genuinely informative (verifiable comparable, audited cost basis) — data, not an anchor
@@ -64,6 +65,7 @@ Risk anchor still operating: […] (how I'll know if I've been pulled too far)
 ```
 
 *→ Method in Action: [Tversky & Kahneman's Wheel of Fortune, 1974](examples/tversky-kahneman-wheel-of-fortune-1974.md) · [Judges Playing Dice with Criminal Sentences, 2006](examples/englich-judges-dice-criminal-sentences-2006.md)*
+*→ 2026 lens: [AI Fundraising and Valuation Anchors (2023–2026)](examples/ai-fundraising-valuations-anchoring-2023-2026.md) — headline AI rounds and Nvidia's market cap anchoring the next valuation*
 
 ## Pack: Anchoring in Practice
 

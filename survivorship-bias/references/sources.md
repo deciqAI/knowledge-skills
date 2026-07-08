@@ -11,3 +11,5 @@
 - Thiel, P. & Masters, B. (2014). *Zero to One: Notes on Startups.* Crown Business. ISBN 978-0804139298. The startup-context articulation.
 - Taleb, N. N. (2001). *Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets.* Random House. ISBN 978-0812975215. Sustained treatment of survivorship bias in finance.
 - Ioannidis, J. P. A. (2005). "Why Most Published Research Findings Are False." *PLoS Medicine*, 2(8), e124. Publication bias as survivor bias at the meta-research level.
+- U.S. Bureau of Labor Statistics, Business Employment Dynamics — Entrepreneurship and the U.S. Economy / establishment survival rates. https://www.bls.gov/bdm/ . Baseline population failure rate for new U.S. businesses (roughly half survive five years) — the denominator that AI-startup survivor claims omit.
+- Reuters / Associated Press (January 27–28, 2025). Reporting on the DeepSeek-triggered AI-stock sell-off, including Nvidia's record single-day market-value decline (widely reported at approximately $600 billion). Public market repricing of the thin-moat "AI wrapper" thesis.

@@ -14,7 +14,7 @@ Composes with [`antifragile`](../antifragile/SKILL.md), [`probabilistic-thinking
 
 ## When to Use
 
-Use when: a risk model assumes normality in a fat-tailed domain; "never happened in N years" dismisses tail risk; strategy assumes stable environment; you're constructing a retrospective narrative; stress-testing against extreme scenarios; someone says "fat tails / Taleb / narrative fallacy / turkey problem."
+Use when: a risk model assumes normality in a fat-tailed domain; "never happened in N years" dismisses tail risk; strategy assumes stable environment; you're constructing a retrospective narrative; stress-testing against extreme scenarios; someone says "fat tails / Taleb / narrative fallacy / turkey problem"; a thesis rests on a one-directional trend like "AI demand can only go up," AI-capex payoff, or concentrated mega-cap / AI-bubble exposure.
 
 **Not when:** domain is genuinely Mediocristan; "black swan" is being used to excuse a foreseeable planning failure.
 
@@ -68,6 +68,7 @@ Resist "we should have seen it coming." Ask: *what was the epistemic state of we
 ```
 
 *→ Method in Action: [Long-Term Capital Management Collapse, 1998](examples/long-term-capital-management-collapse-1998.md) · [Fukushima Daiichi Tsunami, 2011](examples/fukushima-daiichi-tsunami-2011.md)*
+*→ 2026 lens: [Concentration risk in the AI trade (2023–2026)](examples/ai-trade-concentration-2023-2026.md)*
 
 ## Pack: Black Swan Domains
 

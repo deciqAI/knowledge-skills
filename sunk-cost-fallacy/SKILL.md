@@ -15,6 +15,7 @@ The **sunk-cost fallacy** is the tendency to let prior, irrecoverable investment
 - A project, feature, position, or relationship is being maintained despite negative marginal returns
 - Decision-makers defend the original choice rather than evaluating current trajectory
 - Team is doubling down after failure without re-examining the underlying thesis
+- "We already built our own model / spent the AI capex" is the reason to keep an in-house or on-prem AI stack instead of migrating to a cheaper, better hosted model — or a founder keeps a commoditized AI-wrapper going because of prior investment despite falling API prices and rising foundation-model capability
 
 **Not when:** prior investment genuinely reduces future marginal costs; negative signal is short-term variance; cost of switching exceeds cost of continuing.
 
@@ -61,6 +62,7 @@ Structural fix: [kill criteria / stage gate / fresh-eyes / decision-rights separ
 ```
 
 *→ Method in Action: [Arkes & Blumer's 1985 Studies](examples/arkes-blumers-1985-studies.md) · [The Concorde Program](examples/concorde-program.md)*
+*→ 2026 lens: [AI Build-Out Sunk Costs (2023–2026)](examples/ai-buildout-sunk-costs-2023-2026.md)*
 
 ## Pack: Sunk-Cost Patterns
 

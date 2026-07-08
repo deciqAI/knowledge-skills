@@ -18,6 +18,7 @@ Composes with [`metacognition`](../metacognition/SKILL.md), [`probabilistic-thin
 - "How hard could it be?" asked about a domain the asker hasn't worked in
 - Feedback loops are absent; self-assessment is contradicted by external data and rejected
 - Someone mentions "overconfident," "doesn't know what they don't know," or "imposter syndrome" (the inverse)
+- Confidence about AI capabilities/limits, AI capex or valuations, or AI adoption after light exposure ("I built a demo, so I understand production AI"; "we can ship this AI feature in a quarter")
 
 **Not when:** person is a known expert with an external track record; domain has tight, recent feedback loops that already calibrate performance; high-confidence claim is self-deprecating (actual metacognition signal).
 
@@ -63,6 +64,7 @@ Intervention: <method> | Owner: | Re-measure:
 ```
 
 *→ Method in Action: [Kruger and Dunning's 1999 Cornell Studies](examples/kruger-and-dunnings-1999-cornell-studies.md) · [Cost Forecasts in Public Works Projects](examples/cost-forecasts-in-public-works-projects.md)*
+*→ 2026 lens: ["I Built a Demo, So I Understand Production AI" (2023–2026)](examples/llm-overconfidence-in-the-ai-wave-2023-2026.md)*
 
 ## Pack: Common Novice Overestimation Patterns
 

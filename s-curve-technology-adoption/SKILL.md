@@ -23,6 +23,7 @@ Composes with: [`feedback-loops`](../feedback-loops/SKILL.md) · [`pmf-crossing-
 - Planning a launch requiring sequenced strategy across adopter categories
 - Marketing-fit breaking — channels, messaging, or pricing that worked are no longer working
 - Forecasting market size and saturation timing; "when will this market peak?"
+- Debating whether a technology is at inflection or saturation — e.g. "is genAI an AI bubble or just getting started?", separating the adoption S-curve from the capability/scaling curve, sizing AI capex bets against adoption phase
 
 **When NOT to use:** mature saturated market (diffusion already played out); adoption driven by regulatory mandate; exogenous constraint caps the market; too little data to distinguish real diagnosis from curve-fitting.
 
@@ -62,6 +63,7 @@ Run the **S-Curve Adoption Diagnosis**. Locate, predict, restrategize.
 `Adoption data` · `Current phase + evidence` · `Saturation ceiling` · `Trajectory projection` · `Next category + requirements` · `Strategy audit (positioning/channels/sales/pricing/onboarding — works for next?)` · `Chasm risk + crossing plan` · `Second curve: what + when`
 
 *→ Method in Action: [Ryan & Gross Iowa Hybrid Corn Study (1943) and Rogers's Synthesis (1962)](examples/ryan-gross-iowa-hybrid-corn-study-1943-and-rogers-synthesis-1962.md) · [Sailing Ships vs. Steamships (1819–1920s)](examples/sailing-ships-vs-steamships-technology-substitution.md)*
+*→ 2026 lens: [Generative AI on the adoption S-curve (2022–2026): inflection vs. saturation, adoption curve vs. capability curve](examples/generative-ai-adoption-s-curve-2022-2026.md)*
 
 ## Pack: S-Curve Strategy by Phase
 

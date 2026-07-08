@@ -18,6 +18,7 @@ Composes with [`pareto-principle`](../pareto-principle/SKILL.md) (TOC = Pareto a
 - Management improvement initiative or capacity investment is being planned
 - Backlog or inventory accumulates at a specific step; local improvements don't translate system-wide
 - Someone says "bottleneck," "throughput," "Goldratt," or "Theory of Constraints"
+- Analyzing an AI capex / chip-supply-chain question — where the real limit is (e.g. GPU design vs. advanced packaging, HBM, or grid power), whether the "AI bubble" reflects a design race or a hidden physical bottleneck
 
 **Not when:** single-step system; purely demand-side constraint; problem is strategic/psychological, not operational.
 
@@ -57,6 +58,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [Goldratt's The Goal (1984) and TOC's Lineage](examples/goldratts-the-goal-1984-and-tocs-lineage.md) · [Critical Chain Project Management (1997)](examples/critical-chain-project-management-1997.md)*
+*→ 2026 lens: [The AI buildout's true constraint — packaging & power, not GPU design (2024–2026)](examples/ai-buildout-packaging-and-power-constraint-2024-2026.md)*
 
 ## Pack: TOC by Domain
 

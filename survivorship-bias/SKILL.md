@@ -21,6 +21,7 @@ Composes with [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md) (prior = po
 - A business strategy is justified by pointing to companies that used it
 - Medical / treatment success rates are reported without dropout data
 - Career advice comes from what top performers did
+- Odds of building an AI startup are inferred from the visible AI winners (funded unicorns, "wrapper" success stories) amid the AI-bubble / AI-capex debate
 
 **Not when:** population data available and filter already corrected; analysis is intentionally about survivors only with no population claim.
 
@@ -63,6 +64,7 @@ Corrected inference (conclusion, confidence, what data would settle it):
 ```
 
 *→ Method in Action: [Abraham Wald and the Statistical Research Group, 1943](examples/abraham-wald-and-the-statistical-research-group-1943.md) · [Mutual Fund Survivorship and Reported Returns, 1971–1996](examples/mutual-fund-survivorship-and-reported-returns-1996.md)*
+*→ 2026 lens: [AI-startup survivorship — funded unicorns vs the dead-wrapper graveyard (2023–2026)](examples/ai-startup-survivorship-2023-2026.md)*
 
 ## Pack: Common Survivor Patterns
 

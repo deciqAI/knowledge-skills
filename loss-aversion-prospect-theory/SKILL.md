@@ -18,7 +18,8 @@ Composes with [`sunk-cost-fallacy`](../sunk-cost-fallacy/SKILL.md), [`framing-ef
 - Negotiations are stuck because concessions feel like losses from an anchored reference point
 - A product launch, pricing, or incentive is producing unexpected adoption patterns
 - Small-probability events are being over- or under-insured against
-- Someone says "loss aversion," "prospect theory," "reference point," "endowment effect," "status quo bias"
+- An investor is holding a losing AI / Nvidia / semiconductor position waiting to "get back to breakeven," or is reacting to an AI-capex, AI-valuation, or AI-adoption drawdown (e.g. the DeepSeek shock) rather than re-deriving forward EV
+- Someone says "loss aversion," "prospect theory," "reference point," "endowment effect," "status quo bias," "disposition effect"
 
 **Not when:** the asymmetric weighting is rational (genuinely catastrophic stakes); the reference point is legitimate; the decision is small and one-shot.
 
@@ -59,6 +60,7 @@ Final choice + acknowledged distortions + rationale:
 ```
 
 *→ Method in Action: [Kahneman and Tversky's 1979 Prospect Theory](examples/kahneman-and-tversky-1979-prospect-theory.md) · [PGA Tour Par vs. Birdie Putts](examples/pope-and-schweitzer-2011-pga-tour-putting.md)*
+*→ 2026 lens: [Holding AI Positions Through Drawdowns — the Disposition Effect (2023–2026)](examples/nvidia-ai-drawdowns-disposition-effect-2023-2026.md)*
 
 ## Pack: Prospect Theory Patterns
 

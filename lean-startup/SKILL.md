@@ -16,7 +16,7 @@ A startup is a **temporary organization searching for a repeatable, scalable bus
 
 ## When to Use
 
-Apply when: high uncertainty + limited capital; a team is about to build before testing demand; a pivot-or-persevere decision is on the table; no clear answer to "what is the load-bearing assumption and how would we know if it's wrong?"
+Apply when: high uncertainty + limited capital; a team is about to build before testing demand; a pivot-or-persevere decision is on the table; you're building an AI feature on a foundation-model API and worried "the next model release will commoditize us" / "are we just a GPT wrapper?"; no clear answer to "what is the load-bearing assumption and how would we know if it's wrong?"
 
 **When NOT to use:** known business model in known conditions (execution, not search); decision is not business-model-level; cannot ethically run a test with real customers; using "lean" as a schedule excuse to ship buggy software.
 
@@ -62,6 +62,7 @@ Validated learning: <one sentence carry-forward>
 ```
 
 *→ Method in Action: [Dropbox's Video MVP (2007)](examples/dropboxs-video-mvp-2007.md) · [Votizen's Pivot Sequence (2010–2011)](examples/votizens-pivot-sequence-2010-2011.md)*
+*→ 2026 lens: [AI-native lean startups (2023–2026)](examples/ai-native-lean-startups-2023-2026.md) — when the next model release commoditizes your AI feature, that's an invalidated assumption, not bad luck*
 ## Experiment Packs
 
 | Domain | Load-bearing assumption | MVP type | Common failure |

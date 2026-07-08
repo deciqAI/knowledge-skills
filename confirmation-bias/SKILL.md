@@ -19,6 +19,7 @@ Composes with [`critical-thinking`](../critical-thinking/SKILL.md), [`bayesian-r
 - You feel confident about a claim and haven't looked for evidence against it
 - Research or due diligence keeps "validating" existing beliefs
 - Someone says "cherry-picking," "echo chamber," or "looking for what you want to see"
+- A team is committing to an AI thesis (AI capex, AI valuations, or AI adoption) by citing confirming demos and adoption while discounting failed eval results
 
 **Not when:** explicit advocacy context; very low-stakes decision; cost of disconfirmation exceeds value of decision.
 
@@ -63,6 +64,7 @@ Update conditions: trigger / re-examination date:
 ```
 
 *→ Method in Action: [Peter Wason's 2-4-6 Task, 1960](examples/peter-wasons-2-4-6-task-1960.md) · [The FBI Mayfield Fingerprint Misidentification, 2004](examples/2004-fbi-mayfield-fingerprint-misidentification.md)*
+*→ 2026 lens: [The AI Thesis War (2023–2026)](examples/ai-thesis-confirmation-2023-2026.md)*
 
 ## Pack: Confirmation Bias Patterns
 

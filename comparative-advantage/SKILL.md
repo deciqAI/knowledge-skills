@@ -17,7 +17,7 @@ Composes with [`opportunity-cost`](../opportunity-cost/SKILL.md), [`pareto-princ
 
 - Founder time allocation across activities; team division of labor
 - Build vs. buy / in-house vs. outsource decisions
-- M&A decisions; international operations / supply chain design
+- M&A decisions; international operations / supply chain design (e.g. AI-chip re-shoring, chip export controls, semiconductor vertical integration)
 - Personal career or skill specialization decisions
 
 **Not when:** situation is genuinely single-task (no B to trade off); transaction costs swamp any gains; alternative producer's capacity is fully constrained.
@@ -64,6 +64,7 @@ Caveats / re-eval trigger: ___
 ```
 
 *→ Method in Action: [Ricardo 1817 England-Portugal + Modern Applications](examples/ricardo-1817-england-portugal-modern-applications.md) · [Samuelson's Lawyer and Typist](examples/samuelson-lawyer-typist-delegation.md)*
+*→ 2026 lens: [The AI-chip supply chain — ASML, TSMC, Nvidia (2024–2026)](examples/ai-chip-supply-chain-2024-2026.md)*
 
 ## Pack: Application Patterns
 

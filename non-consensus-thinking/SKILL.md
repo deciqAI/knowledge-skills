@@ -17,6 +17,7 @@ Compose with: **[second-order-thinking]** first (trace downstream consequences);
 - Entering a market where the "right" strategy feels obvious to most participants.
 - Making an allocation decision (capital, time, hiring) where popular and correct may diverge.
 - Any situation where "everyone knows that..." appears — consensus may be unexamined.
+- A contested present-day narrative where crowd and edge may diverge (e.g. "AI capex is a bubble," chip export controls, "the scaling thesis is dead") — pressure-test whether you hold a real edge or are just picking a side.
 
 **When NOT to use:** Consensus is correct and well-evidenced; non-consensus position requires information you can't obtain; time horizon too short to vindicate the position; stakes of being wrong are catastrophic and irreversible.
 
@@ -61,6 +62,7 @@ Domain / Decision:   Date:
 ```
 
 *→ Method in Action: [Semmelweis and Childbed Fever (1847)](examples/semmelweis-and-childbed-fever-1847.md)*
+*→ 2026 lens: [Non-consensus AI bets that paid off (2016–2026)](examples/ai-scaling-bets-2016-2026.md) — scaling laws, GPUs before the boom, and the DeepSeek update trigger.*
 
 ## Contrarian Packs
 

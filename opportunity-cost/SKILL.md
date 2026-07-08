@@ -21,6 +21,7 @@ Composes with [`expected-value-and-kelly`](../expected-value-and-kelly/SKILL.md)
 - Evaluating an investment vs. holding cash (or vs. another investment)
 - Considering a "free" benefit whose hidden cost is time/attention
 - Any "this is good for X" claim that ignores the alternative use of the same resources
+- Weighing AI capex (GPU spend, model training vs. renting APIs), an AI pivot, or a quarter of roadmap/founder-time against the best forgone alternative amid 2024–2026 AI valuations and adoption
 
 **Not when:** alternatives are genuinely zero-value; resources are not scarce; decision is reversible at near-zero cost.
 
@@ -65,6 +66,7 @@ Decision + reasoning:
 ```
 
 *→ Method in Action: [Bastiat's Broken Window, 1850](examples/bastiats-broken-window-1850.md)*
+*→ 2026 lens: [AI-era opportunity cost of founder time and GPU capital (2023–2026)](examples/ai-era-founder-time-and-gpu-capital-2023-2026.md)*
 
 ## Pack: Opportunity-Cost Application Patterns
 

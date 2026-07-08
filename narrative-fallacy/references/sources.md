@@ -10,3 +10,5 @@
 - Mlodinow, L. (2008). *The Drunkard's Walk: How Randomness Rules Our Lives.* Pantheon. ISBN 978-0307275172.
 - Watts, D. J. (2011). *Everything Is Obvious: Once You Know the Answer.* Crown Business. ISBN 978-0307951793.
 - Reason, J. (1990). *Human Error.* Cambridge University Press. ISBN 978-0521314190. The "Swiss-cheese model" of complex system failures.
+- McKinsey & Company. *The State of AI* — annual global surveys (2024, 2025). Reporting rising generative-AI adoption alongside concentrated, function-specific measured value. https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai
+- U.S. Department of Commerce, Bureau of Industry and Security (BIS). Advanced-computing and semiconductor / AI-chip export-control rules to China (October 2022; October 2023; and subsequent rounds). https://www.bis.gov — context for the 2023–2026 "AI changes everything" narrative example (policy contingency vs. single-cause tech narrative).

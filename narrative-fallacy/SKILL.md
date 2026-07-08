@@ -19,6 +19,7 @@ Composes with [`hindsight-bias`](../hindsight-bias/SKILL.md), [`survivorship-bia
 - A pundit explains a market or political event with one dominant narrative — after it happened
 - You're constructing a strategy based on what worked at another company
 - Someone says "the story is too neat," "after-the-fact rationalization," or "post-hoc explanation"
+- A sweeping tech-transformation story is driving action — "AI changes everything," AI capex / GPU spend is "self-justifying," "AI bubble," or a viral demo is standing in for measured ROI
 
 **Not when:** causal structure is genuinely well-understood (physics, tested medicine); the narrative is a hypothesis to test; storytelling is the medium and you already treat it as a compression.
 
@@ -60,6 +61,7 @@ Operational lesson (revised): transferable insight / evidence base / confidence
 ```
 
 *→ Method in Action: [Taleb's 9/11 Example + Business-History Critique](examples/talebs-911-example-business-history-critique.md)*
+*→ 2026 lens: ["AI changes everything" narrative vs. measured enterprise ROI (2023–2026)](examples/ai-changes-everything-vs-measured-roi-2023-2026.md)*
 
 ## Pack: Application Patterns
 

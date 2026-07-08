@@ -18,6 +18,7 @@ Composes with [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md) (restores t
 - Any probability judgment where a vivid profile or narrative is present
 - When "she/he/it looks like X" drives a decision without a stated base rate
 - Auditing for the conjunction fallacy (more specific = seemingly more likely)
+- Judging AI startups/valuations/capex by resemblance to a prototype ("the next OpenAI/Stripe," AI capex "obviously pays off," AI adoption curves read as durable revenue)
 
 **Not when:** judgment is purely quantitative; base rate and profile align and Bayesian updating has been done explicitly.
 
@@ -57,6 +58,8 @@ Recommendation: proceed / do not proceed / gather more data
 ```
 
 *→ Method in Action: [Tversky & Kahneman 1972 + 1983 — The Linda Problem](examples/tversky-kahneman-1972-1983-the-linda-problem.md) · [The Hot Hand in Basketball](examples/gilovich-vallone-tversky-1985-the-hot-hand-in-basketball.md)*
+
+*→ 2026 lens: ["The Next OpenAI" — Representativeness in AI-Startup Investing (2023–2026)](examples/ai-startup-next-openai-pattern-matching-2023-2026.md)*
 
 ## Pack: Representativeness Across Domains
 

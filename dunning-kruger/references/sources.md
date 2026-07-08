@@ -13,3 +13,5 @@
 - Flyvbjerg, B., Holm, M. S., & Buhl, S. (2002). "Underestimating costs in public works projects: Error or lie?" *Journal of the American Planning Association*, 68(3), 279-295. The megaproject cost-overrun study behind reference class forecasting.
 - Flyvbjerg, B. (2006). "From Nobel Prize to project management: Getting risks right." *Project Management Journal*, 37(3), 5-15. Reference class forecasting as the outside-view intervention.
 - Kahneman, D. (2011). *Thinking, Fast and Slow.* Farrar, Straus and Giroux. ISBN 978-0374275631.
+- Ji, Z., Lee, N., Frieske, R., Yu, T., Su, D., Xu, Y., et al. (2023). "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys*, 55(12), 1-38. Documents the fluent-but-false failure mode newcomers to LLMs systematically underweight after light exposure.
+- Bommasani, R., Hudson, D. A., Adeli, E., et al. (2021). "On the Opportunities and Risks of Foundation Models." Stanford Center for Research on Foundation Models, arXiv:2108.07258. Frames why evaluation and safety of large models require external measurement rather than self-assessment.

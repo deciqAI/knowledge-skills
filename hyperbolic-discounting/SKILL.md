@@ -19,6 +19,7 @@ Composes with [`loss-aversion-prospect-theory`](../loss-aversion-prospect-theory
 - Procrastination is the dominant pattern on a recurring task
 - Subscriptions, free trials, or "today only" offers are producing unexpected lock-in
 - An org fails to execute long-horizon strategy due to short-term firefighting
+- A team chases the immediate AI-demo/launch spike over durable moats, evals, and infra — over-discounting long-term reliability amid AI capex, AI valuations, or fast AI adoption pressure
 
 **Not when:** apparent impatience reflects real new information; discounting is rational due to genuine uncertainty about future receipt; cost of commitment device exceeds benefit.
 
@@ -63,6 +64,8 @@ Re-check: 30/60/90 day criteria | owner
 ```
 
 *→ Method in Action: [David Laibson's "Golden Eggs and Hyperbolic Discounting," 1997](examples/david-laibson-golden-eggs-1997.md)*
+
+*→ 2026 lens: [The AI Demo-Dopamine Trap — Chasing the Launch Over the Moat (2023–2026)](examples/ai-demo-dopamine-vs-durable-moats-2023-2026.md)*
 
 ## Pack: Present-Bias Patterns
 

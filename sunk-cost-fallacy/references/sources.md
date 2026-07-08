@@ -15,3 +15,5 @@
 - Thaler, R. H. (2015). *Misbehaving: The Making of Behavioral Economics.* W. W. Norton. ISBN 978-0393080940.
 - Dawkins, R., & Carlisle, T. R. (1976). "Parental investment, mate desertion and a fallacy." *Nature*, 262, 131-133. https://doi.org/10.1038/262131a0 — coined the term "Concorde fallacy."
 - Hall, P. (1980). *Great Planning Disasters.* Weidenfeld & Nicolson. Concorde as a canonical planning failure.
+- Stanford HAI (2025). *Artificial Intelligence Index Report 2025.* https://aiindex.stanford.edu — documents rising AI adoption and investment and steep declines in inference cost per token over 2023–2024; contextual source for the 2023–2026 AI build-out example.
+- Menlo Ventures (2024). *The State of Generative AI in the Enterprise.* https://menlovc.com — enterprise build-vs-buy patterns and the shift toward hosted foundation models; contextual source for the 2023–2026 AI build-out example.

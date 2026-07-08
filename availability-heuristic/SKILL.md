@@ -18,6 +18,7 @@ Composes with [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md), [`probabil
 - Team is preparing for the last disaster rather than the most likely next one
 - Investment or resource-allocation decision follows a recent dramatic event
 - Medical, legal, or technical decision made by anecdote rather than reference class
+- AI capex, AI valuations, or AI-adoption/displacement estimates are driven by a viral demo, a dramatic layoff headline, or a safety scare rather than deployment and labor base rates
 
 **Not when:** available evidence is a representative sample; decision warrants precautionary weight on rare catastrophic risks; no reference-class data exists.
 
@@ -64,6 +65,8 @@ Decision implications: | Calibration log:
 ```
 
 *→ Method in Action: [Tversky and Kahneman's 1973 Availability Studies](examples/tversky-and-kahnemans-1973-availability-studies.md) · [Post-9/11 Flight Avoidance and Road Fatalities](examples/post-9-11-flight-avoidance-and-road-fatalities.md)*
+
+*→ 2026 lens: [Vivid AI Stories vs. Base Rates (2023–2026)](examples/ai-vivid-stories-vs-base-rates-2023-2026.md)*
 
 ## Pack: Availability Bias Patterns
 

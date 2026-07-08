@@ -14,3 +14,5 @@
 - Friedman, T. L. (2005). *The World Is Flat.* Farrar, Straus and Giroux. ISBN 978-0374292881. Modern globalization application.
 - Andreessen, M. (2007). "The Pmarca Guide to Personal Productivity." Blog post. Founder time-allocation application.
 - Coase, R. H. (1937). "The Nature of the Firm." *Economica*, 4(16), 386-405. The transaction-cost qualification.
+- US Department of Commerce, Bureau of Industry and Security (2022 and subsequent rounds). Advanced-computing and semiconductor manufacturing export-control rules on China. bis.gov. Contemporary supply-chain / transaction-cost application (AI-chip case).
+- US CHIPS and Science Act (2022) and TSMC Arizona fab announcements (tsmc.com); ASML EUV lithography disclosures (asml.com); Nvidia investor materials and widely reported 2024–2025 market-cap milestones. Basis for the AI-chip supply-chain example (2024–2026).

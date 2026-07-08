@@ -18,6 +18,7 @@ Composes with [`s-curve-technology-adoption`](../s-curve-technology-adoption/SKI
 - Building a marketplace, social product, communication tool, or platform; need to model when the dynamic activates
 - Evaluating whether a competitor's network-effect claim is structural or rhetorical
 - Suspecting you have scale effects but not network effects — the strategic difference is large
+- Auditing an AI moat claim — CUDA/developer ecosystems, model or app marketplaces, "data flywheels," AI-capex or AI-bubble debates — where genuine network effects blur with chip-scale economies and export-control-fragmented markets
 
 **When NOT to use:** standard B2B SaaS with no inter-customer interaction; the "effect" is lower cost at scale; single-player product with no user-generated value.
 
@@ -67,6 +68,7 @@ Run the **Network-Effect Audit**: diagnose, classify, size, design.
 ```
 
 *→ Method in Action: [Theodore Vail at AT&T, 1907-1913 — and Metcalfe's Law, 1980](examples/theodore-vail-at-att-1907-1913-and-metcalfes-law-1980.md) · [The VHS vs. Betamax Format War](examples/vhs-vs-betamax-format-war.md)*
+*→ 2026 lens: [Nvidia's CUDA moat and the AI ecosystem (2023–2026)](examples/nvidia-cuda-and-ai-ecosystem-2023-2026.md) — separating a real developer-platform network effect from AI-capex scale economies*
 
 ## Pack: Network-Effect Patterns
 

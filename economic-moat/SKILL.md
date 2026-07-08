@@ -17,6 +17,7 @@ Composes with [`network-effects`](../network-effects/SKILL.md) and [`switching-c
 - Evaluating an investment, competitor, acquisition, or startup strategy for long-term defensibility
 - Founder-board planning or investor pitch review around "what stops competitors"
 - Someone says "moat," "defensibility," "competitive advantage," or "what stops competitors"
+- Assessing durability amid the AI build-out — AI capex, chip export controls, "is the AI boom a bubble," or which infrastructure players (e.g. Nvidia/CUDA, TSMC) keep their returns
 
 **Not when:** short time horizon; commoditized market (confirms "no moat"); question is immediate execution.
 
@@ -66,6 +67,7 @@ Assessment: width / primary source(s) / duration / operational implication
 ```
 
 *→ Method in Action: [Buffett's See's Candies, 1972-present](examples/buffetts-sees-candies-1972-present.md) · [Kodak's Film Moat Erosion, 1975-2012](examples/kodaks-film-moat-erosion-1975-2012.md)*
+*→ 2026 lens: [Nvidia's CUDA & TSMC's process — the two deepest AI-supply-chain moats (2024–2026)](examples/nvidia-cuda-tsmc-ai-moats-2024-2026.md)*
 ## Pack: Moat Source Patterns
 
 | Source | Canonical example | Key signal | Common failure |

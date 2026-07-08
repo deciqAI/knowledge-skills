@@ -21,6 +21,7 @@ Composes with [`network-effects`](../network-effects/SKILL.md), [`signaling-game
 - New entrant trying to win customers from an incumbent; need strategy around actual cost magnitudes
 - Incumbent experiencing churn; need to diagnose which switching-cost component is broken
 - Someone says: "lock-in," "vendor lock-in," "stickiness," "data moat," "Klemperer"
+- Assessing an AI-compute / chip moat under the AI capex boom, chip export controls, or "AI bubble" fears (e.g., can rivals displace Nvidia's CUDA ecosystem?)
 
 **When NOT to use:** one-shot transactions; markets with strict regulatory equivalence; rationalizing adversarial lock-in.
 
@@ -74,6 +75,7 @@ Cost to stay = renewal price. Cost to switch = sum above. Years-to-recoup = swit
 **A** Target greenfield. **B** Offer 3-10x more value at lower price. **C** Absorb the switching cost (free migration, training, integration). **D** Find a segment where incumbent switching costs don't apply (different scale, use case, industry).
 
 *→ Method in Action: [Klemperer's Foundational Theory and IBM Mainframe Lock-in](examples/klemperers-foundational-theory-and-ibm-mainframe-lock-in.md) · [US Wireless Number Portability](examples/us-wireless-number-portability-2003.md)*
+*→ 2026 lens: [Nvidia's CUDA moat — why competitive silicon still can't displace it (2023–2026)](examples/nvidia-cuda-moat-2023-2026.md)*
 ## Pack: Switching Costs by Category
 
 | Category | Dominant type | Magnitude |

@@ -20,6 +20,7 @@ Composes with [`antifragile`](../antifragile/SKILL.md) (margin = bounded-downsid
 - A point estimate is being used as the basis for a major decision
 - "Just-in-time" or "lean" or "fully utilized" pressure is removing buffers from a critical system
 - A historically reliable system has been gradually de-buffered until it operates at the edge
+- Weighing whether a stretched valuation leaves any buffer — AI capex assumptions, AI-era valuations, or whether a price already extrapolates optimistic AI adoption
 - Someone says: "margin of safety," "Ben Graham," "value investing," "buffer," "load factor," "buy a dollar for fifty cents," "Mr. Market"
 
 **Not when:** the domain is genuinely deterministic with no estimation error (rare); the cost of the buffer exceeds the expected loss from going without; you are using margin as an excuse to avoid any commitment ("perpetual margin" is procrastination).
@@ -64,6 +65,8 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [Graham's 1934 Framework and Buffett's Lifelong Application](examples/grahams-1934-framework-and-buffetts-lifelong-application.md)*
+
+*→ 2026 lens: [Margin of Safety Against AI-Era Valuations (2024–2026)](examples/ai-era-valuations-margin-of-safety-2024-2026.md)*
 
 ## Pack: Margin of Safety by Domain
 

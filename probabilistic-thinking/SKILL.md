@@ -14,7 +14,7 @@ Composable neighbors: [first-principles](../first-principles/SKILL.md) · [occam
 
 ## When to Use
 
-Use when reasoning about an uncertain outcome (forecast, diagnosis, pipeline conversion, hire, deal close, geopolitical event); when binary "will/won't" predictions are being made; when a vivid story is replacing a base rate; when "I'm 90% sure" appears with no calibration evidence.
+Use when reasoning about an uncertain outcome (forecast, diagnosis, pipeline conversion, hire, deal close, geopolitical event); when binary "will/won't" predictions are being made; when a vivid story is replacing a base rate; when "I'm 90% sure" appears with no calibration evidence; when forecasting AI timelines / AGI arrival / agentic reliability, or judging whether AI capex, AI valuations, or AI adoption rates justify a point-estimate bet amid genuine uncertainty.
 
 **When NOT to use:** deterministic problems (math, well-defined engineering); pure Knightian uncertainty with no usable base rate (give a range + humility statement instead); decision is robust across all likely probabilities; question is identity/ethics/meaning (→ [regret-minimization](../regret-minimization/SKILL.md)).
 
@@ -59,6 +59,7 @@ Calibration log: date | question | resolution criteria | Brier score after
 ```
 
 *→ Method in Action: [Tetlock, IARPA, and the Good Judgment Project (2011–2015)](examples/tetlock-iarpa-good-judgment-project-2011-2015.md)*
+*→ 2026 lens: [Forecasting AI Timelines and Agentic Reliability (2023–2026)](examples/forecasting-ai-timelines-agentic-reliability-2023-2026.md)*
 
 ## Calibration Packs
 

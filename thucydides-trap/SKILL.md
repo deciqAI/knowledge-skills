@@ -18,6 +18,7 @@ description: "Activate when: user asks about US-China war risk or great-power ri
 - Evaluating geopolitical risk in supply chain, FDI, or market-entry decisions
 - A fast-growing entrant threatens an incumbent's core identity (platform control, market dominance)
 - Someone asks about "structural conflict," "escalation risk," "is war inevitable," or "can X and Y avoid confrontation?"
+- Assessing chip export controls, AI-compute decoupling, semiconductor self-sufficiency, or AI-capex/AI-race dynamics between a dominant and a fast-rising power
 
 **When NOT to use:** conflict is primarily values/ideology (not power displacement); parties are roughly equal with no trajectory gap; purely bilateral commercial disputes without hegemonic stakes → use [batna-zopa](../batna-zopa/SKILL.md).
 
@@ -61,6 +62,7 @@ Decision Implications: Escalation probability <H/M/L> | Trigger points <...> | S
 ```
 
 *→ Method in Action: [The US-UK Transition (1895–1906)](examples/the-us-uk-transition-1895-1906.md)*
+*→ 2026 lens: [US-China semiconductor rivalry & AI-chip export controls (2022–2026)](examples/us-china-semiconductor-rivalry-2022-2026.md)*
 
 ## Trap Packs
 
