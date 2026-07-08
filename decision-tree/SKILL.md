@@ -115,4 +115,4 @@ Recommendation: [option] — holds if [condition]; flips if [condition]
 - [ ] EVPI calculated; data-gathering decision made
 - [ ] Missing-branch audit performed; recommendation states conditions it holds and flips
 ---
-*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/decision-tree?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=decision-tree** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/decision-tree?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=decision-tree** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

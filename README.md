@@ -2,7 +2,7 @@
 
 **Open-source thinking-framework skills that make rigorous reasoning executable for AI agents.**
 
-163 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
+164 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) · Built by [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) · Contributions welcome
 
@@ -10,7 +10,7 @@
 
 ## Install
 
-Add all 163 skills:
+Add all 164 skills:
 
 ```bash
 npx skills add deciqAI/knowledge-skills
@@ -191,6 +191,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Tragedy Of The Commons](./tragedy-of-the-commons) | [↗](https://www.deciqai.com/skills/tragedy-of-the-commons?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | When a shared resource has individual access but no individual responsibility for preservation, rational users extract private benefit while the cost of overuse is shared — leading |
 | [Trust Brand Architecture](./trust-brand-architecture) | [↗](https://www.deciqai.com/skills/trust-brand-architecture?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Brand trust builds through three sequential layers: Functional Trust (does the product do what it claims?) → Emotional Trust (does this brand handle problems with empathy?) → Ident |
 | [Tunnel Vision Slack](./tunnel-vision-slack) | [↗](https://www.deciqai.com/skills/tunnel-vision-slack?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | When urgent demands consume all your bandwidth, the future becomes cognitively inaccessible — not a choice, but a structural block. |
+| [US Business Registry Open Data](./us-business-registry-open-data) | [↗](https://www.deciqai.com/skills/us-business-registry-open-data?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Several US states publish their entire business registry — every LLC, corporation, and nonprofit ever registered — as open data on Socrata portals, explicitly in the public domain  |
 | [User Insight Engine](./user-insight-engine) | [↗](https://www.deciqai.com/skills/user-insight-engine?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | User research produces data. |
 | [Utilitarianism](./utilitarianism) | [↗](https://www.deciqai.com/skills/utilitarianism?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Utilitarianism holds that the right action produces the greatest net well-being across all affected parties, weighted by magnitude and probability. |
 | [Value Chain Analysis](./value-chain-analysis) | [↗](https://www.deciqai.com/skills/value-chain-analysis?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Porter (1985) separates firm activities into primary (inbound logistics, operations, outbound logistics, marketing/sales, service) and support (firm infrastructure, HR management,  |
@@ -205,4 +206,4 @@ New skills and improvements to existing ones are welcome — see [CONTRIBUTING.m
 
 ---
 
-These are the same 163 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
+These are the same 164 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.

@@ -115,4 +115,4 @@ Survivability: Min resource threshold P2: / Runway: / Survivable?:
 - [ ] Narrow Gate Map complete and reviewable by a third party. Stop-rule applied.
 
 ---
-*Part of **deciqAI Knowledge Skills** — 163 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/narrow-gate-strategy?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=narrow-gate-strategy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/narrow-gate-strategy?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=narrow-gate-strategy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
