@@ -115,4 +115,4 @@ Implications: Features to build / cut / Marketing angle / Competitive set to tra
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/jobs-to-be-done?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=jobs-to-be-done** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/jobs-to-be-done** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

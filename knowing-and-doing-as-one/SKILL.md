@@ -115,4 +115,4 @@ How I'll know it worked: <observable outcome or new component revealed>
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/knowing-and-doing-as-one?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=knowing-and-doing-as-one** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/knowing-and-doing-as-one** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

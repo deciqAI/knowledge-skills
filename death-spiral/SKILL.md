@@ -110,4 +110,4 @@ INTERVENTION: Type | Actions | Resources | Success metrics
 - [ ] False-positive check: cyclical/execution explanations explicitly ruled out
 
 ---
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/death-spiral?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=death-spiral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/death-spiral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

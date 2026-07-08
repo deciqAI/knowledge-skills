@@ -117,4 +117,4 @@ Behavior Changes: [what I will do differently]
 - [ ] At least one concrete behavior change identified; this is a recurring practice, not a one-time event
 
 ---
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/self-renewal?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=self-renewal** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/self-renewal** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

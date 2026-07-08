@@ -116,4 +116,4 @@ STOP-RULE: "When do customers first contact us?" RFP stage → Stage 1. Problem-
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/demand-leadership?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=demand-leadership** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/demand-leadership** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

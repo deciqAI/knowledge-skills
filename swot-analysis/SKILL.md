@@ -115,4 +115,4 @@ Produce a **Strategic Audit** — populated four-quadrant SWOT plus TOWS cross-m
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/swot-analysis?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=swot-analysis** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/swot-analysis** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

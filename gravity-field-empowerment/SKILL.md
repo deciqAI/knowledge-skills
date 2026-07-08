@@ -100,4 +100,4 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 - [ ] Cost compared to 5-year integral; survival horizon sufficient
 
 ---
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/gravity-field-empowerment?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=gravity-field-empowerment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/gravity-field-empowerment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

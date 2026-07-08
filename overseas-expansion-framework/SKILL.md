@@ -117,4 +117,4 @@ A **Pack** adds market-specific calibration: default mode bias, regulatory class
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/skills/overseas-expansion-framework?utm_source=skill&utm_medium=oss&utm_campaign=knowledge-skills&utm_content=overseas-expansion-framework** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/overseas-expansion-framework** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
