@@ -40,3 +40,7 @@ Pipeline stages: intake → doc-complete → prep → review → e-file.
 
 ---
 Part of **deciqAI Knowledge Skills**. Core method: [theory-of-constraints](../theory-of-constraints/SKILL.md).
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-season-throughput-constraints** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

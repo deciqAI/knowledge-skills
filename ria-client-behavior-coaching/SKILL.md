@@ -41,3 +41,7 @@ The parent [loss-aversion-prospect-theory](../loss-aversion-prospect-theory/SKIL
 
 ---
 Part of **deciqAI Knowledge Skills**. Core method: [loss-aversion-prospect-theory](../loss-aversion-prospect-theory/SKILL.md).
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ria-client-behavior-coaching** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

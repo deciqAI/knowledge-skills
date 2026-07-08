@@ -44,3 +44,7 @@ Borrower: "Bank X advertised 0.5% lower."
 
 ---
 Part of **deciqAI Knowledge Skills**. Core method: [anchoring](../anchoring/SKILL.md).
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mortgage-rate-negotiation-anchoring** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

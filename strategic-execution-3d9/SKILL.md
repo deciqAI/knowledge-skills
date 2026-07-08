@@ -117,4 +117,4 @@ BOTTLENECK: ___ Why: ___ | 90-DAY: Intervention: ___ Owner: ___ Metric: ___ 30d/
 - [ ] Next 3D9 review date has been set
 
 ---
-*Part of **deciqAI Knowledge Skills** — 164 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-execution-3d9** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-execution-3d9** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

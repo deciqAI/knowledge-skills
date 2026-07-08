@@ -47,3 +47,7 @@ Single filer, 2 qualifying children, Schedule C cash income near the EITC-max pl
 
 ---
 Part of **deciqAI Knowledge Skills** — executable rigor for AI agents. Core method: [checklist](../checklist/SKILL.md).
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-prep-8867-due-diligence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
