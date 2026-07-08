@@ -62,7 +62,7 @@ Reliability: premise confidence | reasoning rigor | hidden assumptions surfaced 
 Application: what follows | next step
 ```
 
-*→ Method in Action: [Galileo + Einstein + Strategic Applications](examples/galileo-einstein-strategic-applications.md)*
+*→ Method in Action: [Galileo + Einstein + Strategic Applications](examples/galileo-einstein-strategic-applications.md) · [Rawls's Veil of Ignorance](examples/rawls-veil-of-ignorance.md)*
 
 ## Pack: Domain Patterns
 

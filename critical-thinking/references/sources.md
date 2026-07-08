@@ -7,5 +7,7 @@
 - **Popper, Karl.** *Conjectures and Refutations: The Growth of Scientific Knowledge*. Routledge & Kegan Paul, 1963. **Primary source for falsifiability**.
 - **Popper, Karl.** *The Logic of Scientific Discovery* (English ed., Hutchinson, 1959; orig. *Logik der Forschung*, 1934).
 - **U.S. Intelligence Community.** NIE 85-3-62 ("The Military Buildup in Cuba," September 19, 1962). **Declassified primary source for the Sherman Kent failure case**: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB395/
+- **Weiner, J.S., Oakley, K.P. & Le Gros Clark, W.E.** "The Solution of the Piltdown Problem." *Bulletin of the British Museum (Natural History), Geology*, 2(3), 1953, pp. 139–146. **Primary source for the Piltdown forgery debunking** — fluorine dating and forensic examination overturning a forty-year consensus.
+- **Weiner, J.S.** *The Piltdown Forgery*. Oxford University Press, 1955. Book-length account of the same investigation.
 - **Kahneman, Daniel.** *Thinking, Fast and Slow*. Farrar, Straus and Giroux, 2011. Cognitive bases of confirmation bias.
 - The popular phrase "think for yourself" is **not** cited as a source — by this skill's own rule, an aphorism is not evidence. Critical thinking is more precisely "*structured evaluation of evidence against multiple competing hypotheses, with explicit focus on disconfirmation*."

@@ -56,7 +56,7 @@ Intervention: [per weak/absent principle] · why not privatize · why not pure r
 Implementation: sequence · metrics · review cycle
 ```
 
-*→ Method in Action: [Hardin 1968 + Ostrom's Empirical Correction + Modern Digital Applications](examples/hardin-1968-ostrom-empirical-correction-modern-digital-applications.md)*
+*→ Method in Action: [Hardin 1968 + Ostrom's Empirical Correction + Modern Digital Applications](examples/hardin-1968-ostrom-empirical-correction-modern-digital-applications.md) · [Grand Banks Cod Collapse](examples/grand-banks-cod-collapse-and-1992-moratorium.md)*
 
 ## Pack: Commons Patterns
 

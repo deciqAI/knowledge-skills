@@ -5,6 +5,7 @@
 ## Sources
 
 - Ricardo, D. (1817). *On the Principles of Political Economy and Taxation.* John Murray. Chapter 7 "On Foreign Trade." The foundational text.
+- Samuelson, P. A. (1948). *Economics: An Introductory Analysis.* McGraw-Hill. The canonical textbook; source of the lawyer-and-typist delegation illustration.
 - Samuelson, P. A. (1969). "The Way of an Economist." in *International Economic Relations*. The "true and non-obvious" essay.
 - Krugman, P. (1996). "Ricardo's Difficult Idea." MIT working paper. The contemporary defense.
 - Heckscher, E. F. (1919). "The Effect of Foreign Trade on the Distribution of Income." *Ekonomisk Tidskrift*, 497-512.

@@ -67,7 +67,7 @@ Strategy: <SBU A>: invest/harvest/exit by <date>
 Key decision: <what the analysis forces>
 ```
 
-*→ Method in Action: [Procter & Gamble's Brand Portfolio Restructuring (2012–2016)](examples/procter-gamble-brand-portfolio-restructuring-2012-2016.md)*
+*→ Method in Action: [Procter & Gamble's Brand Portfolio Restructuring (2012–2016)](examples/procter-gamble-brand-portfolio-restructuring-2012-2016.md) · [GE's "Fix, Sell, or Close" Pruning (1981–1995)](examples/general-electric-fix-sell-or-close-portfolio-pruning-1981-1995.md)*
 
 ## Portfolio Packs
 

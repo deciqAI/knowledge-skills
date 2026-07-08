@@ -8,3 +8,5 @@
 - Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124–1131. The three-heuristic framework; most-cited paper in judgment and decision-making.
 - Kahneman, D., & Klein, G. (2009). "Conditions for Intuitive Expertise: A Failure to Disagree." *American Psychologist*, 64(6), 515–526. When pattern recognition works vs. when representativeness misleads.
 - Gilovich, T., Griffin, D., & Kahneman, D. (Eds.) (2002). *Heuristics and Biases: The Psychology of Intuitive Judgment.* Cambridge University Press. Full academic synthesis.
+- Gilovich, T., Vallone, R., & Tversky, A. (1985). "The Hot Hand in Basketball: On the Misperception of Random Sequences." *Cognitive Psychology*, 17(3), 295–314. Field demonstration: misperception of random sequences via representativeness.
+- Miller, J. B., & Sanjurjo, A. (2018). "Surprised by the Hot Hand Fallacy? A Truth in the Law of Small Numbers." *Econometrica*, 86(6), 2019–2047. Re-analysis identifying a selection bias in the 1985 estimator; partial rehabilitation of the hot hand.

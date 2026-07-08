@@ -11,3 +11,5 @@
 - Carreyrou, J. (2018). *Bad Blood: Secrets and Lies in a Silicon Valley Startup.* Knopf. ISBN 978-1524731656. The Theranos case.
 - Lewis, M. (2023). *Going Infinite: The Rise and Fall of a New Tycoon.* W. W. Norton. ISBN 978-1324074335. The FTX case.
 - Heath, C. & Heath, D. (2013). *Decisive: How to Make Better Choices in Life and Work.* Crown. Includes authority-bias countermeasures.
+- National Transportation Safety Board (1979). *Aircraft Accident Report: United Airlines, Inc., McDonnell-Douglas DC-8-61, N8082U, Portland, Oregon, December 28, 1978.* Report NTSB-AAR-79-7. The cockpit authority gradient case that led to Crew Resource Management.
+- Kanki, B. G., Helmreich, R. L., & Anca, J. (Eds.) (2010). *Crew Resource Management.* Academic Press. CRM as a structural counter to cockpit authority bias.

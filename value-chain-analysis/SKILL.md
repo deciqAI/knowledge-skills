@@ -73,7 +73,7 @@ Key linkages: <A × B + optimization opportunity>
 Strategic recommendations: invest / outsource / fix / immediate priority
 ```
 
-*→ Method in Action: [Apple's Value Chain and the iPhone Margin Structure (2007–2023)](examples/apple-iphone-margin-structure-2007-2023.md)*
+*→ Method in Action: [Apple's Value Chain and the iPhone Margin Structure (2007–2023)](examples/apple-iphone-margin-structure-2007-2023.md) · [Zara's Vertically Integrated Fast Fashion](examples/zara-vertically-integrated-fast-fashion.md)*
 
 ## Activity Packs
 

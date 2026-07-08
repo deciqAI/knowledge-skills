@@ -73,7 +73,7 @@ Cost to stay = renewal price. Cost to switch = sum above. Years-to-recoup = swit
 
 **A** Target greenfield. **B** Offer 3-10x more value at lower price. **C** Absorb the switching cost (free migration, training, integration). **D** Find a segment where incumbent switching costs don't apply (different scale, use case, industry).
 
-*→ Method in Action: [Klemperer's Foundational Theory and IBM Mainframe Lock-in](examples/klemperers-foundational-theory-and-ibm-mainframe-lock-in.md)*
+*→ Method in Action: [Klemperer's Foundational Theory and IBM Mainframe Lock-in](examples/klemperers-foundational-theory-and-ibm-mainframe-lock-in.md) · [US Wireless Number Portability](examples/us-wireless-number-portability-2003.md)*
 ## Pack: Switching Costs by Category
 
 | Category | Dominant type | Magnitude |

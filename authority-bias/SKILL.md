@@ -64,7 +64,7 @@ Cialdini Q1: Y/N | Q2: Y/N | Calibrated weighting:
 Structural counter: | Decision + documentation:
 ```
 
-*→ Method in Action: [Milgram 1963 + Cialdini Systematization + Theranos/FTX](examples/milgram-1963-cialdini-systematization-theranos-ftx.md)*
+*→ Method in Action: [Milgram 1963 + Cialdini Systematization + Theranos/FTX](examples/milgram-1963-cialdini-systematization-theranos-ftx.md) · [United 173 and the Cockpit Authority Gradient](examples/united-173-1978-cockpit-authority-gradient-and-crm.md)*
 
 ## Pack: Authority-Bias Application Patterns
 

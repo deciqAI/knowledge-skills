@@ -58,7 +58,7 @@ If non-zero-sum → surplus: <size> | mechanism: <type> | structure: <contract/J
 Strategic recommendation: <one paragraph>
 ```
 
-*→ Method in Action: [Von Neumann and the Foundation of Zero-Sum Analysis — RAND, 1944–1950](examples/von-neumann-rand-1944-1950.md)*
+*→ Method in Action: [Von Neumann and the Foundation of Zero-Sum Analysis — RAND, 1944–1950](examples/von-neumann-rand-1944-1950.md) · [The Smoot-Hawley Tariff (1930–1934)](examples/smoot-hawley-tariff-1930.md)*
 
 ## Game-Type Packs
 

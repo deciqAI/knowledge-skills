@@ -9,3 +9,4 @@
 - Josephson, J. R. & Josephson, S. G. (1996). *Abductive Inference: Computation, Philosophy, Technology.* Cambridge University Press. ISBN 978-0521575454. The AI/computational treatment.
 - Heuer, R. J. Jr. (1999). *Psychology of Intelligence Analysis.* CIA Center for the Study of Intelligence. The Analysis of Competing Hypotheses (ACH) methodology — abduction's operational form in intelligence analysis. https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis/
 - Percy, W. (1975). *The Message in the Bottle.* Farrar, Straus and Giroux. ISBN 978-0312254025. Contains the Peirce-watch anecdote in narrative form.
+- Grosser, M. (1962). *The Discovery of Neptune.* Harvard University Press. The standard history-of-astronomy account of the abductive prediction of Neptune from Uranus's orbital anomalies by Adams and Le Verrier, confirmed by Galle in 1846.

@@ -63,7 +63,7 @@ Recommendation: P1 specializes in ___ | P2 specializes in ___
 Caveats / re-eval trigger: ___
 ```
 
-*→ Method in Action: [Ricardo 1817 England-Portugal + Modern Applications](examples/ricardo-1817-england-portugal-modern-applications.md)*
+*→ Method in Action: [Ricardo 1817 England-Portugal + Modern Applications](examples/ricardo-1817-england-portugal-modern-applications.md) · [Samuelson's Lawyer and Typist](examples/samuelson-lawyer-typist-delegation.md)*
 
 ## Pack: Application Patterns
 

@@ -10,6 +10,9 @@
 2. Ericsson, K.A. & Pool, R. *Peak: Secrets from the New Science of Expertise*. Houghton Mifflin Harcourt, 2016.
    > "Mental representations are what distinguish experts from novices... The main thing that sets experts apart from the rest of us is that their years of practice have changed the neural circuitry in their brains to produce highly specialized mental representations, which in turn make possible the incredible memory, pattern recognition, problem solving, and other sorts of advanced abilities needed to excel in their particular specialties."
 
+3. Franklin, B. *The Autobiography of Benjamin Franklin*. Part One, written 1771. Widely available; e.g. Project Gutenberg ebook #148.
+   > "Then I compared my Spectator with the original, discovered some of my faults, and corrected them."
+
 **What is NOT cited and why:**
 
 - Gladwell, M. *Outliers* (2008) is deliberately excluded. Gladwell popularized the 10,000-hour figure while dropping the "deliberate" qualifier — the central mechanism of Ericsson's finding. Citing Gladwell would reproduce the distortion this skill is designed to correct.

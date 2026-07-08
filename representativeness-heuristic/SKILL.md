@@ -56,7 +56,7 @@ Conjunction (if applicable): P(A AND B) ≤ [Z%]
 Recommendation: proceed / do not proceed / gather more data
 ```
 
-*→ Method in Action: [Tversky & Kahneman 1972 + 1983 — The Linda Problem](examples/tversky-kahneman-1972-1983-the-linda-problem.md)*
+*→ Method in Action: [Tversky & Kahneman 1972 + 1983 — The Linda Problem](examples/tversky-kahneman-1972-1983-the-linda-problem.md) · [The Hot Hand in Basketball](examples/gilovich-vallone-tversky-1985-the-hot-hand-in-basketball.md)*
 
 ## Pack: Representativeness Across Domains
 

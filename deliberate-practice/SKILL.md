@@ -60,7 +60,7 @@ Progress indicator (representation-level, not output): [what I will perceive by 
 Stop-rule triggers: comfortable → redesign; concentration drops → end; latency >24h → redesign
 ```
 
-*→ Method in Action: [Berlin Violin Study (1991–1993)](examples/berlin-violin-study-1991-1993.md)*
+*→ Method in Action: [Berlin Violin Study (1991–1993)](examples/berlin-violin-study-1991-1993.md) · [Franklin's Spectator Method](examples/franklin-spectator-writing-method.md)*
 
 ---
 

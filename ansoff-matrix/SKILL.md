@@ -69,7 +69,7 @@ Entry criteria for next quadrant: <metric> ≥ <threshold> by <date>
 90-day agenda: milestone | resource commitment | accelerate/stop metric
 ```
 
-*→ Method in Action: [Amazon's Sequenced Growth (1994–2006)](examples/amazon-sequenced-growth-1994-2006.md)*
+*→ Method in Action: [Amazon's Sequenced Growth (1994–2006)](examples/amazon-sequenced-growth-1994-2006.md) · [Disney's Diversification Sequence (1928–1955)](examples/disney-diversification-sequence-1928-1955.md)*
 
 ## Growth Direction Packs
 

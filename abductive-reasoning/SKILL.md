@@ -63,7 +63,7 @@ Discriminating test: predicts <…> / refuted by <…> / distinguishes from runn
 Action: provisional decision <…> / update trigger <…>
 ```
 
-*→ Method in Action: [Peirce, the Wine Cellar, and the Watch — 1879](examples/peirce-the-wine-cellar-and-the-watch-1879.md)*
+*→ Method in Action: [Peirce, the Wine Cellar, and the Watch — 1879](examples/peirce-the-wine-cellar-and-the-watch-1879.md) · [The Discovery of Neptune — 1846](examples/the-discovery-of-neptune-from-uranus-anomalies-1846.md)*
 
 ## Pack: Abduction in Practice
 

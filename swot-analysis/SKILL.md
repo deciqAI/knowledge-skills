@@ -58,7 +58,7 @@ Produce a **Strategic Audit** — populated four-quadrant SWOT plus TOWS cross-m
 ## Not prioritizing: <deprioritized strategies and why>
 ```
 
-*→ Method in Action: [Netflix's 2010–2013 Strategic Pivot](examples/netflix-2010-2013-strategic-pivot.md)*
+*→ Method in Action: [Netflix's 2010–2013 Strategic Pivot](examples/netflix-2010-2013-strategic-pivot.md) · [LEGO's 2003–2005 Turnaround](examples/lego-2003-2005-turnaround.md)*
 
 ## SWOT Packs
 

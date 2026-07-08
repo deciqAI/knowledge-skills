@@ -62,7 +62,7 @@ Non-survivor hypothesis (what they likely had/lacked, could they have had same t
 Corrected inference (conclusion, confidence, what data would settle it):
 ```
 
-*→ Method in Action: [Abraham Wald and the Statistical Research Group, 1943](examples/abraham-wald-and-the-statistical-research-group-1943.md)*
+*→ Method in Action: [Abraham Wald and the Statistical Research Group, 1943](examples/abraham-wald-and-the-statistical-research-group-1943.md) · [Mutual Fund Survivorship and Reported Returns, 1971–1996](examples/mutual-fund-survivorship-and-reported-returns-1996.md)*
 
 ## Pack: Common Survivor Patterns
 

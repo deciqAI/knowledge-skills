@@ -11,5 +11,7 @@
 - Sorensen, R. A. (1992). *Thought Experiments.* Oxford University Press. ISBN 978-0195129137.
 - Kuhn, T. S. (1977). "A Function for Thought Experiments." in *The Essential Tension.* University of Chicago Press. ISBN 978-0226458069.
 - Rawls, J. (1971). *A Theory of Justice.* Harvard University Press. ISBN 978-0674000780. The veil-of-ignorance experiment.
+- Harsanyi, J. C. (1975). "Can the Maximin Principle Serve as a Basis for Morality? A Critique of John Rawls's Theory." *American Political Science Review*, 69(2), 594-606. The expected-utility objection to the veil.
+- Nozick, R. (1974). *Anarchy, State, and Utopia.* Basic Books. The holdings-based objection to distributive patterns.
 - Foot, P. (1967). "The Problem of Abortion and the Doctrine of the Double Effect." *Oxford Review*, 5, 5-15. The trolley problem.
 - Klein, G. (2007). "Performing a Project Premortem." *Harvard Business Review*. The structured business thought experiment.

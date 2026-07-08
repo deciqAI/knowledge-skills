@@ -11,3 +11,5 @@
 - Lenton, T. M., Held, H., Kriegler, E., et al. (2008). "Tipping elements in the Earth's climate system." *PNAS*, 105(6), 1786-1793. Climate tipping points.
 - Moore, G. (1991). *Crossing the Chasm.* HarperBusiness. ISBN 978-0060517120. The chasm as tipping point.
 - Centola, D. (2018). *How Behavior Spreads: The Science of Complex Contagions.* Princeton University Press. ISBN 978-0691175317.
+- Anderson, R. M., & May, R. M. (1991). *Infectious Diseases of Humans: Dynamics and Control.* Oxford University Press. ISBN 978-0198545996. The herd-immunity threshold p꜀ = 1 − 1/R₀.
+- Fine, P. E. M. (1993). "Herd Immunity: History, Theory, Practice." *Epidemiologic Reviews*, 15(2), 265-302. https://doi.org/10.1093/oxfordjournals.epirev.a036121

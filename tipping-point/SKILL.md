@@ -59,7 +59,7 @@ Monitoring metrics: forward-looking indicators | threshold-crossing criteria
 Downward-tipping defense: conditions that drop below threshold | early-warning signs | triggers
 ```
 
-*→ Method in Action: [Schelling Segregation + Hush Puppies + Modern Platform Tipping](examples/schelling-segregation-hush-puppies-modern-platform-tipping.md)*
+*→ Method in Action: [Schelling Segregation + Hush Puppies + Modern Platform Tipping](examples/schelling-segregation-hush-puppies-modern-platform-tipping.md) · [Measles Herd-Immunity Threshold](examples/measles-herd-immunity-threshold.md)*
 
 ## Pack: Tipping-Point Application Patterns
 

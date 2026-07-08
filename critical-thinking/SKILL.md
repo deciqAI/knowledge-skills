@@ -56,7 +56,7 @@ Alternatives rejected: H1 because E2+E5; H2 because E1+E4
 Milestones: "If X observed by <date>, re-run matrix"
 ```
 
-*→ Method in Action: [ACH at the CIA and the Cuban Missile Crisis Pattern (1962 → 1999)](examples/ach-at-the-cia-and-the-cuban-missile-crisis-pattern-1962-1999.md)*
+*→ Method in Action: [ACH at the CIA and the Cuban Missile Crisis Pattern (1962 → 1999)](examples/ach-at-the-cia-and-the-cuban-missile-crisis-pattern-1962-1999.md) · [Piltdown Man Forgery Debunked (1912 → 1953)](examples/piltdown-man-forgery-debunking-1912-1953.md)*
 
 ## Analysis Packs
 

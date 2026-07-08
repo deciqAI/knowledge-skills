@@ -58,7 +58,7 @@ Bottleneck: <stage with worst conversion vs. domain benchmark>
 Experiment: Change <intervention> · Metric <conversion rate> · Threshold <value> · Window <days>
 ```
 
-*→ Method in Action: [Dropbox's Referral Program (2009)](examples/dropbox-referral-program-2009.md)*
+*→ Method in Action: [Dropbox's Referral Program (2009)](examples/dropbox-referral-program-2009.md) · [Facebook's "7 Friends in 10 Days" (2007–2009)](examples/facebook-7-friends-in-10-days-2008.md)*
 
 ## Funnel Packs
 

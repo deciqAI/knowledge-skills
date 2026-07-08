@@ -3,6 +3,7 @@
 > *Primary sources for the [commitment-consistency](../SKILL.md) skill.*
 
 - Freedman, J. L. & Fraser, S. C. (1966). "Compliance Without Pressure: The Foot-in-the-Door Technique." *Journal of Personality and Social Psychology*, 4(2), 195-202. The foundational empirical paper.
+- Moriarty, T. (1975). "Crime, Commitment, and the Responsive Bystander: Two Field Experiments." *Journal of Personality and Social Psychology*, 31(2), 370-376. Verbal commitment and bystander intervention.
 - Cialdini, R. B. (1984/2006). *Influence: The Psychology of Persuasion.* HarperBusiness. ISBN 978-0061241895. Ch. 3.
 - Festinger, L. (1957). *A Theory of Cognitive Dissonance.* Stanford University Press. The cognitive foundation.
 - Cialdini, R. B. (2016). *Pre-Suasion.* Simon & Schuster. ISBN 978-1501109799. The sequel covering attention as precursor.

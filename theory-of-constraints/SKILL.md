@@ -56,7 +56,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ## Re-identification — what to monitor, likely next constraint, re-apply schedule
 ```
 
-*→ Method in Action: [Goldratt's The Goal (1984) and TOC's Lineage](examples/goldratts-the-goal-1984-and-tocs-lineage.md)*
+*→ Method in Action: [Goldratt's The Goal (1984) and TOC's Lineage](examples/goldratts-the-goal-1984-and-tocs-lineage.md) · [Critical Chain Project Management (1997)](examples/critical-chain-project-management-1997.md)*
 
 ## Pack: TOC by Domain
 

@@ -11,3 +11,5 @@
 - Dietz, T., Ostrom, E., & Stern, P. C. (2003). "The struggle to govern the commons." *Science*, 302(5652), 1907-1912. The state-of-the-art summary.
 - Ostrom, E., Burger, J., Field, C. B., Norgaard, R. B., & Policansky, D. (1999). "Revisiting the commons: Local lessons, global challenges." *Science*, 284(5412), 278-282.
 - Buck, S. J. (1998). *The Global Commons: An Introduction.* Island Press. ISBN 978-1559633499. Applied to modern global commons.
+- Kurlansky, M. (1997). *Cod: A Biography of the Fish That Changed the World.* Walker & Company. The Grand Banks collapse narrative.
+- Hutchings, J. A., & Myers, R. A. (1994). "What can be learned from the collapse of a renewable resource? Atlantic cod, Gadus morhua, of Newfoundland and Labrador." *Canadian Journal of Fisheries and Aquatic Sciences*, 51(9), 2126-2146. The scientific post-mortem of the cod collapse.

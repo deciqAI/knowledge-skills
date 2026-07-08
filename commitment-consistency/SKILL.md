@@ -66,7 +66,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ## Action — implement / resist / modify · monitoring plan
 ```
 
-*→ Method in Action: [Freedman-Fraser 1966 + Cialdini Systematization + Modern Applications](examples/freedman-fraser-1966-cialdini-systematization-modern-applications.md)*
+*→ Method in Action: [Freedman-Fraser 1966 + Cialdini Systematization + Modern Applications](examples/freedman-fraser-1966-cialdini-systematization-modern-applications.md) · [Moriarty 1975 Beach Theft](examples/moriarty-1975-beach-blanket-theft-study.md)*
 
 ## Pack: Commitment-Consistency Application Patterns
 

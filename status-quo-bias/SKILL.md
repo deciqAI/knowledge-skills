@@ -56,7 +56,7 @@ Inertia vs. cost share: | Switching cost: | Cost of inaction (1yr / 3yr):
 Default design justification: | Decision: [ ] Override [ ] Accept [ ] Redesign | Review date:
 ```
 
-*→ Method in Action: [Samuelson & Zeckhauser 1988 + Johnson & Goldstein 2003](examples/samuelson-zeckhauser-1988-johnson-goldstein-2003.md)*
+*→ Method in Action: [Samuelson & Zeckhauser 1988 + Johnson & Goldstein 2003](examples/samuelson-zeckhauser-1988-johnson-goldstein-2003.md) · [NJ–PA Auto Insurance Defaults](examples/new-jersey-pennsylvania-auto-insurance-defaults.md)*
 
 ## Pack: Status Quo Bias Across Domains
 
