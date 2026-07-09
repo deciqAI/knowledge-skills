@@ -18,6 +18,7 @@ Composes with: [`second-order-thinking`](../second-order-thinking/SKILL.md) for 
 - Situation involves **price competition, capacity races, advertising arms races, or commons-style resource depletion**
 - You are about to **negotiate or enter a partnership** and want to know whether the structure makes betrayal individually rational
 - Someone asks directly about "prisoner's dilemma," "tragedy of the commons," "race to the bottom," or "Nash equilibrium"
+- A present-day competitive sprint is in play — an **AI capex / compute arms race, AI-safety release race, or AI-native land-grab** where every player feels forced to move fast despite preferring collective restraint
 
 **When NOT to use:** zero-sum games · pure coordination problems (Schelling) · long transparent repeated game with established reputations (use [`repeated-games-reputation`](../repeated-games-reputation/SKILL.md)) · low-stakes reversible decisions
 
@@ -62,6 +63,7 @@ Test: re-draw post-escape matrix — confirm defection is no longer dominant
 ```
 
 *→ Method in Action: [Flood, Dresher, and Tucker — RAND, 1950](examples/flood-dresher-tucker-rand-1950.md) · [Live and Let Live in the WWI Trenches](examples/live-and-let-live-wwi-trenches.md)*
+*→ 2026 lens: [The AI-Lab Safety Race (2023–2026)](examples/ai-safety-race-2023-2026.md)*
 
 ## Pack: Recognizing PD Patterns in the Wild
 

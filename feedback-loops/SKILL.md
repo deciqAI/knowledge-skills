@@ -19,7 +19,7 @@ Composes with: [`second-order-thinking`](../second-order-thinking/SKILL.md) · [
 
 ## When to Use
 
-Apply when: system shows non-linear surprise (collapse, oscillation, death spiral, growth flywheel); you are intervening in a complex system and success depends on how it responds; trends are not extrapolating well; bullwhip or oscillation in any quantity that should be steady.
+Apply when: system shows non-linear surprise (collapse, oscillation, death spiral, growth flywheel); you are intervening in a complex system and success depends on how it responds; trends are not extrapolating well; bullwhip or oscillation in any quantity that should be steady; a capex/AI-adoption flywheel is compounding and you need to know when the balancing limits (power, supply, cost, AI-native competition) will bite and whether it will overshoot.
 
 **When NOT to use:** one-shot linear decision with no feedback; insufficient data to map loops (hand-waving without structure); decision too time-bounded for delays to matter; exogenous shock dominates internal dynamics.
 
@@ -69,6 +69,8 @@ Falsifier: <observable that would prove the diagnosis wrong>
 ```
 
 *→ Method in Action: [Forrester's Beer Distribution Game & Sterman's 1989 Measurement](examples/forresters-beer-distribution-game-stermans-1989-measurement.md)*
+
+*→ 2026 lens: [The AI Capex Boom as a Reinforcing Loop Meeting Its Balancing Limits (2024–2026)](examples/ai-capex-boom-reinforcing-and-balancing-loops-2024-2026.md)*
 
 ## Pack: Loop Patterns
 

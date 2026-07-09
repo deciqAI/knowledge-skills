@@ -1,0 +1,34 @@
+# Method in Action: Choice Architecture in AI Products (2023–2026)
+
+> *Example for the [nudge-theory](../SKILL.md) skill.*
+
+A contemporary case — applying the EAST Nudge Design lens to the defaults, friction, and framing that steer users inside AI products, and to the ethics of nudging at the scale of hundreds of millions of users.
+
+Between the launch of ChatGPT in late 2022 and 2026, generative-AI assistants reached mass adoption; OpenAI reported ChatGPT reaching roughly 100 million weekly active users by late 2023 and, per its own public statements, several hundred million weekly active users by late 2025. At that scale, small changes to the choice environment move millions of behaviors — which makes AI products a textbook study in choice architecture, and a live test of nudge ethics. The most contested lever has been the **data-sharing default**: whether user conversations are, by default, used to train future models, and how easy it is to opt out.
+
+This example walks the anchor case — the "opt-out data sharing" default in consumer AI chat products — through the skill's own six-step Process. It is illustrative of a well-documented *pattern*, not a controlled experiment with a published effect size.
+
+**Define the target behavior precisely (Step 1):** The chooser-serving target behavior is: *a user who does not want their private conversations used for model training successfully turns that setting off.* Population: consumer users of a general-purpose AI chat assistant. Baseline: because the default is "on," the observed opt-out rate is low — consistent with the general finding across digital privacy settings that the large majority of users never change a default. (The exact opt-out rate is not publicly disclosed by the major providers, so it should be treated as "low, not quantified.")
+
+**Diagnose the barrier (EAST) (Step 2):**
+- **E — Easy:** dominant barrier. Training-on-by-default means inaction produces data sharing; opting out requires locating a settings menu and toggling a control most users never open. The path of least resistance favors the designer's data interest.
+- **A — Attractive:** the framing of the control ("improve the model for everyone," "help make ChatGPT better") frames sharing as prosocial and opting out as withholding — a salience/framing pressure.
+- **S — Social:** weak. There is no visible descriptive norm ("most users keep their private chats out of training").
+- **T — Timely:** the decision is buried away from the moment of first use, so it is never presented at the point when the user is forming a mental model of privacy.
+
+Primary barrier: **Easy** (the default state), reinforced by **Attractive** (framing).
+
+**Match barrier to mechanism (Step 3):** To *serve the chooser*, the mechanism that addresses an Easy barrier is default redesign and friction reduction: either flip the default to "not used for training unless the user opts in," or surface the choice at a timely moment with neutral, symmetric framing so neither option is the low-effort path by construction.
+
+**Design the nudge (Step 4):** A chooser-serving intervention presents the data-training choice at onboarding (Timely), with symmetric wording ("Use my chats to improve the model" vs. "Keep my chats private") and no pre-checked box, or defaults to private with a clearly reachable opt-in. All options remain available; the exit path is as easy as the entry path.
+- *Free choice preserved?* Yes — both settings reachable, reversible.
+- *Transparency test?* A chooser-serving version survives disclosure: telling users "this is off by default; turn it on to help train the model" does not collapse the intent. The extractive version fails this test — announcing "we made sharing the default because most people won't change it" would provoke exactly the backlash it depends on avoiding.
+- *Serves the chooser?* This is the decisive fork. A default set to maximize training data serves the *designer*; that is the boundary between a nudge and a **dark pattern**. The skill's own guidance is explicit: in Product/UX, "defaults serving revenue over user = dark pattern."
+
+**Design the test (Step 5):** Randomized control comparing (a) default-on, buried; (b) default-off, opt-in at onboarding; (c) neutral forced-choice at onboarding. Primary metric: the *informed* alignment rate — share of users whose final setting matches their stated preference when asked in a follow-up. A legitimate nudge maximizes that alignment; a dark pattern maximizes data capture regardless of preference. Pre-register the metric, minimum detectable effect, sample size, and resolution date.
+
+**Plan for scale and decay (Step 6):** At hundreds of millions of users, a one-point shift in a default equals millions of privacy outcomes, so monitoring cadence should be continuous, with a re-evaluation trigger tied to regulatory change. This is the real-world constraint on AI defaults: EU regulators and data-protection authorities scrutinized how large models process personal data (Italy's Garante temporarily restricted ChatGPT in 2023 over data concerns), and the EU AI Act — which entered into force in 2024 with staged obligations — pushes toward transparency about automated systems. Related default questions recur across the product: which model is selected by default (a capable model vs. a cheaper/faster one shapes both user experience and provider compute cost), and whether memory/personalization features are on by default.
+
+**The lesson:** AI products concentrate the entire nudge-ethics debate into a single toggle. The same mechanism — a sticky default — is a *nudge* when the default serves the user's own privacy preference and survives disclosure, and a *dark pattern* when it is engineered to harvest what users would decline if asked plainly. The skill's transparency and serves-the-chooser tests are exactly the instruments that tell the two apart, and at AI scale the cost of getting the distinction wrong is measured in millions of people.
+
+*Sources: OpenAI, "ChatGPT" and public usage announcements, openai.com (weekly-active-user figures stated by OpenAI, 2023–2025). Thaler, Richard H. & Sunstein, Cass R., *Nudge* (Yale University Press, 2008), on defaults and libertarian paternalism. Behavioural Insights Team, *EAST: Four Simple Ways to Apply Behavioural Insights* (2014). Garante per la protezione dei dati personali (Italy), press releases on the temporary limitation of ChatGPT, March–April 2023, garanteprivacy.it. European Union, Regulation (EU) 2024/1689 (Artificial Intelligence Act), Official Journal, 2024, eur-lex.europa.eu. On "dark patterns" as a distinct category: Harry Brignull, deceptive.design (formerly darkpatterns.org), and the U.S. Federal Trade Commission staff report "Bringing Dark Patterns to Light" (September 2022), ftc.gov.*

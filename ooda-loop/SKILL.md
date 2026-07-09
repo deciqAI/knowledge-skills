@@ -19,6 +19,7 @@ Composes with [`metacognition`](../metacognition/SKILL.md) (Orient is where reas
 - Decisions take longer than the situation allows; losing a competition you should win
 - Designing org structure where decision-speed is a competitive variable
 - Crisis / incident response — OODA is the operational frame
+- AI-native startup out-shipping a slower incumbent as model capabilities shift monthly (AI adoption, AI capex, ship-on-release-day tempo)
 
 **Not when:** genuinely non-competitive setting; your slowness is high-quality orientation worth keeping; speed was recently pushed at the expense of orient quality.
 
@@ -65,6 +66,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [John Boyd and the F-86 vs MiG-15, Korean War 1950-1953](examples/john-boyd-f86-vs-mig15-korean-war-1950-1953.md) · [Gulf War "Left Hook" and Maneuver-Warfare Doctrine](examples/gulf-war-left-hook-maneuver-warfare-1991.md)*
+*→ 2026 lens: [AI Startups Out-Cycling Incumbents When Capabilities Shift Monthly (2024–2026)](examples/ai-startups-out-cycling-incumbents-2024-2026.md)*
 
 ## Pack: OODA Patterns in Business
 

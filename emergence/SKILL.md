@@ -17,6 +17,7 @@ Composes with [`cynefin`](../cynefin/SKILL.md), [`feedback-loops`](../feedback-l
 - Strategy in markets, cultures, ecosystems; platform / community / open-source design
 - Diagnosing why a previously-working approach fails at scale
 - Cultural change; codebase architecture at scale
+- Reasoning about AI capex bets, AI adoption dynamics, or AI-native competition where capabilities appear unpredictably at scale
 
 **Not when:** the system is simple or complicated with knowable causal structure.
 
@@ -53,6 +54,8 @@ Probe plan: probes | observation metrics | adjustment criteria | iteration cycle
 ```
 
 *→ Method in Action: [Anderson 1972 + Ant Colonies + Modern Business Emergence](examples/anderson-1972-ant-colonies-modern-business-emergence.md)*
+
+*→ 2026 lens: [Emergent Capabilities in Large Language Models (2023–2026)](examples/emergent-capabilities-large-language-models-2023-2026.md)*
 
 ## Pack: Emergence Application Patterns
 

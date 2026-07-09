@@ -17,6 +17,7 @@ Composes with [`prisoners-dilemma`](../prisoners-dilemma/SKILL.md), [`repeated-g
 - Negotiating with a sophisticated counterparty; modeling regulatory or legislative outcomes
 - Evaluating M&A or partnership decisions where multiple parties react strategically
 - Designing auctions, marketplaces, or platform mechanisms
+- Assessing an investment or capacity arms race where rivals match each other (e.g., AI capex spending, AI-native competition, matching AI adoption to keep position)
 
 **Not when:** the situation is essentially solo; the counterparty is not rational; modeling cost exceeds the decision's value.
 
@@ -63,6 +64,7 @@ Counterparty response plan: expected action | contingency if they deviate
 ```
 
 *→ Method in Action: [Nash 1950-51 and the FCC Auctions 1994](examples/nash-1950-51-and-the-fcc-auctions-1994.md) · [Penalty Kicks and the Minimax Test](examples/penalty-kicks-professionals-play-minimax.md)*
+*→ 2026 lens: [The AI-Capex Race Among Hyperscalers (2024–2026)](examples/ai-capex-race-among-hyperscalers-2024-2026.md)*
 
 ## Pack: Application Patterns
 

@@ -10,3 +10,5 @@
 - Muller, J. Z. (2018). *The Tyranny of Metrics.* Princeton University Press. ISBN 978-0691174952. Comprehensive case-study survey.
 - Doerr, J. (2018). *Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs.* Portfolio. ISBN 978-0525536222.
 - Wells Fargo / Office of the Comptroller of the Currency (2016, 2018). Various enforcement actions and consent orders documenting the cross-selling case.
+- Zhou, K., et al. (2023). "Don't Make Your LLM an Evaluation Benchmark Cheater." *arXiv:2311.01964*. Documents benchmark data contamination and how public evaluation scores decay as a capability signal once test data leaks into training — a direct 2020s AI instance of Goodhart's law.
+- Chiang, W.-L., et al. (2024). "Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference." *arXiv:2403.04132*. Motivates live, blind, human-preference evaluation as a harder-to-game complement to static leaderboards; illustrates both the countermeasure and its own residual gaming risks.

@@ -12,3 +12,5 @@
 - U.S. Army (2012). *Mission Command: Command and Control of Army Forces.* ADP 6-0. (Operational adoption.)
 - Lovell, J., & Kluger, J. (1994). *Lost Moon: The Perilous Voyage of Apollo 13.* Houghton Mifflin. (Apollo 13 example.)
 - NASA (1970). *Report of the Apollo 13 Review Board* (Cortright Report). Washington, DC: NASA. (Apollo 13 example.)
+- Anthropic (2024–2025). "Building Effective Agents" and related public agent-engineering guidance. anthropic.com. (2024–2026 AI-decisions example — the "start simple, add autonomy incrementally, keep humans in the loop, constrain the action space" posture as Probe–Sense–Respond.)
+- Snowden, D. J., et al. (2020–2021). *Cynefin & Weaving Sense-Making into the Fabric of Our World* / Cynefin.io field guides. Cognitive Edge / The Cynefin Co. (Contemporary restatement of the domains and boundary dynamics used in the 2024–2026 AI example.)

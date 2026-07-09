@@ -16,6 +16,7 @@ Composes with [`lindy-effect`](../lindy-effect/SKILL.md), [`hyperbolic-discounti
 - Evaluating any long-horizon investment, savings, or wealth decision
 - Deciding between starting earlier vs. starting later; intensity vs. duration paths
 - Evaluating compound advantages in business (data, brand, switching cost)
+- Weighing AI capex, AI adoption timing, or defending against AI-native competition — where data flywheels, ecosystem lock-in, and eval/technical debt compound over years
 - Skill-development planning; recognizing compound decay (fees, atrophy, trust erosion)
 
 **Not when:** horizon is short; rate is so low linear approximation is fine; process is genuinely linear; situation requires immediate one-shot intensity.
@@ -69,6 +70,7 @@ Generalization: other dynamics / decay risks / commitments
 ```
 
 *→ Method in Action: [Bernoulli 1683, Graham/Buffett, and the Compound-Advantage Tradition](examples/bernoulli-1683-graham-buffett.md) · [Franklin's Two-Hundred-Year Trusts](examples/franklin-1790-two-hundred-year-trusts.md)*
+*→ 2026 lens: [Compounding in the AI Era — Data Flywheels, Ecosystem Lock-In, and Eval Debt (2023–2026)](examples/ai-era-data-and-eval-debt-compounding-2023-2026.md)*
 
 ## Pack: Compound Interest Application Patterns
 

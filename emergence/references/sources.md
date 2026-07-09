@@ -13,3 +13,5 @@
 - Raymond, E. S. (1999). *The Cathedral and the Bazaar.* O'Reilly. ISBN 978-0596001087.
 - Page, S. E. (2009). *Diversity and Complexity.* Princeton University Press. ISBN 978-0691137674.
 - Kauffman, S. A. (1993). *The Origins of Order: Self-Organization and Selection in Evolution.* Oxford University Press. ISBN 978-0195079517.
+- Wei, J. et al. (2022). "Emergent Abilities of Large Language Models." *Transactions on Machine Learning Research.* arXiv:2206.07682. Defines emergent abilities as capabilities absent in smaller models but present in larger ones.
+- Schaeffer, R., Miranda, B. & Koyejo, S. (2023). "Are Emergent Abilities of Large Language Models a Mirage?" *NeurIPS 2023.* arXiv:2304.15004. Argues apparent sharp emergence can be an artifact of discontinuous evaluation metrics.

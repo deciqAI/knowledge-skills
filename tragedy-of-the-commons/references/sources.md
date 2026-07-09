@@ -13,3 +13,5 @@
 - Buck, S. J. (1998). *The Global Commons: An Introduction.* Island Press. ISBN 978-1559633499. Applied to modern global commons.
 - Kurlansky, M. (1997). *Cod: A Biography of the Fish That Changed the World.* Walker & Company. The Grand Banks collapse narrative.
 - Hutchings, J. A., & Myers, R. A. (1994). "What can be learned from the collapse of a renewable resource? Atlantic cod, Gadus morhua, of Newfoundland and Labrador." *Canadian Journal of Fisheries and Aquatic Sciences*, 51(9), 2126-2146. The scientific post-mortem of the cod collapse.
+- International Energy Agency (2024). *Electricity 2024: Analysis and Forecast to 2026.* IEA, Paris. Widely-cited analysis of rising data-center and AI electricity demand — the 2024–2026 power commons.
+- Reuters / Associated Press reporting (2023–2025) on copyright litigation between publishers and authors and AI developers, on data-center grid strain and ratepayer cost allocation, and on advanced-GPU supply constraints and export controls. Context for the AI-era open-web, power, and GPU commons.

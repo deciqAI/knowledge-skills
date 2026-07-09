@@ -13,7 +13,7 @@ This is the third motion in the collection, distinct from its neighbors: [first-
 
 ## When to Use
 
-Apply when: immediate effect is obvious but downstream effects are not; "everyone agrees" (is it priced in?); other actors will respond or feedback loops exist; someone asks "and then what?" / "what are the second-order effects?" / "what could go wrong downstream?"
+Apply when: immediate effect is obvious but downstream effects are not; "everyone agrees" (is it priced in?); other actors will respond or feedback loops exist; someone asks "and then what?" / "what are the second-order effects?" / "what could go wrong downstream?"; or you're weighing an AI-era bet — AI capex/data-center buildout, AI adoption in workflows, or AI-native competition — where the first-order win is obvious but the equilibrium and downstream costs are not.
 
 **When NOT to use:** genuinely low-stakes reversible decisions; you lack a causal model (build it first); the chain would be pure speculation with no grounding.
 
@@ -71,6 +71,7 @@ Confidence:     <where tracing turned to speculation; decay by hop>
 ```
 
 *→ Method in Action: [US Prohibition (1920–1933)](examples/us-prohibition-1920.md) · [The Hanoi Rat Bounty (1902)](examples/hanoi-rat-bounty-1902.md)*
+*→ 2026 lens: [The AI Buildout — capex to the grid, coding assistants to maintenance (2024–2026)](examples/ai-buildout-power-and-code-2024-2026.md)*
 
 ## Cascade Packs
 

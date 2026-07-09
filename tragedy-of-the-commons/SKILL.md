@@ -16,6 +16,7 @@ Composes with [`prisoners-dilemma`](../prisoners-dilemma/SKILL.md), [`principal-
 ## When to Use
 
 - Diagnosing why a shared resource is degrading (open-source burnout, API abuse, attention market polarizing)
+- Assessing AI-era shared-resource strain from AI capex and AI-native competition (open web scraped for training data, grid/power capacity, GPU allocation)
 - Designing platforms, marketplaces, shared infrastructure, API quotas, or rate limits
 - Designing workplace norms around shared resources (meetings, Slack, email)
 - Evaluating regulatory or policy responses to shared-resource problems
@@ -57,6 +58,7 @@ Implementation: sequence · metrics · review cycle
 ```
 
 *→ Method in Action: [Hardin 1968 + Ostrom's Empirical Correction + Modern Digital Applications](examples/hardin-1968-ostrom-empirical-correction-modern-digital-applications.md) · [Grand Banks Cod Collapse](examples/grand-banks-cod-collapse-and-1992-moratorium.md)*
+*→ 2026 lens: [The AI-Era Commons — Open Web, Power, and GPUs (2024–2026)](examples/ai-era-commons-open-web-power-gpus-2024-2026.md)*
 
 ## Pack: Commons Patterns
 

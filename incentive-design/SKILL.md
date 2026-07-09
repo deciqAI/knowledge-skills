@@ -18,6 +18,7 @@ Composes with [`principal-agent`](../principal-agent/SKILL.md), [`goodharts-law`
 - Diagnosing why a team is producing undesirable behavior despite training or management
 - Drafting contracts, regulations, or platform rules where behavior must be shaped
 - Evaluating an existing system for hidden perverse incentives
+- Designing reward signals or pricing in AI-native products (RLHF/reward hacking, usage-based vs outcome-based pricing, scarce AI-talent comp amid heavy AI capex and fast AI adoption)
 
 **Not when:** clearly individual misconduct unrelated to systemic incentives; using incentive framing to excuse deliberate bad-faith behavior.
 
@@ -59,6 +60,7 @@ Redesign (7-item) | Pilot scope / Monitoring / Review cycle
 ```
 
 *→ Method in Action: [Munger 1995 + FedEx + Modern Applications](examples/munger-1995-fedex-modern-applications.md)*
+*→ 2026 lens: [Incentive Design in the AI Economy — RLHF reward design, scarce-talent comp, usage-based pricing (2024–2026)](examples/ai-economy-incentives-rlhf-talent-pricing-2024-2026.md)*
 
 ## Pack: Application Patterns
 

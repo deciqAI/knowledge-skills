@@ -15,7 +15,7 @@ ABB CEO Percy Barnevik cut 12-hour cross-cultural management meetings to under 2
 
 ## When to Use
 
-**Use when:** group decision degenerates into debate; proposal needs multi-angle evaluation; creative ideas get killed by habitual criticism; someone says *"let's look at this from all angles," "we keep going in circles," "we need structure"*; individual high-stakes decision needs forced multi-angle review.
+**Use when:** group decision degenerates into debate; proposal needs multi-angle evaluation; creative ideas get killed by habitual criticism; someone says *"let's look at this from all angles," "we keep going in circles," "we need structure"*; individual high-stakes decision needs forced multi-angle review; a platform-shift bet needs balanced evaluation (e.g. *"should we go all-in on AI agents / AI-native," "is our AI capex justified," "how do we weigh AI adoption risk vs. AI-native competition"*).
 
 **When NOT:** deep specialist analysis required (use hats for framing only); group too political (hat roles used as cover); time under 10 minutes; question is purely factual (run [critical-thinking](../critical-thinking/SKILL.md)).
 
@@ -60,6 +60,8 @@ Six phases → **Six Hats Analysis**. **Stop rule:** if Blue Hat close reveals n
 ```
 
 *→ Method in Action: [ABB Global Management Meetings (1990s)](examples/abb-global-management-meetings-1990s.md)*
+
+*→ 2026 lens: [Betting the Roadmap on AI Agents (2024–2026)](examples/betting-the-roadmap-on-ai-agents-2024-2026.md)*
 
 ## Hat Packs
 

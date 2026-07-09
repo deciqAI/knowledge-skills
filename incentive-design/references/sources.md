@@ -10,3 +10,6 @@
 - Holmstrom, B. (1979). "Moral Hazard and Observability." *Bell Journal of Economics*, 10(1), 74-91. The economic theory.
 - Jensen, M. C. & Meckling, W. H. (1976). "Theory of the Firm: Managerial Behavior, Agency Costs, and Ownership Structure." *Journal of Financial Economics*, 3(4), 305-360. The principal-agent foundation.
 - Ariely, D. (2008). *Predictably Irrational.* HarperCollins. ISBN 978-0061353239. Behavioral economics applications.
+- Ouyang, L. et al. (2022). "Training language models to follow instructions with human feedback" (InstructGPT). arXiv:2203.02155. RLHF as applied reward design; documents proxy-optimization behavior in language models.
+- Perez, E. et al. (2022). "Discovering Language Model Behaviors with Model-Written Evaluations." arXiv:2212.09251. Empirical evidence of sycophancy — a reward-hacking failure where models optimize the human-approval proxy rather than truth.
+- Stanford HAI (2024/2025). *Artificial Intelligence Index Report.* Data on AI investment, talent demand, and industry adoption in the 2024–2026 period.

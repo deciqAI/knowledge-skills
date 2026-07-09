@@ -20,6 +20,7 @@ Apply when:
 - Team is locked into one solution direction and needs divergent thinking first
 - Problem has multiple conflicting stakeholders and no single correct answer
 - Team states "we already know what users need" without observational evidence
+- An AI/LLM feature demos well but stalls in real use — high AI capex and AI-native competition, yet users won't adopt the generic chatbot (a desirability, not capability, gap)
 
 **When NOT to use:**
 - Problem and solution both well-understood; challenge is execution only
@@ -64,6 +65,7 @@ Run the **Design Sprint** through five stages (divergent → convergent, checkab
 ```
 
 *→ Method in Action: [GE Healthcare — Pediatric MRI Redesign (2007)](examples/ge-healthcare-pediatric-mri-redesign-2007.md)*
+*→ 2026 lens: [Designing an AI Product That Finishes the Job, Not the Demo (2024–2026)](examples/agentic-ai-product-beyond-chatbot-demo-2024-2026.md)*
 
 ## Empathy Packs
 

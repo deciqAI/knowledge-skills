@@ -19,6 +19,7 @@ Composes with [`feedback-loops`](../feedback-loops/SKILL.md), [`principal-agent`
 - People are visibly optimizing for a number rather than the work it was meant to track
 - Algorithmic optimization is producing outcomes the designers didn't intend
 - Resource allocation is driven by a single composite score or ranking
+- An AI model, benchmark, or engagement metric is being optimized (or used to justify AI capex / adoption / AI-native competition) and the score is rising faster than real capability or user value
 
 **Not when:** metric and goal are identical; stakes too low for gaming; metric is purely descriptive with no reward/punishment; question is which metric to use, not whether the measurement-reward system is sound.
 
@@ -69,6 +70,7 @@ Goal measurement (independent): | Drift threshold: | Retirement criteria: | Owne
 ```
 
 *→ Method in Action: [Goodhart 1975 (M3) and Strathern 1997 (RAE)](examples/goodhart-1975-m3-and-strathern-1997-rae.md)*
+*→ 2026 lens: [AI benchmarks and engagement metrics as targets (2023–2026)](examples/ai-benchmark-and-engagement-gaming-2023-2026.md)*
 
 ## Pack: Goodhart's Law Patterns
 

@@ -17,6 +17,7 @@ Composes with [`porters-five-forces`](../porters-five-forces/SKILL.md) (diagnose
 - Competitive gap stays constant despite continuous product improvement
 - Post-mortem: advantage was copied within 12–24 months; team keeps asking "should we match them?"
 - Evaluating whether to enter an industry or whether an initiative will produce durable advantage
+- Escalating AI capex / compute arms race, or AI-native competition where everyone must adopt AI just to keep pace and no durable lead emerges
 
 **Not when:** genuine structural barriers to imitation exist (IP, regulatory approvals, deep network effects); pure operational efficiency decision; pre-competitive with no direct rivals. **Stop:** once Red Queen is confirmed + escape vector identified, or NOT confirmed + durability factor named.
 
@@ -67,6 +68,8 @@ Recommendation: [run faster / change tracks / exit] — [rationale] — Timeline
 ```
 
 *→ Method in Action: [Van Valen 1973 + Intel vs. AMD 1990–2010](examples/van-valen-1973-intel-vs-amd-1990-2010.md)*
+
+*→ 2026 lens: [The Frontier-AI Training Race (2023–2026)](examples/frontier-ai-labs-training-race-2023-2026.md)*
 
 ## Pack: Red Queen Across Industries
 

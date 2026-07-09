@@ -12,3 +12,5 @@
 - Roth, A. E. (2002). "The Economist as Engineer." *Econometrica*, 70(4), 1341-1378. Mechanism-design applications.
 - Schelling, T. C. (1960). *The Strategy of Conflict.* Harvard University Press. ISBN 978-0674840317. Strategic applications to security.
 - Tirole, J. (1988). *The Theory of Industrial Organization.* MIT Press. ISBN 978-0262200714. Industrial-organization applications.
+- Microsoft, Alphabet, Amazon, and Meta (2024–2026). Quarterly earnings calls and investor disclosures on AI-related capital expenditure guidance. Contemporary example of investment competition sustaining a high-capex equilibrium among rational rivals.
+- Investor commentary and reporting on the hyperscaler AI-capex build-out (2024–2026), e.g., quarterly earnings coverage in the financial press. Documents the "risk of under-investing exceeds risk of over-investing" framing that signals best-response spending.

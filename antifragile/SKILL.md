@@ -22,6 +22,7 @@ Core warning: **most modern complex systems are hidden-fragile** — stable only
 - Designing a portfolio (financial, career, organizational) under uncertainty
 - A "this can't happen" assumption is embedded in a strategic plan
 - Recurrent small problems are suppressed rather than learned from
+- A business depends on one AI/model vendor's API, pricing, or policy, or faces AI-native competition amid rapid AI capex and adoption shifts
 - User says: "Taleb," "barbell strategy," "convex," "skin in the game," "via negativa"
 
 **Not when:** decision is small and reversible; system is simple and low-stakes; you confuse high-variance with antifragile.
@@ -70,6 +71,7 @@ Core warning: **most modern complex systems are hidden-fragile** — stable only
 ```
 
 *→ Method in Action: [Taleb's Framework, 2007-2012, and the 2008 Financial Crisis](examples/talebs-framework-2007-2012-and-the-2008-financial-crisis.md) · [1956 Grand Canyon Collision & Aviation Safety](examples/1956-grand-canyon-collision-and-aviation-safety.md)*
+*→ 2026 lens: [Fragile vs. Antifragile AI Businesses (2024–2026)](examples/ai-business-fragility-2024-2026.md)*
 
 ## Pack: Antifragile Patterns
 

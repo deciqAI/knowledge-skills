@@ -14,7 +14,7 @@ Neighbor skills: use [`prisoners-dilemma`](../prisoners-dilemma/SKILL.md) when c
 
 ## When to Use
 
-Apply this skill when: entering a competitive situation before determining whether total value is fixed; someone proposes a negotiation assuming "what I gain, you lose"; a market entry hinges on whether total market size is fixed; a policy analysis needs to assess whether an intervention redistributes or creates welfare; someone uses zero-sum language ("winner-take-all", "race to the bottom", "fixed pie").
+Apply this skill when: entering a competitive situation before determining whether total value is fixed; someone proposes a negotiation assuming "what I gain, you lose"; a market entry hinges on whether total market size is fixed; a policy analysis needs to assess whether an intervention redistributes or creates welfare; someone uses zero-sum language ("winner-take-all", "race to the bottom", "fixed pie"); or someone frames the AI race, AI capex/compute buildout, AI-talent competition, or AI-native market entry as a single winner-take-all contest and you need to separate the genuinely fixed inputs (near-term compute/talent) from the growing pie (AI-driven productivity and adoption).
 
 **When NOT to use:** already confirmed zero-sum — go straight to minimax; clear cooperative surplus with no competitive distribution problem; stakes trivial and reversible; question already at equilibrium level — use [`nash-equilibrium`](../nash-equilibrium/SKILL.md) directly.
 
@@ -59,6 +59,7 @@ Strategic recommendation: <one paragraph>
 ```
 
 *→ Method in Action: [Von Neumann and the Foundation of Zero-Sum Analysis — RAND, 1944–1950](examples/von-neumann-rand-1944-1950.md) · [The Smoot-Hawley Tariff (1930–1934)](examples/smoot-hawley-tariff-1930.md)*
+*→ 2026 lens: [Where the AI Race Is Zero-Sum and Where It Isn't (2024–2026)](examples/ai-competition-fixed-vs-growing-pie-2024-2026.md)*
 
 ## Game-Type Packs
 

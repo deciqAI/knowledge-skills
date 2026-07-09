@@ -14,7 +14,7 @@ In most real systems, a small fraction of inputs produces the majority of output
 
 ## When to Use
 
-Use: team treating many items as equally important; resources spread thin; prioritization needed; you suspect a heavy-tailed distribution that hasn't been measured.
+Use: team treating many items as equally important; resources spread thin; prioritization needed; you suspect a heavy-tailed distribution that hasn't been measured; deciding where to concentrate AI capex / AI adoption effort when most pilots stall and a few use cases capture the value (which AI bets to fund vs. cut against AI-native competition).
 
 **When NOT:** only a few items total; safety-critical or long-tail-strategic items where the residual matters; the split is trivially obvious; using it to abandon a strategically valuable long tail.
 
@@ -61,6 +61,7 @@ Run the **Pareto Analysis**: define output, measure distribution, identify vital
 ```
 
 *→ Method in Action: [Microsoft's Office Bug-Fix Pareto (2002)](examples/microsoft-office-bug-fix-pareto-2002.md)*
+*→ 2026 lens: [The 80/20 of Realized AI Value (2024–2026)](examples/ai-value-concentration-2024-2026.md)*
 
 ## Pareto Distribution Packs
 

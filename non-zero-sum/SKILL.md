@@ -18,6 +18,7 @@ A non-zero-sum interaction is one where mutual gain (or mutual loss) is possible
 - You want to find latent cooperative value in an adversarial relationship
 - Designing an institution, platform, or contract to align incentives for competing parties
 - Someone says: *"this is win-lose," "we can't both win," "what's in it for them," "could we cooperate instead of compete?"*
+- A market is framed as winner-take-all — *"AI will take all the jobs / margin," "the AI capex will only pay off for the platform," "AI-native startups will crush incumbents (or vice versa)"* — and you need to test whether the layers can grow together instead
 
 **When NOT to use:**
 - Genuinely fixed-pool, one-shot interaction with no side effects — non-zero-sum framing is wishful, not analytical
@@ -66,6 +67,7 @@ Non-zero-sum gap: <cooperation dividend>
 ```
 
 *→ Method in Action: [Axelrod's Computer Tournament (1980)](examples/axelrods-computer-tournament-1980.md)*
+*→ 2026 lens: [The AI Ecosystem — Positive-Sum vs. "AI Eats Everything" (2024–2026)](examples/ai-ecosystem-value-creation-2024-2026.md)*
 
 ## Cooperation Packs
 

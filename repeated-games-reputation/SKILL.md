@@ -17,6 +17,7 @@ Apply when:
 - You're designing **a platform or marketplace** that needs strangers to cooperate — reputation infrastructure is the architectural question
 - You're trying to **escape a defection trap** and the candidate escape is "repetition" or "reputation"
 - A partnership keeps fragmenting — diagnose whether δ is too low or observation is broken
+- Trust/safety reputation is shaping who wins **AI adoption and AI-native competition** — where capability converges, a bad launch or safety incident reprices every future round of enterprise adoption (and the AI capex supercycle only lengthens the shadow of the future)
 
 **When NOT to use:**
 - Genuinely one-shot with no third-party observability → use [`prisoners-dilemma`](../prisoners-dilemma/SKILL.md)
@@ -65,6 +66,7 @@ Test: <lifetime payoff vs one-shot defect>
 ```
 
 *→ Method in Action: [Robert Axelrod's Computer Tournament, 1979–1981](examples/robert-axelrod-computer-tournament-1979-1981.md)*
+*→ 2026 lens: [Trust Reputation as Strategy in the AI Race (2024–2026)](examples/ai-trust-reputation-enterprise-adoption-2024-2026.md)*
 
 ## Pack: Reputation Infrastructure Patterns
 

@@ -17,6 +17,7 @@ Composes with [`ooda-loop`](../ooda-loop/SKILL.md), [`feedback-loops`](../feedba
 - Experts disagree on the right answer — a crisis unfolding where the previous playbook doesn't apply
 - "Best practices from X" imported without checking if the domain matches
 - A team is over-planning something emergent, or "let's get more data" when data won't come without action
+- Allocating AI capex or racing AI-native competition: deciding which AI bets are engineering (Complicated), emergent agent/adoption experiments (Complex), or live incidents (Chaotic)
 
 **Not when:** domain is unambiguously Clear (execution only); small-stakes one-shot; specialized framework already fits.
 
@@ -69,6 +70,7 @@ Boundary watch: [shift signals | monitoring owner | re-diagnosis schedule]
 ```
 
 *→ Method in Action: [Snowden at IBM (1999) and the HBR Synthesis (2007)](examples/snowden-at-ibm-1999-and-the-hbr-synthesis-2007.md) · [Apollo 13 Mission Response (1970)](examples/apollo-13-1970-mission-response.md)*
+*→ 2026 lens: [Sorting AI Decisions by Domain (2024–2026)](examples/sorting-ai-decisions-by-domain-2024-2026.md)*
 
 ## Pack: Cynefin Domain Patterns
 

@@ -14,7 +14,7 @@ Composition: use [status-quo-bias](../status-quo-bias/SKILL.md) before nudge des
 
 ## When to Use
 
-Apply when: (1) intent-action gap exists; (2) mandates or financial incentives are infeasible or unacceptable; (3) the choice environment can be redesigned.
+Apply when: (1) intent-action gap exists; (2) mandates or financial incentives are infeasible or unacceptable; (3) the choice environment can be redesigned; (4) you are setting defaults, opt-in/opt-out flows, or model-selection and data-sharing settings in an AI-native product where choice architecture steers millions of users amid rapid AI adoption and AI-native competition.
 
 **When NOT to use:** gap is informational (educate first); deep values at stake; expert deliberate decision-makers (System 2); no defensible claim one outcome is better for the chooser.
 
@@ -59,6 +59,7 @@ Scale/Decay: Monitoring cadence: <> | Re-evaluation trigger: <>
 ```
 
 *→ Method in Action: [401(k) Automatic Enrollment and the Pension Protection Act (2006)](examples/401k-automatic-enrollment-and-the-pension-protection-act-2006.md)*
+*→ 2026 lens: [Choice Architecture in AI Products (2023–2026)](examples/choice-architecture-in-ai-products-2023-2026.md)*
 
 ## EAST Packs
 
