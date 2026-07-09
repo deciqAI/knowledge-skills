@@ -15,7 +15,7 @@ A business creates, delivers, and captures value through **nine interlocking blo
 
 ## When to Use
 
-Apply when: designing a new business · evaluating an existing business for block-level risk · considering a pivot · comparing against incumbents · before raising capital.
+Apply when: designing a new business · evaluating an existing business for block-level risk · considering a pivot · comparing against incumbents · before raising capital · sizing an AI-native model's economics under AI capex / usage-based margins / AI-native competition (does the foundation-model provider's pricing or its own product roadmap sit in your Cost Structure and Key Partners?).
 
 **When NOT to use:** no customer named yet (do first-principles first) · canvas done and nothing validated since · purely operational decision · you will fill it in but never test it.
 
@@ -76,6 +76,7 @@ Comparison to incumbents: [block-by-block diff vs. closest competitor]
 ```
 
 *→ Method in Action: [Southwest Airlines (1971 → ongoing)](examples/southwest-airlines-1971.md) · [Nespresso's Razor-and-Blades Pivot](examples/nespresso-razor-and-blades-1986.md)*
+*→ 2026 lens: [Mapping an AI-Native Startup (2024–2026)](examples/ai-native-startup-2024-2026.md) — usage/outcome revenue, compute as dominant variable cost, the foundation-model provider as both key partner and key risk*
 
 ## Industry Canvas Packs
 

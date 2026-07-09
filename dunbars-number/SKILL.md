@@ -23,6 +23,7 @@ Composes with [`network-effects`](../network-effects/SKILL.md) (different coordi
 - Deciding to split a team, open a new office, or create a sub-unit
 - Designing org structure for a scaling startup; evaluating acquisition integration plans
 - Diagnosing why informal culture "felt different" after a headcount milestone
+- AI-native startup hiring fast on abundant AI-era capital / AI-adoption demand — "we scaled from 20 to 150 in a year and coordination is breaking"
 
 **Not when:** group well below 50 and problems are interpersonal; constraint is incentive misalignment (use [`principal-agent`](../principal-agent/SKILL.md)); challenge is growing a network beyond 150 (use [`network-effects`](../network-effects/SKILL.md)).
 
@@ -66,6 +67,7 @@ Prescription: [split / formalize / layer] | Sub-unit targets: [≤150] | Trigger
 ```
 
 *→ Method in Action: [Dunbar 1992 + W.L. Gore & Associates](examples/dunbar-1992-wl-gore-associates.md)*
+*→ 2026 lens: [Scaling an AI-native startup team (2023–2026)](examples/ai-native-startup-scaling-2023-2026.md) — how AI capital compresses the timeline to the ~50 and ~150 breakpoints*
 
 ## Pack: Dunbar Number Across Domains
 

@@ -23,6 +23,7 @@ Composes with [`jobs-to-be-done`](../jobs-to-be-done/SKILL.md) · [`okr-goal-set
 - A product is being positioned and the underlying customer need is unclear
 - A team can't engage with higher-order work because basic needs are unmet
 - "Why isn't the bonus motivating them?" is being asked
+- An AI strategy (AI capex push, AI adoption mandate, AI-native competition) triggers job-security fear that blocks engagement with the mission
 
 **Not when:** formal motivational science is required; cross-cultural application is non-trivial; SDT fits better.
 
@@ -61,6 +62,8 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 `Needs Diagnosis: <who> | Situation: desired behavior / current incentive / observed response | Need-state: Physiological / Safety / Belonging / Esteem / Self-actualization — each met/partial/unmet | Incentive target level | Mismatch Y/N + direction | Intervention: lower-level fix + higher-level match + owner + verification date`
 
 *→ Method in Action: [Maslow 1943 and the Subsequent Refinements](examples/maslow-1943-and-the-subsequent-refinements.md)*
+
+*→ 2026 lens: [Motivating a Team Through the AI-Anxiety Era (2024–2026)](examples/motivating-teams-through-ai-anxiety-2024-2026.md)*
 
 ## Pack: Maslow-Informed Diagnostic Patterns
 

@@ -10,3 +10,5 @@
 - Kenrick, D. T., Griskevicius, V., Neuberg, S. L., & Schaller, M. (2010). "Renovating the pyramid of needs: Contemporary extensions built upon ancient foundations." *Perspectives on Psychological Science*, 5(3), 292-314.
 - Deci, E. L., & Ryan, R. M. (2000). "The 'what' and 'why' of goal pursuits: Human needs and the self-determination of behavior." *Psychological Inquiry*, 11(4), 227-268. The modern alternative (SDT).
 - Pink, D. H. (2009). *Drive: The Surprising Truth About What Motivates Us.* Riverhead Books. ISBN 978-1594488849. Popular SDT synthesis.
+- Pew Research Center (2025). "U.S. Workers Are More Worried Than Hopeful About Future AI Use in the Workplace." Contemporary evidence that AI-era job-security fear (a Maslow safety-need threat) is widespread among knowledge workers.
+- World Economic Forum (2025). *Future of Jobs Report 2025.* Employer expectations that AI and automation will both displace and create roles across 2025–2030 — the labor-market context behind AI-anxiety motivation cases.

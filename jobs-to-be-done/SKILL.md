@@ -18,6 +18,7 @@ Composes with [`pmf-crossing-the-chasm`](../pmf-crossing-the-chasm/SKILL.md), [`
 - Demographic segmentation produces segments that don't behave alike
 - Churn is high but exit surveys don't predict it; roadmap debate is feature-vs-feature
 - New market entry: "who is our customer" instead of "what job"
+- Building an AI-native product or "AI wrapper": are users hiring us for output/features, or for progress (get unblocked, ship faster) — and are we losing to AI adoption, the base model's own app, or non-consumption?
 
 **Not when:** commodity; regulatory-compliance purchase; org buyer with different motivations than end-user.
 
@@ -64,6 +65,8 @@ Implications: Features to build / cut / Marketing angle / Competitive set to tra
 ```
 
 *→ Method in Action: [Christensen and the Milkshake Study, 2003](examples/christensen-and-the-milkshake-study-2003.md)*
+
+*→ 2026 lens: [What People Hire an AI Assistant to Do (2023–2026)](examples/what-people-hire-an-ai-assistant-to-do-2023-2026.md)*
 
 ## Pack: Common JTBD Patterns
 

@@ -13,7 +13,7 @@ Composes with: [`porters-five-forces`](../porters-five-forces/SKILL.md) (before 
 
 ## When to Use
 
-Apply when: beginning a strategic planning cycle; evaluating market entry; preparing investor materials; conducting competitive analysis from a rival's perspective; facing a crisis requiring rapid capability/threat mapping.
+Apply when: beginning a strategic planning cycle; evaluating market entry; preparing investor materials; conducting competitive analysis from a rival's perspective; facing a crisis requiring rapid capability/threat mapping; assessing how AI adoption, AI-native competition, or rising AI capex reshapes your strengths, pricing model, and threats.
 
 **When NOT to use:** precise quantitative decisions (SWOT is too subjective); firm-level competitive positioning within known industry structure (use Five Forces or VRIO); specifically which direction to grow (use Ansoff); team cannot agree on what a Strength even is.
 
@@ -59,6 +59,7 @@ Produce a **Strategic Audit** — populated four-quadrant SWOT plus TOWS cross-m
 ```
 
 *→ Method in Action: [Netflix's 2010–2013 Strategic Pivot](examples/netflix-2010-2013-strategic-pivot.md) · [LEGO's 2003–2005 Turnaround](examples/lego-2003-2005-turnaround.md)*
+*→ 2026 lens: [Incumbent Seat-Based SaaS vs. the AI Agent Shift (2024–2026)](examples/seat-based-saas-ai-transition-2024-2026.md) — AI as Opportunity and Threat at once*
 
 ## SWOT Packs
 

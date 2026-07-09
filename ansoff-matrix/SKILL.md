@@ -22,6 +22,7 @@ Apply when:
 - The firm is considering **entering a new geography or demographic** with an existing product
 - A product team is **developing a new product** and needs strategic context
 - A startup is **past initial PMF** and planning its next phase
+- An **AI-native company** is weighing deeper penetration vs. new segments vs. shipping autonomous agents vs. diversifying — under rising AI capex, fast AI adoption, and AI-native competition
 
 **When NOT to use:** single product with clear unsaturated demand (penetration is the obvious answer); portfolio-level resource allocation across existing BUs (BCG Matrix); industry-level competitive assessment (Porter's Five Forces first); evaluating a single acquisition or partnership deal.
 
@@ -70,6 +71,7 @@ Entry criteria for next quadrant: <metric> ≥ <threshold> by <date>
 ```
 
 *→ Method in Action: [Amazon's Sequenced Growth (1994–2006)](examples/amazon-sequenced-growth-1994-2006.md) · [Disney's Diversification Sequence (1928–1955)](examples/disney-diversification-sequence-1928-1955.md)*
+*→ 2026 lens: [An AI Startup's Growth Options (2024–2026)](examples/ai-startup-growth-options-2024-2026.md)*
 
 ## Growth Direction Packs
 

@@ -8,3 +8,5 @@
 - Bain, J. S. (1956). *Barriers to New Competition.* Harvard University Press. The IO-economics foundation Porter built on.
 - Brandenburger, A. M., & Nalebuff, B. J. (1996). *Co-opetition.* Currency. The complementary "sixth force" extension. ISBN 978-0385479509.
 - Damodaran, A. *Industry-level returns dataset*, NYU Stern. http://pages.stern.nyu.edu/~adamodar/ — updated annually with industry ROIC and other structural metrics.
+- Stanford Institute for Human-Centered AI (HAI). *Artificial Intelligence Index Report* (2024 and later annual editions). https://aiindex.stanford.edu/report/ — industry-scale data on AI investment, training costs, and model releases; used for the 2024–2026 foundation-model structural example. Note the 2024 edition covers data through roughly 2023; later-year trends draw on subsequent editions and general reporting available through early 2026.
+- Nvidia Corporation. *Investor relations and quarterly financial results.* https://investor.nvidia.com — primary disclosures on data-center/accelerator revenue and profit growth (reported through early 2026), evidencing upstream compute-supplier profit capture.

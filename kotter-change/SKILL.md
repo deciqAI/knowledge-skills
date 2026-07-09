@@ -18,6 +18,7 @@ Composes with: [`okr-goal-setting`](../okr-goal-setting/SKILL.md) inside Steps 3
 - Transformation is stalling — diagnose which step was skipped
 - Resistance is significant and needs a structured approach
 - Someone says "nobody's buying in", "we went back to old ways", "the rollout failed"
+- AI adoption is stalling — copilots/AI tools bought but under-used, pilots not scaling, ROI on AI capex unclear, or middle managers quietly resisting AI-native ways of working against AI-native competition
 
 **When NOT to use:** small process improvement; org under 30–50 people; change needed in weeks; crisis requiring immediate action.
 
@@ -67,6 +68,7 @@ Scores 4–5 require pre-treatment before the corresponding step.
 **Output:** `# Change Readiness: <initiative> / Failure mode scores (table) / 8-Step Roadmap (one line per step) / Timeline (24-month milestones)`
 
 *→ Method in Action: [IBM's Turnaround under Lou Gerstner (1993–1996)](examples/ibm-turnaround-lou-gerstner-1993-1996.md)*
+*→ 2026 lens: [Driving Enterprise AI Adoption (2024–2026)](examples/enterprise-ai-adoption-2024-2026.md)*
 
 ## Change-Type Packs
 

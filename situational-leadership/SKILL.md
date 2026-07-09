@@ -20,6 +20,7 @@ Composes with: [`kotter-change`](../kotter-change/SKILL.md) for org-level transf
 - A **high performer is disengaging** ("I'm being micromanaged", "no room to grow") — signature of D4 receiving S1
 - A **new hire or person in a new role** is struggling despite effort — signature of D1/D2 receiving insufficient structure
 - A **task or technology change** resets development levels for experienced people
+- **AI adoption resets who's the expert** — after rolling out AI coding tools / AI-native workflows amid the 2024–2026 AI capex race, a senior person is D1/D2 on the new tool even while D4 on the core work
 - You are making a **delegation decision** for a specific person on a specific task
 
 **When NOT to use:** incentive misalignment (principal-agent problem); acute crisis requiring uniform command; task is too vague to name (diagnosis requires a specific task).
@@ -66,6 +67,7 @@ Reassessment trigger: <signal>
 ```
 
 *→ Method in Action: [Google's Project Oxygen (2009)](examples/google-project-oxygen-2009.md)*
+*→ 2026 lens: [Leading AI-native engineering teams (2024–2026)](examples/leading-ai-native-teams-2024-2026.md)*
 
 ## Style Packs
 

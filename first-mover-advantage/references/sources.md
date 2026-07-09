@@ -12,4 +12,8 @@
 
 - Schmalensee, R. (1982). "Product Differentiation Advantages of Pioneering Brands." *American Economic Review*, 72(3), 349–365. Pre-Lieberman-Montgomery empirical work on first-mover advantages in consumer goods, providing the brand differentiation evidence base. https://www.jstor.org/stable/1831769
 
+- OpenAI, "Introducing ChatGPT" (November 30, 2022). Primary announcement of the ChatGPT launch. https://openai.com/blog/chatgpt — Supporting the "fastest to 100M users" claim, see UBS/Reuters coverage: Reuters, "ChatGPT sets record for fastest-growing user base" (February 1, 2023). https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/
+
+- EU AI Act, Regulation (EU) 2024/1689, Official Journal of the European Union, 2024. Establishes phased obligations for AI systems in the EU; relevant to switching-cost and compliance durability for AI-native first movers. https://eur-lex.europa.eu/eli/reg/2024/1689/oj
+
 **What is not cited and why:** Popular business press accounts of first-mover advantage (including "The Myth of First Mover Advantage" genre articles) frequently use selected examples — either all pioneer successes or all pioneer failures — to argue a general point. This skill uses Lieberman and Montgomery's systematic cross-industry evidence, not selected examples. The Amazon analysis uses Amazon's own 10-K filings for factual claims (subscriber counts, facility square footage) rather than secondary press sources. The Myspace-Facebook comparison is used as a mechanism illustration, not as general proof that first movers always lose social network markets; the structural analysis (multi-homing, product failure identification) is what matters, not the story.

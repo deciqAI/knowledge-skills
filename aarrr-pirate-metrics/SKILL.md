@@ -21,6 +21,7 @@ The **AARRR framework** (Dave McClure, *Startup Metrics for Pirates*, 2007) name
 - You need a **shared instrumentation framework** across teams
 - Designing **end-to-end metrics for a new product**
 - Someone says: *"AARRR," "pirate metrics," "growth funnel," "where is our funnel breaking?"*
+- An **AI-native product has strong signups but weak activation/retention** — cheap AI-hype acquisition masks empty-state and post-novelty leaks; or you're facing AI-native competition on a commoditized model and need to find where your funnel actually loses users
 
 **When NOT to use:** No users yet → use [lean-startup](../lean-startup/SKILL.md). Signups still in the tens — AARRR rates need volume. Bottleneck already obvious → fix that first, then return.
 
@@ -59,6 +60,8 @@ Experiment: Change <intervention> · Metric <conversion rate> · Threshold <valu
 ```
 
 *→ Method in Action: [Dropbox's Referral Program (2009)](examples/dropbox-referral-program-2009.md) · [Facebook's "7 Friends in 10 Days" (2007–2009)](examples/facebook-7-friends-in-10-days-2008.md)*
+
+*→ 2026 lens: [Where AI SaaS Funnels Leak (2023–2026)](examples/ai-saas-funnel-leaks-2023-2026.md) — cheap AI-hype acquisition, but activation (empty-state / first-value) and retention (after novelty decays) are the real leaks.*
 
 ## Funnel Packs
 

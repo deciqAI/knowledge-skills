@@ -18,6 +18,7 @@ Composes with [`signaling-games`](../signaling-games/SKILL.md), [`repeated-games
 - Employees/executives behaving in ways that puzzle leadership
 - New joint venture, LP-GP fund, or platform marketplace being structured
 - Someone says "agency cost," "moral hazard," "skin in the game," "fiduciary duty"
+- Deploying an autonomous AI agent, sizing AI capex/adoption, or facing AI-native competition where you delegate to a system whose objective and actions you can't fully observe (alignment / guardrails / human-in-the-loop)
 
 **Not when:** fully aligned interests + fully observable behavior; contract design cost exceeds the agency cost it would prevent.
 
@@ -69,6 +70,8 @@ Monitoring cost + bonding cost + residual loss = total. Order-of-magnitude is en
 ```
 
 *→ Method in Action: [Jensen-Meckling 1976 and the Enron Collapse, 2001](examples/jensen-meckling-1976-and-the-enron-collapse-2001.md)*
+
+*→ 2026 lens: [Delegating to an Autonomous AI Agent (2024–2026)](examples/deploying-autonomous-ai-agents-2024-2026.md)*
 
 ## Pack: Common Patterns (see also full table in examples)
 

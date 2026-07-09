@@ -14,7 +14,7 @@ Compose with: [first-principles](../first-principles/SKILL.md) · [probabilistic
 
 ## When to Use
 
-Apply when: setting initial prices; planning a price change (especially raising); designing freemium/tiered/usage structures; sales asks for discounts >1/week; competitors' price is the only input.
+Apply when: setting initial prices; planning a price change (especially raising); designing freemium/tiered/usage structures; sales asks for discounts >1/week; competitors' price is the only input; pricing an AI product against volatile/falling inference costs and choosing seat- vs. usage- vs. outcome-based models, protecting gross margin as AI capex and model releases shift the cost floor, or defending price against AI-native competitors pricing off the same collapsing token cost.
 
 **When NOT to use:** no demonstrated value (use [lean-startup](../lean-startup/SKILL.md)); price regulated; purely tactical single-deal discount; LTV/CAC already working and question is execution only.
 
@@ -59,6 +59,8 @@ Run the **Pricing Audit**. Value-first, anchor, structure, frame, test.
 | 60-day metrics + re-evaluation date | |
 
 *→ Method in Action: [De Beers and the Engagement Ring (1947 → ongoing)](examples/de-beers-and-the-engagement-ring-1947-ongoing.md) · [Netflix's Qwikster Failure (2011)](examples/netflix-qwikster-price-restructuring-2011.md)*
+
+*→ 2026 lens: [Pricing an AI product under volatile inference costs — seat vs. usage vs. outcome (2023–2026)](examples/ai-product-pricing-under-volatile-inference-costs-2023-2026.md)*
 
 ## Pricing Packs
 

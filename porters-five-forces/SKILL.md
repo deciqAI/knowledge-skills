@@ -16,6 +16,7 @@ Composes with [`network-effects`](../network-effects/SKILL.md), [`switching-cost
 
 - Entering or exiting an industry; strategic planning; explaining why a business is profitable or unprofitable despite good execution; evaluating an investment in a specific sector
 - Someone says: "barriers to entry," "buyer/supplier power," "industry attractiveness," "structural competitiveness"
+- Sizing a sector reshaped by AI: "who captures the profit in AI?", "does AI capex / compute supplier power make this industry attractive?", "can we win against AI-native competition or open-weight substitutes?"
 
 **When NOT to use:** dynamic technology disruption; platform/ecosystem markets; very new markets (no stable structure); firm-level analysis (use VRIO instead).
 
@@ -74,6 +75,7 @@ Validation: predicted ROIC <…> vs actual <…> | gap: <…>
 ```
 
 *→ Method in Action: [Porter's 1979 HBR Paper and Its Empirical Foundation](examples/porters-1979-hbr-paper-and-its-empirical-foundation.md) · [Porter's US Passenger Airline Analysis](examples/us-passenger-airline-industry-analysis.md)*
+*→ 2026 lens: [The AI Foundation-Model Industry Structure (2024–2026)](examples/ai-foundation-model-industry-structure-2024-2026.md)*
 
 ## Pack: Five-Forces by Industry Archetype
 

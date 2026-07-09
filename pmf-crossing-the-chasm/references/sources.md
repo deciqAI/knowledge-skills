@@ -10,4 +10,6 @@
 - **Ellis, Sean.** "The Startup Pyramid." *Startup Marketing* blog, 2009; archived: https://web.archive.org/web/20100118091421/http://startup-marketing.com/the-startup-pyramid/ **The 40% Ellis Test methodology**.
 - **Benioff, Marc.** *Behind the Cloud*. Jossey-Bass, 2009. **Primary source for the Salesforce 1999–2007 chasm-crossing case**.
 - **Salesforce.com, Form 10-K** (SEC, multiple fiscal years 2005–2007) — primary-source revenue and segment data.
+- **GitHub.** Public blog and product documentation on GitHub Copilot — general availability (2022), adoption, and enterprise security/admin controls (2021–2025). https://github.blog/ **Primary-source for the AI-coding-assistants chasm case (2023–2026).**
+- **Stack Overflow.** *Annual Developer Survey* — AI-tools adoption sections (2023, 2024, 2025). https://survey.stackoverflow.co/ **Widely-cited data on developer AI-tool adoption and sentiment.**
 - The popular framing "if you build it they will come" is **not** cited as a source — by this skill's own rule, an aphorism is not evidence. The framework is more precisely "first build it for a beachhead who will love it (PMF), then specifically engineer the ecosystem the next segment needs (chasm)."

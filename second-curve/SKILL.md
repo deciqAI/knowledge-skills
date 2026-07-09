@@ -16,6 +16,7 @@ Composes with [`s-curve-technology-adoption`](../s-curve-technology-adoption/SKI
 - Business growing steadily 2-5 years and metrics still look good — *this is when the discipline applies most*
 - Growth recently decelerated but not yet negative — early maturity signal
 - A competitor launched a meaningfully different product in adjacent space
+- AI-native startups are attacking your core; you're weighing AI capex / AI-native reinvestment against your legacy (seat/license) cash cow
 - Leadership debating "double down vs explore" for capital allocation
 - Someone says: "second curve," "S-curve transition," "diversification timing," "the Innovator's Dilemma"
 
@@ -62,6 +63,7 @@ Defense: success-attribution <…> / resource-attachment <…> / identity <…>
 ```
 
 *→ Method in Action: [Intel's 1985 Memory-to-Microprocessor Pivot](examples/intel-1985-memory-to-microprocessor-pivot.md)*
+*→ 2026 lens: [The Incumbent's AI Second Curve (2024–2026)](examples/incumbent-ai-second-curve-2024-2026.md)*
 
 ## Pack: Second-Curve Patterns
 

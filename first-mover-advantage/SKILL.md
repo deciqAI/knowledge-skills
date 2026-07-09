@@ -13,7 +13,7 @@ Compose with: [switching-costs](../switching-costs/SKILL.md) · [network-effects
 
 ## When to Use
 
-Apply when: deciding to enter now or wait · assessing how defensible a market leader's position is · a late entrant maps where the pioneer is weakest · a first mover audits which accumulated advantages are durable.
+Apply when: deciding to enter now or wait · assessing how defensible a market leader's position is · a late entrant maps where the pioneer is weakest · a first mover audits which accumulated advantages are durable · gauging whether an AI-native pioneer's lead survives fast-followers, AI capex escalation, or accelerating AI adoption.
 
 **When NOT to use:** No one has entered yet. The core question is execution quality, not timing. The advantage claimed is brand/momentum alone with no structural lock-in mechanism.
 
@@ -68,6 +68,7 @@ Key evidence: <specific observable mechanism per source>
 ```
 
 *→ Method in Action: [Amazon E-Commerce (1994–present)](examples/amazon-e-commerce-1994-present.md)*
+*→ 2026 lens: [OpenAI's ChatGPT First-Mover Position (2022–2026)](examples/openai-chatgpt-first-mover-2022-2026.md)*
 
 ## Timing Packs
 

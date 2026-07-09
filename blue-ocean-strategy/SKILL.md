@@ -16,7 +16,7 @@ Compose with: [porters-five-forces](../porters-five-forces/SKILL.md) before; [di
 
 ## When to Use
 
-Apply when: visible industry convergence (products similar, price is primary differentiator, margins eroding); team choosing market entry angle to avoid commoditized competition; product losing pricing power despite feature improvements; someone asks "how do we stop competing on price?" or "what new market can we create?"
+Apply when: visible industry convergence (products similar, price is primary differentiator, margins eroding); team choosing market entry angle to avoid commoditized competition; product losing pricing power despite feature improvements; a team asks how to avoid competing head-to-head with AI-native incumbents or trillion-dollar platforms on a commoditized general capability (e.g., "everyone's shipping the same AI chatbot — where's the uncontested space?", AI capex arms race, saturated AI adoption); someone asks "how do we stop competing on price?" or "what new market can we create?"
 
 **When NOT to use:** competitive dimensions fixed by law/safety standards; early-stage startup without sufficient market exposure to identify non-customer patterns; company lacks execution capability for a new value proposition; blue ocean with network-effect protection already exists — use [disruptive-innovation](../disruptive-innovation/SKILL.md).
 
@@ -59,6 +59,7 @@ Buyer Utility: utility gaps closed + non-customer response + stop-rule decision
 ```
 
 *→ Method in Action: [Cirque du Soleil (1984)](examples/cirque-du-soleil-1984.md) · [Yellow Tail Wine (2001)](examples/yellow-tail-wine-2001.md)*
+*→ 2026 lens: [Escaping the red ocean of general AI chatbots via vertical/agentic AI (2024–2026)](examples/vertical-agentic-ai-2024-2026.md)*
 
 ## Innovation Packs
 

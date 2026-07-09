@@ -18,6 +18,7 @@ Composes with: [`porters-five-forces`](../porters-five-forces/SKILL.md) · [`bcg
 
 - Margins **below industry average** without a clear explanation; designing competitive strategy; evaluating M&A synergies; new market entry planning
 - Someone says: "value chain," "cost structure analysis," "strategic cost analysis," "make vs. buy," "which activities create value"
+- Locating where margin actually pools in a multi-layer tech stack — e.g. "who captures the value in the AI stack," "is our AI capex a pass-through," "where does margin sit: chips, cloud, models, or apps," or facing AI-native competition that competes value away at the app layer
 
 **When NOT to use:** platform/multisided market (use network effects); portfolio health check (use BCG); industry-level question (use Five Forces); pre-PMF firm.
 
@@ -74,6 +75,7 @@ Strategic recommendations: invest / outsource / fix / immediate priority
 ```
 
 *→ Method in Action: [Apple's Value Chain and the iPhone Margin Structure (2007–2023)](examples/apple-iphone-margin-structure-2007-2023.md) · [Zara's Vertically Integrated Fast Fashion](examples/zara-vertically-integrated-fast-fashion.md)*
+*→ 2026 lens: [The AI Value Chain — Where the Margin Pools Sit (2024–2026)](examples/ai-stack-margin-pools-2024-2026.md)*
 
 ## Activity Packs
 

@@ -14,7 +14,7 @@ The **North Star Metric (NSM)** is the single metric that most directly measures
 
 ## When to Use
 
-**Use when:** teams are optimizing conflicting metrics; dashboard has 30+ metrics with no priority; a leading indicator of revenue is needed; someone says "NSM," "OMTM," "what should we optimize," or "we measure too many things."
+**Use when:** teams are optimizing conflicting metrics; dashboard has 30+ metrics with no priority; a leading indicator of revenue is needed; someone says "NSM," "OMTM," "what should we optimize," or "we measure too many things"; an AI-native product is chasing sign-ups / prompts / demo plays and needs an activated-value metric that survives high inference/capex costs and AI-adoption churn.
 
 **Do NOT use when:** product has no customers (pre-PMF → use [lean-startup](../lean-startup/SKILL.md)); single-team execution in a mature business; genuinely conflicting strategic objectives (the strategy needs work, not a metric).
 
@@ -61,6 +61,8 @@ Re-evaluation date: <next quarter>
 ```
 
 *→ Method in Action: [Facebook's "Seven Friends in Ten Days" (2007–2010)](examples/facebook-seven-friends-in-ten-days-2007-2010.md)*
+
+*→ 2026 lens: [AI product NSM — activated value vs. vanity metrics (2023–2026)](examples/ai-product-activated-value-vs-vanity-metrics-2023-2026.md)*
 
 ## NSM Selection Packs
 

@@ -15,7 +15,7 @@ Two distinct questions decide early-stage growth: (1) **PMF** — do enough user
 
 ## When to Use
 
-Apply when: early traction exists but PMF is unconfirmed; growth stalls after initial good period; deciding next segment; NPS positive but usage flat.
+Apply when: early traction exists but PMF is unconfirmed; growth stalls after initial good period; deciding next segment; NPS positive but usage flat; an AI-native product loved by developer/early-adopter users stalls at enterprise adoption despite the AI-capex race and frontier-model gains.
 **Not when:** no users yet ([lean-startup](../lean-startup/SKILL.md)); already-mainstream business scaling proven channels; issue is pricing/sales-process not chasm.
 
 ## Coaching Novices (Adaptive Front Door)
@@ -65,6 +65,7 @@ Part B — Chasm (if PMF held): Rogers classification | chasm geography (today �
 ```
 
 *→ Method in Action: [Salesforce, 1999 → 2007](examples/salesforce-1999-2007.md)*
+*→ 2026 lens: [AI Coding Assistants Crossing the Chasm (2023–2026)](examples/ai-coding-assistants-crossing-the-chasm-2023-2026.md)*
 
 ## Adoption Packs
 

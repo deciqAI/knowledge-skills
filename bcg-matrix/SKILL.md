@@ -21,6 +21,7 @@ Composes with: [`porters-five-forces`](../porters-five-forces/SKILL.md) to defin
 - Firm operates **≥ 3 distinct business units** competing for a shared capital pool
 - Annual **strategy or budget reviews** need a forcing function for prioritization
 - **PE/VC portfolio** requires a quick health-read across holdings; M&A teams assessing retain vs. divest
+- **AI capital reallocation:** deciding which units to harvest to fund AI capex / AI-native bets, and whether an AI unit is a true Star or an expensive Question Mark amid AI-native competition
 
 **When NOT to use:** single-product startup · highly interdependent units where divesting a Dog may destroy a Cash Cow · market in technology transition with unreliable growth data · firm-level competitive analysis within one market
 
@@ -68,6 +69,7 @@ Key decision: <what the analysis forces>
 ```
 
 *→ Method in Action: [Procter & Gamble's Brand Portfolio Restructuring (2012–2016)](examples/procter-gamble-brand-portfolio-restructuring-2012-2016.md) · [GE's "Fix, Sell, or Close" Pruning (1981–1995)](examples/general-electric-fix-sell-or-close-portfolio-pruning-1981-1995.md)*
+*→ 2026 lens: [Microsoft's Portfolio as AI Reallocates Capital (2024–2026)](examples/microsoft-ai-capital-reallocation-portfolio-2024-2026.md) — which units are Stars, which Cash Cows fund the AI capex build, which are Question Marks or Dogs*
 
 ## Portfolio Packs
 

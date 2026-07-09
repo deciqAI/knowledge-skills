@@ -18,6 +18,7 @@ Herzberg's 1959 Pittsburgh study found satisfaction and dissatisfaction are **tw
 - Talent **leaving for "better opportunities"** and exit interviews are uninformative
 - **Compensation recently increased** but morale didn't improve, or reset within months
 - **Designing** compensation structure, job role, or performance review system
+- **Bidding wars for scarce AI/ML talent** — matched counter-offers still lose people; AI-capex-driven pay bands keep rising but engagement doesn't follow (an AI-native competitor is out-motivating, not just out-paying, you)
 - Someone says: *"motivation," "engagement," "retention," "why isn't the team energized"*
 
 **When NOT to use:** Clear hygiene gap exists (salary below market, unsafe conditions) — fix those first. Skill gap, not motivation gap. Very short time horizon (72-hour sprint).
@@ -62,6 +63,8 @@ Monitoring: hygiene cadence <> | motivator cadence <> | lead indicator <>
 ```
 
 *→ Method in Action: [Herzberg's Pittsburgh Study and the Critical Incident Method (1959)](examples/herzbergs-pittsburgh-study-and-the-critical-incident-method-1959.md)*
+
+*→ 2026 lens: [Retaining Scarce AI/ML Talent in a Red-Hot Market (2024–2026)](examples/retaining-scarce-ai-ml-talent-2024-2026.md)*
 
 ## Motivation Packs
 
