@@ -5,14 +5,14 @@ description: "Activate when: a listing isn't selling and the agent must decide l
 
 # Real Estate — Pricing & Price-Reduction Decision
 
-> **Industry front door for [decision-tree](../../deciqai-knowledge-skills/decision-tree/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [decision-tree](../decision-tree/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 > **Not appraisal advice.**
 
 **Activate when:** setting a list price; a listing stalls (DOM up, showings without offers); deciding reduction timing/size; managing seller expectations.
 **Do NOT activate when:** priced correctly with active offers.
 
 ## Why this variant
-The parent [decision-tree] maps sequential choices under uncertainty. Pricing and reductions are a decision tree: hold vs reduce, by how much, when — against showing/offer feedback, carrying cost, and market trend, rolling back to expected net proceeds and time-to-sell.
+The parent [decision-tree](../decision-tree/SKILL.md) maps sequential choices under uncertainty. Pricing and reductions are a decision tree: hold vs reduce, by how much, when — against showing/offer feedback, carrying cost, and market trend, rolling back to expected net proceeds and time-to-sell.
 
 ## Domain inputs → the tree
 - Read the signals: showings-to-offer ratio, DOM vs market median, feedback themes, comparable adjustments.

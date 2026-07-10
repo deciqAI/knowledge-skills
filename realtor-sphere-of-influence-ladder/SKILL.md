@@ -5,13 +5,13 @@ description: "Activate when: a real estate agent wants repeat + referral busines
 
 # Real Estate — Sphere-of-Influence Referral Ladder
 
-> **Industry front door for [customer-relationship-ladder](../../deciqai-knowledge-skills/customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 
 **Activate when:** building repeat/referral pipeline; a database sitting idle; deciding nurture cadence; turning one closing into a lifetime client + referrals.
 **Do NOT activate when:** no existing contacts to nurture.
 
 ## Why this variant
-The parent [customer-relationship-ladder] moves contacts up rungs stranger → advocate. Real estate is a low-frequency, high-referral business: agents who systematically nurture their sphere and past clients get repeat + referral deals at a fraction of cold-lead cost. The ladder makes that a system, not luck.
+The parent [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md) moves contacts up rungs stranger → advocate. Real estate is a low-frequency, high-referral business: agents who systematically nurture their sphere and past clients get repeat + referral deals at a fraction of cold-lead cost. The ladder makes that a system, not luck.
 
 ## Domain inputs → the ladder
 Rungs and the trigger that lifts each:

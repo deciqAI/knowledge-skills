@@ -5,14 +5,14 @@ description: "Activate when: an insurance agent's compensation conflicts with th
 
 # Insurance Agent — Suitability & Principal-Agent Conflict
 
-> **Industry front door for [principal-agent](../../deciqai-knowledge-skills/principal-agent/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [principal-agent](../principal-agent/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 > **Not legal advice.**
 
 **Activate when:** recommending among products with different commissions; captive-carrier pressure vs client fit; annuity/life with best-interest duties; disclosing agent capacity.
 **Do NOT activate when:** servicing only / no recommendation.
 
 ## Why this variant
-The parent [principal-agent] analyzes misaligned incentives between an agent and the principal they serve. An insurance producer is paid by carriers but advises clients — a structural conflict. Suitability/best-interest rules exist to resolve it: recommend on client fit, disclose the conflict, don't let commission drive the product.
+The parent [principal-agent](../principal-agent/SKILL.md) analyzes misaligned incentives between an agent and the principal they serve. An insurance producer is paid by carriers but advises clients — a structural conflict. Suitability/best-interest rules exist to resolve it: recommend on client fit, disclose the conflict, don't let commission drive the product.
 
 ## Domain inputs → the analysis
 - Name the conflict: higher-commission product vs best-fit coverage; captive limits vs client need; churning incentive on replacements.

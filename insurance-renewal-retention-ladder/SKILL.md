@@ -5,13 +5,13 @@ description: "Activate when: an insurance agent wants to keep clients renewing a
 
 # Insurance Agent — Renewal & Retention Ladder
 
-> **Industry front door for [customer-relationship-ladder](../../deciqai-knowledge-skills/customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 
 **Activate when:** building a renewal/retention cadence; deciding cross-sell timing; a book with single-line clients; retention slipping at renewal.
 **Do NOT activate when:** no book yet.
 
 ## Why this variant
-The parent [customer-relationship-ladder] moves contacts up rungs. Insurance is a recurring-revenue business where retention and account rounding (multiple lines per household) drive profit far more than new logos. The ladder turns a one-policy buyer into a multi-line, long-retained, referring client.
+The parent [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md) moves contacts up rungs. Insurance is a recurring-revenue business where retention and account rounding (multiple lines per household) drive profit far more than new logos. The ladder turns a one-policy buyer into a multi-line, long-retained, referring client.
 
 ## Domain inputs → the ladder
 Rungs and lift triggers:

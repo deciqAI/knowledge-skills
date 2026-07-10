@@ -5,14 +5,14 @@ description: "Activate when: an insurance agent/agency must not skip licensing, 
 
 # Insurance Agent — Sales Compliance Checklist
 
-> **Industry front door for [checklist](../../deciqai-knowledge-skills/checklist/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [checklist](../checklist/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 > **Not legal advice.** Insurance rules are state-specific; verify against your state DOI and carrier requirements.
 
 **Activate when:** binding a new policy; replacing an existing policy; selling annuities/life with suitability rules; onboarding a producer; building the agency's sales SOP.
 **Do NOT activate when:** internal rating/coverage design with no compliance step.
 
 ## Why this variant
-The parent [checklist] is a must-not-skip gate. Insurance sales carry state-mandated, penalty-backed steps (licensing/appointment, suitability, replacement disclosure, E&O) that are easy to skip at speed. This maps them onto the gate.
+The parent [checklist](../checklist/SKILL.md) is a must-not-skip gate. Insurance sales carry state-mandated, penalty-backed steps (licensing/appointment, suitability, replacement disclosure, E&O) that are easy to skip at speed. This maps them onto the gate.
 
 ## Domain inputs → the checklist gate
 - **License + appointment**: producer licensed in the state + line, appointed with the carrier; CE current.

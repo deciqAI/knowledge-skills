@@ -5,13 +5,13 @@ description: "Activate when: a freight broker must quote a lane and decide accep
 
 # Freight Broker — Lane Pricing & Load Decision
 
-> **Industry front door for [decision-tree](../../deciqai-knowledge-skills/decision-tree/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [decision-tree](../decision-tree/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 
 **Activate when:** quoting a shipper; deciding whether to accept a carrier's rate; spot vs contract; a tight-margin load; reposition/deadhead trade-offs.
 **Do NOT activate when:** a locked contract rate applies.
 
 ## Why this variant
-The parent [decision-tree] maps branching choices with payoffs and probabilities. A load quote is a decision tree: quote high (higher margin, lower win) vs low (win, thin margin) vs pass — against carrier cost, market rate, and relationship value.
+The parent [decision-tree](../decision-tree/SKILL.md) maps branching choices with payoffs and probabilities. A load quote is a decision tree: quote high (higher margin, lower win) vs low (win, thin margin) vs pass — against carrier cost, market rate, and relationship value.
 
 ## Domain inputs → the tree
 - Branch on: market lane rate (DAT/Truckstop benchmarks), carrier cost to cover, shipper relationship value, reposition/deadhead, timing/urgency.

@@ -5,14 +5,14 @@ description: "Activate when: a freight broker is booking a carrier and must vet 
 
 # Freight Broker — Carrier Vetting Checklist
 
-> **Industry front door for [checklist](../../deciqai-knowledge-skills/checklist/SKILL.md).** Adds domain triggers, a worked example, and packs. The engine is the parent checklist skill; parent content unchanged.
+> **Industry front door for [checklist](../checklist/SKILL.md).** Adds domain triggers, a worked example, and packs. The engine is the parent checklist skill; parent content unchanged.
 > **Not legal advice.** Verify against current FMCSA rules and your broker authority/bond obligations.
 
 **Activate when:** onboarding/booking a carrier; a load is about to be tendered; a carrier looks too cheap/too eager; rebuilding your carrier-vetting SOP.
 **Do NOT activate when:** the carrier is a current, documented, insured partner.
 
 ## Why this variant
-The parent [checklist] is a must-not-skip gate. Booking an unvetted carrier is how brokers get hit with cargo loss, double-brokering fraud, and liability. This maps the parent's gate onto carrier due diligence.
+The parent [checklist](../checklist/SKILL.md) is a must-not-skip gate. Booking an unvetted carrier is how brokers get hit with cargo loss, double-brokering fraud, and liability. This maps the parent's gate onto carrier due diligence.
 
 ## Domain inputs → the checklist gate
 - **Active authority**: FMCSA operating authority (MC/DOT) active, not revoked; broker vs carrier authority correct for the move.

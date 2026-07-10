@@ -5,13 +5,13 @@ description: "Activate when: a freight broker must balance shipper and carrier i
 
 # Freight Broker — Shipper/Carrier Principal-Agent Balance
 
-> **Industry front door for [principal-agent](../../deciqai-knowledge-skills/principal-agent/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [principal-agent](../principal-agent/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 
 **Activate when:** structuring shipper agreements; deciding margin transparency; a conflict between cheapest-for-shipper and loyal-carrier; setting service expectations both sides rely on.
 **Do NOT activate when:** you carry the freight yourself (no intermediary role).
 
 ## Why this variant
-The parent [principal-agent] analyzes misaligned incentives between parties. A broker sits between two principals (shipper wants low cost + reliability; carrier wants high pay + steady loads) and profits on the spread — a structural conflict managed through clear roles, service commitments, and appropriate transparency.
+The parent [principal-agent](../principal-agent/SKILL.md) analyzes misaligned incentives between parties. A broker sits between two principals (shipper wants low cost + reliability; carrier wants high pay + steady loads) and profits on the spread — a structural conflict managed through clear roles, service commitments, and appropriate transparency.
 
 ## Domain inputs → the analysis
 - Name the misalignments: shipper's cost vs your margin; carrier's pay vs your margin; both sides' reliance on your promises.

@@ -5,13 +5,13 @@ description: "Activate when: a real estate agent wants clients who refer and ret
 
 # Real Estate — Closing Experience (Peak-End) Design
 
-> **Industry front door for [peak-end-rule](../../deciqai-knowledge-skills/peak-end-rule/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [peak-end-rule](../peak-end-rule/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 
 **Activate when:** designing the client experience across a transaction; planning the closing/keys moment; deciding where to invest effort for referrals.
 **Do NOT activate when:** no relationship/referral objective.
 
 ## Why this variant
-The parent [peak-end-rule] says memory is dominated by the emotional peak and the end. Real estate referrals — an agent's cheapest growth — are bought by engineering a memorable peak (getting the offer accepted / keys day) and a strong end (post-close follow-through), not by uniform effort that fizzles at closing.
+The parent [peak-end-rule](../peak-end-rule/SKILL.md) says memory is dominated by the emotional peak and the end. Real estate referrals — an agent's cheapest growth — are bought by engineering a memorable peak (getting the offer accepted / keys day) and a strong end (post-close follow-through), not by uniform effort that fizzles at closing.
 
 ## Domain inputs → the parent's Process
 - Engineer the **peak**: the "your offer was accepted" / keys-in-hand moment — make it special and personal.

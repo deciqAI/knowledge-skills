@@ -15,7 +15,7 @@ Before product-market fit, **the founder must run sales personally** — not bec
 
 ## The Process
 1. **Go direct to buyers yourself** — outbound, warm intros, communities. Do the unscalable outreach.
-2. **Run discovery, not pitching** — learn their problem, budget, and buying process (pairs with [the-mom-test], SPIN discovery).
+2. **Run discovery, not pitching** — learn their problem, budget, and buying process (pairs with [the-mom-test](../the-mom-test/SKILL.md), SPIN discovery).
 3. **Sell manually and imperfectly** — a deck and a call beat a funnel; concierge-close early deals.
 4. **Log every objection and win reason** verbatim; the transcript is your future pitch, pricing, and playbook.
 5. **Codify the repeatable motion** — ICP, message, objections, close steps. *Gate: if you can't write down why deals close, it isn't repeatable yet → keep selling, don't hire.*

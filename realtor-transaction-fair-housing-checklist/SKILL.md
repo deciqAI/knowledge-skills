@@ -5,14 +5,14 @@ description: "Activate when: a real estate agent is running a listing/transactio
 
 # Real Estate — Transaction & Fair-Housing Checklist
 
-> **Industry front door for [checklist](../../deciqai-knowledge-skills/checklist/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [checklist](../checklist/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 > **Not legal advice.** Verify against current federal Fair Housing Act, state agency-disclosure, and your brokerage/MLS rules.
 
 **Activate when:** taking a listing; writing marketing copy; presenting offers; coordinating to close; onboarding a new agent's process.
 **Do NOT activate when:** running a CMA with no compliance action.
 
 ## Why this variant
-The parent [checklist] is a must-not-skip gate. A real estate transaction has legally required, penalty-backed steps (agency disclosure, material-defect disclosure, fair-housing) that are easy to skip under deal pressure. This maps them onto the gate.
+The parent [checklist](../checklist/SKILL.md) is a must-not-skip gate. A real estate transaction has legally required, penalty-backed steps (agency disclosure, material-defect disclosure, fair-housing) that are easy to skip under deal pressure. This maps them onto the gate.
 
 ## Domain inputs → the checklist gate
 - **Agency disclosure**: relationship (buyer/seller/dual) disclosed and documented per state rules.

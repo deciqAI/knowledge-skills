@@ -5,14 +5,14 @@ description: "Activate when: an insurance agent should stress-test a client's co
 
 # Insurance Agent — Coverage-Gap Premortem
 
-> **Industry front door for [premortem](../../deciqai-knowledge-skills/premortem/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Industry front door for [premortem](../premortem/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
 > **Not legal/coverage advice.**
 
 **Activate when:** placing or reviewing coverage; annual policy review; a client with growing assets/liability; protecting against an uncovered-claim + E&O event.
 **Do NOT activate when:** no coverage decision in play.
 
 ## Why this variant
-The parent [premortem] imagines the failure and works backward. In insurance the failure is a **denied/underpaid claim because of a gap** — which harms the client and exposes the agent to an E&O suit. Premortem finds the gaps while they're still fixable.
+The parent [premortem](../premortem/SKILL.md) imagines the failure and works backward. In insurance the failure is a **denied/underpaid claim because of a gap** — which harms the client and exposes the agent to an E&O suit. Premortem finds the gaps while they're still fixable.
 
 ## Domain inputs → the parent's Process
 Imagine a claim was denied/underpaid — why?
