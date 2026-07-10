@@ -38,4 +38,4 @@ Raising venture capital is not a milestone; it's a **choice that commits you to 
 - [ ] Burn matched to the chosen funding path
 
 ---
-Part of **deciqAI Knowledge Skills** — executable rigor for founders and the AI agents that run their companies.
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/bootstrapping-vs-raising** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

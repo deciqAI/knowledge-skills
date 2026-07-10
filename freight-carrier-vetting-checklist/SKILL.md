@@ -43,4 +43,4 @@ Carrier quotes 30% under market, authority active 3 weeks, gmail contact, addres
 - [ ] Double-brokering consent confirmed
 
 ---
-Part of **deciqAI Knowledge Skills**. Core method: [checklist](../../deciqai-knowledge-skills/checklist/SKILL.md).
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-carrier-vetting-checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

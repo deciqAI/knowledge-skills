@@ -40,4 +40,4 @@ Client has only auto; agent contacts them only when the renewal price jumps → 
 - [ ] Referral ask timed to a positive moment (claim/savings)
 
 ---
-Part of **deciqAI Knowledge Skills**. Core method: [customer-relationship-ladder](../../deciqai-knowledge-skills/customer-relationship-ladder/SKILL.md).
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/insurance-renewal-retention-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

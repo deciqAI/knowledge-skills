@@ -115,4 +115,4 @@ Recognize when you are receiving a narrative. Identify what it strips out. Deman
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/narrative-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/narrative-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

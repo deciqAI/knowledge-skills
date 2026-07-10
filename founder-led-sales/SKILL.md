@@ -38,4 +38,4 @@ Before product-market fit, **the founder must run sales personally** — not bec
 - [ ] Real money collected before scaling
 
 ---
-Part of **deciqAI Knowledge Skills** — executable rigor for founders and the AI agents that run their companies.
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-led-sales** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

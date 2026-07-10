@@ -38,4 +38,4 @@ The Mom Test (Rob Fitzpatrick, 2013) is a way to talk to customers so that even 
 - [ ] A concrete commitment (time/reputation/money) requested
 
 ---
-Part of **deciqAI Knowledge Skills** — executable rigor for founders and the AI agents that run their companies.
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/the-mom-test** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

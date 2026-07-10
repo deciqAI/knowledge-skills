@@ -119,4 +119,4 @@ Decision Implications: Escalation probability <H/M/L> | Trigger points <...> | S
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 189 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/thucydides-trap** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/thucydides-trap** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
