@@ -19,6 +19,7 @@ Apply when:
 - Analysis feels confident but suspiciously fast (speed without monitoring = invisible errors)
 - Same kind of mistake keeps recurring across problems
 - Cannot tell whether you understand a topic or just recognize it (illusion of fluency)
+- Deciding whether to trust an AI copilot's fluent answer or slow down and verify it (AI adoption, automation complacency, "should I trust the AI here")
 - Someone says: *"metacognition," "calibration," "am I stuck on the right problem," "I should know this but I don't"*
 
 **When NOT to use:** routine fluent tasks; real-time emergencies; creative flow states; already-overactive worriers who would spiral.
@@ -64,6 +65,7 @@ Re-monitoring: Day 3 / Day 7 / Day 14 / per-sprint
 ```
 
 *→ Method in Action: [Pólya at Stanford and Schoenfeld at Berkeley (1942 → 1985)](examples/polya-at-stanford-and-schoenfeld-at-berkeley-1942-1985.md)*
+*→ 2026 lens: [Metacognition while working with AI copilots (2024–2026)](examples/metacognition-with-ai-copilots-2024-2026.md)*
 
 ## Monitoring Packs
 

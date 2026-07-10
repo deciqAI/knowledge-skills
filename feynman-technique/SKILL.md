@@ -15,6 +15,7 @@ description: "Activate when: user says 'explain this simply', 'teach me like I'm
 
 - Need to know whether understanding is genuine vs. surface; preparing to teach or make a high-stakes decision; a model is giving wrong predictions
 - Someone says: *"explain it simply," "teach me like I'm five," "do you really understand this," "what am I missing?"*
+- Cutting through AI hype: *"do I actually understand transformers / embeddings / RAG / agents, or am I just dropping the jargon?"*
 
 **When NOT to use:** Fast decision on a concept already tested; concept too new with no source material for Step 3; concept irreducibly formal — use [first-principles](../first-principles/SKILL.md) instead; evaluating creativity or judgment, not understanding.
 
@@ -56,6 +57,7 @@ Summary: genuine (can reproduce/predict/extend) | surface only | irreducible cor
 ```
 
 *→ Method in Action: [Feynman and the Challenger O-Ring Investigation (1986)](examples/feynman-challenger-o-ring-1986.md) · [The Freshman-Lecture Test and Spin-Statistics (1961–1963)](examples/feynman-freshman-lecture-spin-statistics-1961.md)*
+*→ 2026 lens: [Feynman-Testing the AI Jargon: Transformers, Embeddings, RAG, Agents (2024–2026)](examples/feynman-ai-jargon-audit-2024-2026.md)*
 
 ## Feynman Audit Packs
 

@@ -19,6 +19,7 @@ description: "Activate when: user says 'decompose this', 'structure this thinkin
 - Analysis is **going in circles** — same issues reappear because they're not separated
 - **Presentation** must convince hard-to-convince listeners
 - Team converging on a hypothesis **without considering the full space** of alternatives
+- Structuring an **AI strategy / AI-stack / AI-adoption** discussion so the layers (chips / cloud / models / apps) or use cases have no overlaps and no gaps — cutting through AI hype to a complete, non-redundant map
 - Someone says: *"MECE," "decompose this," "issue tree," "structure this thinking"*
 
 **When NOT to use:** trivially small problem; purely creative/generative mode; genuinely non-decomposable question (some ethical/aesthetic problems resist this); decomposition already known and well-trodden.
@@ -64,6 +65,7 @@ Run the **MECE Decomposition**: define the whole → propose top split → check
 ```
 
 *→ Method in Action: [Lou Gerstner's IBM Turnaround Decomposition (1993)](examples/lou-gerstner-ibm-turnaround-decomposition-1993.md)*
+*→ 2026 lens: [Structuring an AI-Stack Market Strategy MECE (2024–2026)](examples/ai-stack-market-strategy-decomposition-2024-2026.md)*
 
 ## Decomposition Packs
 

@@ -16,6 +16,7 @@ Any representation — metric, model, strategy deck, org chart, or process manua
 - A strategy, model, process, or org chart has not been reviewed in more than one planning cycle
 - "The data shows..." but the data is old, narrow, or from a proxy source
 - A metric is being optimized directly without asking whether it still maps to the underlying goal
+- An AI model's benchmark score, leaderboard rank, or internal "world model" is being treated as proof of real-world capability (AI adoption / AI hype)
 
 **Not when:** the map is demonstrably current and well-calibrated; decision is low-stakes; territory is stable and map is freshly validated.
 
@@ -60,6 +61,8 @@ Decision: fit Y/N/Partially | required updates | update trigger
 ```
 
 *→ Method in Action: [McNamara and the Vietnam Kill-Ratio Map](examples/mcnamara-vietnam-kill-ratio-map.md)*
+
+*→ 2026 lens: [AI Benchmarks as Maps of Capability (2024–2026)](examples/ai-benchmarks-vs-deployment-reality-2024-2026.md)*
 
 ## Pack: Map-Territory Mismatches Across Domains
 

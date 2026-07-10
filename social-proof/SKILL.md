@@ -13,7 +13,7 @@ Composes with [`reciprocity`](../reciprocity/SKILL.md) (Cialdini's two primary l
 
 ## When to Use
 
-**Use when:** purchase/hiring/investment decision leaning on what others chose; proposal cites "everyone is doing this"; designing growth/marketing/UX with social-proof patterns; decision feels unsafe alone without a clear reason; suspecting manufactured consensus (bots, paid reviews, astroturf); a trend is accelerating and private doubt is being suppressed by the fact everyone is on board.
+**Use when:** purchase/hiring/investment decision leaning on what others chose; proposal cites "everyone is doing this"; designing growth/marketing/UX with social-proof patterns; decision feels unsafe alone without a clear reason; suspecting manufactured consensus (bots, paid reviews, astroturf); a trend is accelerating and private doubt is being suppressed by the fact everyone is on board; a "we must adopt AI because every competitor is deploying it" mandate is driving procurement or a pilot ahead of any validated ROI (AI hype / FOMO buying).
 
 **Do NOT use when:** decision is low-stakes and reversible; you have direct measured evidence stronger than any consensus; the "consensus" is from verified domain experts with better epistemic position; you want to rationalize a contrarian position that lacks independent evidence.
 
@@ -60,6 +60,8 @@ Early-warning trigger: [what would signal consensus is wrong]
 ```
 
 *→ Method in Action: [Solomon Asch's Conformity Experiments, Swarthmore, 1951–1956](examples/solomon-asch-conformity-experiments-swarthmore-1951-1956.md)*
+
+*→ 2026 lens: [Enterprise AI Copilot FOMO Procurement (2024–2026)](examples/enterprise-ai-copilot-fomo-procurement-2024-2026.md)*
 
 ## Pack: Social Proof in Practice
 

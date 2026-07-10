@@ -13,7 +13,7 @@ This is one of three composable motions in the deciqAI collection: **first-princ
 
 ## When to Use
 
-**Use when:** decision is justified mainly by "that's how it's done" or authority; conventional answer is expensive/hard to reverse (pricing, architecture, business model); structuring a knowledge artifact from irreducible elements; user says "from first principles," "from scratch," "why do we believe this," "tear this apart."
+**Use when:** decision is justified mainly by "that's how it's done" or authority; conventional answer is expensive/hard to reverse (pricing, architecture, business model); structuring a knowledge artifact from irreducible elements; pressure-testing an AI hype claim or AI-adoption cost assumption ("is AI too expensive / too cheap to deploy") against the underlying physics rather than the API sticker price; user says "from first principles," "from scratch," "why do we believe this," "tear this apart."
 
 **Skip when:** routine reversible decision where convention is cheap (which linter) — tearing down is theater; facts aren't gathered yet; user asked for speed and the conventional answer.
 
@@ -61,6 +61,8 @@ Run the **First-Principles Teardown** (7 steps → one artifact). Do not skip th
 **Output template:** `Claim / Assumptions (tagged) / Bedrock / Reconstruction / What changes / Confidence & open questions`
 
 *→ Method in Action: [Wright Brothers and the Lift Tables (1901)](examples/wright-brothers-1901.md) · [SpaceX and the Cost of a Rocket (2002–2008)](examples/spacex-rocket-cost-2002.md)*
+
+*→ 2026 lens: [The Physics of AI Inference Cost (2024–2026)](examples/ai-inference-cost-physics-2024-2026.md) — stripping "AI is too expensive / too cheap" down to energy, silicon, and memory bandwidth.*
 
 ## Bedrock Packs
 

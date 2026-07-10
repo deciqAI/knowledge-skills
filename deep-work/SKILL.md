@@ -16,6 +16,7 @@ Composes with [`wu-wei`](../wu-wei/SKILL.md) (flow as the felt experience), [`me
 - Output depends on hard-to-replicate cognitive work (research, engineering, writing, design, strategy)
 - Calendar fragmentation prevents the work that actually matters; weeks feel busy but produce nothing
 - High-stakes project requires extended concentration; career advancement depends on skill development
+- AI copilots / assistants have become another interruption stream ("is AI helping my focus or fragmenting it?", "AI adoption vs deep work", "AI hype and staying focused")
 
 **Not when:** genuinely high-coordination roles where deep work is structurally impossible; already done with deep work and shallow follow-through is now required; short-term emergency where availability dominates.
 
@@ -63,6 +64,7 @@ Defense — calendar mark: | comms norms: | output evidence to track:
 ```
 
 *→ Method in Action: [Donald Knuth and the No-Email Policy, 1990](examples/donald-knuth-no-email-policy-1990.md) · [Carl Jung's Bollingen Tower Retreats](examples/carl-jung-bollingen-tower-retreats.md)*
+*→ 2026 lens: [Protecting Deep Work Amid AI Copilots (2024–2026)](examples/deep-work-amid-ai-copilots-2024-2026.md)*
 
 ## Pack: Deep Work by Role
 

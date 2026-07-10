@@ -13,7 +13,7 @@ This is one of three composable motions in the deciqAI collection: [first-princi
 
 ## When to Use
 
-Apply when: **multiple explanations/designs/diagnoses** need ranking; a proposal keeps **accreting special cases**; someone says "simplify this," "which is more likely," "are we overcomplicating this?"
+Apply when: **multiple explanations/designs/diagnoses** need ranking; a proposal keeps **accreting special cases**; someone says "simplify this," "which is more likely," "are we overcomplicating this?"; or you are weighing competing explanations for an AI phenomenon or AI-hype claim ("does the model *really* reason, or is there a simpler account?").
 
 **When NOT:** candidates don't equally fit the evidence (establish fit first); only one option exists; applying it would drop a known datum (over-shaving); cost of being wrong dwarfs cost of one extra assumption.
 
@@ -60,6 +60,7 @@ Run the **Parsimony Audit** — fit *before* simplicity, count assumptions not w
 ```
 
 *→ Method in Action: [Wegener and Continental Drift (1912)](examples/wegener-continental-drift-1912.md) · [Semmelweis and Childbed Fever (1847–1861)](examples/semmelweis-childbed-fever-1847.md)*
+*→ 2026 lens: [Why does a language model appear to "reason" step by step? (2024–2026)](examples/llm-chain-of-thought-reasoning-2024-2026.md)*
 
 ## Audit Packs
 

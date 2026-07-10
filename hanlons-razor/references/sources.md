@@ -11,3 +11,5 @@
 - Akerlof, G. A. & Shiller, R. J. (2015). *Phishing for Phools.* Princeton University Press. ISBN 978-0691168319.
 - Grove, A. S. (1983). *High Output Management.* Random House. ISBN 978-0679762881.
 - "Hanlon's Razor." *Quote Investigator.* https://quoteinvestigator.com/2016/12/30/not-malice/
+- Google (2024). "Gemini image generation got it wrong. We'll do better." *The Keyword (official Google blog),* February 23, 2024. https://blog.google/products/gemini/gemini-image-generation-issue/ (context for the 2024–2026 AI-incidents example: a vendor publicly pausing and apologizing for an emergent over-correction, consistent with honest error rather than intent).
+- DeepSeek (2025). "DeepSeek-R1" model release and technical report, January 2025 (context for the 2024–2026 AI-incidents example: a surprising competitor move read by some as sabotage/fabrication, better modeled as ordinary self-interested competition absent evidence of falsification).

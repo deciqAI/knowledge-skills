@@ -11,3 +11,5 @@
 - Thaler, R. H. & Sunstein, C. R. (2008). *Nudge.* Yale University Press. ISBN 978-0300122237. Choice-architecture applications.
 - Evans, J. St. B. T. (2008). "Dual-processing accounts of reasoning, judgment, and social cognition." *Annual Review of Psychology*, 59, 255-278. The academic review.
 - Pronin, E., Lin, D. Y., & Ross, L. (2002). "The bias blind spot: Perceptions of bias in self versus others." *Personality and Social Psychology Bulletin*, 28(3), 369-381.
+- Ji, Z., Lee, N., Frieske, R., et al. (2023). "Survey of Hallucination in Natural Language Generation." *ACM Computing Surveys*, 55(12), 1-38. LLMs as fluent-but-uncalibrated System-1-like responders (2024–2026 AI-era example).
+- *Mata v. Avianca, Inc.*, No. 22-cv-1461, S.D.N.Y. (2023). Attorneys sanctioned for a filing containing AI-generated citations to non-existent cases — a widely reported high-stakes failure of un-verified, confident AI output.

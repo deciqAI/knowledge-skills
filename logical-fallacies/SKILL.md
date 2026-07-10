@@ -18,6 +18,7 @@ Composes with neighbors: [`critical-thinking`](../critical-thinking/SKILL.md) au
 - You're about to decide based on a single argument or analogy
 - A debate is moving fast ("everyone knows Y") — speed is the sophist's friend
 - You catch yourself reasoning emotionally ("this has to be true because…")
+- You're weighing an AI hype or AI-adoption claim ("a lab CEO said it's near," "it passed the benchmark so it's intelligent," "doom vs. utopia")
 
 **When NOT to use:** casual small talk with low stakes; conclusion is empirically verifiable (just check the data); you're tempted to name a fallacy to dismiss an opponent rather than find truth (that is itself the fallacy fallacy).
 
@@ -61,6 +62,7 @@ Repair: <what inference or evidence would actually support the claim>
 ```
 
 *→ Method in Action: [Tversky & Kahneman's Linda Problem (1983)](examples/tversky-kahnemans-linda-problem-1983.md)*
+*→ 2026 lens: [Four Fallacies in the AI Debate (2024–2026)](examples/ai-hype-discourse-fallacies-2024-2026.md)*
 
 ## Pack: Common Fallacy Patterns by Domain
 

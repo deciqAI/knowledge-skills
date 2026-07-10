@@ -17,6 +17,7 @@ description: "Activate when: user says 'I don't know which framework to use', 'o
 - "Our analysis is solid" — but only one framework was applied
 - Situation looks like a classic X but has anomalous features X cannot explain
 - Designing a strategy/product where market, psychology, operations, and incentives all interact
+- Judging an AI-boom / AI-adoption / AI-hype bet where "is it a bubble?" and "is it real?" are being argued through one lens each
 
 **Not when:** problem is contained in one discipline; crisis triage (no time); decision too small for multi-model overhead.
 
@@ -72,6 +73,8 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [Charlie Munger 1994 USC Business School Address](examples/charlie-munger-1994-usc-business-school-address.md)*
+
+*→ 2026 lens: [Reasoning About the AI Boom (2024–2026)](examples/reasoning-about-the-ai-boom-2024-2026.md) — economics × psychology × systems × game theory on one situation*
 
 ## Pack: Latticework Across Domains
 | Domain | Typical single lens | Key missing lens |

@@ -18,6 +18,7 @@ description: "Activate when: user says 'challenge my thinking', 'play devil's ad
 - Multiple interpretations of the same evidence are possible
 - Motivated reasoning detected — conclusion shaped by what you want to be true
 - Team converging on a hypothesis too fast without seriously considering alternatives
+- Evaluating an AI capability or AI-hype claim (e.g. "this benchmark proves the model reasons") where the same evidence fits several explanations (contamination, cherry-picking, teaching-to-the-eval)
 
 **When NOT to use:** trivial/already-validated claim; only one hypothesis imaginable (use [first-principles](../first-principles/SKILL.md) first); time pressure makes 90-min ACH impossible; values question not a facts question.
 
@@ -57,6 +58,7 @@ Milestones: "If X observed by <date>, re-run matrix"
 ```
 
 *→ Method in Action: [ACH at the CIA and the Cuban Missile Crisis Pattern (1962 → 1999)](examples/ach-at-the-cia-and-the-cuban-missile-crisis-pattern-1962-1999.md) · [Piltdown Man Forgery Debunked (1912 → 1953)](examples/piltdown-man-forgery-debunking-1912-1953.md)*
+*→ 2026 lens: ["This Benchmark Proves the Model Reasons" — an ACH on AI Capability Claims (2024–2026)](examples/ai-benchmark-reasoning-claim-ach-2024-2026.md)*
 
 ## Analysis Packs
 

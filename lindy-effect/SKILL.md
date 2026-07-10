@@ -19,6 +19,7 @@ Composes with [`antifragile`](../antifragile/SKILL.md) (Lindy-survival is the si
 - Assessing a new methodology being marketed as "modern" or "evidence-based"
 - Allocating reading time across old vs. new books
 - Designing institutional partnerships with multi-decade horizons
+- Deciding which layers of an AI stack to build on time-tested foundations (SQL, Unix, TCP/IP) vs. fast-churning AI frameworks amid the AI adoption hype
 - Someone says "this has stood the test of time," "we should modernize," "this time is different"
 
 **Not when:** item is perishable or has a deterministic life cycle; elimination forces are absent (old institution survives only via regulatory protection); conditions have genuinely changed enough to invalidate survival evidence; decision time-horizon is too short for long-run durability to matter.
@@ -62,6 +63,8 @@ Reversibility: plan / signals / owner
 ```
 
 *→ Method in Action: [Goldman 1964, Mandelbrot 1982, Taleb 2012](examples/goldman-1964-mandelbrot-1982-taleb-2012.md)*
+
+*→ 2026 lens: [Lindy vs. AI-framework churn in the 2024–2026 tech stack (2024–2026)](examples/lindy-vs-ai-framework-churn-2024-2026.md)*
 
 ## Pack: Lindy Effect Application Patterns
 

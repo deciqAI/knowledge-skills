@@ -20,6 +20,7 @@ Composes with [`dunning-kruger`](../dunning-kruger/SKILL.md) (cognitive mechanis
 - A board member or investor is pushing you toward a domain outside your background
 - A founder is asked to take on a function (legal, finance, sales) without the relevant track record
 - Hiring senior roles in unfamiliar functions; allocating significant capital to a new business line
+- Investing in, or building on, AI you don't truly understand — "should I fund/build this AI product," "is this AI hype or real," AI adoption pushed by FOMO
 
 **Not when:** decision is small, reversible, and an explicit learning bet; refusing everything outside the current circle is genuinely worse than acting carefully; domain is genuinely frontier for everyone.
 
@@ -66,6 +67,7 @@ Decision & rationale: | Re-evaluation date:
 ```
 
 *→ Method in Action: [Buffett's Tech-Stock Refusal, 1990s](examples/buffetts-tech-stock-refusal-1990s.md) · [Quaker's Snapple Acquisition, 1994-1997](examples/quaker-snapple-acquisition-1994-1997.md)*
+*→ 2026 lens: [Funding and Building AI Outside Your Circle (2024–2026)](examples/ai-hype-outside-the-circle-2024-2026.md)*
 
 ## Pack: Application Patterns
 

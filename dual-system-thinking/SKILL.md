@@ -15,6 +15,7 @@ Composes with [`metacognition`](../metacognition/SKILL.md), every cognitive-bias
 
 - Decision feels obvious and is high-stakes; unfamiliar domain + fast intuition; time pressure on consequential matter; team converging without stress-test; depleted (tired/hungry/pressured)
 - Designing a process or interface that depends on user attention
+- Acting on a fast, fluent, confident AI/LLM answer (AI adoption, AI hype, "the AI said so") on a high-stakes call — when to force slow verification of a confident machine response
 
 **Not when:** routine low-stakes decisions; calibrated expert System 1 in this exact domain; emergency requiring speed.
 
@@ -66,6 +67,8 @@ Calibration log — Domain: | System used: | Outcome (when known):
 ```
 
 *→ Method in Action: [Kahneman 2011 + 40 Years of Tversky-Kahneman Research](examples/kahneman-2011-tversky-kahneman-research.md)*
+
+*→ 2026 lens: [LLMs as System 1 — when to force System 2 on a confident AI answer (2024–2026)](examples/llms-as-system-1-ai-era-2024-2026.md)*
 
 ## Pack: Key Domain Patterns
 

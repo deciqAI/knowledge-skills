@@ -13,7 +13,7 @@ This is one of four composable motions in the deciqAI collection: [first-princip
 
 ## When to Use
 
-Apply when: decision is high-stakes or hard-to-reverse; enthusiasm is high but no risks named; someone says "pre-mortem," "what could go wrong," "why might this fail."
+Apply when: decision is high-stakes or hard-to-reverse; enthusiasm is high but no risks named; someone says "pre-mortem," "what could go wrong," "why might this fail," "how could our AI launch fail," or is riding AI hype into a shipping decision with no failure modes named.
 
 **When NOT to use:** reversible low-stakes calls; immediate crisis requiring action now; lack domain knowledge to enumerate plausible paths.
 
@@ -63,6 +63,7 @@ Run the **Inversion Audit**. Trace backward from failure, rank by load-bearing, 
 ```
 
 *→ Method in Action: [Apollo 1 and the FMEA Mandate (1967)](examples/apollo-1-fmea-1967.md) · [Wald's Bomber Survivorship Analysis (1942–1943)](examples/wald-bomber-survivorship-1943.md)*
+*→ 2026 lens: [Inverting an AI Product Launch (2024–2026)](examples/ai-product-launch-inversion-2024-2026.md)*
 
 ## Inversion Packs
 

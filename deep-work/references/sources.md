@@ -11,3 +11,5 @@
 - Csikszentmihalyi, M. (1990). *Flow: The Psychology of Optimal Experience.* Harper & Row. ISBN 978-0061339202. The experiential side of deep work.
 - Newport, C. (2019). *Digital Minimalism: Choosing a Focused Life in a Noisy World.* Portfolio. ISBN 978-0525536512. The companion volume on personal-life dimensions.
 - Carr, N. (2010). *The Shallows: What the Internet Is Doing to Our Brains.* Norton. ISBN 978-0393339758. The cultural diagnosis of why deep work has become rare.
+- GitHub (2022, June 21). "GitHub Copilot is generally available to all developers." https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/. Marks the mainstreaming of AI copilots in daily knowledge work — the 2024–2026 context for the deep/shallow distinction.
+- Newport, C. (2024–2025). *Deep Questions* podcast and essays on AI and knowledge work. https://calnewport.com. Newport's contemporary argument that undistracted human cognition rises in value as routine output is automated.

@@ -8,3 +8,5 @@
 - Hayakawa, S. I. (1949). *Language in Thought and Action.* Harcourt. A key popularizer of Korzybski's general semantics framework.
 - Meadows, D. H. (2008). *Thinking in Systems: A Primer.* Chelsea Green. ISBN 978-1603580557. Systems-level treatment of model-reality divergence.
 - Taleb, N. N. (2010). *The Black Swan.* 2nd ed. Random House. ISBN 978-0812973815. The map-territory failure mode in statistical and financial models.
+- Stanford HAI (2024, 2025). *Artificial Intelligence Index Report.* Stanford Institute for Human-Centered AI. Documents AI benchmark saturation and the introduction of harder evaluations as older benchmarks stopped discriminating between top models — a contemporary map-territory case.
+- Jimenez, C. E., Yang, J., et al. (2024). *SWE-bench: Can Language Models Resolve Real-World GitHub Issues?* ICLR 2024. arXiv:2310.06770. Benchmark built to move evaluation closer to real deployment territory (repository-level software tasks) rather than toy problems.

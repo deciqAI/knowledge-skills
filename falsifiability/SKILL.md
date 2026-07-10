@@ -18,6 +18,7 @@ Composes with [`confirmation-bias`](../confirmation-bias/SKILL.md) (falsifiabili
 - Designing experiments (A/B tests, product hypotheses, market entry)
 - Evaluating consultant/advisor recommendations or diagnosing vague leadership claims
 - Someone says "what would change your mind," "how would you know you're wrong," "Popper"
+- Stress-testing an AI/AGI hype claim ("AGI is near," "the model truly understands," "our AI adoption is working") — demand what evidence would disprove the capability or safety claim
 
 **Not when:** genuinely non-empirical (philosophical, ethical, aesthetic); test cost exceeds its value.
 
@@ -62,6 +63,7 @@ If falsified, action: | Ad-hoc preservation risk:
 ```
 
 *→ Method in Action: [Popper 1934 + Eddington 1919 Eclipse + Modern Applications](examples/popper-1934-eddington-1919-eclipse-modern-applications.md)*
+*→ 2026 lens: [Separating falsifiable from unfalsifiable AI claims (2024–2026)](examples/ai-claims-agi-is-near-vs-testable-predictions-2024-2026.md)*
 
 ## Pack: Vague → Falsifiable
 

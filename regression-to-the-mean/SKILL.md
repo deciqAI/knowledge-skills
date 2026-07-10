@@ -22,6 +22,7 @@ Composes with [`survivorship-bias`](../survivorship-bias/SKILL.md) (extreme surv
 - Evaluating investment fund performance
 - Analyzing acquisition outcomes
 - Building or critiquing causal claims about training, coaching, or feedback
+- Judging whether an AI startup's viral quarter, a fund's AI hot streak, or a model's benchmark spike is a durable trend or an outlier reverting toward average (AI hype extrapolation)
 - Someone says "regression to the mean," "things will average out," "they always come back"
 
 **Not when:** the measurement is noise-free (rare in business); the underlying signal is genuinely changing (e.g., the business model fundamentally improved); the intervention is so substantial that no plausible regression can explain the effect.
@@ -65,6 +66,7 @@ Adjusted action — Credit/blame verdict + future evaluation process:
 ```
 
 *→ Method in Action: [Galton 1886 + Kahneman 2011 Chapter 17 Israeli Air Force](examples/galton-1886-kahneman-2011-israeli-air-force.md)*
+*→ 2026 lens: [The AI Hot Streak — viral quarters, fund streaks & benchmark spikes (2023–2026)](examples/ai-hot-streak-benchmark-spike-2023-2026.md)*
 
 ## Pack: Regression Across Domains
 

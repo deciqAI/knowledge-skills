@@ -17,6 +17,7 @@ Composes with [`bayesian-reasoning`](../bayesian-reasoning/SKILL.md), [`abductiv
 - You're about to escalate on the assumption of malice
 - A pattern of bad outcomes is being framed as a coordinated attack
 - A team is in conflict and each side believes the other is acting in bad faith
+- An AI model's harmful/biased output or a competitor's surprising AI move is being read as deliberate malice rather than an emergent bug, honest error, or ordinary self-interested competition
 
 **Not when:** concrete evidence of malicious intent exists; cost of being wrong is catastrophic; power imbalance makes "they probably didn't mean it" an abuse-enabling stance.
 
@@ -65,6 +66,8 @@ Mistake explanation + coverage % | Malice extra assumptions | Prior | Override s
 ```
 
 *→ Method in Action: [Hanlon's Submission 1980; Heinlein's 1941 Articulation](examples/hanlons-submission-1980-heinleins-1941-articulation.md)*
+
+*→ 2026 lens: [AI Incidents — Incompetence & Emergent Error as a Prior Over Malice (2024–2026)](examples/ai-incidents-malice-vs-emergent-error-2024-2026.md)*
 
 ## Pack: Common Patterns
 

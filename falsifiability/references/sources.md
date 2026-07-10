@@ -12,3 +12,5 @@
 - Ries, E. (2011). *The Lean Startup.* Crown Business. ISBN 978-0307887894. The startup application.
 - Tetlock, P. E. (2015). *Superforecasting.* Crown. ISBN 978-0804136693. Calibrated falsifiability in prediction.
 - Mayo, D. G. (1996). *Error and the Growth of Experimental Knowledge.* University of Chicago Press. The error-statistical framework.
+- Chollet, F. (2019). "On the Measure of Intelligence." arXiv:1911.01547. Operationalizes "intelligence" into the falsifiable ARC / ARC-AGI benchmark — a template for turning "AGI is near" into a testable claim (2024–2026 AI application).
+- On benchmark contamination and reasoning robustness (2023–2025): peer-reviewed and arXiv work documenting train/test data contamination in LLM evaluations and accuracy drops when surface features of reasoning problems are perturbed — why a high AI benchmark score does not, by itself, confirm a capability claim. (Consult current surveys; specific reported scores are vendor figures, not independently audited.)

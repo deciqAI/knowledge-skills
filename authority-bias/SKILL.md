@@ -22,6 +22,7 @@ Composes with [`social-proof`](../social-proof/SKILL.md), [`reciprocity`](../rec
 - Medical or technical decisions where expert opinion dominates discussion
 - Org decisions where senior voices suppress dissent; 360-feedback design
 - Negotiations where counterparty leverages credentials or position
+- Trusting a confident AI/LLM answer or an AI-lab leader's capability/timeline pronouncement because of status rather than verified evidence (AI adoption, AI hype)
 
 **Not when:** authority is verified domain expert on the exact question and speed matters.
 
@@ -65,6 +66,7 @@ Structural counter: | Decision + documentation:
 ```
 
 *→ Method in Action: [Milgram 1963 + Cialdini Systematization + Theranos/FTX](examples/milgram-1963-cialdini-systematization-theranos-ftx.md) · [United 173 and the Cockpit Authority Gradient](examples/united-173-1978-cockpit-authority-gradient-and-crm.md)*
+*→ 2026 lens: [Deferring to AI Authority — Confident LLMs and Lab-Leader Pronouncements (2024–2026)](examples/ai-authority-deference-llm-confidence-and-lab-leaders-2024-2026.md)*
 
 ## Pack: Authority-Bias Application Patterns
 

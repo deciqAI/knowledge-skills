@@ -16,7 +16,7 @@ Most people confuse repetition with learning — they accumulate years of experi
 
 ## When to Use
 
-**Trigger:** plateau despite experience; designing high-performance learning program; training hours high but skill transfer low; evaluating whether practice is building capability or maintaining it.
+**Trigger:** plateau despite experience; designing high-performance learning program; training hours high but skill transfer low; evaluating whether practice is building capability or maintaining it; skill atrophy or deskilling as AI copilots absorb the routine reps (AI adoption, AI hype, "will AI make me worse at my craft").
 **When NOT:** goal is execution not acquisition (use deep-work); no expert benchmark exists; bottleneck is motivational not representational.
 
 ---
@@ -61,6 +61,7 @@ Stop-rule triggers: comfortable → redesign; concentration drops → end; laten
 ```
 
 *→ Method in Action: [Berlin Violin Study (1991–1993)](examples/berlin-violin-study-1991-1993.md) · [Franklin's Spectator Method](examples/franklin-spectator-writing-method.md)*
+*→ 2026 lens: [Keeping Skill Alive When AI Does the Reps (2024–2026)](examples/skill-atrophy-when-ai-does-the-reps-2024-2026.md)*
 
 ---
 
