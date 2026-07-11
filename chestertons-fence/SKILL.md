@@ -19,6 +19,7 @@ Composes with [`survivorship-bias`](../survivorship-bias/SKILL.md), [`second-ord
 - A developer "cleaning up" code whose purpose isn't documented
 - A regulator or legislator repealing existing protections
 - Someone says "why is this here?", "let's just remove this", "this seems useless"
+- An AI-assisted rewrite/refactor proposes deleting an "ugly" guardrail, edge-case branch, validation, or manual review gate the model calls redundant
 
 **Not when:** fence history is fully documented and purpose is confirmed obsolete; reformer is the original builder with full rationale understood.
 
@@ -61,6 +62,8 @@ Docs: updated fence docs / removal note / monitoring owner + rebuild criteria
 ```
 
 *→ Method in Action: [Chesterton 1929 and the Modern Software / Regulatory Application](examples/chesterton-1929-and-the-modern-software-regulatory-application.md) · [The 1958 Great Sparrow Campaign](examples/1958-great-sparrow-campaign-and-the-ecological-fence.md)*
+
+*→ 2026 lens: [The AI-Rewrite Wave and the Guardrails That Encoded Hard-Won Knowledge (2024–2026)](examples/ai-rewrite-wave-deleting-guardrails-2024-2026.md)*
 
 ## Pack: Application Patterns by Domain
 

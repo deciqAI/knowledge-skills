@@ -10,3 +10,5 @@
 - Kotter, J. P. (1996). *Leading Change.* Harvard Business School Press. ISBN 978-0875847474. Organizational-change methodology.
 - OECD (2008). *Building an Institutional Framework for Regulatory Impact Analysis (RIA): Guidance for Policy Makers.* The regulatory institutionalization.
 - Shapiro, J. (2001). *Mao's War Against Nature: Politics and the Environment in Revolutionary China.* Cambridge University Press. ISBN 978-0521786805. The Great Sparrow Campaign / ecological-fence application.
+- GitHub. *GitHub Copilot* product documentation (github.com/features/copilot). The AI code-generation/refactor tooling whose 2024–2026 adoption drives the AI-rewrite fence-removal pattern.
+- Cursor (Anysphere). Product documentation (cursor.com / docs.cursor.com). AI-assisted rewrite/refactor tooling for the 2024–2026 AI-rewrite-wave application.

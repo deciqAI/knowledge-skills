@@ -17,6 +17,7 @@ Composes with [`north-star-metric`](../north-star-metric/SKILL.md), [`first-prin
 - Team goals are vague, unmeasurable, or just "complete project X" lists
 - Teams hitting all goals but the business isn't moving (sandbagging signal)
 - Cross-team work failing due to private, conflicting goals; or a new company needs goal infrastructure
+- Setting OKRs on AI features and the draft KR is "ship AI" / "increase AI usage" (vanity/Goodhart metric — replace with outcome KRs)
 
 **Not when:** under ~10 people with sufficient informal alignment; inherently uncertain output (research labs); leadership will punish 70% achievement.
 
@@ -62,6 +63,8 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [Andy Grove at Intel, 1971; John Doerr at Google, 1999](examples/andy-grove-at-intel-1971-john-doerr-at-google-1999.md) · [Bono's ONE Campaign](examples/bono-one-campaign-2002-2018.md)*
+
+*→ 2026 lens: [OKRs in an AI-native org (2024–2026)](examples/ai-native-org-okrs-2024-2026.md)*
 
 ## Pack: OKR Patterns
 
