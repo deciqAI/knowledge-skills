@@ -117,4 +117,4 @@ Domain-specific capture of: (a) valid candidates, (b) what counts as unsupported
 - [ ] Distinguishing evidence that would overturn the preference is named
 
 ---
-*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/occams-razor** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/occams-razor** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

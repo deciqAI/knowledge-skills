@@ -38,4 +38,4 @@ description: "Activate when: a founder needs to know if the company survives wit
 - [ ] No new fixed cost pushes profitability past runway
 
 ---
-*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ramen-profitability** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ramen-profitability** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

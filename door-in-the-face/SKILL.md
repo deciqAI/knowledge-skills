@@ -116,4 +116,4 @@ Composes with [`reciprocity`](../reciprocity/SKILL.md) (mechanism), [`anchoring`
 - [ ] Second ask evaluated on its own merits (would I have agreed to Y in isolation?)
 ---
 
-*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/door-in-the-face** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/door-in-the-face** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

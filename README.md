@@ -2,7 +2,7 @@
 
 **Open-source thinking-framework skills that make rigorous reasoning executable for AI agents.**
 
-223 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
+225 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) · Built by [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) · Contributions welcome
 
@@ -10,7 +10,7 @@
 
 ## Install
 
-Add all 223 skills:
+Add all 225 skills:
 
 ```bash
 npx skills add deciqAI/knowledge-skills
@@ -253,7 +253,9 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [User Insight Engine](./user-insight-engine) | [↗](https://www.deciqai.com/skills/user-insight-engine?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | User research produces data. |
 | [Utilitarianism](./utilitarianism) | [↗](https://www.deciqai.com/skills/utilitarianism?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Utilitarianism holds that the right action produces the greatest net well-being across all affected parties, weighted by magnitude and probability. |
 | [Value Chain Analysis](./value-chain-analysis) | [↗](https://www.deciqai.com/skills/value-chain-analysis?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Porter (1985) separates firm activities into primary (inbound logistics, operations, outbound logistics, marketing/sales, service) and support (firm infrastructure, HR management,  |
+| [Voltage Effect](./voltage-effect) | [↗](https://www.deciqai.com/skills/voltage-effect?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The voltage effect is John A. |
 | [When To Make First Hires](./when-to-make-first-hires) | [↗](https://www.deciqai.com/skills/when-to-make-first-hires?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Early hires are the highest-variance, highest-cost decisions a small founder makes: too early burns runway on unvalidated work; too late caps growth and burns the founder out. |
+| [Winners Curse](./winners-curse) | [↗](https://www.deciqai.com/skills/winners-curse?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The winner's curse is the systematic tendency, in a common-value auction — one where every bidder is estimating the same uncertain value from noisy private signals — for the winner |
 | [Wu Wei](./wu-wei) | [↗](https://www.deciqai.com/skills/wu-wei?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Wu wei (无为) — Daoist principle (Daodejing, ~4th century BCE): act without forcing, not without acting. |
 | [Zero Sum Game](./zero-sum-game) | [↗](https://www.deciqai.com/skills/zero-sum-game?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Zero-sum means total value is fixed — one player's gain is another's exact loss. |
 
@@ -265,4 +267,4 @@ New skills and improvements to existing ones are welcome — see [CONTRIBUTING.m
 
 ---
 
-These are the same 223 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
+These are the same 225 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.

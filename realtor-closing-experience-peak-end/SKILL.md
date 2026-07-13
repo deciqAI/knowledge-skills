@@ -38,4 +38,4 @@ Agent works hard through contract, then goes quiet post-inspection; closing is a
 - [ ] Referral ask timed to the high
 
 ---
-*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-closing-experience-peak-end** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-closing-experience-peak-end** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

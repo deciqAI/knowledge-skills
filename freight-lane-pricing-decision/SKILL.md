@@ -38,4 +38,4 @@ Shipper offers $1,800; market ~$2,100; a carrier will haul for $1,650.
 - [ ] Relationship/option value weighed for key accounts
 
 ---
-*Part of **deciqAI Knowledge Skills** — 223 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-lane-pricing-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-lane-pricing-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
