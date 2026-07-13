@@ -15,7 +15,7 @@ Composes with [`social-proof`](../social-proof/SKILL.md), [`anchoring`](../ancho
 
 ## When to Use
 
-Apply when: accepting a gift/sample/concession where the giver has a future ask; designing sales, fundraising, or partner-development sequences; a negotiation counterpart just conceded and you feel pulled to match; evaluating cumulative small gifts in regulated relationships; someone asks "why are they so generous?" or "should I concede back?"
+Apply when: accepting a gift/sample/concession where the giver has a future ask; designing sales, fundraising, or partner-development sequences; a negotiation counterpart just conceded and you feel pulled to match; evaluating cumulative small gifts in regulated relationships; weighing free AI credits / a generous free tier / a free vendor pilot where a paid contract or lock-in is the eventual ask; someone asks "why are they so generous?" or "should I concede back?"
 
 **When NOT to use:** exchange is explicitly priced; gift is a normal friendship pattern with no pending ask; favor is too small to constrain any future action; bright-line legal/ethical rules apply — follow the rule, skip the analysis.
 
@@ -59,6 +59,7 @@ Decision: [move + why + how to execute]
 ```
 
 *→ Method in Action: [Dennis Regan's Coke Experiment, Cornell, 1971](examples/dennis-regans-coke-experiment-cornell-1971.md)*
+*→ 2026 lens: [Free AI credits, freemium tiers & open-weight releases (2023–2026)](examples/ai-freemium-free-credits-reciprocity-2023-2026.md) — reciprocity as product-led growth, and the buyer's defense.*
 
 ## Pack: Reciprocity in Practice
 
