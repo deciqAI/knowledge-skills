@@ -18,6 +18,7 @@ Composes with [`anchoring`](../anchoring/SKILL.md), [`signaling-games`](../signa
 - Any non-trivial negotiation: term sheets, salary, partnership, M&A, vendor contracts, customer pricing
 - You feel pressure to take a deal that "feels bad" — usually a sign your BATNA is weak or not modeled
 - Assess whether a deal *can* happen before investing time in tactics
+- Raising in the 2024–2026 AI market (term sheets, SAFEs) or committing to a GPU-cloud / compute contract, where FOMO and "capacity is scarce" pressure obscure your real alternative
 
 **Not when:** purely emotional/non-transactional disputes; cultures where direct BATNA discussion is taboo.
 
@@ -62,6 +63,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ```
 
 *→ Method in Action: [Fisher and Ury, 1981 — The Harvard Negotiation Project](examples/fisher-and-ury-1981-the-harvard-negotiation-project.md) · [Camp David Accords, 1978](examples/camp-david-accords-sinai-1978.md)*
+*→ 2026 lens: [An AI startup's term sheet & compute contract (2024–2026)](examples/ai-startup-term-sheet-and-compute-negotiation-2024-2026.md) — build your BATNA before you negotiate the raise.*
 
 ## Pack: BATNA & ZOPA Patterns
 
