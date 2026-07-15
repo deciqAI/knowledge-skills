@@ -18,6 +18,7 @@ Coined by Frank Robinson (SyncDev, 2001); operationalized by Eric Ries (*The Lea
 - "MVP" is being used to mean "small version of the real product" (this skill corrects that)
 - Engineers are building for months on an unvalidated assumption
 - Choosing between concierge / Wizard-of-Oz / smoke test / video / single-feature / paid pilot
+- AI made building cheap and you're about to "just build the whole thing" — vibe-coded a prototype in a weekend but can't name the assumption it tests
 
 **When NOT to use:** already have PMF (question is scaling); delivering a contractual obligation; already ran the right MVP and got a clear result.
 
@@ -69,6 +70,7 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 | Validated learning (post-test) | one sentence |
 
 *→ Method in Action: [Zappos's Concierge MVP (1999)](examples/zappos-concierge-mvp-1999.md) · [Airbnb's Air-Mattress MVP (2007)](examples/airbnbs-air-mattress-mvp-2007.md)*
+*→ 2026 lens: [The AI-Era MVP — when building got cheap and validation didn't (2023–2026)](examples/ai-era-mvp-when-building-is-cheap-2023-2026.md) — the bottleneck moved from engineering to evidence.*
 
 ## MVP Type Packs
 
