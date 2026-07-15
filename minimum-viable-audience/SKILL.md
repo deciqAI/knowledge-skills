@@ -38,4 +38,4 @@ The Minimum Viable Audience (Seth Godin) is the **smallest group of people whose
 - [ ] A word-of-mouth trigger designed in
 
 ---
-*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/minimum-viable-audience** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/minimum-viable-audience** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

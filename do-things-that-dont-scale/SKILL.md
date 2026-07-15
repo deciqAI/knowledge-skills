@@ -38,4 +38,4 @@ Paul Graham's counterintuitive rule: early on, **the unscalable is exactly what 
 - [ ] Automation deferred until the step is validated
 
 ---
-*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/do-things-that-dont-scale** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/do-things-that-dont-scale** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

@@ -116,4 +116,4 @@ Typical NSMs by domain: **content platforms** → minutes streamed per active us
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 225 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/north-star-metric** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/north-star-metric** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

@@ -2,7 +2,7 @@
 
 **Open-source thinking-framework skills that make rigorous reasoning executable for AI agents.**
 
-225 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
+227 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) · Built by [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) · Contributions welcome
 
@@ -10,7 +10,7 @@
 
 ## Install
 
-Add all 225 skills:
+Add all 227 skills:
 
 ```bash
 npx skills add deciqAI/knowledge-skills
@@ -41,6 +41,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Ansoff Matrix](./ansoff-matrix) | [↗](https://www.deciqai.com/skills/ansoff-matrix?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Every growth option a firm has falls into one of four quadrants defined by two axes: existing vs. |
 | [Antifragile](./antifragile) | [↗](https://www.deciqai.com/skills/antifragile?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Nassim Nicholas Taleb (2012) identified a third response to stress beyond fragile/robust: antifragile — systems that gain from disorder, with bounded downside and unbounded upside. |
 | [Ar Dso Discipline](./ar-dso-discipline) | [↗](https://www.deciqai.com/skills/ar-dso-discipline?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Days Sales Outstanding (DSO) is the average time to collect after a sale. |
+| [Arrow Information Paradox](./arrow-information-paradox) | [↗](https://www.deciqai.com/skills/arrow-information-paradox?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | You have something valuable to sell — a technology, a formula, a method, a dataset, a research result. |
 | [Authority Bias](./authority-bias) | [↗](https://www.deciqai.com/skills/authority-bias?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Authority bias is the automatic tendency to comply with directives from authority figures — often overriding one's own judgment, ethics, or evidence. |
 | [Availability Heuristic](./availability-heuristic) | [↗](https://www.deciqai.com/skills/availability-heuristic?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The availability heuristic: people estimate probability by how easily examples come to mind. |
 | [Batna Zopa](./batna-zopa) | [↗](https://www.deciqai.com/skills/batna-zopa?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | BATNA (Best Alternative to a Negotiated Agreement) is the value of your best fallback if no deal happens — the floor below which you walk away. |
@@ -200,6 +201,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Representativeness Heuristic](./representativeness-heuristic) | [↗](https://www.deciqai.com/skills/representativeness-heuristic?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The representativeness heuristic is judging probability by how closely something resembles a prototype — overriding actual base rates. |
 | [Resource Integration Hierarchy](./resource-integration-hierarchy) | [↗](https://www.deciqai.com/skills/resource-integration-hierarchy?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Most organizations operate well below their potential resource access. |
 | [Resource Time Compression](./resource-time-compression) | [↗](https://www.deciqai.com/skills/resource-time-compression?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Most plans estimate how long each step takes and add them up — producing a multi-year sequential path that reflects a solo, resource-constrained default. |
+| [Reverse Information Paradox](./reverse-information-paradox) | [↗](https://www.deciqai.com/skills/reverse-information-paradox?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | When you buy intelligence from an external AI, you pay for it twice. |
 | [Ria Adv Crs Compliance Checklist](./ria-adv-crs-compliance-checklist) | [↗](https://www.deciqai.com/skills/ria-adv-crs-compliance-checklist?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
 | [Ria Client Behavior Coaching](./ria-client-behavior-coaching) | [↗](https://www.deciqai.com/skills/ria-client-behavior-coaching?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
 | [Ria Client Margin Of Safety](./ria-client-margin-of-safety) | [↗](https://www.deciqai.com/skills/ria-client-margin-of-safety?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
@@ -267,4 +269,4 @@ New skills and improvements to existing ones are welcome — see [CONTRIBUTING.m
 
 ---
 
-These are the same 225 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
+These are the same 227 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
