@@ -21,6 +21,7 @@ Composes with [`fundamental-attribution-error`](../fundamental-attribution-error
 - Evaluating investment opportunities or CEO impact
 - Conducting self-assessment
 - Someone says "halo effect," "visionary leader," "everything they do is great"
+- An "AI company" label, a marquee investor, or a famous-lab pedigree is doing the rating's work — evaluating an AI vendor, an AI-boom valuation, or a fluent model answer rated as accurate because it sounds confident
 
 **Not when:** the global impression is itself the relevant judgment; attribute-by-attribute analysis would produce decision paralysis.
 
@@ -65,6 +66,7 @@ Adjusted decision: real-evidence attrs | halo-inflated attrs | action
 ```
 
 *→ Method in Action: [Thorndike 1920 + Nisbett-Wilson 1977 + Rosenzweig 2007 Business Application](examples/thorndike-1920-nisbett-wilson-1977-rosenzweig-2007-business-application.md)*
+*→ 2026 lens: [The "AI" halo — Builder.ai and the AI-washing wave (2023–2026)](examples/ai-halo-builderai-and-ai-washing-2023-2026.md) — when two letters inflate every other attribute.*
 
 ## Pack: Halo Effect Across Evaluation Domains
 
