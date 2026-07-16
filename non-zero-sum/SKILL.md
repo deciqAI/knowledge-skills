@@ -1,7 +1,7 @@
 ---
 name: non-zero-sum
 description: "Activate when: someone says 'this is win-lose,' 'we can't both win,' 'what's in it for them to cooperate,' 'is there a deal here,' or 'how do we get past this standoff'; a negotiation or conflict feels deadlocked; you're designing a platform, contract, or institution that needs to align competing parties.
-  Do NOT activate when: the resource pool is genuinely fixed and one-shot with no side effects (true zero-sum); the conflict is identity- or values-based with no concrete trade that creates net value."
+  Do NOT activate when: the resource pool is genuinely fixed and one-shot with no side effects (true zero-sum); the conflict is identity- or values-based with no concrete trade that creates net value. More: deciqai.com/s/non-zero-sum"
 ---
 
 # Non-Zero-Sum
@@ -119,3 +119,5 @@ Non-zero-sum gap: <cooperation dividend>
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/non-zero-sum** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/non-zero-sum.json*

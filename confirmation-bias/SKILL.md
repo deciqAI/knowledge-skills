@@ -1,6 +1,6 @@
 ---
 name: confirmation-bias
-description: "Activate when: user says 'we keep finding evidence that supports our view,' 'the team is all aligned on this,' 'I've done the research and it checks out,' or a decision moves forward with only supporting evidence cited. Do NOT activate when: context is explicit advocacy (legal brief, pitch deck) where one-sided argument is the design; or stakes are too low to justify structured disconfirmation."
+description: "Activate when: user says 'we keep finding evidence that supports our view,' 'the team is all aligned on this,' 'I've done the research and it checks out,' or a decision moves forward with only supporting evidence cited. Do NOT activate when: context is explicit advocacy (legal brief, pitch deck) where one-sided argument is the design; or stakes are too low to justify structured disconfirmation. More: deciqai.com/s/confirmation-bias"
 ---
 
 # Confirmation Bias
@@ -107,3 +107,5 @@ Update conditions: trigger / re-examination date:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/confirmation-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/confirmation-bias.json*

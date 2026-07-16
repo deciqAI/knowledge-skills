@@ -1,6 +1,6 @@
 ---
 name: point-line-plane-solid
-description: "Activate when: user says 'we're good at X but not growing,' 'we need a moat,' 'we're just a feature not a platform,' 'competition keeps copying us,' 'we want to build something hard to replicate,' or asks how to move from product to platform to ecosystem. Do NOT activate when: the user is still searching for product-market fit (the point-level value hasn't been validated yet); or when the question is purely about execution speed or cost within an existing market (a line-level optimization, not a dimension problem)."
+description: "Activate when: user says 'we're good at X but not growing,' 'we need a moat,' 'we're just a feature not a platform,' 'competition keeps copying us,' 'we want to build something hard to replicate,' or asks how to move from product to platform to ecosystem. Do NOT activate when: the user is still searching for product-market fit (the point-level value hasn't been validated yet); or when the question is purely about execution speed or cost within an existing market (a line-level optimization, not a dimension problem). More: deciqai.com/s/point-line-plane-solid"
 ---
 
 # Point → Line → Plane → Solid (点–线–面–体)
@@ -118,3 +118,5 @@ Stop-rule: plan skip any intermediate dimension? [Yes–return / No–proceed]
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/point-line-plane-solid** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/point-line-plane-solid.json*

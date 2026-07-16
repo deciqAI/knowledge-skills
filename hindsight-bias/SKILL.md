@@ -1,7 +1,7 @@
 ---
 name: hindsight-bias
 description: "Activate when: someone says 'I knew it all along' or 'we should have seen it coming'; a post-mortem is blaming someone for not predicting an outcome; a team is reviewing a past decision and the outcome is coloring the judgment; a decision-maker is being evaluated on what happened rather than what was knowable at the time.
-  Do NOT activate when: contemporaneous pre-decision records exist and match current memory (bias is bounded); the goal is explicitly pattern-recognition from outcomes rather than evaluating the original decision-maker."
+  Do NOT activate when: contemporaneous pre-decision records exist and match current memory (bias is bounded); the goal is explicitly pattern-recognition from outcomes rather than evaluating the original decision-maker. More: deciqai.com/s/hindsight-bias"
 ---
 
 # Hindsight Bias
@@ -118,3 +118,5 @@ Structural fix (decision journal owner / pre-mortem owner / blind post-mortem pr
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/hindsight-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/hindsight-bias.json*

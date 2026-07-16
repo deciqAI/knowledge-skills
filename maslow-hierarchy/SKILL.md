@@ -6,6 +6,7 @@ description: >
   before caring about the mission," or diagnosing why a standard incentive is failing.
   Do NOT activate when: formal motivational science is required (use SDT); cross-cultural nuance
   makes the five-level hierarchy unreliable; precise empirical rank-ordering of needs is load-bearing.
+  More: deciqai.com/s/maslow-hierarchy
 ---
 
 # Maslow's Hierarchy of Needs
@@ -118,3 +119,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/maslow-hierarchy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/maslow-hierarchy.json*

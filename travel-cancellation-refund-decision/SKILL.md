@@ -1,6 +1,6 @@
 ---
 name: travel-cancellation-refund-decision
-description: "Activate when: a client needs to cancel/change; deciding refund vs credit vs insurance claim; comparing supplier penalties; 'what's my best move to recover the most?'. Do NOT activate when: fully refundable booking, no decision needed."
+description: "Activate when: a client needs to cancel/change; deciding refund vs credit vs insurance claim; comparing supplier penalties; 'what's my best move to recover the most?'. Do NOT activate when: fully refundable booking, no decision needed. More: deciqai.com/s/travel-cancellation-refund-decision"
 ---
 
 # Travel Advisor — Cancellation & Refund Decision
@@ -48,3 +48,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [decision-tree](../decision-t
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/travel-cancellation-refund-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/travel-cancellation-refund-decision.json*

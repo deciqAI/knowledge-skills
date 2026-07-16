@@ -1,7 +1,7 @@
 ---
 name: wu-wei
 description: "Activate when: someone says 'I keep pushing harder but nothing's working'; a manager feels they need to control every detail; a founder is forcing growth that isn't happening; a team is over-engineering something; someone says 'let it happen', 'stop forcing', or 'effortless action'.
-  Do NOT activate when: the situation is a genuine emergency requiring immediate intervention; the user is a novice in a domain where they haven't yet trained the underlying skill."
+  Do NOT activate when: the situation is a genuine emergency requiring immediate intervention; the user is a novice in a domain where they haven't yet trained the underlying skill. More: deciqai.com/s/wu-wei"
 ---
 
 # Wu Wei (无为, Effortless Action)
@@ -116,3 +116,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/wu-wei** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/wu-wei.json*

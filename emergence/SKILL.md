@@ -1,7 +1,7 @@
 ---
 name: emergence
 description: "Activate when: user says 'our culture isn't working despite directives', 'the market behaves unexpectedly', 'this worked at small scale but not at large scale', 'we can't predict or control what's happening', 'designing a platform/community/open-source project'.
-  Do NOT activate when: the system is simple or mechanical with few moving parts and knowable causation; the user needs a straightforward process analysis where reductionist breakdown is sufficient."
+  Do NOT activate when: the system is simple or mechanical with few moving parts and knowable causation; the user needs a straightforward process analysis where reductionist breakdown is sufficient. More: deciqai.com/s/emergence"
 ---
 
 # Emergence
@@ -104,3 +104,5 @@ Shape conditions, rules, and feedback structures — not outcomes. The leverage 
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/emergence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/emergence.json*

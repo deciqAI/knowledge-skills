@@ -1,7 +1,7 @@
 ---
 name: prisoners-dilemma
 description: "Activate when: user asks 'why does everyone keep doing X when it's obviously bad for all of us', 'how do we get out of this race to the bottom', 'should we trust them not to defect', 'we'd both be better off cooperating but it never happens', 'is this a prisoner's dilemma / Nash equilibrium / tragedy of the commons / race to the bottom'.
-  Do NOT activate when: the situation is zero-sum (one side's gain is the other's loss) — use a different game model; or when the parties already have a long-established repeated relationship with observable moves — use repeated-games-reputation instead."
+  Do NOT activate when: the situation is zero-sum (one side's gain is the other's loss) — use a different game model; or when the parties already have a long-established repeated relationship with observable moves — use repeated-games-reputation instead. More: deciqai.com/s/prisoners-dilemma"
 ---
 
 # Prisoner's Dilemma
@@ -120,3 +120,5 @@ Test: re-draw post-escape matrix — confirm defection is no longer dominant
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/prisoners-dilemma** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/prisoners-dilemma.json*

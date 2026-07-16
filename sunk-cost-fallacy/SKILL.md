@@ -1,6 +1,6 @@
 ---
 name: sunk-cost-fallacy
-description: "Activate when: user says 'we've come too far to quit', 'we can't waste what we've already spent', 'should I keep going or cut my losses', 'we've invested too much to stop now', 'should I continue this project / relationship / position'. Do NOT activate when: prior investment genuinely lowers future marginal costs (real synergies exist); user asks about loss-aversion psychology in general without a concrete continue-or-quit decision."
+description: "Activate when: user says 'we've come too far to quit', 'we can't waste what we've already spent', 'should I keep going or cut my losses', 'we've invested too much to stop now', 'should I continue this project / relationship / position'. Do NOT activate when: prior investment genuinely lowers future marginal costs (real synergies exist); user asks about loss-aversion psychology in general without a concrete continue-or-quit decision. More: deciqai.com/s/sunk-cost-fallacy"
 ---
 
 # Sunk-Cost Fallacy
@@ -112,3 +112,5 @@ Structural fix: [kill criteria / stage gate / fresh-eyes / decision-rights separ
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/sunk-cost-fallacy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/sunk-cost-fallacy.json*

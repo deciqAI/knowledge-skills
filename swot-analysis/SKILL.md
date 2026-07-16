@@ -1,6 +1,6 @@
 ---
 name: swot-analysis
-description: "Activate when: user says 'SWOT', 'our strengths and weaknesses', 'internal/external analysis', 'strategic audit', 'what's our edge', 'competitive threats we face', or is beginning a strategy planning cycle, evaluating market entry, or preparing investor materials. Do NOT activate when: user needs a purely quantitative financial model or precise numerical decision (use financial analysis instead); user wants to map competitive industry structure forces (use Porter's Five Forces instead)."
+description: "Activate when: user says 'SWOT', 'our strengths and weaknesses', 'internal/external analysis', 'strategic audit', 'what's our edge', 'competitive threats we face', or is beginning a strategy planning cycle, evaluating market entry, or preparing investor materials. Do NOT activate when: user needs a purely quantitative financial model or precise numerical decision (use financial analysis instead); user wants to map competitive industry structure forces (use Porter's Five Forces instead). More: deciqai.com/s/swot-analysis"
 ---
 
 # SWOT Analysis
@@ -117,3 +117,5 @@ Produce a **Strategic Audit** — populated four-quadrant SWOT plus TOWS cross-m
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/swot-analysis** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/swot-analysis.json*

@@ -1,6 +1,6 @@
 ---
 name: founder-burnout-sustainability
-description: "Activate when: a founder is running on empty, working unsustainable hours, or output/judgment is degrading; 'I'm burning out', 'I can't keep this pace', protecting the founder as the company's key asset. Do NOT activate when: it's a short, bounded sprint by choice with recovery planned."
+description: "Activate when: a founder is running on empty, working unsustainable hours, or output/judgment is degrading; 'I'm burning out', 'I can't keep this pace', protecting the founder as the company's key asset. Do NOT activate when: it's a short, bounded sprint by choice with recovery planned. More: deciqai.com/s/founder-burnout-sustainability"
 ---
 
 # Founder Sustainability — Protect the Company's Key Asset
@@ -39,3 +39,5 @@ In a small company the founder *is* the critical infrastructure: when their ener
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-burnout-sustainability** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/founder-burnout-sustainability.json*

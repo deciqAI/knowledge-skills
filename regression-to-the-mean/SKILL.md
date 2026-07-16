@@ -1,6 +1,6 @@
 ---
 name: regression-to-the-mean
-description: "Activate when: someone says 'things always bounce back,' wonders why an intervention seemed to work on a struggling team, is surprised their star performer regressed, is evaluating whether a coaching/bonus/firing had an effect, or is interpreting before-vs-after performance changes without a control group. Do NOT activate when: the measurement is genuinely noise-free (e.g., deterministic process outputs); the underlying signal has demonstrably changed due to a structural shift (new product launch, technology change)."
+description: "Activate when: someone says 'things always bounce back,' wonders why an intervention seemed to work on a struggling team, is surprised their star performer regressed, is evaluating whether a coaching/bonus/firing had an effect, or is interpreting before-vs-after performance changes without a control group. Do NOT activate when: the measurement is genuinely noise-free (e.g., deterministic process outputs); the underlying signal has demonstrably changed due to a structural shift (new product launch, technology change). More: deciqai.com/s/regression-to-the-mean"
 ---
 
 # Regression to the Mean
@@ -120,3 +120,5 @@ Adjusted action — Credit/blame verdict + future evaluation process:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/regression-to-the-mean** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/regression-to-the-mean.json*

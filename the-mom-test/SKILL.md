@@ -1,6 +1,6 @@
 ---
 name: the-mom-test
-description: "Activate when: a founder is about to talk to customers/users to validate an idea; 'I asked people and they loved it', 'how do I run customer interviews', 'is there demand for this?', pre-PMF discovery. Do NOT activate when: the question is quantitative A/B testing on an existing product (use analytics), or the decision needs no customer input."
+description: "Activate when: a founder is about to talk to customers/users to validate an idea; 'I asked people and they loved it', 'how do I run customer interviews', 'is there demand for this?', pre-PMF discovery. Do NOT activate when: the question is quantitative A/B testing on an existing product (use analytics), or the decision needs no customer input. More: deciqai.com/s/the-mom-test"
 ---
 
 # The Mom Test — Customer Interviews That Don't Lie to You
@@ -39,3 +39,5 @@ The Mom Test (Rob Fitzpatrick, 2013) is a way to talk to customers so that even 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/the-mom-test** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/the-mom-test.json*

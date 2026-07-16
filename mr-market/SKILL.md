@@ -1,7 +1,7 @@
 ---
 name: mr-market
 description: "Activate when: user says 'the market is telling us X', 'valuation has dropped/risen so we should act', 'everyone is selling/buying so I should too', or is making an investment/fundraising decision based on a quoted price under emotional pressure.
-  Do NOT activate when: the market quote genuinely reflects new economic information about the underlying business (not mood); or the user must transact at quoted price for forced-sale/liquidity reasons."
+  Do NOT activate when: the market quote genuinely reflects new economic information about the underlying business (not mood); or the user must transact at quoted price for forced-sale/liquidity reasons. More: deciqai.com/s/mr-market"
 ---
 
 # Mr. Market
@@ -118,3 +118,5 @@ Re-evaluation trigger (date):
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mr-market** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mr-market.json*

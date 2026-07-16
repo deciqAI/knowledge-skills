@@ -1,6 +1,6 @@
 ---
 name: realtor-price-reduction-decision
-description: "Activate when: a listing isn't selling and the agent must decide list price or a price reduction; 'should we drop the price', 'how much and when', days-on-market rising, showings without offers. Do NOT activate when: the property is priced right and getting offers (no decision)."
+description: "Activate when: a listing isn't selling and the agent must decide list price or a price reduction; 'should we drop the price', 'how much and when', days-on-market rising, showings without offers. Do NOT activate when: the property is priced right and getting offers (no decision). More: deciqai.com/s/realtor-price-reduction-decision"
 ---
 
 # Real Estate — Pricing & Price-Reduction Decision
@@ -40,3 +40,5 @@ The parent [decision-tree](../decision-tree/SKILL.md) maps sequential choices un
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-price-reduction-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/realtor-price-reduction-decision.json*

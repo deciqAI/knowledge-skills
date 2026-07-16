@@ -3,6 +3,7 @@ name: pmf-crossing-the-chasm
 description: >
   Activate when: user says "PMF," "product-market fit," "crossing the chasm," "early adopter to mainstream," "whole product," "we're stuck after our beachhead," or "growth stalled after an initial good period"; startup has early traction but can't tell if it's real; team is debating which segment to target next after winning early fans.
   Do NOT activate when: the product has no users yet (use lean-startup instead); the business is already category-mature and the question is about scaling proven channels.
+  More: deciqai.com/s/pmf-crossing-the-chasm
 ---
 
 # Product-Market Fit and Crossing the Chasm
@@ -119,3 +120,5 @@ Adding a pack for your industry is the easiest contribution.
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/pmf-crossing-the-chasm** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/pmf-crossing-the-chasm.json*

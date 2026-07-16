@@ -1,6 +1,6 @@
 ---
 name: insurance-coverage-gap-premortem
-description: "Activate when: an insurance agent should stress-test a client's coverage before a claim exposes a gap; 'is this client actually covered', policy review, exclusions/limits/underinsurance; E&O risk. Do NOT activate when: no coverage is being placed or reviewed."
+description: "Activate when: an insurance agent should stress-test a client's coverage before a claim exposes a gap; 'is this client actually covered', policy review, exclusions/limits/underinsurance; E&O risk. Do NOT activate when: no coverage is being placed or reviewed. More: deciqai.com/s/insurance-coverage-gap-premortem"
 ---
 
 # Insurance Agent — Coverage-Gap Premortem
@@ -43,3 +43,5 @@ Client's net worth grew to $2M; still on minimum auto liability, no umbrella.
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/insurance-coverage-gap-premortem** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/insurance-coverage-gap-premortem.json*

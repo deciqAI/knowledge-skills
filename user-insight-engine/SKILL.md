@@ -1,7 +1,7 @@
 ---
 name: user-insight-engine
 description: "Activate when: user says 'why aren't users doing X despite saying they would', or 'our survey scores are high but churn is high', or 'we shipped a feature that tested well but nobody uses it', or 'we have conflicting signals from research', or 'I can see the drop-off point but don't know why'.
-  Do NOT activate when: the product has no real users yet (use lean-startup / jobs-to-be-done instead); or the purchase is a multi-stakeholder B2B enterprise deal (use principal-agent / signaling-games instead)."
+  Do NOT activate when: the product has no real users yet (use lean-startup / jobs-to-be-done instead); or the purchase is a multi-stakeholder B2B enterprise deal (use principal-agent / signaling-games instead). More: deciqai.com/s/user-insight-engine"
 ---
 
 # User Insight Engine
@@ -118,3 +118,5 @@ INTERVENTION: Driver: ___  Change: ___  Test design: ___  Metric (behavioral): _
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/user-insight-engine** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/user-insight-engine.json*

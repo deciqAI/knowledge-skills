@@ -1,6 +1,6 @@
 ---
 name: customs-hts-classification-mece
-description: "Activate when: classifying merchandise under the HTSUS; ambiguous/multi-function goods; 'which heading applies?'; a product spanning multiple chapters. Do NOT activate when: an established binding ruling already governs the exact article."
+description: "Activate when: classifying merchandise under the HTSUS; ambiguous/multi-function goods; 'which heading applies?'; a product spanning multiple chapters. Do NOT activate when: an established binding ruling already governs the exact article. More: deciqai.com/s/customs-hts-classification-mece"
 ---
 
 # Customs — HTS Classification (MECE Decomposition)
@@ -47,3 +47,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [mece](../mece/SKILL.md).
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customs-hts-classification-mece** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customs-hts-classification-mece.json*

@@ -1,6 +1,6 @@
 ---
 name: tax-prep-8867-due-diligence
-description: "Activate when: preparing any return claiming EITC, CTC/ACTC/ODC, AOTC, or Head-of-Household status; onboarding a paid-preparer workflow; a reviewer says 'did we document due diligence?', 'are we 8867-covered?', 'EITC audit risk.'. Do NOT activate when: no refundable credit / HOH is claimed; the return is self-prepared with no paid preparer; the question is purely tax-law calculation (use a calc tool, not this)."
+description: "Activate when: preparing any return claiming EITC, CTC/ACTC/ODC, AOTC, or Head-of-Household status; onboarding a paid-preparer workflow; a reviewer says 'did we document due diligence?', 'are we 8867-covered?', 'EITC audit risk.'. Do NOT activate when: no refundable credit / HOH is claimed; the return is self-prepared with no paid preparer; the question is purely tax-law calculation (use a calc tool, not this). More: deciqai.com/s/tax-prep-8867-due-diligence"
 ---
 
 # Tax Prep — Refundable-Credit Due-Diligence (Form 8867)
@@ -51,3 +51,5 @@ Part of **deciqAI Knowledge Skills** — executable rigor for AI agents. Core me
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-prep-8867-due-diligence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tax-prep-8867-due-diligence.json*

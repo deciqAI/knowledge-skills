@@ -1,6 +1,6 @@
 ---
 name: circle-of-competence
-description: "Activate when: user says 'should I enter this market / make this hire / invest in this domain,' 'am I qualified to evaluate this,' 'stay in your lane,' 'stick to what you know,' or is about to make a consequential decision in an unfamiliar domain. Do NOT activate when: the decision is small and explicitly framed as a learning bet; the domain is genuinely frontier for everyone and no one has competence yet."
+description: "Activate when: user says 'should I enter this market / make this hire / invest in this domain,' 'am I qualified to evaluate this,' 'stay in your lane,' 'stick to what you know,' or is about to make a consequential decision in an unfamiliar domain. Do NOT activate when: the decision is small and explicitly framed as a learning bet; the domain is genuinely frontier for everyone and no one has competence yet. More: deciqai.com/s/circle-of-competence"
 ---
 
 # Circle of Competence
@@ -120,3 +120,5 @@ Decision & rationale: | Re-evaluation date:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/circle-of-competence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/circle-of-competence.json*

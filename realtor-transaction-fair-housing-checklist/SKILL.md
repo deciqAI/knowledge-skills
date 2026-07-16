@@ -1,6 +1,6 @@
 ---
 name: realtor-transaction-fair-housing-checklist
-description: "Activate when: a real estate agent is running a listing/transaction and must not skip disclosure, agency, and fair-housing steps; 'what do I need to disclose', writing an ad, handling an offer, closing coordination. Do NOT activate when: the question is pure market/pricing analysis with no compliance step."
+description: "Activate when: a real estate agent is running a listing/transaction and must not skip disclosure, agency, and fair-housing steps; 'what do I need to disclose', writing an ad, handling an offer, closing coordination. Do NOT activate when: the question is pure market/pricing analysis with no compliance step. More: deciqai.com/s/realtor-transaction-fair-housing-checklist"
 ---
 
 # Real Estate — Transaction & Fair-Housing Checklist
@@ -46,3 +46,5 @@ Draft listing says "perfect for a young family near great churches."
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-transaction-fair-housing-checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/realtor-transaction-fair-housing-checklist.json*

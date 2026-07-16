@@ -2,7 +2,7 @@
 name: voltage-effect
 description: "Diagnoses whether a result that worked at small scale will keep working when scaled — by testing an idea against John List's five reasons ideas lose 'voltage' (false positives, unrepresentative population, unrepresentative situation, spillovers, and the supply-side cost trap) BEFORE committing to scale.
   Activate when: user says 'the pilot worked, let's roll it out', 'this crushed it in the beta', 'we're ready to scale', 'the unit economics will improve with volume', 'it worked in one city/market/segment', 'should we franchise / expand nationally', or wants to predict whether a promising early result will survive scaling.
-  Do NOT activate when: the question is purely how to build scale infrastructure with no doubt the result generalizes (use economies-of-scale); the idea has already scaled and held, and you are optimizing a mature operation; or the decision has no scale step at all (a one-off, non-repeatable choice)."
+  Do NOT activate when: the question is purely how to build scale infrastructure with no doubt the result generalizes (use economies-of-scale); the idea has already scaled and held, and you are optimizing a mature operation; or the decision has no scale step at all (a one-off, non-repeatable choice). More: deciqai.com/s/voltage-effect"
 ---
 
 # Voltage Effect
@@ -156,3 +156,5 @@ Verdict: SCALE / DE-RISK FIRST / DO NOT SCALE
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/voltage-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/voltage-effect.json*

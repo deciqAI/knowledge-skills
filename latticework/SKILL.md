@@ -1,7 +1,7 @@
 ---
 name: latticework
 description: "Activate when: user says 'I don't know which framework to use', 'our analysis keeps missing something', 'we need a second opinion on our model', 'how do we stress-test this decision from multiple angles', 'one framework isn't enough here', or a decision keeps surfacing objections from different stakeholders that don't overlap.
-  Do NOT activate when: the problem is fully contained in one discipline with no cross-domain interactions (pure legal text, pure engineering spec); time is too short for multi-model deliberation (crisis triage)."
+  Do NOT activate when: the problem is fully contained in one discipline with no cross-domain interactions (pure legal text, pure engineering spec); time is too short for multi-model deliberation (crisis triage). More: deciqai.com/s/latticework"
 ---
 
 # Latticework
@@ -121,3 +121,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/latticework** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/latticework.json*

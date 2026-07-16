@@ -1,7 +1,7 @@
 ---
 name: blue-ocean-strategy
 description: "Activate when: user asks 'how do we stop competing on price?', 'what new market can we create?', 'is there a way to differentiate and cut costs at the same time?', describes an industry where all competitors look identical and margins are eroding, or a team is choosing a market entry angle to avoid head-to-head competition.
-  Do NOT activate when: competitive dimensions are fixed by regulation (utilities, certain financial products); or a network-effects incumbent already dominates the space — use disruptive-innovation instead."
+  Do NOT activate when: competitive dimensions are fixed by regulation (utilities, certain financial products); or a network-effects incumbent already dominates the space — use disruptive-innovation instead. More: deciqai.com/s/blue-ocean-strategy"
 ---
 
 # Blue Ocean Strategy
@@ -120,3 +120,5 @@ Buyer Utility: utility gaps closed + non-customer response + stop-rule decision
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/blue-ocean-strategy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/blue-ocean-strategy.json*

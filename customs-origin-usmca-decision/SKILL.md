@@ -1,6 +1,6 @@
 ---
 name: customs-origin-usmca-decision
-description: "Activate when: determining country of origin; testing USMCA (or other FTA) preference eligibility; marking; 'does this qualify for duty-free?'; goods with multi-country inputs. Do NOT activate when: wholly-obtained single-country goods with no preference question."
+description: "Activate when: determining country of origin; testing USMCA (or other FTA) preference eligibility; marking; 'does this qualify for duty-free?'; goods with multi-country inputs. Do NOT activate when: wholly-obtained single-country goods with no preference question. More: deciqai.com/s/customs-origin-usmca-decision"
 ---
 
 # Customs — Country of Origin & USMCA Qualification
@@ -50,3 +50,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [decision-tree](../decision-t
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customs-origin-usmca-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customs-origin-usmca-decision.json*

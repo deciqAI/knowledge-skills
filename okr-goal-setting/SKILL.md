@@ -1,7 +1,7 @@
 ---
 name: okr-goal-setting
 description: "Activate when: user says 'set OKRs', 'write objectives and key results', 'our goals aren't measurable', 'teams are hitting targets but the business isn't moving', 'we need stretch goals', 'align teams around quarterly goals', or mentions Doerr / Measure What Matters.
-  Do NOT activate when: the team is under ~10 people with informal alignment that works fine; output is genuinely uncertain (deep R&D, research labs) making 'achieve X by Q3' structurally impossible."
+  Do NOT activate when: the team is under ~10 people with informal alignment that works fine; output is genuinely uncertain (deep R&D, research labs) making 'achieve X by Q3' structurally impossible. More: deciqai.com/s/okr-goal-setting"
 ---
 
 # OKRs (Objectives and Key Results)
@@ -112,3 +112,5 @@ Limit ruthlessly: ≤2 Objectives per team, ≤5 KRs each. Celebrate 70% explici
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/okr-goal-setting** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/okr-goal-setting.json*

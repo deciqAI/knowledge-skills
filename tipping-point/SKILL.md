@@ -1,6 +1,6 @@
 ---
 name: tipping-point
-description: "Activate when: user asks 'how close are we to critical mass', 'why did growth suddenly explode (or collapse)', 'will this trend keep spreading', 'is there a network effect threshold here', 'what if we concentrated effort on early adopters'. Do NOT activate when: the phenomenon is genuinely linear with no network effects or social-proof dynamics; the question is purely 'do we have product-market fit' before any diffusion has started."
+description: "Activate when: user asks 'how close are we to critical mass', 'why did growth suddenly explode (or collapse)', 'will this trend keep spreading', 'is there a network effect threshold here', 'what if we concentrated effort on early adopters'. Do NOT activate when: the phenomenon is genuinely linear with no network effects or social-proof dynamics; the question is purely 'do we have product-market fit' before any diffusion has started. More: deciqai.com/s/tipping-point"
 ---
 
 # Tipping Point
@@ -118,3 +118,5 @@ Downward-tipping defense: conditions that drop below threshold | early-warning s
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tipping-point** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tipping-point.json*

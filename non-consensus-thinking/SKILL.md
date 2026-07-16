@@ -1,7 +1,7 @@
 ---
 name: non-consensus-thinking
 description: "Activate when: user says 'everyone agrees on this,' 'the obvious move is X,' 'why go against the grain?'; user is entering a crowded market where the right strategy feels obvious; user has an early signal conflicting with the mainstream narrative; user is making a high-stakes allocation where popular choice and correct choice may diverge.
-  Do NOT activate when: user just wants to be different with no specific edge to audit; context is purely creative where originality is the goal rather than competitive decision-making."
+  Do NOT activate when: user just wants to be different with no specific edge to audit; context is purely creative where originality is the goal rather than competitive decision-making. More: deciqai.com/s/non-consensus-thinking"
 ---
 
 # Non-Consensus Thinking
@@ -117,3 +117,5 @@ Domain / Decision:   Date:
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/non-consensus-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/non-consensus-thinking.json*

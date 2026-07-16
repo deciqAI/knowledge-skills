@@ -1,7 +1,7 @@
 ---
 name: minsky-moment
 description: "Activate when: user asks 'is this a bubble?', 'what's the tail risk here?', 'this time is different', 'leverage has been stable for years', 'the fundamentals support these prices', someone wants to diagnose credit cycle fragility, analyze debt structure risk, or assess whether a calm financial period is hiding systemic danger.
-  Do NOT activate when: the entity has no meaningful leverage and is funded entirely from operating cash flows; collapse risk is primarily operational rather than financial (e.g., a debt-free tech company facing competitive displacement)."
+  Do NOT activate when: the entity has no meaningful leverage and is funded entirely from operating cash flows; collapse risk is primarily operational rather than financial (e.g., a debt-free tech company facing competitive displacement). More: deciqai.com/s/minsky-moment"
 ---
 
 # Minsky Moment
@@ -120,3 +120,5 @@ Fragility: <High/Medium/Low> | Implication: <...>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/minsky-moment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/minsky-moment.json*

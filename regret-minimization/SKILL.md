@@ -1,7 +1,7 @@
 ---
 name: regret-minimization
 description: "Activate when: user says 'what would my 80-year-old self think', 'if I never try this will I regret it', 'I keep hesitating but the math is clear', 'regret minimization', or faces a major hard-to-reverse life decision (career pivot, founding a company, relocation, leaving a relationship) where the units are joy/meaning/identity rather than money.
-  Do NOT activate when: the decision is routine or easily reversible (which restaurant, which tool to buy); or when money/EV is genuinely the right unit (portfolio allocation, pricing math)."
+  Do NOT activate when: the decision is routine or easily reversible (which restaurant, which tool to buy); or when money/EV is genuinely the right unit (portfolio allocation, pricing math). More: deciqai.com/s/regret-minimization"
 ---
 
 # Regret Minimization
@@ -118,3 +118,5 @@ The Audit runs identically across domains; what differs is the typical load-bear
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/regret-minimization** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/regret-minimization.json*

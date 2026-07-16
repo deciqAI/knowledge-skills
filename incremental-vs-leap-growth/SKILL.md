@@ -1,7 +1,7 @@
 ---
 name: incremental-vs-leap-growth
 description: "Activate when: growth has stalled despite good execution; a team disagrees whether a goal is 'realistic'; someone says their initiative is transformative but measures it with quarterly targets; you're designing a new market entry or capability platform.
-  Do NOT activate when: organization is in survival mode (cash runway < 6 months) — address that constraint first; the goal hasn't been defined yet — use first-principles or jobs-to-be-done first."
+  Do NOT activate when: organization is in survival mode (cash runway < 6 months) — address that constraint first; the goal hasn't been defined yet — use first-principles or jobs-to-be-done first. More: deciqai.com/s/incremental-vs-leap-growth"
 ---
 
 # Incremental vs. Leap Growth
@@ -118,3 +118,5 @@ Mode-metric alignment: [ ] Yes [ ] No  If No: ___
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/incremental-vs-leap-growth** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/incremental-vs-leap-growth.json*

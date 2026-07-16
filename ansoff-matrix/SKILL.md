@@ -1,7 +1,7 @@
 ---
 name: ansoff-matrix
 description: "Activate when: user says 'where should we grow next', 'should we enter a new market', 'thinking about diversifying', 'new product vs new market', 'growth strategy', 'adjacent expansion', 'Ansoff', or is spreading resources across too many directions at once.
-  Do NOT activate when: the firm has one clear unsaturated market (answer is always penetration — no matrix needed); or the question is about portfolio allocation across existing BUs (use BCG Matrix instead)."
+  Do NOT activate when: the firm has one clear unsaturated market (answer is always penetration — no matrix needed); or the question is about portfolio allocation across existing BUs (use BCG Matrix instead). More: deciqai.com/s/ansoff-matrix"
 ---
 
 # Ansoff Matrix
@@ -120,3 +120,5 @@ Entry criteria for next quadrant: <metric> ≥ <threshold> by <date>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ansoff-matrix** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ansoff-matrix.json*

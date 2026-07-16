@@ -1,6 +1,6 @@
 ---
 name: freight-lane-pricing-decision
-description: "Activate when: a freight broker must quote a lane and decide accept/counter/pass on a load or carrier rate; 'what should I quote', 'is this rate any good', margin vs win-probability on a lane. Do NOT activate when: a contracted rate already governs the lane (no decision)."
+description: "Activate when: a freight broker must quote a lane and decide accept/counter/pass on a load or carrier rate; 'what should I quote', 'is this rate any good', margin vs win-probability on a lane. Do NOT activate when: a contracted rate already governs the lane (no decision). More: deciqai.com/s/freight-lane-pricing-decision"
 ---
 
 # Freight Broker — Lane Pricing & Load Decision
@@ -39,3 +39,5 @@ Shipper offers $1,800; market ~$2,100; a carrier will haul for $1,650.
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-lane-pricing-decision** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/freight-lane-pricing-decision.json*

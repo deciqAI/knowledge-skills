@@ -1,7 +1,7 @@
 ---
 name: mvp
 description: "Activate when: someone says 'MVP', 'minimum viable product', 'smoke test', 'concierge MVP', or 'Wizard of Oz'; a team is scoping a build and hasn't named the assumption they're testing; engineers are about to build for months on an unvalidated idea; someone asks 'what's the smallest thing we can ship?'.
-  Do NOT activate when: the product already has validated PMF and the question is scaling or polishing; the deliverable is a contractual obligation already sold."
+  Do NOT activate when: the product already has validated PMF and the question is scaling or polishing; the deliverable is a contractual obligation already sold. More: deciqai.com/s/mvp"
 ---
 
 # Minimum Viable Product
@@ -123,3 +123,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mvp** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mvp.json*

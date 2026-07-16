@@ -1,6 +1,6 @@
 ---
 name: sop-systemization
-description: "Activate when: a founder is the bottleneck on repetitive work, or wants to delegate/automate to people or AI agents; 'everything depends on me', 'how do I document this', turning recurring tasks into repeatable processes. Do NOT activate when: the task is genuinely one-off and non-recurring."
+description: "Activate when: a founder is the bottleneck on repetitive work, or wants to delegate/automate to people or AI agents; 'everything depends on me', 'how do I document this', turning recurring tasks into repeatable processes. Do NOT activate when: the task is genuinely one-off and non-recurring. More: deciqai.com/s/sop-systemization"
 ---
 
 # SOP Systemization — Turn Repetitive Work into Repeatable Process
@@ -39,3 +39,5 @@ A Standard Operating Procedure captures a recurring task as a **documented, repe
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/sop-systemization** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/sop-systemization.json*

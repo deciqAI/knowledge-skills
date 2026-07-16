@@ -1,6 +1,6 @@
 ---
 name: us-business-registry-open-data
-description: "Activate when: user needs US company registration data (LLCs, corporations, formation dates, registered agents) in bulk — lead lists by state, formation-trend analysis, entity matching, TAM sizing from registries; user asks 'where can I get company registration data,' 'Secretary of State data,' 'business registry API,' or hits OpenCorporates pricing walls. Do NOT activate when: user needs business *license* data, SEC filings, or non-US registries; user needs Delaware/California/Texas bulk data (paid or unavailable — this skill explains why, then stops)."
+description: "Activate when: user needs US company registration data (LLCs, corporations, formation dates, registered agents) in bulk — lead lists by state, formation-trend analysis, entity matching, TAM sizing from registries; user asks 'where can I get company registration data,' 'Secretary of State data,' 'business registry API,' or hits OpenCorporates pricing walls. Do NOT activate when: user needs business *license* data, SEC filings, or non-US registries; user needs Delaware/California/Texas bulk data (paid or unavailable — this skill explains why, then stops). More: deciqai.com/s/us-business-registry-open-data"
 ---
 
 # US Business Registry Open Data
@@ -78,3 +78,5 @@ Everything enabled here is official government open data with explicit public-do
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/us-business-registry-open-data** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/us-business-registry-open-data.json*

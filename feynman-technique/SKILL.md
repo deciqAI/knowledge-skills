@@ -1,6 +1,6 @@
 ---
 name: feynman-technique
-description: "Activate when: user says 'explain this simply', 'teach me like I'm five', 'do I really understand this', 'what's the simplest way to think about X', 'what's missing in my model', wants to test genuine vs. surface understanding of a concept, or is preparing to teach/present and needs to verify their mental model. Do NOT activate when: user needs a fast decision on a concept already well-tested, or the concept is irreducibly formal (legal statutes, certain proofs) where simplification destroys essential content."
+description: "Activate when: user says 'explain this simply', 'teach me like I'm five', 'do I really understand this', 'what's the simplest way to think about X', 'what's missing in my model', wants to test genuine vs. surface understanding of a concept, or is preparing to teach/present and needs to verify their mental model. Do NOT activate when: user needs a fast decision on a concept already well-tested, or the concept is irreducibly formal (legal statutes, certain proofs) where simplification destroys essential content. More: deciqai.com/s/feynman-technique"
 ---
 
 # Feynman Technique
@@ -117,3 +117,5 @@ Contribute a **Feynman Audit Pack**: one file cataloguing the top 5–10 surface
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/feynman-technique** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/feynman-technique.json*

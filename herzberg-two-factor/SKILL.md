@@ -1,7 +1,7 @@
 ---
 name: herzberg-two-factor
 description: "Activate when: someone says 'why isn't the team motivated,' 'we raised salaries but morale didn't improve,' 'people keep leaving for better opportunities,' 'employee engagement is low,' 'how do I retain engineers,' or when designing compensation, job roles, or performance systems.
-  Do NOT activate when: the problem is a skill gap (people lack capability, not motivation); or the worker is in extreme economic precarity where basic survival income is the issue."
+  Do NOT activate when: the problem is a skill gap (people lack capability, not motivation); or the worker is in extreme economic precarity where basic survival income is the issue. More: deciqai.com/s/herzberg-two-factor"
 ---
 
 # Herzberg Two-Factor Theory
@@ -119,3 +119,5 @@ Monitoring: hygiene cadence <> | motivator cadence <> | lead indicator <>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/herzberg-two-factor** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/herzberg-two-factor.json*

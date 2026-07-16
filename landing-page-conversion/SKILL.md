@@ -1,6 +1,6 @@
 ---
 name: landing-page-conversion
-description: "Activate when: traffic arrives but doesn't convert; 'our landing page doesn't work', launching a new offer page, improving signup/lead rate; messaging, CTA, friction. Do NOT activate when: there's no traffic yet (fix acquisition first) or the problem is product, not the page."
+description: "Activate when: traffic arrives but doesn't convert; 'our landing page doesn't work', launching a new offer page, improving signup/lead rate; messaging, CTA, friction. Do NOT activate when: there's no traffic yet (fix acquisition first) or the problem is product, not the page. More: deciqai.com/s/landing-page-conversion"
 ---
 
 # Landing Page Conversion — Clarity Beats Cleverness
@@ -39,3 +39,5 @@ A landing page converts when a visitor, in seconds, understands **what it is, wh
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/landing-page-conversion** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/landing-page-conversion.json*

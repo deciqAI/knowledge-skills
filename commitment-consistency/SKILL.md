@@ -6,6 +6,7 @@ description: >
   this fresh," or is evaluating whether past small steps are pulling them into a bigger decision.
   Do NOT activate when: the situation is genuinely single-shot with no prior commitment history;
   commitment framing would be used to pressure someone who already has limited choice.
+  More: deciqai.com/s/commitment-consistency
 ---
 
 # Commitment and Consistency
@@ -116,3 +117,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/commitment-consistency** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/commitment-consistency.json*

@@ -1,6 +1,6 @@
 ---
 name: repeated-games-reputation
-description: "Activate when: user asks how to build trust with a repeat counterparty, whether to retaliate after a partner defected, how to design a reputation system, whether a long-term relationship can survive betrayal, or says 'shadow of the future / tit-for-tat / burn this bridge / they'll remember this / build credibility.' Do NOT activate when: interaction is genuinely one-shot with no third-party observers (use prisoners-dilemma), or situation is zero-sum competition where repetition entrenches rivalry."
+description: "Activate when: user asks how to build trust with a repeat counterparty, whether to retaliate after a partner defected, how to design a reputation system, whether a long-term relationship can survive betrayal, or says 'shadow of the future / tit-for-tat / burn this bridge / they'll remember this / build credibility.' Do NOT activate when: interaction is genuinely one-shot with no third-party observers (use prisoners-dilemma), or situation is zero-sum competition where repetition entrenches rivalry. More: deciqai.com/s/repeated-games-reputation"
 ---
 
 # Repeated Games & Reputation
@@ -120,3 +120,5 @@ Diagnose δ first — wrong discount factor invalidates everything downstream. I
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/repeated-games-reputation** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/repeated-games-reputation.json*

@@ -1,6 +1,6 @@
 ---
 name: organic-plus-extension-growth
-description: "Activate when: user says 'we've hit a growth ceiling,' 'should we acquire or build,' 'we're growing but not sure we can sustain it,' 'what's our M&A strategy,' or a business has achieved initial PMF and is designing its next growth phase. Do NOT activate when: the organic core is not yet at product-market fit; or the primary M&A rationale is purely defensive with no positive value creation thesis."
+description: "Activate when: user says 'we've hit a growth ceiling,' 'should we acquire or build,' 'we're growing but not sure we can sustain it,' 'what's our M&A strategy,' or a business has achieved initial PMF and is designing its next growth phase. Do NOT activate when: the organic core is not yet at product-market fit; or the primary M&A rationale is purely defensive with no positive value creation thesis. More: deciqai.com/s/organic-plus-extension-growth"
 ---
 
 # Organic + Extension Growth
@@ -116,3 +116,5 @@ COMPOUNDING THESIS: organic → acquisition capacity ___ | acquisitions → orga
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/organic-plus-extension-growth** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/organic-plus-extension-growth.json*

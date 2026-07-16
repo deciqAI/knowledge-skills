@@ -3,6 +3,7 @@ name: reciprocity
 description: >
   Activate when: someone is being unexpectedly generous before making a request; you're deciding whether to accept a gift, free sample, or unsolicited concession; you're designing a sales or fundraising sequence and want to give first; a negotiation counterpart just retreated from an extreme position and you feel pulled to match; you're asking "why do they keep buying me lunch?" or "should I send a gift first?"
   Do NOT activate when: the exchange is explicitly priced (commerce, not reciprocity); the gift is a normal recurring pattern in an established friendship with no pending ask.
+  More: deciqai.com/s/reciprocity
 ---
 
 # Reciprocity
@@ -112,3 +113,5 @@ Decision: [move + why + how to execute]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/reciprocity** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/reciprocity.json*

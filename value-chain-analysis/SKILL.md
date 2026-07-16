@@ -1,7 +1,7 @@
 ---
 name: value-chain-analysis
 description: "Activate when: user asks 'where does our competitive advantage come from', 'why are our margins lower than competitors', 'which activities create value', 'how is the competitor doing it cheaper', 'cost structure analysis', 'make vs. buy decision', 'which activities should we outsource', or is evaluating an acquisition for synergies or designing competitive strategy.
-  Do NOT activate when: the business is a platform/multisided market (use network effects analysis instead); the question is industry-level rather than firm-level (use Porter's Five Forces instead)."
+  Do NOT activate when: the business is a platform/multisided market (use network effects analysis instead); the question is industry-level rather than firm-level (use Porter's Five Forces instead). More: deciqai.com/s/value-chain-analysis"
 ---
 
 # Value Chain Analysis
@@ -120,3 +120,5 @@ Strategic recommendations: invest / outsource / fix / immediate priority
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/value-chain-analysis** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/value-chain-analysis.json*

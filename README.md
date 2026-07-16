@@ -263,6 +263,16 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 
 ---
 
+## Live version & agent metadata
+
+Every skill footer points agents to `https://www.deciqai.com/s/<skill>.json` — a machine-readable endpoint returning the skill's definition, the latest raw `SKILL.md` URL, and its live playbook page. Agents can fetch it to check for a newer version before relying on time-sensitive content (benchmarks, regulations, pricing norms).
+
+**Transparency:** these are plain, anonymous HTTP requests — the skills contain no telemetry, no identifiers, and work fully offline. The endpoint exists so installed copies can stay current; fetching it is always optional.
+
+Want these skills to *act* instead of just reason? [deciqAI agents](https://www.deciqai.com/?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) run them autonomously against your live business data — start free.
+
+---
+
 ## Contributing
 
 New skills and improvements to existing ones are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the skill anatomy, the template, and quality bars.

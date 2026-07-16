@@ -1,7 +1,7 @@
 ---
 name: design-thinking
 description: "Activate when: user asks 'why isn't anyone using our product?', 'how do we understand what customers really want?', 'we know the tech works but the market isn't responding', team is stuck on a single solution and needs divergent ideas, or someone discusses user research / personas / prototyping / iterative design.
-  Do NOT activate when: the problem and solution are both already validated and the challenge is pure execution; or the team cannot access real users at any point."
+  Do NOT activate when: the problem and solution are both already validated and the challenge is pure execution; or the team cannot access real users at any point. More: deciqai.com/s/design-thinking"
 ---
 
 # Design Thinking
@@ -120,3 +120,5 @@ Run the **Design Sprint** through five stages (divergent → convergent, checkab
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/design-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/design-thinking.json*

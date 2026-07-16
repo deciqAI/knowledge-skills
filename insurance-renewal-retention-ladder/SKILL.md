@@ -1,6 +1,6 @@
 ---
 name: insurance-renewal-retention-ladder
-description: "Activate when: an insurance agent wants to keep clients renewing and buying more lines; 'how do I stop losing clients at renewal', cross-sell/round-out accounts, book retention; 'my retention is dropping'. Do NOT activate when: the agent has no existing book to retain."
+description: "Activate when: an insurance agent wants to keep clients renewing and buying more lines; 'how do I stop losing clients at renewal', cross-sell/round-out accounts, book retention; 'my retention is dropping'. Do NOT activate when: the agent has no existing book to retain. More: deciqai.com/s/insurance-renewal-retention-ladder"
 ---
 
 # Insurance Agent — Renewal & Retention Ladder
@@ -41,3 +41,5 @@ Client has only auto; agent contacts them only when the renewal price jumps → 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/insurance-renewal-retention-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/insurance-renewal-retention-ladder.json*

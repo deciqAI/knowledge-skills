@@ -1,6 +1,6 @@
 ---
 name: travel-trip-contingency-planning
-description: "Activate when: building a complex/high-value itinerary; multi-supplier or international trip; hurricane/advisory season; client asks 'what if something goes wrong?'; designing a group/FIT trip. Do NOT activate when: single refundable booking with trivial exposure."
+description: "Activate when: building a complex/high-value itinerary; multi-supplier or international trip; hurricane/advisory season; client asks 'what if something goes wrong?'; designing a group/FIT trip. Do NOT activate when: single refundable booking with trivial exposure. More: deciqai.com/s/travel-trip-contingency-planning"
 ---
 
 # Travel Advisor — Trip Contingency Planning
@@ -49,3 +49,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [scenario-planning](../scenar
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/travel-trip-contingency-planning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/travel-trip-contingency-planning.json*

@@ -1,6 +1,6 @@
 ---
 name: mortgage-rate-negotiation-anchoring
-description: "Activate when: a borrower anchors on a headline/teaser rate they saw; presenting rate+points+APR trade-offs; competitor 'lowball' quote; 'why is your rate higher than the ad?'. Do NOT activate when: simply disclosing final locked terms."
+description: "Activate when: a borrower anchors on a headline/teaser rate they saw; presenting rate+points+APR trade-offs; competitor 'lowball' quote; 'why is your rate higher than the ad?'. Do NOT activate when: simply disclosing final locked terms. More: deciqai.com/s/mortgage-rate-negotiation-anchoring"
 ---
 
 # Mortgage — Rate & Terms Anchoring (Defense + Framing)
@@ -48,3 +48,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [anchoring](../anchoring/SKIL
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mortgage-rate-negotiation-anchoring** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mortgage-rate-negotiation-anchoring.json*

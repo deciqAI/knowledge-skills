@@ -1,6 +1,6 @@
 ---
 name: mortgage-loan-program-matching
-description: "Activate when: matching a borrower to Conventional/FHA/VA/USDA/Jumbo/Non-QM; deciding fixed vs ARM; 'which program fits this borrower?'; borderline DTI/LTV/credit. Do NOT activate when: borrower is pre-committed to one specific product with no alternative."
+description: "Activate when: matching a borrower to Conventional/FHA/VA/USDA/Jumbo/Non-QM; deciding fixed vs ARM; 'which program fits this borrower?'; borderline DTI/LTV/credit. Do NOT activate when: borrower is pre-committed to one specific product with no alternative. More: deciqai.com/s/mortgage-loan-program-matching"
 ---
 
 # Mortgage — Loan Program Matching
@@ -49,3 +49,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [decision-tree](../decision-t
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mortgage-loan-program-matching** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mortgage-loan-program-matching.json*

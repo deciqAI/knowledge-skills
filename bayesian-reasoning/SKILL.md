@@ -1,6 +1,6 @@
 ---
 name: bayesian-reasoning
-description: "Activate when: user says 'Bayesian', 'prior', 'posterior', 'base rate', 'likelihood ratio', or 'update my belief'; someone treats 'the evidence is consistent with X' as proof of X; a high-stakes decision rests on interpreting a test result, security alert, fraud flag, A/B result, or hiring signal; base rates are being ignored in favor of a vivid story. Do NOT activate when: the decision is genuinely deterministic and probabilities do not apply; there is no data or domain knowledge to anchor a prior (Bayes amplifies information, it does not create it from nothing)."
+description: "Activate when: user says 'Bayesian', 'prior', 'posterior', 'base rate', 'likelihood ratio', or 'update my belief'; someone treats 'the evidence is consistent with X' as proof of X; a high-stakes decision rests on interpreting a test result, security alert, fraud flag, A/B result, or hiring signal; base rates are being ignored in favor of a vivid story. Do NOT activate when: the decision is genuinely deterministic and probabilities do not apply; there is no data or domain knowledge to anchor a prior (Bayes amplifies information, it does not create it from nothing). More: deciqai.com/s/bayesian-reasoning"
 ---
 
 # Bayesian Reasoning
@@ -120,3 +120,5 @@ A "pack" bundles the most common prior and LR patterns for a domain.
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/bayesian-reasoning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/bayesian-reasoning.json*

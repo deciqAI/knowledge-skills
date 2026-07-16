@@ -1,6 +1,6 @@
 ---
 name: decision-tree
-description: "Activate when: user says 'help me choose between two options with different risks', 'I need to map out what could happen if we go with X', 'we have a sequential decision — first we do A then depending on results we do B', 'what is the expected value of this investment given uncertain demand'. Do NOT activate when: the decision is a one-shot choice with no sequential stages (use simple EV instead); probabilities cannot be estimated even roughly and uncertainty is too deep to quantify."
+description: "Activate when: user says 'help me choose between two options with different risks', 'I need to map out what could happen if we go with X', 'we have a sequential decision — first we do A then depending on results we do B', 'what is the expected value of this investment given uncertain demand'. Do NOT activate when: the decision is a one-shot choice with no sequential stages (use simple EV instead); probabilities cannot be estimated even roughly and uncertainty is too deep to quantify. More: deciqai.com/s/decision-tree"
 ---
 
 # Decision Tree
@@ -118,3 +118,5 @@ Recommendation: [option] — holds if [condition]; flips if [condition]
 - [ ] Missing-branch audit performed; recommendation states conditions it holds and flips
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/decision-tree** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/decision-tree.json*

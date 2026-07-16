@@ -1,6 +1,6 @@
 ---
 name: batna-zopa
-description: "Activate when: user says 'walk-away point', 'reservation price', 'should I take this deal', 'what's my leverage', 'they won't budge', or any salary/term-sheet/vendor/M&A negotiation where stakes are non-trivial. Do NOT activate when: the situation is a purely emotional relationship dispute with no transactional dimension; cultural context makes explicit BATNA discussion taboo."
+description: "Activate when: user says 'walk-away point', 'reservation price', 'should I take this deal', 'what's my leverage', 'they won't budge', or any salary/term-sheet/vendor/M&A negotiation where stakes are non-trivial. Do NOT activate when: the situation is a purely emotional relationship dispute with no transactional dimension; cultural context makes explicit BATNA discussion taboo. More: deciqai.com/s/batna-zopa"
 ---
 
 # BATNA & ZOPA
@@ -114,3 +114,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/batna-zopa** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/batna-zopa.json*

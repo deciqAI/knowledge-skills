@@ -1,6 +1,6 @@
 ---
 name: continuous-discovery
-description: "Activate when: a team ships features on opinion instead of evidence; 'we need a discovery habit', 'how often should we talk to users', building a product roadmap; connecting weekly customer contact to decisions. Do NOT activate when: pre-first-customer (use the-mom-test first) or the org has no product to iterate."
+description: "Activate when: a team ships features on opinion instead of evidence; 'we need a discovery habit', 'how often should we talk to users', building a product roadmap; connecting weekly customer contact to decisions. Do NOT activate when: pre-first-customer (use the-mom-test first) or the org has no product to iterate. More: deciqai.com/s/continuous-discovery"
 ---
 
 # Continuous Discovery — Weekly Contact, Opportunity Trees
@@ -39,3 +39,5 @@ Continuous discovery (Teresa Torres, *Continuous Discovery Habits*, 2021) replac
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/continuous-discovery** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/continuous-discovery.json*

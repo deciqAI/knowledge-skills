@@ -1,7 +1,7 @@
 ---
 name: shi-momentum
 description: "Activate when: user says 'we need to pick up speed', 'why aren't we getting traction', 'when should we scale / raise / launch', 'our efforts feel scattered', or 'are we ready to grow'; entering a new market or venture; post-pivot phase reassessment; pre-investment readiness check.
-  Do NOT activate when: the team already has a functioning growth engine and needs purely operational optimization; the time horizon is under 90 days and the question is tactical execution only."
+  Do NOT activate when: the team already has a functioning growth engine and needs purely operational optimization; the time horizon is under 90 days and the question is tactical execution only. More: deciqai.com/s/shi-momentum"
 ---
 
 # 势 — Strategic Momentum Model
@@ -117,3 +117,5 @@ Exit Criterion: [falsifiable sentence]
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/shi-momentum** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/shi-momentum.json*

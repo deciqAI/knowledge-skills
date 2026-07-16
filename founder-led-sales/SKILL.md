@@ -1,6 +1,6 @@
 ---
 name: founder-led-sales
-description: "Activate when: an early founder needs revenue but wants to hire a salesperson or 'automate' sales too soon; 'I hate selling', 'when should I hire sales?', first customers, pre-PMF go-to-market. Do NOT activate when: the company already has repeatable, documented sales and is scaling a proven motion (then it's about hiring/systems, not founder-led)."
+description: "Activate when: an early founder needs revenue but wants to hire a salesperson or 'automate' sales too soon; 'I hate selling', 'when should I hire sales?', first customers, pre-PMF go-to-market. Do NOT activate when: the company already has repeatable, documented sales and is scaling a proven motion (then it's about hiring/systems, not founder-led). More: deciqai.com/s/founder-led-sales"
 ---
 
 # Founder-Led Sales — Sell It Yourself Until It's Repeatable
@@ -39,3 +39,5 @@ Before product-market fit, **the founder must run sales personally** — not bec
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-led-sales** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/founder-led-sales.json*

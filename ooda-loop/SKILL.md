@@ -1,6 +1,6 @@
 ---
 name: ooda-loop
-description: "Activate when: competitor outmaneuvers you despite worse resources; decisions take longer than the situation allows; team is losing a competition they should win; setting up crisis or incident response; someone says 'Boyd', 'decision cycle', 'get inside their loop', or 'tempo'. Do NOT activate when: situation is genuinely non-competitive and slow deliberation is right; speed was recently optimized at the expense of orientation quality."
+description: "Activate when: competitor outmaneuvers you despite worse resources; decisions take longer than the situation allows; team is losing a competition they should win; setting up crisis or incident response; someone says 'Boyd', 'decision cycle', 'get inside their loop', or 'tempo'. Do NOT activate when: situation is genuinely non-competitive and slow deliberation is right; speed was recently optimized at the expense of orientation quality. More: deciqai.com/s/ooda-loop"
 ---
 
 # OODA Loop
@@ -120,3 +120,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ooda-loop** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ooda-loop.json*

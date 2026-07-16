@@ -1,6 +1,6 @@
 ---
 name: loss-aversion-prospect-theory
-description: "Activate when: someone says 'I don't want to lose what I have', a deal is stuck because a concession feels like a loss, a pricing or incentive change gets unexpected pushback, someone is refusing a bet that looks positive in expected value, a free trial cancels at high rate. Do NOT activate when: the loss being avoided is genuinely catastrophic and irreversible (use Kelly/antifragile instead); the decision is small and one-shot where EV approximation is acceptable."
+description: "Activate when: someone says 'I don't want to lose what I have', a deal is stuck because a concession feels like a loss, a pricing or incentive change gets unexpected pushback, someone is refusing a bet that looks positive in expected value, a free trial cancels at high rate. Do NOT activate when: the loss being avoided is genuinely catastrophic and irreversible (use Kelly/antifragile instead); the decision is small and one-shot where EV approximation is acceptable. More: deciqai.com/s/loss-aversion-prospect-theory"
 ---
 
 # Loss Aversion and Prospect Theory
@@ -110,3 +110,5 @@ Final choice + acknowledged distortions + rationale:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/loss-aversion-prospect-theory** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/loss-aversion-prospect-theory.json*

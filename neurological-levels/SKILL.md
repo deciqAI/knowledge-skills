@@ -1,6 +1,6 @@
 ---
 name: neurological-levels
-description: "Activate when: 'we keep trying to change this and it reverts,' 'people know what to do but don't do it,' 'the training didn't stick,' someone hits a knowing-doing gap repeatedly, or a culture change effort has failed more than once. Do NOT activate when: first attempt at change (try L2–3 first); person is in acute crisis needing stabilization."
+description: "Activate when: 'we keep trying to change this and it reverts,' 'people know what to do but don't do it,' 'the training didn't stick,' someone hits a knowing-doing gap repeatedly, or a culture change effort has failed more than once. Do NOT activate when: first attempt at change (try L2–3 first); person is in acute crisis needing stabilization. More: deciqai.com/s/neurological-levels"
 ---
 
 # Neurological Levels
@@ -116,3 +116,5 @@ Expected cascade: [lower-level changes if correct] | Success indicator: [...]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/neurological-levels** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/neurological-levels.json*

@@ -1,7 +1,7 @@
 ---
 name: peak-end-rule
 description: "Activate when: user says 'how will they remember this,' 'experience design,' 'journey design,' 'memorable moment,' 'end-of-experience,' or 'our NPS is lower than expected'; when designing or auditing a multi-stage customer or user journey; when a competitor with similar quality earns higher recommendation rates.
-  Do NOT activate when: the interaction is instantaneous with no temporal sequence (single API call, one-tap action); or when total real-time utility matters more than retrospective memory (welfare assessments, health measurements)."
+  Do NOT activate when: the interaction is instantaneous with no temporal sequence (single API call, one-tap action); or when total real-time utility matters more than retrospective memory (welfare assessments, health measurements). More: deciqai.com/s/peak-end-rule"
 ---
 
 # Peak-End Rule
@@ -115,3 +115,5 @@ Domain substance varies; the audit runs identically everywhere.
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/peak-end-rule** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/peak-end-rule.json*

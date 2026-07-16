@@ -1,6 +1,6 @@
 ---
 name: tax-season-throughput-constraints
-description: "Activate when: returns are piling up before a deadline; reviewer/preparer is the bottleneck; 'we can't get through them all,' 'clients waiting on missing docs,' planning staffing for Jan–Apr. Do NOT activate when: off-season, low volume; the issue is a single stuck return (use debugging, not capacity theory)."
+description: "Activate when: returns are piling up before a deadline; reviewer/preparer is the bottleneck; 'we can't get through them all,' 'clients waiting on missing docs,' planning staffing for Jan–Apr. Do NOT activate when: off-season, low volume; the issue is a single stuck return (use debugging, not capacity theory). More: deciqai.com/s/tax-season-throughput-constraints"
 ---
 
 # Tax Prep — Season Throughput (Theory of Constraints)
@@ -44,3 +44,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [theory-of-constraints](../th
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-season-throughput-constraints** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tax-season-throughput-constraints.json*

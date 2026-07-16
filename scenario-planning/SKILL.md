@@ -1,7 +1,7 @@
 ---
 name: scenario-planning
 description: "Activate when: user says 'what are the scenarios,' 'stress test our strategy,' 'what if X happens,' 'multiple futures,' 'strategic resilience,' or is making a high-stakes irreversible decision with a 3+ year horizon where a single forecast could be catastrophically wrong.
-  Do NOT activate when: the decision is short-horizon and easily reversible (sprint priorities, A/B test order); or only one driver matters and it is already measurable — use sensitivity analysis instead."
+  Do NOT activate when: the decision is short-horizon and easily reversible (sprint priorities, A/B test order); or only one driver matters and it is already measurable — use sensitivity analysis instead. More: deciqai.com/s/scenario-planning"
 ---
 
 # Scenario Planning
@@ -118,3 +118,5 @@ Domain-specific axes (matrix process identical everywhere): **Supply chain** —
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/scenario-planning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/scenario-planning.json*

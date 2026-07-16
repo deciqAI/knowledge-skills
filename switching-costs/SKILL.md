@@ -1,7 +1,7 @@
 ---
 name: switching-costs
 description: "Activate when: user asks why customers don't switch to a better product, how to make a product stickier or build a moat, how to compete against an entrenched incumbent, why churn is low but revenue growth stalled, or mentions lock-in / vendor lock-in / stickiness / data moat / Klemperer.
-  Do NOT activate when: the product is a one-shot transaction with no ongoing relationship, or the user is designing adversarial lock-in and needs ethical pushback first."
+  Do NOT activate when: the product is a one-shot transaction with no ongoing relationship, or the user is designing adversarial lock-in and needs ethical pushback first. More: deciqai.com/s/switching-costs"
 ---
 
 # Switching Costs
@@ -120,3 +120,5 @@ Estimate magnitudes in concrete units. Compute the asymmetry (cost to stay vs. c
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/switching-costs** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/switching-costs.json*

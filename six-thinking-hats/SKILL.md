@@ -1,6 +1,6 @@
 ---
 name: six-thinking-hats
-description: "Activate when: a meeting keeps going in circles, people have different agendas, someone says 'we need structure' or 'let's look at this from all angles,' a proposal needs evaluation from multiple sides, or creative ideas keep getting killed before development. Do NOT activate when: the question has a clear empirical answer (use critical-thinking instead), or time is under 10 minutes and no setup is possible."
+description: "Activate when: a meeting keeps going in circles, people have different agendas, someone says 'we need structure' or 'let's look at this from all angles,' a proposal needs evaluation from multiple sides, or creative ideas keep getting killed before development. Do NOT activate when: the question has a clear empirical answer (use critical-thinking instead), or time is under 10 minutes and no setup is possible. More: deciqai.com/s/six-thinking-hats"
 ---
 
 # Six Thinking Hats
@@ -120,3 +120,5 @@ Six phases → **Six Hats Analysis**. **Stop rule:** if Blue Hat close reveals n
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/six-thinking-hats** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/six-thinking-hats.json*

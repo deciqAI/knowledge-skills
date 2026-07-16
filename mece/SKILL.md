@@ -1,7 +1,7 @@
 ---
 name: mece
 description: "Activate when: user says 'decompose this', 'structure this thinking', 'MECE', 'issue tree', 'Minto Pyramid', 'how do we cover all the cases without double-counting', a problem feels too big to think about cleanly, a list of options is messy or overlapping, an analysis keeps going in circles, or a presentation needs to survive hard scrutiny.
-  Do NOT activate when: the problem is trivially small (lunch decisions), or the user is in purely creative/generative mode where premature structure would constrain exploration."
+  Do NOT activate when: the problem is trivially small (lunch decisions), or the user is in purely creative/generative mode where premature structure would constrain exploration. More: deciqai.com/s/mece"
 ---
 
 # MECE (Mutually Exclusive, Collectively Exhaustive)
@@ -120,3 +120,5 @@ Canonical MECE dimensions by domain: **Profit/margin** — Revenue = Price × Vo
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mece** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mece.json*

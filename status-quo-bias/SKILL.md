@@ -1,7 +1,7 @@
 ---
 name: status-quo-bias
 description: "Activate when: user says 'we've always done it this way', 'changing now would be too disruptive', or 'no one is complaining so why change'; a team is slow to adopt a clearly better option; someone frames inaction as safe when omission carries real costs; you are designing enrollment/default settings and need to choose opt-in vs opt-out.
-  Do NOT activate when: the status quo was explicitly evaluated and confirmed optimal (correct analysis, not bias); primary driver is risk aversion over outcomes (use loss-aversion-prospect-theory)."
+  Do NOT activate when: the status quo was explicitly evaluated and confirmed optimal (correct analysis, not bias); primary driver is risk aversion over outcomes (use loss-aversion-prospect-theory). More: deciqai.com/s/status-quo-bias"
 ---
 
 # Status Quo Bias
@@ -108,3 +108,5 @@ Ask the fresh-choice question systematically for any persistent arrangement. Des
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/status-quo-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/status-quo-bias.json*

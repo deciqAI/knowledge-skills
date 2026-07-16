@@ -1,6 +1,6 @@
 ---
 name: mortgage-trid-timeline-checklist
-description: "Activate when: an application hits the 6-item threshold (LE clock starts); approaching closing (CD clock); any change-of-circumstance / re-disclosure; 'did we send the LE in time?', 'does this trigger a new 3-day wait?'. Do NOT activate when: pre-application shopping with no six items collected."
+description: "Activate when: an application hits the 6-item threshold (LE clock starts); approaching closing (CD clock); any change-of-circumstance / re-disclosure; 'did we send the LE in time?', 'does this trigger a new 3-day wait?'. Do NOT activate when: pre-application shopping with no six items collected. More: deciqai.com/s/mortgage-trid-timeline-checklist"
 ---
 
 # Mortgage — TRID Timeline Compliance Checklist
@@ -50,3 +50,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [checklist](../checklist/SKIL
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mortgage-trid-timeline-checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mortgage-trid-timeline-checklist.json*

@@ -1,6 +1,6 @@
 ---
 name: activation-onboarding-playbook
-description: "Activate when: signups don't turn into active/paying users; 'people sign up but don't stick', designing onboarding, improving activation; aha moment, time-to-value. Do NOT activate when: the problem is acquisition (no signups) or long-term retention of already-activated users (different lever)."
+description: "Activate when: signups don't turn into active/paying users; 'people sign up but don't stick', designing onboarding, improving activation; aha moment, time-to-value. Do NOT activate when: the problem is acquisition (no signups) or long-term retention of already-activated users (different lever). More: deciqai.com/s/activation-onboarding-playbook"
 ---
 
 # Activation & Onboarding — Get to First Value Fast
@@ -39,3 +39,5 @@ Activation is the moment a new user first experiences real value — the **"aha 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/activation-onboarding-playbook** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/activation-onboarding-playbook.json*

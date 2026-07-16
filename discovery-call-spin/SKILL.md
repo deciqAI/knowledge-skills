@@ -1,6 +1,6 @@
 ---
 name: discovery-call-spin
-description: "Activate when: running sales discovery calls; deals stall because the buyer doesn't feel the pain; 'how do I run a sales call', 'my demos don't convert', qualifying a prospect. Do NOT activate when: the deal is transactional/self-serve with no call, or it's post-sale support."
+description: "Activate when: running sales discovery calls; deals stall because the buyer doesn't feel the pain; 'how do I run a sales call', 'my demos don't convert', qualifying a prospect. Do NOT activate when: the deal is transactional/self-serve with no call, or it's post-sale support. More: deciqai.com/s/discovery-call-spin"
 ---
 
 # Discovery Calls with SPIN — Let the Buyer Sell Themselves
@@ -39,3 +39,5 @@ SPIN Selling (Neil Rackham, from large-sale research) structures a discovery cal
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/discovery-call-spin** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/discovery-call-spin.json*

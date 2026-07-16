@@ -1,7 +1,7 @@
 ---
 name: abductive-reasoning
 description: "Activate when: user says 'what's the most likely explanation,' 'why did this happen,' 'we think it's X but not sure,' 'we only have one theory,' 'the team has converged on an answer without checking alternatives,' or when diagnosing a bug/outage/symptom/anomaly under uncertainty.
-  Do NOT activate when: the problem is purely deductive or mathematical (direct proof, not hypothesis); the situation allows direct observation or measurement that bypasses inference."
+  Do NOT activate when: the problem is purely deductive or mathematical (direct proof, not hypothesis); the situation allows direct observation or measurement that bypasses inference. More: deciqai.com/s/abductive-reasoning"
 ---
 
 # Abductive Reasoning
@@ -117,3 +117,5 @@ Action: provisional decision <…> / update trigger <…>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/abductive-reasoning** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/abductive-reasoning.json*

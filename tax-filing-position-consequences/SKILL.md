@@ -1,6 +1,6 @@
 ---
 name: tax-filing-position-consequences
-description: "Activate when: a position/election has effects beyond this year — S-corp election, depreciation/§179/bonus, accounting-method change, filing status, Roth conversion, entity choice; client asks 'should I elect X?'. Do NOT activate when: the item is contained to the current return with no carry effect."
+description: "Activate when: a position/election has effects beyond this year — S-corp election, depreciation/§179/bonus, accounting-method change, filing status, Roth conversion, entity choice; client asks 'should I elect X?'. Do NOT activate when: the item is contained to the current return with no carry effect. More: deciqai.com/s/tax-filing-position-consequences"
 ---
 
 # Tax Prep — Filing-Position Consequence Cascade
@@ -45,3 +45,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [second-order-thinking](../se
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-filing-position-consequences** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tax-filing-position-consequences.json*

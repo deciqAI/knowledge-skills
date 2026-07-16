@@ -1,7 +1,7 @@
 ---
 name: deliberate-practice
 description: "Activate when: user says 'I've been doing this for years but I'm not getting better'; someone suspects a skill plateau despite continued effort; designing a learning program for a high-performance outcome; an organization reports high training hours but low skill transfer.
-  Do NOT activate when: goal is execution of existing skills rather than acquiring new ones (use deep-work instead); there is no identifiable expert performance benchmark to target."
+  Do NOT activate when: goal is execution of existing skills rather than acquiring new ones (use deep-work instead); there is no identifiable expert performance benchmark to target. More: deciqai.com/s/deliberate-practice"
 ---
 
 # Deliberate Practice
@@ -115,3 +115,5 @@ Contribute packs via the deciqAI repo — requires sub-skill, expert representat
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/deliberate-practice** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/deliberate-practice.json*

@@ -1,6 +1,6 @@
 ---
 name: customs-duty-optimization-opportunity-cost
-description: "Activate when: an importer has recurring, material duty spend; evaluating FTZ, duty drawback, first-sale valuation, bonded warehouse, or FTA use; 'are we leaving duty savings on the table?'. Do NOT activate when: de minimis / trivial duty where program cost exceeds benefit."
+description: "Activate when: an importer has recurring, material duty spend; evaluating FTZ, duty drawback, first-sale valuation, bonded warehouse, or FTA use; 'are we leaving duty savings on the table?'. Do NOT activate when: de minimis / trivial duty where program cost exceeds benefit. More: deciqai.com/s/customs-duty-optimization-opportunity-cost"
 ---
 
 # Customs — Duty Optimization (Opportunity Cost)
@@ -50,3 +50,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [opportunity-cost](../opportu
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customs-duty-optimization-opportunity-cost** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customs-duty-optimization-opportunity-cost.json*

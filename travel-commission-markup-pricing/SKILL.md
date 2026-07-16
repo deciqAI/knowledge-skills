@@ -1,6 +1,6 @@
 ---
 name: travel-commission-markup-pricing
-description: "Activate when: setting planning fees vs commission; deciding markup on net rates; 'should I charge a fee or rely on commission?'; pricing a service tier; low-commission or non-commissionable components. Do NOT activate when: fixed franchise pricing you can't change."
+description: "Activate when: setting planning fees vs commission; deciding markup on net rates; 'should I charge a fee or rely on commission?'; pricing a service tier; low-commission or non-commissionable components. Do NOT activate when: fixed franchise pricing you can't change. More: deciqai.com/s/travel-commission-markup-pricing"
 ---
 
 # Travel Advisor — Commission & Markup Pricing
@@ -48,3 +48,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [pricing-strategy](../pricing
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/travel-commission-markup-pricing** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/travel-commission-markup-pricing.json*

@@ -1,6 +1,6 @@
 ---
 name: checklist
-description: "Activate when: user says 'let's make sure we don't skip anything', 'we need a pre-flight', 'build me a checklist for X', 'we keep missing steps in our deployment / close / launch', 'Gawande / Pronovost / checklist manifesto'. Do NOT activate when: the task is simple and one-off with no recurrence; the user is asking for a to-do list or project plan (not a must-not-skip operational gate)."
+description: "Activate when: user says 'let's make sure we don't skip anything', 'we need a pre-flight', 'build me a checklist for X', 'we keep missing steps in our deployment / close / launch', 'Gawande / Pronovost / checklist manifesto'. Do NOT activate when: the task is simple and one-off with no recurrence; the user is asking for a to-do list or project plan (not a must-not-skip operational gate). More: deciqai.com/s/checklist"
 ---
 
 # Checklist
@@ -118,3 +118,5 @@ Near-miss tracking:  Quarterly review owner:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/checklist.json*

@@ -1,7 +1,7 @@
 ---
 name: situational-leadership
 description: "Activate when: user says 'my management style isn't working for this person', 'I don't know how much to delegate', 'my top performer is disengaged', 'my new hire is struggling without guidance', 'should I give him more autonomy?', or asks how to lead/manage a specific person on a specific task.
-  Do NOT activate when: the performance issue is an incentive misalignment (reward structure is wrong — use principal-agent instead); the organization is in acute crisis requiring uniform command and all debate is suspended."
+  Do NOT activate when: the performance issue is an incentive misalignment (reward structure is wrong — use principal-agent instead); the organization is in acute crisis requiring uniform command and all debate is suspended. More: deciqai.com/s/situational-leadership"
 ---
 
 # Situational Leadership
@@ -120,3 +120,5 @@ Reassessment trigger: <signal>
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/situational-leadership** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/situational-leadership.json*

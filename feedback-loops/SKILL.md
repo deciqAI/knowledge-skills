@@ -7,6 +7,7 @@ description: >
   user is planning an intervention in an org/market/supply chain and wants to predict how it will respond.
   Do NOT activate when: the decision is a one-shot linear choice with no feedback to future decisions,
   or an exogenous shock so large it dominates all internal dynamics is the obvious explanation.
+  More: deciqai.com/s/feedback-loops
 ---
 
 # Feedback Loops
@@ -113,3 +114,5 @@ Falsifier: <observable that would prove the diagnosis wrong>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/feedback-loops** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/feedback-loops.json*

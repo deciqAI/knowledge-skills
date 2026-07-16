@@ -1,6 +1,6 @@
 ---
 name: insurance-agent-compliance-checklist
-description: "Activate when: an insurance agent/agency must not skip licensing, disclosure, suitability, and replacement steps on a sale; 'am I compliant on this policy', selling/replacing a policy, onboarding a producer. Do NOT activate when: the question is pure coverage/rating with no compliance action."
+description: "Activate when: an insurance agent/agency must not skip licensing, disclosure, suitability, and replacement steps on a sale; 'am I compliant on this policy', selling/replacing a policy, onboarding a producer. Do NOT activate when: the question is pure coverage/rating with no compliance action. More: deciqai.com/s/insurance-agent-compliance-checklist"
 ---
 
 # Insurance Agent — Sales Compliance Checklist
@@ -46,3 +46,5 @@ Agent replaces a client's existing annuity with a new one for a bonus, no compar
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/insurance-agent-compliance-checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/insurance-agent-compliance-checklist.json*

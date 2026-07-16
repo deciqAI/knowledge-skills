@@ -1,6 +1,6 @@
 ---
 name: positioning-obviously-awesome
-description: "Activate when: a product is 'a better X' but nobody gets it; 'people don't understand what we do', weak conversion despite a good product, choosing a category/competitive frame; naming what you are. Do NOT activate when: positioning is already clear and validated and the task is execution, not repositioning."
+description: "Activate when: a product is 'a better X' but nobody gets it; 'people don't understand what we do', weak conversion despite a good product, choosing a category/competitive frame; naming what you are. Do NOT activate when: positioning is already clear and validated and the task is execution, not repositioning. More: deciqai.com/s/positioning-obviously-awesome"
 ---
 
 # Positioning — Make It Obviously Awesome (Dunford)
@@ -40,3 +40,5 @@ Positioning (April Dunford, *Obviously Awesome*, 2019) is the **context you set 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/positioning-obviously-awesome** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/positioning-obviously-awesome.json*

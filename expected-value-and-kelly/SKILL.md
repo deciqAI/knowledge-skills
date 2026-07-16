@@ -1,7 +1,7 @@
 ---
 name: expected-value-and-kelly
 description: "Activate when: user asks 'how much should I bet/invest on this?', 'what's the expected value here?', 'Kelly criterion', 'optimal bet size', 'fractional Kelly', 'how big a position should I take?', or is allocating capital across repeated decisions (ad spend by segment, VC portfolio construction, position sizing, A/B test ramp).
-  Do NOT activate when: the decision is one-shot and non-repeating (career change, marriage) — use regret-minimization instead; or when the user cannot estimate probabilities or payoffs even roughly."
+  Do NOT activate when: the decision is one-shot and non-repeating (career change, marriage) — use regret-minimization instead; or when the user cannot estimate probabilities or payoffs even roughly. More: deciqai.com/s/expected-value-and-kelly"
 ---
 
 # Expected Value and the Kelly Criterion
@@ -119,3 +119,5 @@ Run the **EV-Kelly Sizing** (EV → Kelly → fractional Kelly → stop trigger)
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/expected-value-and-kelly** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/expected-value-and-kelly.json*

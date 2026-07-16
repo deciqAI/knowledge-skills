@@ -1,7 +1,7 @@
 ---
 name: power-law-distribution
 description: "Activate when: user is allocating capital or resources across a portfolio and wants to know where to concentrate; user says 'our average customer / deal / employee performs at X' and is making decisions from that average; user is building a risk model using standard deviation or VaR; user asks why a few customers or deals drive almost all revenue; user is evaluating VC fund returns or startup portfolio outcomes.
-  Do NOT activate when: the distribution is demonstrably Gaussian (e.g., manufacturing tolerances under statistical process control); stakes are low enough that distribution shape does not affect the decision."
+  Do NOT activate when: the distribution is demonstrably Gaussian (e.g., manufacturing tolerances under statistical process control); stakes are low enough that distribution shape does not affect the decision. More: deciqai.com/s/power-law-distribution"
 ---
 
 # Power-Law Distribution
@@ -115,3 +115,5 @@ Monitoring: metric | review trigger
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/power-law-distribution** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/power-law-distribution.json*

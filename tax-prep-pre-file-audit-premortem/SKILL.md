@@ -1,6 +1,6 @@
 ---
 name: tax-prep-pre-file-audit-premortem
-description: "Activate when: a return has aggressive/uncertain positions (large Schedule C losses, high meals/vehicle, hobby-vs-business, real-estate professional status, R&D/ERC-type credits, crypto); before releasing a complex return; client says 'will this get me audited?'. Do NOT activate when: simple W-2-only standard-deduction return; the question is a straight lookup."
+description: "Activate when: a return has aggressive/uncertain positions (large Schedule C losses, high meals/vehicle, hobby-vs-business, real-estate professional status, R&D/ERC-type credits, crypto); before releasing a complex return; client says 'will this get me audited?'. Do NOT activate when: simple W-2-only standard-deduction return; the question is a straight lookup. More: deciqai.com/s/tax-prep-pre-file-audit-premortem"
 ---
 
 # Tax Prep — Pre-File Audit Premortem
@@ -47,3 +47,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [premortem](../premortem/SKIL
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tax-prep-pre-file-audit-premortem** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tax-prep-pre-file-audit-premortem.json*

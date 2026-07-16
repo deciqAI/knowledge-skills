@@ -1,6 +1,6 @@
 ---
 name: framing-effect
-description: "Activate when: user says 'how you say it matters', 'they're spinning the numbers', 'same data but sounds different', 'is this just framing?', wants to write a persuasive message, suspects a statistic is one-sided, or is evaluating options where the language feels loaded. Do NOT activate when: the different descriptions convey genuinely non-equivalent information (one frame omits real facts); the decision is trivial and multi-frame analysis exceeds the stakes."
+description: "Activate when: user says 'how you say it matters', 'they're spinning the numbers', 'same data but sounds different', 'is this just framing?', wants to write a persuasive message, suspects a statistic is one-sided, or is evaluating options where the language feels loaded. Do NOT activate when: the different descriptions convey genuinely non-equivalent information (one frame omits real facts); the decision is trivial and multi-frame analysis exceeds the stakes. More: deciqai.com/s/framing-effect"
 ---
 
 # Framing Effect
@@ -116,3 +116,5 @@ Decision taken: [choice + justification]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/framing-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/framing-effect.json*

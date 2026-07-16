@@ -1,7 +1,7 @@
 ---
 name: strategic-commitment
 description: "Activate when: someone says 'they don't believe we'll follow through', 'how do I make my threat credible?', 'how do we deter a competitor from entering?', 'we need to lock in this customer/partner', 'should we burn our bridges?', or when a stated threat or promise is being discounted by the other side.
-  Do NOT activate when: the problem is capability (you cannot execute the threat, not just credibility that you will), or when the environment is changing so fast that any lock-in creates more rigidity than credibility gain."
+  Do NOT activate when: the problem is capability (you cannot execute the threat, not just credibility that you will), or when the environment is changing so fast that any lock-in creates more rigidity than credibility gain. More: deciqai.com/s/strategic-commitment"
 ---
 
 # Strategic Commitment
@@ -118,3 +118,5 @@ Recommendation: <device · implementation · what opponent should now believe>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-commitment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategic-commitment.json*

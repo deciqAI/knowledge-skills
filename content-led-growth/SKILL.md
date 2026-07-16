@@ -1,6 +1,6 @@
 ---
 name: content-led-growth
-description: "Activate when: a founder/SMB wants durable organic acquisition; 'how do we do SEO/content', 'we blog but get no traffic', building a content engine; topic clusters, search intent. Do NOT activate when: the need is immediate paid response this week (use paid channels) or the audience doesn't search for the problem."
+description: "Activate when: a founder/SMB wants durable organic acquisition; 'how do we do SEO/content', 'we blog but get no traffic', building a content engine; topic clusters, search intent. Do NOT activate when: the need is immediate paid response this week (use paid channels) or the audience doesn't search for the problem. More: deciqai.com/s/content-led-growth"
 ---
 
 # Content-Led Growth — Topic Clusters for Search Intent
@@ -39,3 +39,5 @@ Content-led growth turns a website into a **compounding acquisition asset** by c
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/content-led-growth** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/content-led-growth.json*

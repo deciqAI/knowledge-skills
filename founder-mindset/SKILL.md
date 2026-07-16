@@ -1,7 +1,7 @@
 ---
 name: founder-mindset
 description: "Activate when: user says 'founder mindset' or 'founder mode'; asks 'default alive or default dead'; says 'do things that don't scale'; says 'am I avoiding the hard thing'; is deciding whether to hire/fire/pivot/raise/cut burn at an early-stage company; feels comfort-seeking creeping in; cannot tell if they are on the path to success or slow death.
-  Do NOT activate when: user is running a mature well-understood business (manager frameworks apply); user is an employee within a startup with fixed scope; the decision is purely tactical (which CRM, which button color)."
+  Do NOT activate when: user is running a mature well-understood business (manager frameworks apply); user is an employee within a startup with fixed scope; the decision is purely tactical (which CRM, which button color). More: deciqai.com/s/founder-mindset"
 ---
 
 # Founder Mindset
@@ -118,3 +118,5 @@ Founder mindset operates the same across industries; the specific hard things di
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-mindset** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/founder-mindset.json*

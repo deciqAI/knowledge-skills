@@ -1,6 +1,6 @@
 ---
 name: occams-razor
-description: "Activate when: user says 'simplify this', 'which is more likely', 'are we overcomplicating this?', 'what's the most likely explanation?', or presents multiple competing hypotheses/designs/diagnoses to rank. Do NOT activate when: only one explanation is on the table (nothing to compare), or when the candidates do not equally fit the evidence (establish fit first)."
+description: "Activate when: user says 'simplify this', 'which is more likely', 'are we overcomplicating this?', 'what's the most likely explanation?', or presents multiple competing hypotheses/designs/diagnoses to rank. Do NOT activate when: only one explanation is on the table (nothing to compare), or when the candidates do not equally fit the evidence (establish fit first). More: deciqai.com/s/occams-razor"
 ---
 
 # Occam's Razor
@@ -118,3 +118,5 @@ Domain-specific capture of: (a) valid candidates, (b) what counts as unsupported
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/occams-razor** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/occams-razor.json*

@@ -1,6 +1,6 @@
 ---
 name: availability-heuristic
-description: "Activate when: user says 'we keep hearing about X so it must be common', 'that just happened so it's risky', 'the news is full of stories about this', 'I've seen this a lot lately so it's probable', or is making a risk/frequency estimate driven by memorable examples rather than data. Do NOT activate when: the available evidence is genuinely representative of the reference class; the decision warrants heavy precautionary weight on rare but catastrophic/irreversible risks."
+description: "Activate when: user says 'we keep hearing about X so it must be common', 'that just happened so it's risky', 'the news is full of stories about this', 'I've seen this a lot lately so it's probable', or is making a risk/frequency estimate driven by memorable examples rather than data. Do NOT activate when: the available evidence is genuinely representative of the reference class; the decision warrants heavy precautionary weight on rare but catastrophic/irreversible risks. More: deciqai.com/s/availability-heuristic"
 ---
 
 # Availability Heuristic
@@ -121,3 +121,5 @@ Decision implications: | Calibration log:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/availability-heuristic** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/availability-heuristic.json*

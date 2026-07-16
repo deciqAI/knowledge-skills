@@ -6,6 +6,7 @@ description: >
   person / leader / founder," or high-quality output isn't translating into organizational influence.
   Do NOT activate when: the gap is a specific functional skill (use deliberate-practice instead);
   the person is in acute crisis (financial, health, relationship) — address the acute situation first.
+  More: deciqai.com/s/self-evolution-3d
 ---
 
 # Self-Evolution 3D
@@ -118,3 +119,5 @@ Stop-rule: I commit to [constraint dimension] only for [timeframe].
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/self-evolution-3d** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/self-evolution-3d.json*

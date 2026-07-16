@@ -1,6 +1,6 @@
 ---
 name: middle-way
-description: "Activate when: a decision is framed as 'X or not-X' but is really a spectrum; someone says 'we have to choose between A and B' and both seem to have problems; a debate is stuck in ideological purity and 'compromise' is being dismissed as weakness; someone says 'Zhongyong,' 'doctrine of the mean,' 'third way,' or 'the middle path.' Do NOT activate when: the choice is genuinely binary (yes/no, irreversible) and a middle position is incoherent; one side is clearly correct on the evidence and 'balance' would be false equivalence."
+description: "Activate when: a decision is framed as 'X or not-X' but is really a spectrum; someone says 'we have to choose between A and B' and both seem to have problems; a debate is stuck in ideological purity and 'compromise' is being dismissed as weakness; someone says 'Zhongyong,' 'doctrine of the mean,' 'third way,' or 'the middle path.' Do NOT activate when: the choice is genuinely binary (yes/no, irreversible) and a middle position is incoherent; one side is clearly correct on the evidence and 'balance' would be false equivalence. More: deciqai.com/s/middle-way"
 ---
 
 # The Middle Way (中庸 Zhongyong)
@@ -112,3 +112,5 @@ Review trigger:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/middle-way** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/middle-way.json*

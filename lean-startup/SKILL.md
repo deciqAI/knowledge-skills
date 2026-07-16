@@ -1,7 +1,7 @@
 ---
 name: lean-startup
 description: "Activate when: user says 'lean startup', 'build-measure-learn', 'MVP', 'validated learning', 'pivot or persevere', 'should we just build it?', 'we need to test this idea before building', or 'how do we know if anyone wants this?'; team is about to build something significant before testing demand; a pivot decision is on the table after early data.
-  Do NOT activate when: operating a known business model in known conditions (use execution frameworks instead); decision is below business-model level (button color, which CRM)."
+  Do NOT activate when: operating a known business model in known conditions (use execution frameworks instead); decision is below business-model level (button color, which CRM). More: deciqai.com/s/lean-startup"
 ---
 
 # Lean Startup
@@ -119,3 +119,5 @@ Validated learning: <one sentence carry-forward>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/lean-startup** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/lean-startup.json*

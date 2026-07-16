@@ -7,6 +7,7 @@ description: >
   Rogers, early adopters, majority, laggards, Bass diffusion model, or technology adoption lifecycle.
   Do NOT activate when: the market is already mature/saturated with no diffusion dynamics left to analyze;
   or adoption is driven by regulatory mandate rather than buyer choice.
+  More: deciqai.com/s/s-curve-technology-adoption
 ---
 
 # S-Curve Technology Adoption
@@ -120,3 +121,5 @@ The behavioral distinctions are the point, not the percentages. An innovator buy
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/s-curve-technology-adoption** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/s-curve-technology-adoption.json*

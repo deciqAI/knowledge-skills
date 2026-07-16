@@ -1,6 +1,6 @@
 ---
 name: logical-fallacies
-description: "Activate when: someone says 'this argument feels off but I can't explain why', 'is this a real argument or just rhetoric?', 'what's wrong with this reasoning?', an argument relies entirely on authority/emotion/popularity, or you're about to decide based on a single analogy. Do NOT activate when: the conclusion is already verifiable empirically (just check the data); casual conversation where rigor is socially expensive and stakes are low."
+description: "Activate when: someone says 'this argument feels off but I can't explain why', 'is this a real argument or just rhetoric?', 'what's wrong with this reasoning?', an argument relies entirely on authority/emotion/popularity, or you're about to decide based on a single analogy. Do NOT activate when: the conclusion is already verifiable empirically (just check the data); casual conversation where rigor is socially expensive and stakes are low. More: deciqai.com/s/logical-fallacies"
 ---
 
 # Logical Fallacies
@@ -114,3 +114,5 @@ Run the filter on your *own* arguments first. The ones that survive are worth mo
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/logical-fallacies** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/logical-fallacies.json*

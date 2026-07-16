@@ -1,7 +1,7 @@
 ---
 name: economic-moat
 description: "Activate when: user asks 'does this business have a moat', 'what stops competitors from copying us', 'how defensible is this company', 'is this advantage durable', evaluating a company for investment or acquisition, designing startup strategy for long-term defensibility, reviewing an investor pitch's competitive-advantage claims.
-  Do NOT activate when: time horizon is under 1 year (moat is multi-year); question is about immediate execution tactics or a single-quarter decision."
+  Do NOT activate when: time horizon is under 1 year (moat is multi-year); question is about immediate execution tactics or a single-quarter decision. More: deciqai.com/s/economic-moat"
 ---
 
 # Economic Moat
@@ -119,3 +119,5 @@ Assessment: width / primary source(s) / duration / operational implication
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/economic-moat** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/economic-moat.json*

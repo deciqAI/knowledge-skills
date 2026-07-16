@@ -1,6 +1,6 @@
 ---
 name: hanlons-razor
-description: "Activate when: someone feels a colleague/partner/company did something on purpose to hurt them; a team believes another side is acting in bad faith; someone is about to escalate based on assumed malicious intent; a pattern of bad outcomes is being labeled a coordinated attack. Do NOT activate when: concrete documented evidence of malice already exists; the cost of being wrong about non-malice is catastrophic (e.g., safety-critical or abusive-relationship context)."
+description: "Activate when: someone feels a colleague/partner/company did something on purpose to hurt them; a team believes another side is acting in bad faith; someone is about to escalate based on assumed malicious intent; a pattern of bad outcomes is being labeled a coordinated attack. Do NOT activate when: concrete documented evidence of malice already exists; the cost of being wrong about non-malice is catastrophic (e.g., safety-critical or abusive-relationship context). More: deciqai.com/s/hanlons-razor"
 ---
 
 # Hanlon's Razor
@@ -119,3 +119,5 @@ Mistake explanation + coverage % | Malice extra assumptions | Prior | Override s
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/hanlons-razor** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/hanlons-razor.json*

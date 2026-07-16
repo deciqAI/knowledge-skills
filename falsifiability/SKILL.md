@@ -1,7 +1,7 @@
 ---
 name: falsifiability
 description: "Activate when: user says 'what would prove this wrong', 'how do we know if our strategy is working', 'what would change your mind', 'this claim feels unfalsifiable', or is designing a hypothesis/experiment/investment thesis that needs to be made testable.
-  Do NOT activate when: the claim is genuinely non-empirical (ethical, aesthetic, philosophical); or the cost of running the test exceeds the value of the knowledge."
+  Do NOT activate when: the claim is genuinely non-empirical (ethical, aesthetic, philosophical); or the cost of running the test exceeds the value of the knowledge. More: deciqai.com/s/falsifiability"
 ---
 
 # Falsifiability
@@ -117,3 +117,5 @@ If falsified, action: | Ad-hoc preservation risk:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/falsifiability** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/falsifiability.json*

@@ -1,6 +1,6 @@
 ---
 name: timing-action-matrix
-description: "Activate when: a major decision is imminent and the team hasn't explicitly checked whether NOW is the right time; a correct strategy keeps hitting unexpected resistance; a post-mortem asks why something failed despite being the right call; planning a product launch or market entry. Do NOT activate when: timing is fixed by a hard deadline with no real choice about when to act; the decision is low-stakes and reversible."
+description: "Activate when: a major decision is imminent and the team hasn't explicitly checked whether NOW is the right time; a correct strategy keeps hitting unexpected resistance; a post-mortem asks why something failed despite being the right call; planning a product launch or market entry. Do NOT activate when: timing is fixed by a hard deadline with no real choice about when to act; the decision is low-stakes and reversible. More: deciqai.com/s/timing-action-matrix"
 ---
 
 # Timing-Action Matrix
@@ -115,3 +115,5 @@ Next Action: ___  Owner: ___  By: ___
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/timing-action-matrix** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/timing-action-matrix.json*

@@ -1,7 +1,7 @@
 ---
 name: porters-five-forces
 description: "Activate when: user asks 'is this a good industry to enter?', 'why is our margin so low despite solid execution?', 'what are the barriers to entry here?', 'how much power do our suppliers/buyers have?', 'should we invest in this sector?', or requests a structured competitive/industry analysis.
-  Do NOT activate when: the market is a platform or ecosystem (buyer/supplier roles are ambiguous), or the industry is brand-new with no stable competitive structure yet."
+  Do NOT activate when: the market is a platform or ecosystem (buyer/supplier roles are ambiguous), or the industry is brand-new with no stable competitive structure yet. More: deciqai.com/s/porters-five-forces"
 ---
 
 # Porter's Five Forces
@@ -119,3 +119,5 @@ Validation: predicted ROIC <…> vs actual <…> | gap: <…>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/porters-five-forces** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/porters-five-forces.json*

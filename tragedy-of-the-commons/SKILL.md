@@ -3,6 +3,7 @@ name: tragedy-of-the-commons
 description: >
   Activate when: shared resource is degrading even though no one is doing anything "wrong"; team complains about free riders or overuse; designing API quotas, rate limits, or open-source governance; someone says "everyone is overusing this" or "the system worked fine until it got popular"; evaluating why a platform or community is burning out.
   Do NOT activate when: the resource is fully non-rival (unlimited supply, zero marginal cost); the problem is a purely individual-action issue with no shared resource.
+  More: deciqai.com/s/tragedy-of-the-commons
 ---
 
 # Tragedy of the Commons
@@ -111,3 +112,5 @@ Implementation: sequence · metrics · review cycle
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tragedy-of-the-commons** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tragedy-of-the-commons.json*

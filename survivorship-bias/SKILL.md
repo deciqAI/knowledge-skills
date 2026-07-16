@@ -1,7 +1,7 @@
 ---
 name: survivorship-bias
 description: "Activate when: user says 'look at what winners/billionaires/champions did,' investment returns or fund performance are being cited, a strategy is justified by pointing to companies that succeeded, historical data is treated as representative of all cases, or someone says 'this works because X did it.'
-  Do NOT activate when: population data is available and already selection-corrected; analysis is explicitly about survivors only with no claim about the broader population."
+  Do NOT activate when: population data is available and already selection-corrected; analysis is explicitly about survivors only with no claim about the broader population. More: deciqai.com/s/survivorship-bias"
 ---
 
 # Survivorship Bias
@@ -109,3 +109,5 @@ Corrected inference (conclusion, confidence, what data would settle it):
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/survivorship-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/survivorship-bias.json*

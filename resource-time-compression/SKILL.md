@@ -1,6 +1,6 @@
 ---
 name: resource-time-compression
-description: "Activate when: user says 'this will take years', 'we need to build this from scratch', 'we don't have the resources to move faster', 'how do we compress our timeline', 'competitors are already ahead and we can't catch up sequentially', or when a goal is achievable but the default sequential plan is too slow for the market window. Do NOT activate when: the bottleneck is a genuine sequential dependency that cannot be parallelized (e.g., regulatory approval must precede launch); or when required external resources do not yet exist and the problem requires first-principles innovation rather than resource configuration."
+description: "Activate when: user says 'this will take years', 'we need to build this from scratch', 'we don't have the resources to move faster', 'how do we compress our timeline', 'competitors are already ahead and we can't catch up sequentially', or when a goal is achievable but the default sequential plan is too slow for the market window. Do NOT activate when: the bottleneck is a genuine sequential dependency that cannot be parallelized (e.g., regulatory approval must precede launch); or when required external resources do not yet exist and the problem requires first-principles innovation rather than resource configuration. More: deciqai.com/s/resource-time-compression"
 ---
 
 # Resource-Time Compression
@@ -113,3 +113,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/resource-time-compression** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/resource-time-compression.json*

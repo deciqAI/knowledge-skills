@@ -1,7 +1,7 @@
 ---
 name: overseas-expansion-framework
 description: "Activate when: user says 'we want to go global' or 'expand internationally', founder is choosing between opening a local office vs. going digital-first in a new country, company has home-market traction and is planning its first international move, investor asks whether a portfolio company's overseas revenue is digital or entity-based.
-  Do NOT activate when: the company has no home-market product-market fit (run pmf-crossing-the-chasm first); the overseas entity is already established and operating (scaling question, not entry question)."
+  Do NOT activate when: the company has no home-market product-market fit (run pmf-crossing-the-chasm first); the overseas entity is already established and operating (scaling question, not entry question). More: deciqai.com/s/overseas-expansion-framework"
 ---
 
 # Overseas Expansion Framework
@@ -118,3 +118,5 @@ A **Pack** adds market-specific calibration: default mode bias, regulatory class
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/overseas-expansion-framework** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/overseas-expansion-framework.json*

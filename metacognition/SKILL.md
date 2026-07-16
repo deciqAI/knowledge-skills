@@ -1,7 +1,7 @@
 ---
 name: metacognition
 description: "Activate when: user says 'I'm stuck and don't know why', 'I keep making the same mistake', 'my analysis feels right but I'm not sure', 'am I solving the right problem', 'I should understand this but I don't', or asks about calibration / thinking about thinking.
-  Do NOT activate when: user is doing routine well-rehearsed tasks where monitoring adds friction (driving, typing), or is in creative flow state where interruption degrades output."
+  Do NOT activate when: user is doing routine well-rehearsed tasks where monitoring adds friction (driving, typing), or is in creative flow state where interruption degrades output. More: deciqai.com/s/metacognition"
 ---
 
 # Metacognition
@@ -119,3 +119,5 @@ Domain-specific time-scales and prompts: **Math** (~5 min loop) · **Debugging**
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/metacognition** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/metacognition.json*

@@ -1,6 +1,6 @@
 ---
 name: comparative-advantage
-description: "Activate when: user says 'should I do this myself or delegate,' 'I'm the best at X so I should do it,' 'should we outsource or build in-house,' 'how should we divide work on the team,' 'is it worth hiring someone for this.' Do NOT activate when: the situation is genuinely single-task with no trade-off; the user is asking about competitive strategy between companies (use Porter's Five Forces instead)."
+description: "Activate when: user says 'should I do this myself or delegate,' 'I'm the best at X so I should do it,' 'should we outsource or build in-house,' 'how should we divide work on the team,' 'is it worth hiring someone for this.' Do NOT activate when: the situation is genuinely single-task with no trade-off; the user is asking about competitive strategy between companies (use Porter's Five Forces instead). More: deciqai.com/s/comparative-advantage"
 ---
 
 # Comparative Advantage
@@ -114,3 +114,5 @@ Caveats / re-eval trigger: ___
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/comparative-advantage** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/comparative-advantage.json*

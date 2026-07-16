@@ -3,6 +3,7 @@ name: opportunity-cost
 description: >
   Activate when: user says "what could we have done instead," "what's the next-best alternative," "is this worth the cost," "what are we giving up by choosing X," "broken window fallacy," or is allocating scarce resources (money, time, attention, people) across competing options.
   Do NOT activate when: all alternatives are genuinely zero-value (nothing else to do with the resource); the decision is fully reversible at near-zero cost.
+  More: deciqai.com/s/opportunity-cost
 ---
 
 # Opportunity Cost
@@ -118,3 +119,5 @@ Decision + reasoning:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/opportunity-cost** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/opportunity-cost.json*

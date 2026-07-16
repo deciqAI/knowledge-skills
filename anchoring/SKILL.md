@@ -1,7 +1,7 @@
 ---
 name: anchoring
 description: "Activate when: user says 'what's a fair price / starting number / ballpark'; counterparty just opened with a number; user is about to negotiate salary, valuation, or deal terms; user is making a forecast and a number has already been floated; user asks about 'first offer', 'framing effect', or 'being anchored'.
-  Do NOT activate when: the number in question is a verifiable data point (audited financials, confirmed comparable) and is genuinely informative; or the decision is so trivial that the economic impact of anchoring is negligible."
+  Do NOT activate when: the number in question is a verifiable data point (audited financials, confirmed comparable) and is genuinely informative; or the decision is so trivial that the economic impact of anchoring is negligible. More: deciqai.com/s/anchoring"
 ---
 
 # Anchoring
@@ -120,3 +120,5 @@ Risk anchor still operating: […] (how I'll know if I've been pulled too far)
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/anchoring** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/anchoring.json*

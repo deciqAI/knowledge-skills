@@ -1,7 +1,7 @@
 ---
 name: lindy-effect
 description: "Activate when: user asks 'should we use this old technology or switch to something newer', 'how do I know if a book is worth reading', 'this institution has been around forever — is that meaningful', 'we should modernize / this time is different', 'how long will this practice / tool / framework last'.
-  Do NOT activate when: the item is perishable or has a deterministic life cycle (humans, hardware, organisms); elimination forces are absent and the old thing survives only due to regulatory lock-in."
+  Do NOT activate when: the item is perishable or has a deterministic life cycle (humans, hardware, organisms); elimination forces are absent and the old thing survives only due to regulatory lock-in. More: deciqai.com/s/lindy-effect"
 ---
 
 # Lindy Effect
@@ -119,3 +119,5 @@ Reversibility: plan / signals / owner
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/lindy-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/lindy-effect.json*

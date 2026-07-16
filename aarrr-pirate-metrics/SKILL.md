@@ -1,7 +1,7 @@
 ---
 name: aarrr-pirate-metrics
 description: "Activate when: user says 'our growth is stalling and we don't know why,' 'product and marketing are arguing about whose fault it is,' 'where is our funnel breaking,' 'pirate metrics,' or 'acquisition vs activation vs retention.' Also activate for: designing end-to-end metrics for a new product, building a shared instrumentation framework across teams.
-  Do NOT activate when: the product has no users yet (use lean-startup instead), or the bottleneck is already obvious and obvious to fix."
+  Do NOT activate when: the product has no users yet (use lean-startup instead), or the bottleneck is already obvious and obvious to fix. More: deciqai.com/s/aarrr-pirate-metrics"
 ---
 
 # AARRR (Pirate Metrics)
@@ -115,3 +115,5 @@ Contribution: add a pack for your domain — one file with (a) stage definitions
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/aarrr-pirate-metrics** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/aarrr-pirate-metrics.json*

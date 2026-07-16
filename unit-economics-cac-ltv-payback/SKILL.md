@@ -1,6 +1,6 @@
 ---
 name: unit-economics-cac-ltv-payback
-description: "Activate when: deciding whether to spend more on growth; 'is this business actually profitable per customer', 'can we afford ads', raising or budgeting; CAC, LTV, payback, contribution margin. Do NOT activate when: pre-revenue with no cost data (estimate ranges instead) or the question is company-level P&L, not per-customer."
+description: "Activate when: deciding whether to spend more on growth; 'is this business actually profitable per customer', 'can we afford ads', raising or budgeting; CAC, LTV, payback, contribution margin. Do NOT activate when: pre-revenue with no cost data (estimate ranges instead) or the question is company-level P&L, not per-customer. More: deciqai.com/s/unit-economics-cac-ltv-payback"
 ---
 
 # Unit Economics — CAC, LTV & Payback Discipline
@@ -39,3 +39,5 @@ Unit economics answer one question: **does one customer make or lose money, and 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/unit-economics-cac-ltv-payback** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/unit-economics-cac-ltv-payback.json*

@@ -1,6 +1,6 @@
 ---
 name: lifestage-value-curve
-description: "Activate when: someone asks 'what should I focus on at my age,' 'I feel like I'm wasting my best years,' 'how do I plan my career long-term,' 'what does my 40s/50s demand,' or a person is clearly investing for the wrong life stage (Heroic Age execution in the Golden Age, or Silver Age coasting in the Heroic Age). Do NOT activate when: the problem is domain skill acquisition unrelated to life-stage strategy; chronological and developmental age diverge significantly and more context is needed first."
+description: "Activate when: someone asks 'what should I focus on at my age,' 'I feel like I'm wasting my best years,' 'how do I plan my career long-term,' 'what does my 40s/50s demand,' or a person is clearly investing for the wrong life stage (Heroic Age execution in the Golden Age, or Silver Age coasting in the Heroic Age). Do NOT activate when: the problem is domain skill acquisition unrelated to life-stage strategy; chronological and developmental age diverge significantly and more context is needed first. More: deciqai.com/s/lifestage-value-curve"
 ---
 
 # Lifestage Value Curve
@@ -118,3 +118,5 @@ Next-stage unlock: "By [next stage] I will have [...]." | If not: [foreclosed]
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/lifestage-value-curve** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/lifestage-value-curve.json*

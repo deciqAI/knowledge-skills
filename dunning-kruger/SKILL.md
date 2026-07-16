@@ -1,6 +1,6 @@
 ---
 name: dunning-kruger
-description: "Activate when: someone says 'how hard could it be' about an unfamiliar domain; a novice dismisses expert opinion or says 'I could do that'; someone's self-assessed confidence seems disconnected from their actual track record; a hiring or promotion decision is driven by self-presentation; feedback loops are absent and someone is operating on gut confidence alone. Do NOT activate when: the person is a known expert with an established external track record; the confidence claim is in a domain with tight, recent feedback loops that already calibrate performance."
+description: "Activate when: someone says 'how hard could it be' about an unfamiliar domain; a novice dismisses expert opinion or says 'I could do that'; someone's self-assessed confidence seems disconnected from their actual track record; a hiring or promotion decision is driven by self-presentation; feedback loops are absent and someone is operating on gut confidence alone. Do NOT activate when: the person is a known expert with an established external track record; the confidence claim is in a domain with tight, recent feedback loops that already calibrate performance. More: deciqai.com/s/dunning-kruger"
 ---
 
 # Dunning-Kruger Effect
@@ -111,3 +111,5 @@ Intervention: <method> | Owner: | Re-measure:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/dunning-kruger** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/dunning-kruger.json*

@@ -1,7 +1,7 @@
 ---
 name: theory-of-constraints
 description: "Activate when: user says 'everyone is working hard but results are flat', 'where is our bottleneck', 'we keep adding capacity but throughput doesn't improve', 'backlog piling up at one stage', 'Goldratt / TOC / Five Focusing Steps', or is designing a process-improvement initiative and wants to know where to invest.
-  Do NOT activate when: the system is single-step with no dependencies; the constraint is purely demand-side and supply-side analysis is irrelevant."
+  Do NOT activate when: the system is single-step with no dependencies; the constraint is purely demand-side and supply-side analysis is irrelevant. More: deciqai.com/s/theory-of-constraints"
 ---
 
 # Theory of Constraints
@@ -112,3 +112,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/theory-of-constraints** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/theory-of-constraints.json*

@@ -1,6 +1,6 @@
 ---
 name: inversion
-description: "Activate when: user says 'do a pre-mortem', 'what could go wrong', 'why might this fail', 'invert the question', 'what would have to be true for this to be a disaster'; a plan keeps generating enthusiasm with no risks named; an investment thesis sounds compelling but no one has named what would kill it; the decision is high-stakes or hard-to-reverse. Do NOT activate when: the decision is genuinely low-stakes and reversible (no meaningful downside to just trying); immediate crisis response is needed and there is no time for analysis."
+description: "Activate when: user says 'do a pre-mortem', 'what could go wrong', 'why might this fail', 'invert the question', 'what would have to be true for this to be a disaster'; a plan keeps generating enthusiasm with no risks named; an investment thesis sounds compelling but no one has named what would kill it; the decision is high-stakes or hard-to-reverse. Do NOT activate when: the decision is genuinely low-stakes and reversible (no meaningful downside to just trying); immediate crisis response is needed and there is no time for analysis. More: deciqai.com/s/inversion"
 ---
 
 # Inversion
@@ -116,3 +116,5 @@ The ways people fake inversion. If you catch yourself in the left column, you ar
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/inversion** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/inversion.json*

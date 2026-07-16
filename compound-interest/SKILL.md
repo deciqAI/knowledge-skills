@@ -1,6 +1,6 @@
 ---
 name: compound-interest
-description: "Activate when: user asks about starting early vs. later for savings/investing, wonders if small consistent gains add up, wants to know how long to double money, is evaluating long-term wealth or skill-building decisions, mentions 'Rule of 72' or 'exponential growth.' Do NOT activate when: the time horizon is short (under 3 years) and compounding is negligible; the underlying process is genuinely linear with no reinvestment or accumulation."
+description: "Activate when: user asks about starting early vs. later for savings/investing, wonders if small consistent gains add up, wants to know how long to double money, is evaluating long-term wealth or skill-building decisions, mentions 'Rule of 72' or 'exponential growth.' Do NOT activate when: the time horizon is short (under 3 years) and compounding is negligible; the underlying process is genuinely linear with no reinvestment or accumulation. More: deciqai.com/s/compound-interest"
 ---
 
 # Compound Interest
@@ -117,3 +117,5 @@ Generalization: other dynamics / decay risks / commitments
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/compound-interest** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/compound-interest.json*

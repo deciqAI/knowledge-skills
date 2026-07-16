@@ -1,7 +1,7 @@
 ---
 name: thucydides-trap
 description: "Activate when: user asks about US-China war risk or great-power rivalry; someone says 'can they avoid conflict' or 'is escalation inevitable'; analyzing geopolitical risk in supply chains, FDI, or market entry; a new market entrant threatens an incumbent's core identity or platform control.
-  Do NOT activate when: the conflict is primarily values/ideology without a power-displacement trajectory; both parties are roughly equal with no fast-growing challenger."
+  Do NOT activate when: the conflict is primarily values/ideology without a power-displacement trajectory; both parties are roughly equal with no fast-growing challenger. More: deciqai.com/s/thucydides-trap"
 ---
 
 # Thucydides's Trap
@@ -120,3 +120,5 @@ Decision Implications: Escalation probability <H/M/L> | Trigger points <...> | S
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/thucydides-trap** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/thucydides-trap.json*

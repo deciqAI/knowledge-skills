@@ -1,7 +1,7 @@
 ---
 name: authority-bias
 description: "Activate when: someone says 'should we trust the expert on this?', 'they're a professor/CEO/MD so they must be right', 'I don't want to push back on them', 'we deferred to the board and it blew up', or is evaluating a charismatic founder, assessing due diligence on a high-credential deal, or building a team where senior voices dominate.
-Do NOT activate when: the authority is a verified domain expert on the exact question at hand and the decision is time-critical; or when the user is asking a general persuasion question with no authority dynamic involved."
+Do NOT activate when: the authority is a verified domain expert on the exact question at hand and the decision is time-critical; or when the user is asking a general persuasion question with no authority dynamic involved. More: deciqai.com/s/authority-bias"
 ---
 
 # Authority Bias
@@ -119,3 +119,5 @@ Structural counter: | Decision + documentation:
 - [ ] Decision documented with reasoning, not just authority attribution
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/authority-bias** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/authority-bias.json*

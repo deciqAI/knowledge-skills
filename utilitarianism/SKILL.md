@@ -1,7 +1,7 @@
 ---
 name: utilitarianism
 description: "Activate when: user asks 'what produces the most good,' 'who benefits and who gets hurt,' 'what's the net impact,' 'is this worth the trade-off,' 'what does the greatest good mean here'; user needs to evaluate a policy, product, or organizational decision that affects multiple parties differently; user is performing cost-benefit analysis or ethical trade-off evaluation.
-  Do NOT activate when: the decision involves a single party with no stakeholder trade-offs (use expected-value-and-kelly instead); the question is purely about intrinsic rights or deontological constraints with no welfare aggregation needed."
+  Do NOT activate when: the decision involves a single party with no stakeholder trade-offs (use expected-value-and-kelly instead); the question is purely about intrinsic rights or deontological constraints with no welfare aggregation needed. More: deciqai.com/s/utilitarianism"
 ---
 
 # Utilitarianism
@@ -103,3 +103,5 @@ Most Contested Assumption: assumption / 2x sensitivity / what resolves it
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/utilitarianism** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/utilitarianism.json*

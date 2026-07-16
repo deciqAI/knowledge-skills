@@ -1,7 +1,7 @@
 ---
 name: representativeness-heuristic
 description: "Activate when: user says 'this person/startup looks like a winner', 'I know one when I see it', 'they have the profile of a great hire', 'this reminds me of [famous success]', or any judgment where a vivid profile drives a probability estimate without an explicit base rate. Also activate when auditing for the conjunction fallacy or when pattern-matching is cited as the basis for a high-stakes decision.
-  Do NOT activate when: probability is computed directly from data with no narrative element; base rate and profile have already been reconciled via explicit Bayesian reasoning."
+  Do NOT activate when: probability is computed directly from data with no narrative element; base rate and profile have already been reconciled via explicit Bayesian reasoning. More: deciqai.com/s/representativeness-heuristic"
 ---
 
 # Representativeness Heuristic
@@ -112,3 +112,5 @@ Recommendation: proceed / do not proceed / gather more data
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/representativeness-heuristic** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/representativeness-heuristic.json*

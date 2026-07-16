@@ -1,7 +1,7 @@
 ---
 name: premortem
 description: "Activate when: user says 'let's check what could go wrong before we commit', 'I want to stress-test this plan', 'we're about to launch and I'm worried we're missing something', 'premortem', or is about to make a hard-to-reverse decision with a team that has converged on one plan.
-  Do NOT activate when: the decision is small and easily reversible (overhead exceeds value); the situation is time-critical and analysis would prevent timely response."
+  Do NOT activate when: the decision is small and easily reversible (overhead exceeds value); the situation is time-critical and analysis would prevent timely response. More: deciqai.com/s/premortem"
 ---
 
 # Premortem
@@ -120,3 +120,5 @@ Re-premortem date:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/premortem** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/premortem.json*

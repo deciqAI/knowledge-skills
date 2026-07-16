@@ -1,6 +1,6 @@
 ---
 name: t-shaped-connector
-description: "Activate when: someone says 'I'm T-shaped' and you want to verify it; a team can't translate insights across functions; a person asks what career move creates the most leverage; building a first startup team; a domain expert is hitting a ceiling and considering broadening. Do NOT activate when: the role requires pure depth with no cross-domain translation value; the team is tightly integrated with no structural holes to fill."
+description: "Activate when: someone says 'I'm T-shaped' and you want to verify it; a team can't translate insights across functions; a person asks what career move creates the most leverage; building a first startup team; a domain expert is hitting a ceiling and considering broadening. Do NOT activate when: the role requires pure depth with no cross-domain translation value; the team is tightly integrated with no structural holes to fill. More: deciqai.com/s/t-shaped-connector"
 ---
 
 # T-Shaped Connector
@@ -118,3 +118,5 @@ Fields: Practitioner / Role / Vertical bar (domain + top-20% evidence + depth ra
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/t-shaped-connector** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/t-shaped-connector.json*

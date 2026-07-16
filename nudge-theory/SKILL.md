@@ -1,7 +1,7 @@
 ---
 name: nudge-theory
 description: "Activate when: user says 'nudge,' 'default,' 'opt-in vs opt-out,' 'choice architecture,' or 'why do people know they should but don't?'; user has a behavior gap between intent and action; user is designing product onboarding, policy enrollment, or public health interventions and wants to change behavior without mandates or incentives.
-  Do NOT activate when: the gap is informational (people genuinely don't know what to do — education precedes nudging); the designer's goal is to serve their own interests rather than the chooser's (that is a dark pattern, not a nudge)."
+  Do NOT activate when: the gap is informational (people genuinely don't know what to do — education precedes nudging); the designer's goal is to serve their own interests rather than the chooser's (that is a dark pattern, not a nudge). More: deciqai.com/s/nudge-theory"
 ---
 
 # Nudge Theory
@@ -118,3 +118,5 @@ Scale/Decay: Monitoring cadence: <> | Re-evaluation trigger: <>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/nudge-theory** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/nudge-theory.json*

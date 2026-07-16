@@ -1,6 +1,6 @@
 ---
 name: ar-dso-discipline
-description: "Activate when: customers pay late and cash is tight; 'clients don't pay on time', collections, invoicing terms, reducing days-sales-outstanding; overdue receivables. Do NOT activate when: paid instantly at point of sale (no receivables)."
+description: "Activate when: customers pay late and cash is tight; 'clients don't pay on time', collections, invoicing terms, reducing days-sales-outstanding; overdue receivables. Do NOT activate when: paid instantly at point of sale (no receivables). More: deciqai.com/s/ar-dso-discipline"
 ---
 
 # AR & DSO Discipline — Get Paid Faster
@@ -39,3 +39,5 @@ Days Sales Outstanding (DSO) is the average time to collect after a sale. For an
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ar-dso-discipline** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ar-dso-discipline.json*

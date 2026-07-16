@@ -1,6 +1,6 @@
 ---
 name: first-principles
-description: "Activate when: user says 'from first principles,' 'from scratch,' 'why do we even believe this,' 'tear this apart,' or 'the conventional answer seems wrong'; a decision is justified mainly by 'that's how it's done' or 'best practice says'; the conventional answer is expensive or hard to reverse and the user wants to pressure-test it. Do NOT activate when: the decision is routine and reversible (which linter, which date library) where convention is cheap and fine; the user has asked to just ship the conventional answer at speed."
+description: "Activate when: user says 'from first principles,' 'from scratch,' 'why do we even believe this,' 'tear this apart,' or 'the conventional answer seems wrong'; a decision is justified mainly by 'that's how it's done' or 'best practice says'; the conventional answer is expensive or hard to reverse and the user wants to pressure-test it. Do NOT activate when: the decision is routine and reversible (which linter, which date library) where convention is cheap and fine; the user has asked to just ship the conventional answer at speed. More: deciqai.com/s/first-principles"
 ---
 
 # First Principles
@@ -119,3 +119,5 @@ The ways people fake first-principles thinking. If you catch yourself in the lef
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/first-principles** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/first-principles.json*

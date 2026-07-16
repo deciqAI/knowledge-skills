@@ -1,7 +1,7 @@
 ---
 name: pareto-principle
 description: "Activate when: user says 'Pareto,' '80/20,' 'vital few,' 'long tail,' 'where is the leverage'; a team is treating many items as equally important; a backlog has no triage; growth efforts are spread thin across too many initiatives.
-  Do NOT activate when: fewer than ~6 items total (no distribution to analyze); safety-critical or regulatory contexts where every item must be addressed regardless of frequency."
+  Do NOT activate when: fewer than ~6 items total (no distribution to analyze); safety-critical or regulatory contexts where every item must be addressed regardless of frequency. More: deciqai.com/s/pareto-principle"
 ---
 
 # The Pareto Principle (80/20)
@@ -118,3 +118,5 @@ Run the **Pareto Analysis**: define output, measure distribution, identify vital
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/pareto-principle** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/pareto-principle.json*

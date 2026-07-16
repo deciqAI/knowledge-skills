@@ -1,6 +1,6 @@
 ---
 name: fundamental-attribution-error
-description: "Activate when: someone says 'they're just like that,' an employee is being blamed for underperformance without examining their situation, a post-mortem is focusing on who screwed up, customer churn is being written off as 'not the right fit,' or someone asks 'why did they do that?' with a character-based answer. Do NOT activate when: the behavior forms a documented pattern across many genuinely different situations (dispositional inference is warranted); situational analysis is being used as a shield to excuse behavior that warrants accountability."
+description: "Activate when: someone says 'they're just like that,' an employee is being blamed for underperformance without examining their situation, a post-mortem is focusing on who screwed up, customer churn is being written off as 'not the right fit,' or someone asks 'why did they do that?' with a character-based answer. Do NOT activate when: the behavior forms a documented pattern across many genuinely different situations (dispositional inference is warranted); situational analysis is being used as a shield to excuse behavior that warrants accountability. More: deciqai.com/s/fundamental-attribution-error"
 ---
 
 # Fundamental Attribution Error
@@ -118,3 +118,5 @@ FAE is automatic (System 1); correction is effortful (System 2). Build situation
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/fundamental-attribution-error** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/fundamental-attribution-error.json*

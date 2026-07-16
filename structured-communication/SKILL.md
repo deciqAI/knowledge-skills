@@ -1,7 +1,7 @@
 ---
 name: structured-communication
 description: "Activate when: user says 'they didn't get it,' 'I don't know how to bring this up,' 'the message wasn't clear,' 'how do I give feedback without sounding critical,' needs to structure a funding pitch or difficult conversation, or wants to diagnose why a previous message failed to land.
-  Do NOT activate when: the exchange is purely informational with no specific response required, or the situation calls for spontaneous casual conversation with no persuasion/coaching/praise goal."
+  Do NOT activate when: the exchange is purely informational with no specific response required, or the situation calls for spontaneous casual conversation with no persuasion/coaching/praise goal. More: deciqai.com/s/structured-communication"
 ---
 
 # Structured Communication
@@ -118,3 +118,5 @@ Rehearsed: [Yes/No] | Deviations:
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/structured-communication** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/structured-communication.json*

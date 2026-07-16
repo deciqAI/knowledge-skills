@@ -3,7 +3,7 @@ name: arrow-information-paradox
 category: Strategy & Game Theory
 description: "Diagnoses the buyer/seller deadlock in any trade of information — the buyer cannot value what they cannot see, but once they see it they have it for free — and selects the disclosure mechanism (patent, NDA, staged disclosure, trusted intermediary + escrow, reputation, or proxy demonstration) that lets the buyer estimate value WITHOUT the seller losing appropriability.
   Activate when: user must sell, license, or pitch information/technology/know-how and asks 'how much do we reveal before they'll pay', 'how do we prove it works without giving it away', 'should we patent this or keep it secret', 'they want to see the code/formula/method before signing', 'how do we let a buyer value our tech in due diligence without leaking it', or describes an M&A/VC/licensing/consulting deal where the thing being sold IS the information.
-  Do NOT activate when: the good has no information-appropriability problem (a commodity, a physical product that can be inspected without transferring the design); the information is already public; or the question is about pricing/negotiation with no disclosure-leakage risk (use batna-zopa instead)."
+  Do NOT activate when: the good has no information-appropriability problem (a commodity, a physical product that can be inspected without transferring the design); the information is already public; or the question is about pricing/negotiation with no disclosure-leakage risk (use batna-zopa instead). More: deciqai.com/s/arrow-information-paradox"
 ---
 
 # Arrow's Information Paradox
@@ -158,3 +158,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/arrow-information-paradox** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/arrow-information-paradox.json*

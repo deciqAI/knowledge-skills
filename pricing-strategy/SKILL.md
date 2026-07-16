@@ -1,7 +1,7 @@
 ---
 name: pricing-strategy
 description: "Activate when: user says 'how should we price this', 'we should just charge more', 'our competitors charge X', 'willingness to pay', 'anchor price', 'value-based pricing', 'freemium structure', setting a first price for a new product, considering a price increase and worried about churn, or needing to design tiered/usage-based pricing.
-  Do NOT activate when: the product has no demonstrated value yet (use lean-startup instead); price is fixed by regulation."
+  Do NOT activate when: the product has no demonstrated value yet (use lean-startup instead); price is fixed by regulation. More: deciqai.com/s/pricing-strategy"
 ---
 
 # Pricing Strategy
@@ -116,3 +116,5 @@ Domain patterns (anchors / tier structure / key framing / dominant failure):
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/pricing-strategy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/pricing-strategy.json*

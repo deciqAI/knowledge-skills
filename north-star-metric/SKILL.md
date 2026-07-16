@@ -1,7 +1,7 @@
 ---
 name: north-star-metric
 description: "Activate when: teams are fighting over which metric to optimize; someone says 'north star metric,' 'NSM,' 'OMTM,' or 'one metric that matters'; a dashboard has 30+ metrics with no clear priority; a leading indicator is needed that predicts revenue before it moves; or someone asks 'what should we optimize?'
-  Do NOT activate when: the product has no customers yet (no value to measure — use lean-startup instead); a single team in a mature business needs execution KPIs rather than cross-team alignment."
+  Do NOT activate when: the product has no customers yet (no value to measure — use lean-startup instead); a single team in a mature business needs execution KPIs rather than cross-team alignment. More: deciqai.com/s/north-star-metric"
 ---
 
 # North Star Metric
@@ -117,3 +117,5 @@ Typical NSMs by domain: **content platforms** → minutes streamed per active us
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/north-star-metric** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/north-star-metric.json*

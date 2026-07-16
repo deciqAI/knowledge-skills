@@ -1,6 +1,6 @@
 ---
 name: map-is-not-the-territory
-description: "Activate when: a metric is improving but customers or employees are signaling problems; a strategy or process hasn't been reviewed in over a planning cycle; a team keeps disagreeing and can't resolve it with data; someone says 'the model shows...' or 'the data doesn't show any problems'; a plan is being followed because 'that's how we do it.' Do NOT activate when: the map is demonstrably current and freshly validated against the territory; the decision is so low-stakes that map imprecision doesn't matter."
+description: "Activate when: a metric is improving but customers or employees are signaling problems; a strategy or process hasn't been reviewed in over a planning cycle; a team keeps disagreeing and can't resolve it with data; someone says 'the model shows...' or 'the data doesn't show any problems'; a plan is being followed because 'that's how we do it.' Do NOT activate when: the map is demonstrably current and freshly validated against the territory; the decision is so low-stakes that map imprecision doesn't matter. More: deciqai.com/s/map-is-not-the-territory"
 ---
 
 # Map Is Not the Territory
@@ -120,3 +120,5 @@ Decision: fit Y/N/Partially | required updates | update trigger
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/map-is-not-the-territory** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/map-is-not-the-territory.json*

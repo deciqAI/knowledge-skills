@@ -1,6 +1,6 @@
 ---
 name: strategic-execution-3d9
-description: "Activate when: strategy results are consistently below target despite strong market conditions; a team agrees on a plan but results fall far short; diagnosing why execution broke down after a leadership change or merger; auditing whether the organization can support a new growth phase. Do NOT activate when: the team is fewer than 10 people with no defined organizational system; no strategy exists yet and the task is pure strategy formulation."
+description: "Activate when: strategy results are consistently below target despite strong market conditions; a team agrees on a plan but results fall far short; diagnosing why execution broke down after a leadership change or merger; auditing whether the organization can support a new growth phase. Do NOT activate when: the team is fewer than 10 people with no defined organizational system; no strategy exists yet and the task is pure strategy formulation. More: deciqai.com/s/strategic-execution-3d9"
 ---
 
 # Strategic Execution 3D9
@@ -118,3 +118,5 @@ BOTTLENECK: ___ Why: ___ | 90-DAY: Intervention: ___ Owner: ___ Metric: ___ 30d/
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-execution-3d9** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategic-execution-3d9.json*

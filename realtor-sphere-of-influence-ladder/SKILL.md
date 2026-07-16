@@ -1,6 +1,6 @@
 ---
 name: realtor-sphere-of-influence-ladder
-description: "Activate when: a real estate agent wants repeat + referral business instead of chasing cold leads; 'where's my next deal coming from', building a sphere-of-influence / past-client nurture, database marketing. Do NOT activate when: the agent has no past clients/contacts yet (start with lead-gen basics first)."
+description: "Activate when: a real estate agent wants repeat + referral business instead of chasing cold leads; 'where's my next deal coming from', building a sphere-of-influence / past-client nurture, database marketing. Do NOT activate when: the agent has no past clients/contacts yet (start with lead-gen basics first). More: deciqai.com/s/realtor-sphere-of-influence-ladder"
 ---
 
 # Real Estate — Sphere-of-Influence Referral Ladder
@@ -41,3 +41,5 @@ Agent closes a buyer, then goes silent until the client resurfaces years later (
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-sphere-of-influence-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/realtor-sphere-of-influence-ladder.json*

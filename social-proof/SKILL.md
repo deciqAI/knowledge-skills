@@ -1,6 +1,6 @@
 ---
 name: social-proof
-description: "Activate when: user says 'everyone is doing this,' 'join thousands of others,' 'it's the popular choice,' 'trusted by X customers,' wonders if a trend or consensus is real, suspects fake reviews or manufactured engagement, or is designing testimonials/UX to convert users. Do NOT activate when: the decision is low-stakes and reversible (choosing a lunch spot) or the user already has direct measured evidence stronger than any consensus signal."
+description: "Activate when: user says 'everyone is doing this,' 'join thousands of others,' 'it's the popular choice,' 'trusted by X customers,' wonders if a trend or consensus is real, suspects fake reviews or manufactured engagement, or is designing testimonials/UX to convert users. Do NOT activate when: the decision is low-stakes and reversible (choosing a lunch spot) or the user already has direct measured evidence stronger than any consensus signal. More: deciqai.com/s/social-proof"
 ---
 
 # Social Proof
@@ -118,3 +118,5 @@ Early-warning trigger: [what would signal consensus is wrong]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/social-proof** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/social-proof.json*

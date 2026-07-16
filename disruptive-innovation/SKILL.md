@@ -1,7 +1,7 @@
 ---
 name: disruptive-innovation
 description: "Activate when: a founder asks 'can we avoid competing head-on with big players?', someone asks 'is this disruption or just a price war?', an investor wonders if a startup's entry angle creates durable structural advantage, an incumbent spots a cheap new entrant and needs to know if it's a real threat, a product team wants to know which features to deliberately leave out of an MVP.
-  Do NOT activate when: the market requires absolute performance with no 'good enough' threshold (aircraft engines, Class III medical devices), or the competitive situation is a pure price war with no cost-structure asymmetry."
+  Do NOT activate when: the market requires absolute performance with no 'good enough' threshold (aircraft engines, Class III medical devices), or the competitive situation is a pure price war with no cost-structure asymmetry. More: deciqai.com/s/disruptive-innovation"
 ---
 
 # Disruptive Innovation
@@ -115,3 +115,5 @@ Domain-specific stop-rules (the Assessment runs identically everywhere):
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/disruptive-innovation** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/disruptive-innovation.json*

@@ -1,6 +1,6 @@
 ---
 name: resource-integration-hierarchy
-description: "Activate when: user says 'I feel stuck at a ceiling in my role,' 'what separates good managers from great ones,' 'why can't we solve this class of problem,' 'how do I operate at a higher level,' or a team is consistently reactive rather than proactive. Do NOT activate when: the problem is a purely technical skill gap; the goal is near-term output optimization rather than capability development."
+description: "Activate when: user says 'I feel stuck at a ceiling in my role,' 'what separates good managers from great ones,' 'why can't we solve this class of problem,' 'how do I operate at a higher level,' or a team is consistently reactive rather than proactive. Do NOT activate when: the problem is a purely technical skill gap; the goal is near-term output optimization rather than capability development. More: deciqai.com/s/resource-integration-hierarchy"
 ---
 
 # Resource Integration Hierarchy
@@ -118,3 +118,5 @@ Reflection: Value created?[y/n]  Harder because:___  What would make N+1 default
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/resource-integration-hierarchy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/resource-integration-hierarchy.json*

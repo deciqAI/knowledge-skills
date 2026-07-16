@@ -1,6 +1,6 @@
 ---
 name: nash-equilibrium
-description: "Activate when: user asks 'what will they do if we do X', 'how will competitors react to our pricing', 'how do I design this auction or mechanism', 'we keep ending up in a bad outcome even though everyone prefers better', or is analyzing a strategic situation with multiple rational counterparties (pricing, negotiation, M&A, regulation, platform launch). Do NOT activate when: the decision is essentially solo with no strategic counterparty; the counterparty is clearly irrational or acting on emotion rather than self-interest."
+description: "Activate when: user asks 'what will they do if we do X', 'how will competitors react to our pricing', 'how do I design this auction or mechanism', 'we keep ending up in a bad outcome even though everyone prefers better', or is analyzing a strategic situation with multiple rational counterparties (pricing, negotiation, M&A, regulation, platform launch). Do NOT activate when: the decision is essentially solo with no strategic counterparty; the counterparty is clearly irrational or acting on emotion rather than self-interest. More: deciqai.com/s/nash-equilibrium"
 ---
 
 # Nash Equilibrium
@@ -115,3 +115,5 @@ Model the game explicitly before acting. Equilibrium is not optimum — if the e
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/nash-equilibrium** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/nash-equilibrium.json*

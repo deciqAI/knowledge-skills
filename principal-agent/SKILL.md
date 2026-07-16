@@ -1,7 +1,7 @@
 ---
 name: principal-agent
 description: "Activate when: someone asks why an employee, executive, contractor, board member, or fund manager isn't acting in the org's interest; a compensation or incentive structure is being designed; outsourcing or partnership terms are being negotiated; someone says 'agency cost,' 'moral hazard,' 'skin in the game,' or 'incentive misalignment.'
-  Do NOT activate when: parties have fully aligned interests and fully observable behavior; the cost of designing a contract exceeds any misalignment (trivial-stakes interactions)."
+  Do NOT activate when: parties have fully aligned interests and fully observable behavior; the cost of designing a contract exceeds any misalignment (trivial-stakes interactions). More: deciqai.com/s/principal-agent"
 ---
 
 # Principal–Agent Problem
@@ -121,3 +121,5 @@ Shareholders ↔ CEO (stock gaming) · Investors ↔ Fund manager (AUM vs return
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/principal-agent** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/principal-agent.json*

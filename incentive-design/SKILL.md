@@ -1,7 +1,7 @@
 ---
 name: incentive-design
 description: "Activate when: user asks why a team keeps doing the wrong thing despite training; user is designing compensation, bonuses, or commissions; user says 'people are gaming the metric' or 'our OKRs aren't working'; user wants to fix a performance management system; user asks what incentives are driving a behavior; user is drafting contracts or platform rules to shape behavior.
-  Do NOT activate when: the situation is clearly individual misconduct with no systemic pattern; user wants psychological persuasion tactics rather than structural system design."
+  Do NOT activate when: the situation is clearly individual misconduct with no systemic pattern; user wants psychological persuasion tactics rather than structural system design. More: deciqai.com/s/incentive-design"
 ---
 
 # Incentive Design
@@ -118,3 +118,5 @@ Redesign (7-item) | Pilot scope / Monitoring / Review cycle
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/incentive-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/incentive-design.json*

@@ -1,6 +1,6 @@
 ---
 name: deep-work
-description: "Activate when: user says 'I can never find time for focused work', 'I feel busy but produce nothing', 'I keep getting interrupted', 'I want to protect my focus time', 'flow state', 'deliberate practice', 'Cal Newport', or asks how to make progress on hard cognitive work (research, writing, engineering, strategy). Do NOT activate when: the role is genuinely high-coordination with no discrete focus windows (ER medicine, real-time trading desk), or user is in a short-term emergency where availability must dominate."
+description: "Activate when: user says 'I can never find time for focused work', 'I feel busy but produce nothing', 'I keep getting interrupted', 'I want to protect my focus time', 'flow state', 'deliberate practice', 'Cal Newport', or asks how to make progress on hard cognitive work (research, writing, engineering, strategy). Do NOT activate when: the role is genuinely high-coordination with no discrete focus windows (ER medicine, real-time trading desk), or user is in a short-term emergency where availability must dominate. More: deciqai.com/s/deep-work"
 ---
 
 # Deep Work
@@ -114,3 +114,5 @@ Protect the morning block first — cognitive freshness depletes with shallow wo
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/deep-work** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/deep-work.json*

@@ -1,7 +1,7 @@
 ---
 name: gravity-field-empowerment
 description: "Activate when: user asks 'did this transformation actually work', 'how do I measure whether coaching/strategy/capital changed the business', 'why does our improvement not stick', 'how do I choose between competing empowerment options', or evaluates a business program by its immediate effect rather than long-term compounded velocity change.
-  Do NOT activate when: the business survival horizon is under 12 months (integral effect cannot materialize), or no baseline growth metric exists to measure velocity change against."
+  Do NOT activate when: the business survival horizon is under 12 months (integral effect cannot materialize), or no baseline growth metric exists to measure velocity change against. More: deciqai.com/s/gravity-field-empowerment"
 ---
 
 # Gravity Field Empowerment
@@ -101,3 +101,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/gravity-field-empowerment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/gravity-field-empowerment.json*

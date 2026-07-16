@@ -1,6 +1,6 @@
 ---
 name: red-queen-effect
-description: "Activate when: user says 'we keep investing but market share won't move,' 'why does nobody make money in this industry,' 'our competitor copied us again within a year,' 'we improve but the gap stays the same,' or is evaluating whether to enter a low-margin high-activity industry. Do NOT activate when: the competitive advantage is protected by strong IP, regulatory approval, or deep network effects that genuinely slow imitation; or when the situation is pre-competitive with no direct rivals yet."
+description: "Activate when: user says 'we keep investing but market share won't move,' 'why does nobody make money in this industry,' 'our competitor copied us again within a year,' 'we improve but the gap stays the same,' or is evaluating whether to enter a low-margin high-activity industry. Do NOT activate when: the competitive advantage is protected by strong IP, regulatory approval, or deep network effects that genuinely slow imitation; or when the situation is pre-competitive with no direct rivals yet. More: deciqai.com/s/red-queen-effect"
 ---
 
 # Red Queen Effect
@@ -121,3 +121,5 @@ Recommendation: [run faster / change tracks / exit] — [rationale] — Timeline
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/red-queen-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/red-queen-effect.json*

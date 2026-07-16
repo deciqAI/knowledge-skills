@@ -1,6 +1,6 @@
 ---
 name: industry-learning-sprint
-description: "Activate when: user is entering an unfamiliar industry and needs a working mental model fast; user says 'I need to understand this sector before a meeting next week'; user is evaluating an acquisition or investment in a domain they don't know; user is preparing for a high-stakes expert conversation with limited time; user needs to produce an investment thesis or market entry recommendation under time pressure. Do NOT activate when: user already has deep domain expertise in the target industry; user needs regulatory or legal precision — engage domain-specific counsel instead."
+description: "Activate when: user is entering an unfamiliar industry and needs a working mental model fast; user says 'I need to understand this sector before a meeting next week'; user is evaluating an acquisition or investment in a domain they don't know; user is preparing for a high-stakes expert conversation with limited time; user needs to produce an investment thesis or market entry recommendation under time pressure. Do NOT activate when: user already has deep domain expertise in the target industry; user needs regulatory or legal precision — engage domain-specific counsel instead. More: deciqai.com/s/industry-learning-sprint"
 ---
 
 # Industry Learning Sprint
@@ -116,3 +116,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/industry-learning-sprint** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/industry-learning-sprint.json*

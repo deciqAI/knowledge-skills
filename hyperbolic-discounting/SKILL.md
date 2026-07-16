@@ -1,7 +1,7 @@
 ---
 name: hyperbolic-discounting
 description: "Activate when: user says 'I'll start tomorrow / next week / next month' repeatedly; someone intends to save / exercise / quit but never follows through; a product's free trial or subscription is creating unexpected lock-in; someone wants to design a commitment device or pre-commitment contract; a team keeps deferring long-horizon work for short-term fires.
-  Do NOT activate when: the changed plan reflects genuine new information (rational update, not bias); the time preference shift is due to real uncertainty about future receipt (bird-in-hand is reasonable)."
+  Do NOT activate when: the changed plan reflects genuine new information (rational update, not bias); the time preference shift is due to real uncertainty about future receipt (bird-in-hand is reasonable). More: deciqai.com/s/hyperbolic-discounting"
 ---
 
 # Hyperbolic Discounting
@@ -116,3 +116,5 @@ Willpower is unreliable; commitment devices are reliable — install structural 
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/hyperbolic-discounting** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/hyperbolic-discounting.json*

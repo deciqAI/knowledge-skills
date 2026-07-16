@@ -1,7 +1,7 @@
 ---
 name: demand-leadership
 description: "Activate when: 'we have a strong product but keep losing on price', 'customers treat us like a commodity', 'how do we stop being compared to competitors', 'why aren't customers coming to us before they write the RFP', 'we want to define the category before someone else does'.
-  Do NOT activate when: the customer's problem definition is fixed by regulation or physical constraint (e.g., fuel procurement); or the user is pre-product with no customer intelligence yet."
+  Do NOT activate when: the customer's problem definition is fixed by regulation or physical constraint (e.g., fuel procurement); or the user is pre-product with no customer intelligence yet. More: deciqai.com/s/demand-leadership"
 ---
 
 # Demand Leadership
@@ -117,3 +117,5 @@ STOP-RULE: "When do customers first contact us?" RFP stage → Stage 1. Problem-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/demand-leadership** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/demand-leadership.json*

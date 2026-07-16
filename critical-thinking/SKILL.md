@@ -1,7 +1,7 @@
 ---
 name: critical-thinking
 description: "Activate when: user says 'challenge my thinking', 'play devil's advocate', 'what's the strongest counter-argument', 'ACH', 'analysis of competing hypotheses'; user needs to evaluate a high-stakes claim or decision with multiple possible interpretations; user suspects motivated reasoning or a team is converging too fast on one answer.
-  Do NOT activate when: the claim is trivial or already well-validated; the decision is about values rather than facts (use regret-minimization or first-principles instead)."
+  Do NOT activate when: the claim is trivial or already well-validated; the decision is about values rather than facts (use regret-minimization or first-principles instead). More: deciqai.com/s/critical-thinking"
 ---
 
 # Critical Thinking
@@ -119,3 +119,5 @@ Domain packs (canonical hypotheses, diagnostic evidence, typical bias, matrix co
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/critical-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/critical-thinking.json*

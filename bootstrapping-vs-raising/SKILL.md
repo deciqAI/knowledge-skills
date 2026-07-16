@@ -1,6 +1,6 @@
 ---
 name: bootstrapping-vs-raising
-description: "Activate when: a founder is deciding whether to raise venture money or self-fund; 'should we raise?', weighing dilution vs speed, choosing a funding path; VC fit vs bootstrap/SMB. Do NOT activate when: the decision is already made and the task is executing a specific raise (use fundraising materials instead)."
+description: "Activate when: a founder is deciding whether to raise venture money or self-fund; 'should we raise?', weighing dilution vs speed, choosing a funding path; VC fit vs bootstrap/SMB. Do NOT activate when: the decision is already made and the task is executing a specific raise (use fundraising materials instead). More: deciqai.com/s/bootstrapping-vs-raising"
 ---
 
 # Bootstrapping vs Raising — Choose the Fuel to Match the Fire
@@ -39,3 +39,5 @@ Raising venture capital is not a milestone; it's a **choice that commits you to 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/bootstrapping-vs-raising** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/bootstrapping-vs-raising.json*

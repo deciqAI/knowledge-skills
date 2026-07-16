@@ -1,6 +1,6 @@
 ---
 name: freight-shipper-carrier-principal-agent
-description: "Activate when: a freight broker must balance shipper and carrier interests and disclose their intermediary role; 'whose side am I on', margin transparency, conflicts between best rate for shipper vs relationship with carrier. Do NOT activate when: acting as an asset carrier (not a broker) with no intermediary conflict."
+description: "Activate when: a freight broker must balance shipper and carrier interests and disclose their intermediary role; 'whose side am I on', margin transparency, conflicts between best rate for shipper vs relationship with carrier. Do NOT activate when: acting as an asset carrier (not a broker) with no intermediary conflict. More: deciqai.com/s/freight-shipper-carrier-principal-agent"
 ---
 
 # Freight Broker — Shipper/Carrier Principal-Agent Balance
@@ -39,3 +39,5 @@ A shipper could save $80 on a load via an unknown cheap carrier, but your reliab
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-shipper-carrier-principal-agent** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/freight-shipper-carrier-principal-agent.json*

@@ -6,6 +6,7 @@ description: >
   on prior-era assumptions in a changed environment.
   Do NOT activate when: the underlying belief is still valid and the environment hasn't changed (renewal for its
   own sake produces instability), or someone is in acute crisis and needs stability rather than dismantling.
+  More: deciqai.com/s/self-renewal
 ---
 
 # Self-Renewal
@@ -118,3 +119,5 @@ Behavior Changes: [what I will do differently]
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/self-renewal** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/self-renewal.json*

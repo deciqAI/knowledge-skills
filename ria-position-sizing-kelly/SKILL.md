@@ -1,6 +1,6 @@
 ---
 name: ria-position-sizing-kelly
-description: "Activate when: sizing a single-name or thematic position; a client with concentrated stock; setting max-position/rebalancing bands; 'how much of the portfolio should this be?'. Do NOT activate when: broad index allocation already governed by the IPS."
+description: "Activate when: sizing a single-name or thematic position; a client with concentrated stock; setting max-position/rebalancing bands; 'how much of the portfolio should this be?'. Do NOT activate when: broad index allocation already governed by the IPS. More: deciqai.com/s/ria-position-sizing-kelly"
 ---
 
 # RIA — Position Sizing & Concentration Discipline
@@ -45,3 +45,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [expected-value-and-kelly](..
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ria-position-sizing-kelly** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ria-position-sizing-kelly.json*

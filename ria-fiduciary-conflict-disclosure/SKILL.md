@@ -1,6 +1,6 @@
 ---
 name: ria-fiduciary-conflict-disclosure
-description: "Activate when: identifying/disclosing conflicts in ADV 2A; compensation that varies by product; affiliated custodian/manager; rollover recommendations; 'is this a conflict we must disclose?'. Do NOT activate when: no advisory relationship / no agency duty."
+description: "Activate when: identifying/disclosing conflicts in ADV 2A; compensation that varies by product; affiliated custodian/manager; rollover recommendations; 'is this a conflict we must disclose?'. Do NOT activate when: no advisory relationship / no agency duty. More: deciqai.com/s/ria-fiduciary-conflict-disclosure"
 ---
 
 # RIA — Fiduciary Conflict-of-Interest Disclosure
@@ -47,3 +47,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [principal-agent](../principa
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ria-fiduciary-conflict-disclosure** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ria-fiduciary-conflict-disclosure.json*

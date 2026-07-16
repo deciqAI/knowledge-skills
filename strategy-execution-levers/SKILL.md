@@ -1,7 +1,7 @@
 ---
 name: strategy-execution-levers
 description: "Activate when: 'our strategy is clear but nothing changes,' 'people understand the goal but revert to old behaviors,' 'initial launch energy faded after 2 months,' 'we keep having the same post-mortem findings,' or execution consistently falls short despite repeated planning.
-  Do NOT activate when: the strategy itself is wrong or unvalidated (fix the strategy first); or failure is caused by resource constraints, not behavioral/process gaps."
+  Do NOT activate when: the strategy itself is wrong or unvalidated (fix the strategy first); or failure is caused by resource constraints, not behavioral/process gaps. More: deciqai.com/s/strategy-execution-levers"
 ---
 
 # Strategy Execution Levers
@@ -118,3 +118,5 @@ Metric: [behavioral] | Baseline→Target: [X→Y] | Method: [how collected]
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategy-execution-levers** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategy-execution-levers.json*

@@ -1,7 +1,7 @@
 ---
 name: goodharts-law
 description: "Activate when: our KPI is going up but the real outcome isn't improving; people seem to be gaming the metric; we're about to tie bonuses or promotions to a number; an algorithm is producing results nobody intended; a test or audit system is being designed.
-  Do NOT activate when: the metric IS the goal with no proxy gap; measurement is purely descriptive with zero stakes attached."
+  Do NOT activate when: the metric IS the goal with no proxy gap; measurement is purely descriptive with zero stakes attached. More: deciqai.com/s/goodharts-law"
 ---
 
 # Goodhart's Law
@@ -120,3 +120,5 @@ Goal measurement (independent): | Drift threshold: | Retirement criteria: | Owne
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/goodharts-law** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/goodharts-law.json*

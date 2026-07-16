@@ -1,7 +1,7 @@
 ---
 name: door-in-the-face
 description: "Activate when: user asks 'they made a big ask then backed off, should I concede?'; user is designing a negotiation opening and wants to land at a specific price; someone says 'anchor high then retreat' or 'reciprocal concession'; user suspects they are being manipulated by a two-step request pattern.
-  Do NOT activate when: there is only a single offer with no prior refusal (use anchoring instead); the user is asking about foot-in-the-door (small ask first, then large ask — the reverse technique)."
+  Do NOT activate when: there is only a single offer with no prior refusal (use anchoring instead); the user is asking about foot-in-the-door (small ask first, then large ask — the reverse technique). More: deciqai.com/s/door-in-the-face"
 ---
 
 # Door-in-the-Face Technique
@@ -117,3 +117,5 @@ Composes with [`reciprocity`](../reciprocity/SKILL.md) (mechanism), [`anchoring`
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/door-in-the-face** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/door-in-the-face.json*

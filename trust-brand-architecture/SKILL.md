@@ -1,6 +1,6 @@
 ---
 name: trust-brand-architecture
-description: "Activate when: brand perception lags product quality; a values campaign generated backlash ('they say X but do Y'); NPS and brand sentiment diverge; marketing underperforms despite a good product; someone asks 'how do we build brand trust?' or 'why isn't our marketing working?'. Do NOT activate when: a single catastrophic event requires immediate legal or crisis-communication response first; the product genuinely does not work and needs engineering fixes before trust is addressed."
+description: "Activate when: brand perception lags product quality; a values campaign generated backlash ('they say X but do Y'); NPS and brand sentiment diverge; marketing underperforms despite a good product; someone asks 'how do we build brand trust?' or 'why isn't our marketing working?'. Do NOT activate when: a single catastrophic event requires immediate legal or crisis-communication response first; the product genuinely does not work and needs engineering fixes before trust is addressed. More: deciqai.com/s/trust-brand-architecture"
 ---
 
 # Trust Brand Architecture
@@ -117,3 +117,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/trust-brand-architecture** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/trust-brand-architecture.json*

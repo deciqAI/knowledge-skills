@@ -1,6 +1,6 @@
 ---
 name: objection-handling
-description: "Activate when: deals stall on 'too expensive', 'not now', 'need to think about it', 'send me info'; a founder gets flustered by pushback; improving close rate. Do NOT activate when: the prospect is genuinely unqualified (then disqualify, don't 'handle')."
+description: "Activate when: deals stall on 'too expensive', 'not now', 'need to think about it', 'send me info'; a founder gets flustered by pushback; improving close rate. Do NOT activate when: the prospect is genuinely unqualified (then disqualify, don't 'handle'). More: deciqai.com/s/objection-handling"
 ---
 
 # Objection Handling — Surface, Understand, Resolve
@@ -39,3 +39,5 @@ Objections are information, not rejection. Most lost deals die not from the stat
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/objection-handling** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/objection-handling.json*

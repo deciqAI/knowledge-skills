@@ -1,6 +1,6 @@
 ---
 name: when-to-make-first-hires
-description: "Activate when: a founder is deciding whether/what to hire first; 'should I hire now', 'what's my first hire', feeling overloaded, sequencing early roles; hire vs automate. Do NOT activate when: the org is past early-team stage and needs org design/management systems (different scope)."
+description: "Activate when: a founder is deciding whether/what to hire first; 'should I hire now', 'what's my first hire', feeling overloaded, sequencing early roles; hire vs automate. Do NOT activate when: the org is past early-team stage and needs org design/management systems (different scope). More: deciqai.com/s/when-to-make-first-hires"
 ---
 
 # When to Make Your First Hires — Sequence for Leverage
@@ -39,3 +39,5 @@ Early hires are the highest-variance, highest-cost decisions a small founder mak
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/when-to-make-first-hires** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/when-to-make-first-hires.json*

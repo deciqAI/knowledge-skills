@@ -6,6 +6,7 @@ description: >
   anymore"; deciding whether to split a team, open a new office, or add a management layer.
   Do NOT activate when: group is well below 50 and problems are clearly interpersonal; core issue
   is incentive misalignment rather than group size (use principal-agent instead).
+  More: deciqai.com/s/dunbars-number
 ---
 
 # Dunbar's Number
@@ -118,3 +119,5 @@ Prescription: [split / formalize / layer] | Sub-unit targets: [≤150] | Trigger
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/dunbars-number** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/dunbars-number.json*

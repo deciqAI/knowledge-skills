@@ -1,7 +1,7 @@
 ---
 name: probabilistic-thinking
 description: "Activate when: user says 'what are the odds,' 'base rate,' 'Bayesian update,' 'calibration,' or 'what's the probability'; user is making a forecast or estimating a conversion/close/hire/outcome probability; someone claims 'I'm 90% sure' without any evidence grounding; a vivid story is being used in place of a prior frequency; team is treating an uncertain outcome as binary will/won't.
-  Do NOT activate when: the problem has a deterministic answer from its inputs (math, well-defined engineering); the question is about identity, ethics, or meaning rather than fact."
+  Do NOT activate when: the problem has a deterministic answer from its inputs (math, well-defined engineering); the question is about identity, ethics, or meaning rather than fact. More: deciqai.com/s/probabilistic-thinking"
 ---
 
 # Probabilistic Thinking
@@ -115,3 +115,5 @@ Calibration log: date | question | resolution criteria | Brier score after
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/probabilistic-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/probabilistic-thinking.json*

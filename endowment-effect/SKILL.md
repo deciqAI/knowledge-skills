@@ -1,6 +1,6 @@
 ---
 name: endowment-effect
-description: "Activate when: seller is asking way more than buyers will pay; a founder or homeowner insists their asset is worth far more than market comps; a team refuses to cut a feature they built; a free-trial cancellation flow has more friction than signup; someone says 'I've put too much into this to sell for that.' Do NOT activate when: the valuation gap is explained by genuine information asymmetry the seller actually has; the asset is a pure commodity with a transparent live market price (endowment effect is weak when reference prices are salient)."
+description: "Activate when: seller is asking way more than buyers will pay; a founder or homeowner insists their asset is worth far more than market comps; a team refuses to cut a feature they built; a free-trial cancellation flow has more friction than signup; someone says 'I've put too much into this to sell for that.' Do NOT activate when: the valuation gap is explained by genuine information asymmetry the seller actually has; the asset is a pure commodity with a transparent live market price (endowment effect is weak when reference prices are salient). More: deciqai.com/s/endowment-effect"
 ---
 
 # Endowment Effect
@@ -121,3 +121,5 @@ Decision:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/endowment-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/endowment-effect.json*

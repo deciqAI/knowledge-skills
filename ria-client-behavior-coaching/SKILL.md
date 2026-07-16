@@ -1,6 +1,6 @@
 ---
 name: ria-client-behavior-coaching
-description: "Activate when: a market drop has clients wanting to sell; framing performance reviews; onboarding risk tolerance; 'clients panic in downturns,' 'how do I keep them invested?'. Do NOT activate when: a genuine plan change is warranted (don't rationalize a real problem away)."
+description: "Activate when: a market drop has clients wanting to sell; framing performance reviews; onboarding risk tolerance; 'clients panic in downturns,' 'how do I keep them invested?'. Do NOT activate when: a genuine plan change is warranted (don't rationalize a real problem away). More: deciqai.com/s/ria-client-behavior-coaching"
 ---
 
 # RIA — Client Behavior Coaching (Loss Aversion)
@@ -45,3 +45,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [loss-aversion-prospect-theor
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ria-client-behavior-coaching** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ria-client-behavior-coaching.json*

@@ -1,7 +1,7 @@
 ---
 name: signaling-games
 description: "Activate when: user asks 'how do we prove we're high quality when they can't verify it', 'what credential or signal would work here', 'why is everyone spending so much on brand advertising', 'how do we tell who's the real one among these candidates', 'cheap talk isn't working — we need something credible', or describes a market where one side can't verify the other's quality/intentions/type (hiring, fundraising, B2B procurement, branding, M&A due diligence).
-  Do NOT activate when: information is fully symmetric and both parties already know the relevant facts; or the question is about game theory in general without an information asymmetry component."
+  Do NOT activate when: information is fully symmetric and both parties already know the relevant facts; or the question is about game theory in general without an information asymmetry component. More: deciqai.com/s/signaling-games"
 ---
 
 # Signaling Games
@@ -120,3 +120,5 @@ Run the **Signaling Diagnosis**:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/signaling-games** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/signaling-games.json*

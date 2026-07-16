@@ -1,6 +1,6 @@
 ---
 name: freight-double-brokering-exposure
-description: "Activate when: a freight broker faces fraud/double-brokering or non-payment risk; 'the carrier that hauled isn't the one I booked', chargebacks, unpaid carriers coming after the shipper; tracing downstream liability. Do NOT activate when: a fully vetted, tracked, single-carrier move with no anomalies."
+description: "Activate when: a freight broker faces fraud/double-brokering or non-payment risk; 'the carrier that hauled isn't the one I booked', chargebacks, unpaid carriers coming after the shipper; tracing downstream liability. Do NOT activate when: a fully vetted, tracked, single-carrier move with no anomalies. More: deciqai.com/s/freight-double-brokering-exposure"
 ---
 
 # Freight Broker — Double-Brokering & Fraud Exposure
@@ -42,3 +42,5 @@ Booked "ABC Logistics" (new authority, gmail) at a low rate; at delivery the BOL
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-double-brokering-exposure** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/freight-double-brokering-exposure.json*

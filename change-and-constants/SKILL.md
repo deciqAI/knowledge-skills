@@ -1,7 +1,7 @@
 ---
 name: change-and-constants
 description: "Activate when: 'we keep debating whether to pivot or stay the course', 'I don't know what we should never change', 'is this signal or noise?', 'the market shifted — what do we hold onto?', 'we're paralyzed between adapting and staying true to who we are'.
-  Do NOT activate when: the decision is purely operational (which vendor, which tool) with no strategic identity implications; all elements clearly fall into one category and the team already has consensus."
+  Do NOT activate when: the decision is purely operational (which vendor, which tool) with no strategic identity implications; all elements clearly fall into one category and the team already has consensus. More: deciqai.com/s/change-and-constants"
 ---
 
 # Change and Constants Framework
@@ -118,3 +118,5 @@ Both YES = genuine tension → return to first principles. Both NO = stably 不�
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/change-and-constants** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/change-and-constants.json*

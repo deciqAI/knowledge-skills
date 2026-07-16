@@ -1,6 +1,6 @@
 ---
 name: customer-relationship-ladder
-description: "Activate when: a key account renewal is at risk and the team can't explain why the customer values them; someone asks 'how do we become a strategic partner?'; a CSM needs to know where a relationship actually stands; the team claims to be strategic but has no proactive insight delivery this quarter; a deal was lost on relationship despite having the best product. Do NOT activate when: the customer base is transactional high-volume with ACV under $500 (Rung 3–5 is structurally impossible); the customer explicitly prefers arms-length vendor relationships."
+description: "Activate when: a key account renewal is at risk and the team can't explain why the customer values them; someone asks 'how do we become a strategic partner?'; a CSM needs to know where a relationship actually stands; the team claims to be strategic but has no proactive insight delivery this quarter; a deal was lost on relationship despite having the best product. Do NOT activate when: the customer base is transactional high-volume with ACV under $500 (Rung 3–5 is structurally impossible); the customer explicitly prefers arms-length vendor relationships. More: deciqai.com/s/customer-relationship-ladder"
 ---
 
 # Customer Relationship Ladder
@@ -117,3 +117,5 @@ Stop-rule: "What unstated need did we address this quarter?" → blank = cap at 
 - [ ] If Rung 4–5, a proprietary asset the customer cannot source elsewhere has been named
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customer-relationship-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customer-relationship-ladder.json*

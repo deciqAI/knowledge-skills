@@ -1,6 +1,6 @@
 ---
 name: do-things-that-dont-scale
-description: "Activate when: an early founder is over-automating or waiting for growth to be 'efficient'; 'this won't scale', recruiting first users, delivering early service manually; concierge/white-glove starts. Do NOT activate when: the motion is already validated and the task is genuinely to scale it (then systemize/automate)."
+description: "Activate when: an early founder is over-automating or waiting for growth to be 'efficient'; 'this won't scale', recruiting first users, delivering early service manually; concierge/white-glove starts. Do NOT activate when: the motion is already validated and the task is genuinely to scale it (then systemize/automate). More: deciqai.com/s/do-things-that-dont-scale"
 ---
 
 # Do Things That Don't Scale
@@ -39,3 +39,5 @@ Paul Graham's counterintuitive rule: early on, **the unscalable is exactly what 
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/do-things-that-dont-scale** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/do-things-that-dont-scale.json*

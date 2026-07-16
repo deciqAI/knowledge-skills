@@ -1,6 +1,6 @@
 ---
 name: cash-conversion-cycle
-description: "Activate when: a profitable-on-paper business is short on cash; 'we're profitable but always broke', managing working capital, inventory or receivables tying up cash; DSO/DIO/DPO. Do NOT activate when: a pure digital business with instant payment and no inventory/receivables (cycle ~0)."
+description: "Activate when: a profitable-on-paper business is short on cash; 'we're profitable but always broke', managing working capital, inventory or receivables tying up cash; DSO/DIO/DPO. Do NOT activate when: a pure digital business with instant payment and no inventory/receivables (cycle ~0). More: deciqai.com/s/cash-conversion-cycle"
 ---
 
 # Cash Conversion Cycle — Why Profitable Businesses Run Out of Cash
@@ -39,3 +39,5 @@ The cash conversion cycle (CCC) measures **how long cash is trapped between payi
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cash-conversion-cycle** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/cash-conversion-cycle.json*

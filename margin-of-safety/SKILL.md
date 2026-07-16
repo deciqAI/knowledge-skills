@@ -1,7 +1,7 @@
 ---
 name: margin-of-safety
 description: "Activate when: user asks how much buffer to build into a budget, timeline, or investment; someone says 'I might be wrong on my estimate — how much cushion do I need?'; a project or position is running lean and someone wonders if there's enough runway; user mentions Ben Graham, value investing, or 'buying a dollar for fifty cents'; someone is deciding how much to raise or reserve before committing.
-  Do NOT activate when: the domain is fully deterministic with no estimation error; the user is using margin as an excuse to avoid committing to anything (perpetual deferral, not safety)."
+  Do NOT activate when: the domain is fully deterministic with no estimation error; the user is using margin as an excuse to avoid committing to anything (perpetual deferral, not safety). More: deciqai.com/s/margin-of-safety"
 ---
 
 # Margin of Safety
@@ -121,3 +121,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/margin-of-safety** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/margin-of-safety.json*

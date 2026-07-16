@@ -1,6 +1,6 @@
 ---
 name: freight-carrier-vetting-checklist
-description: "Activate when: a freight broker is booking a carrier and must vet authority/insurance/safety before tendering a load; 'is this carrier legit', onboarding a new carrier, preventing fraud/double-brokering. Do NOT activate when: the carrier is an established, already-vetted partner with current records on file."
+description: "Activate when: a freight broker is booking a carrier and must vet authority/insurance/safety before tendering a load; 'is this carrier legit', onboarding a new carrier, preventing fraud/double-brokering. Do NOT activate when: the carrier is an established, already-vetted partner with current records on file. More: deciqai.com/s/freight-carrier-vetting-checklist"
 ---
 
 # Freight Broker — Carrier Vetting Checklist
@@ -44,3 +44,5 @@ Carrier quotes 30% under market, authority active 3 weeks, gmail contact, addres
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/freight-carrier-vetting-checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/freight-carrier-vetting-checklist.json*

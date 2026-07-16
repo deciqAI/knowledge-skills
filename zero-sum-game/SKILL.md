@@ -1,7 +1,7 @@
 ---
 name: zero-sum-game
 description: "Activate when: someone asks 'are we fighting over a fixed pie?', 'should we cooperate or compete?', 'is the market growing or are we just stealing share?', uses phrases like 'winner-take-all', 'race to the bottom', or 'your gain is my loss', or needs to check whether a negotiation/market/policy situation is truly zero-sum before designing strategy.
-  Do NOT activate when: the situation is already confirmed zero-sum (chess, derivatives, fixed-license auctions) and diagnosis is complete — go straight to minimax; or the question is already framed at the equilibrium level — use nash-equilibrium directly."
+  Do NOT activate when: the situation is already confirmed zero-sum (chess, derivatives, fixed-license auctions) and diagnosis is complete — go straight to minimax; or the question is already framed at the equilibrium level — use nash-equilibrium directly. More: deciqai.com/s/zero-sum-game"
 ---
 
 # Zero-Sum Game
@@ -115,3 +115,5 @@ Strategic recommendation: <one paragraph>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/zero-sum-game** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/zero-sum-game.json*

@@ -1,6 +1,6 @@
 ---
 name: knowing-and-doing-as-one
-description: "Activate when: user says 'I know I should but I haven't', a team is stuck in analysis paralysis going in circles, you need to assess whether someone actually learned from a past experience, a strategy or lessons-learned doc has produced no operational change, or an organization keeps repeating the same mistake. Do NOT activate when: the barrier is a demonstrable external constraint (capital, regulation, waiting for a trigger), or when the goal is to shame rather than diagnose."
+description: "Activate when: user says 'I know I should but I haven't', a team is stuck in analysis paralysis going in circles, you need to assess whether someone actually learned from a past experience, a strategy or lessons-learned doc has produced no operational change, or an organization keeps repeating the same mistake. Do NOT activate when: the barrier is a demonstrable external constraint (capital, regulation, waiting for a trigger), or when the goal is to shame rather than diagnose. More: deciqai.com/s/knowing-and-doing-as-one"
 ---
 
 # Knowing and Doing as One
@@ -116,3 +116,5 @@ How I'll know it worked: <observable outcome or new component revealed>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/knowing-and-doing-as-one** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/knowing-and-doing-as-one.json*

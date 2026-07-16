@@ -1,6 +1,6 @@
 ---
 name: mortgage-lo-comp-respa-design
-description: "Activate when: designing/reviewing loan-originator compensation; considering a marketing services agreement (MSA), lead-buy, or referral arrangement; 'can we pay for these referrals?', 'can comp vary by loan?'. Do NOT activate when: unrelated ops incentives with no mortgage-referral nexus."
+description: "Activate when: designing/reviewing loan-originator compensation; considering a marketing services agreement (MSA), lead-buy, or referral arrangement; 'can we pay for these referrals?', 'can comp vary by loan?'. Do NOT activate when: unrelated ops incentives with no mortgage-referral nexus. More: deciqai.com/s/mortgage-lo-comp-respa-design"
 ---
 
 # Mortgage — LO Compensation & RESPA Guardrails
@@ -47,3 +47,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [incentive-design](../incenti
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/mortgage-lo-comp-respa-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/mortgage-lo-comp-respa-design.json*

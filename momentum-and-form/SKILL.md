@@ -1,7 +1,7 @@
 ---
 name: momentum-and-form
 description: "Activate when: user says 'we have a better product but we're losing,' 'they're growing despite less funding,' 'our moat isn't protecting us,' 'the market shifted under us,' 'we just need to hire harder,' or is diagnosing why strong incumbents lose to weaker newcomers, evaluating a market entry, or asking whether a strategy depends too much on specific people.
-  Do NOT activate when: the decision is purely tactical (not strategic), or the context is cooperative/ethical leadership where 'winning configurationally' is the wrong frame."
+  Do NOT activate when: the decision is purely tactical (not strategic), or the context is cooperative/ethical leadership where 'winning configurationally' is the wrong frame. More: deciqai.com/s/momentum-and-form"
 ---
 
 # Momentum and Form
@@ -116,3 +116,5 @@ Falsifier: [what would tell you this diagnosis is wrong]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/momentum-and-form** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/momentum-and-form.json*

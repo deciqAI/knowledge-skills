@@ -1,6 +1,6 @@
 ---
 name: dual-system-thinking
-description: "Activate when: a decision feels obvious but the stakes are high; someone says 'I just trust my gut' on a consequential call; a team is converging fast without pushback; you're tired or pressured and still need to decide; you're in an unfamiliar domain moving on instinct. Do NOT activate when: the decision is genuinely routine and low-stakes; you have well-trained calibrated expert intuition in that exact domain and need to act fast."
+description: "Activate when: a decision feels obvious but the stakes are high; someone says 'I just trust my gut' on a consequential call; a team is converging fast without pushback; you're tired or pressured and still need to decide; you're in an unfamiliar domain moving on instinct. Do NOT activate when: the decision is genuinely routine and low-stakes; you have well-trained calibrated expert intuition in that exact domain and need to act fast. More: deciqai.com/s/dual-system-thinking"
 ---
 
 # Dual-System Thinking (System 1 / System 2)
@@ -115,3 +115,5 @@ High-stakes decision feels obvious and you're not checking it · tired/pressured
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/dual-system-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/dual-system-thinking.json*

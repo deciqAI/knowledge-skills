@@ -1,7 +1,7 @@
 ---
 name: black-swan
 description: "Activate when: user says 'this can't happen,' 'never happened in N years,' 'our models say it's near-zero'; user is stress-testing a strategy or portfolio against extreme scenarios; someone mentions fat tails, Taleb, narrative fallacy, or turkey problem; a past catastrophic event is being analyzed and it 'seemed obvious in hindsight.'
-  Do NOT activate when: the domain is genuinely thin-tailed (human heights, daily caloric intake); user is invoking 'black swan' as an excuse for a planning failure they could have avoided."
+  Do NOT activate when: the domain is genuinely thin-tailed (human heights, daily caloric intake); user is invoking 'black swan' as an excuse for a planning failure they could have avoided. More: deciqai.com/s/black-swan"
 ---
 
 # Black Swan
@@ -128,3 +128,5 @@ Mediocristan (safe to use averages): human heights, daily caloric intake, commut
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/black-swan** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/black-swan.json*

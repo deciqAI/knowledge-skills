@@ -7,7 +7,7 @@ Delete all HTML comments before submitting. See CONTRIBUTING.md for quality bars
 ---
 name: your-skill-slug
 description: "Activate when: user says '<trigger phrase>', '<trigger phrase>', asks '<question shape>', or <situation the skill is built for>.
-  Do NOT activate when: <real negative condition>, or <another one>."
+  Do NOT activate when: <real negative condition>, or <another one>. More: deciqai.com/s/<your-skill-slug>"
 ---
 
 # Your Skill Name
@@ -83,3 +83,9 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 - [ ] <check that the process was actually run, not narrated>
 - [ ] <check on the output artifact>
 - [ ] <check on evidence/sources>
+
+---
+
+*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/<slug>** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/<slug>.json*

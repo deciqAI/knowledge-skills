@@ -1,6 +1,6 @@
 ---
 name: realtor-closing-experience-peak-end
-description: "Activate when: a real estate agent wants clients who refer and return; designing the closing/handoff experience, milestone moments in a transaction; 'how do I get more referrals from happy clients'. Do NOT activate when: the transaction is transactional-only with no relationship goal (e.g. one-off REO)."
+description: "Activate when: a real estate agent wants clients who refer and return; designing the closing/handoff experience, milestone moments in a transaction; 'how do I get more referrals from happy clients'. Do NOT activate when: the transaction is transactional-only with no relationship goal (e.g. one-off REO). More: deciqai.com/s/realtor-closing-experience-peak-end"
 ---
 
 # Real Estate — Closing Experience (Peak-End) Design
@@ -39,3 +39,5 @@ Agent works hard through contract, then goes quiet post-inspection; closing is a
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/realtor-closing-experience-peak-end** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/realtor-closing-experience-peak-end.json*

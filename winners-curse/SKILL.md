@@ -2,7 +2,7 @@
 name: winners-curse
 description: "In a common-value auction where all bidders estimate the SAME uncertain value, the winner is systematically the one who most OVER-estimated it — so winning is bad news that you likely overpaid. The discipline is to shade your bid for the adverse selection of winning, condition your estimate on the fact that you won, and pre-commit to a value-conditioned walk-away ceiling.
   Activate when: user is bidding in an auction, acquisition, or competitive process for something with a shared uncertain value ('what should we bid', 'we won — did we overpay', 'how high do we go', 'auction', 'best-and-final', 'competitive M&A / acquihire', 'ad auction / max CPC', 'bidding war', 'we keep losing deals — should we bid more'), or someone treats winning a contested bid as pure good news.
-  Do NOT activate when: the value is PRIVATE (tastes differ, so 'you' knowing what it's worth to you is not an estimate of a shared truth) and there is no common-value component; there is a single buyer/seller with no competing bidders; the item's value is known with near-certainty."
+  Do NOT activate when: the value is PRIVATE (tastes differ, so 'you' knowing what it's worth to you is not an estimate of a shared truth) and there is no common-value component; there is a single buyer/seller with no competing bidders; the item's value is known with near-certainty. More: deciqai.com/s/winners-curse"
 ---
 
 # Winner's Curse
@@ -155,3 +155,5 @@ Exception log (value-based only): <blank until used>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/winners-curse** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/winners-curse.json*

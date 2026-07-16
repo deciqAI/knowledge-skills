@@ -1,7 +1,7 @@
 ---
 name: network-effects
 description: "Activate when: user says 'we have network effects,' 'winner-take-most,' 'two-sided platform,' 'Metcalfe's law,' 'marketplace liquidity,' or 'the more users the better'; user is building a marketplace, social product, communication tool, or platform and needs to model when the dynamic activates; user is evaluating whether a competitor's moat claim is structural or rhetorical.
-  Do NOT activate when: the product is standard B2B SaaS with no interaction between customers; the claimed 'network effect' is lower hosting cost at scale (that is a cost-side scale economy, not a value-side effect)."
+  Do NOT activate when: the product is standard B2B SaaS with no interaction between customers; the claimed 'network effect' is lower hosting cost at scale (that is a cost-side scale economy, not a value-side effect). More: deciqai.com/s/network-effects"
 ---
 
 # Network Effects
@@ -119,3 +119,5 @@ Run the **Network-Effect Audit**: diagnose, classify, size, design.
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/network-effects** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/network-effects.json*

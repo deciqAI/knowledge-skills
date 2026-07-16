@@ -1,7 +1,7 @@
 ---
 name: three-radius-model
 description: "Activate when: user says 'I know what to do but I'm not doing it', 'we understand the problem but can't fix it', 'effort isn't translating to results', 'why isn't our team executing?', or 'I feel stuck despite being competent'. Also activate for pre-planning skill development or post-mortem gap analysis.
-  Do NOT activate when: the gap is already identified and the solution is purely tactical (just execute); or when organizational constraints (not individual gaps) are clearly the sole cause."
+  Do NOT activate when: the gap is already identified and the solution is purely tactical (just execute); or when organizational constraints (not individual gaps) are clearly the sole cause. More: deciqai.com/s/three-radius-model"
 ---
 
 # Three-Radius Model — 认知/能力/行动三半径
@@ -117,3 +117,5 @@ Priority: Cognition-Capability → [item + action] | Capability-Action → [item
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/three-radius-model** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/three-radius-model.json*

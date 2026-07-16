@@ -1,7 +1,7 @@
 ---
 name: kotter-change
 description: "Activate when: user says 'our change initiative is stalling', 'people aren't adopting the new way', 'we launched the transformation but nothing changed', 'how do we overcome resistance to change', 'why do transformation efforts fail', or asks how to sequence or diagnose a planned organizational change.
-  Do NOT activate when: the change is a small process improvement in a stable team (use PDCA instead), or the situation is a crisis requiring immediate command-and-control response."
+  Do NOT activate when: the change is a small process improvement in a stable team (use PDCA instead), or the situation is a crisis requiring immediate command-and-control response. More: deciqai.com/s/kotter-change"
 ---
 
 # Kotter's 8-Step Change Model
@@ -115,3 +115,5 @@ Scores 4–5 require pre-treatment before the corresponding step.
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/kotter-change** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/kotter-change.json*

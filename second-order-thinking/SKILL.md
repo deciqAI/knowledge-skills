@@ -1,6 +1,6 @@
 ---
 name: second-order-thinking
-description: "Activate when: user says 'and then what?', 'what are the second-order effects?', 'what could go wrong downstream?', 'what happens once everyone does this?', or brings a decision where the immediate effect is clear but downstream effects are not, or says 'everyone agrees this is good.' Do NOT activate when: the decision is genuinely low-stakes and reversible (e.g., a variable rename), or the user lacks a causal model and needs to build understanding first before tracing consequences."
+description: "Activate when: user says 'and then what?', 'what are the second-order effects?', 'what could go wrong downstream?', 'what happens once everyone does this?', or brings a decision where the immediate effect is clear but downstream effects are not, or says 'everyone agrees this is good.' Do NOT activate when: the decision is genuinely low-stakes and reversible (e.g., a variable rename), or the user lacks a causal model and needs to build understanding first before tracing consequences. More: deciqai.com/s/second-order-thinking"
 ---
 
 # Second-Order Thinking
@@ -119,3 +119,5 @@ The Consequence Cascade runs the same way everywhere, but actors, equilibrium me
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/second-order-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/second-order-thinking.json*

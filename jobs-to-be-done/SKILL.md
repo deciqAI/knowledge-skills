@@ -1,7 +1,7 @@
 ---
 name: jobs-to-be-done
 description: "Activate when: user says 'customers aren't switching to us even though we're better,' 'our churn surveys aren't predicting who actually leaves,' 'we're debating features instead of what the customer actually needs,' 'who is our real customer,' or mentions 'JTBD / jobs to be done / what are they hiring this for.'
-  Do NOT activate when: product is a commodity with no job-level differentiation (electricity, raw materials); purchase is driven entirely by regulatory/legal compliance with no real customer choice."
+  Do NOT activate when: product is a commodity with no job-level differentiation (electricity, raw materials); purchase is driven entirely by regulatory/legal compliance with no real customer choice. More: deciqai.com/s/jobs-to-be-done"
 ---
 
 # Jobs to Be Done (JTBD)
@@ -119,3 +119,5 @@ Implications: Features to build / cut / Marketing angle / Competitive set to tra
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/jobs-to-be-done** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/jobs-to-be-done.json*

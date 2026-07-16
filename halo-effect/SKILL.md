@@ -1,7 +1,7 @@
 ---
 name: halo-effect
 description: "Activate when: user is conducting a performance review or hiring interview; someone says 'she's great across the board' or 'everything they do is excellent'; user is evaluating a vendor, CEO, or investment and all attributes look uniformly positive or negative; user is reading business books or analyst reports and wants to assess whether the lessons generalize; user suspects their overall impression of a person or brand is distorting specific judgments.
-  Do NOT activate when: the global impression is itself the legitimate judgment (e.g., overall product satisfaction driving a purchase); attribute-by-attribute analysis would cause decision paralysis."
+  Do NOT activate when: the global impression is itself the legitimate judgment (e.g., overall product satisfaction driving a purchase); attribute-by-attribute analysis would cause decision paralysis. More: deciqai.com/s/halo-effect"
 ---
 
 # Halo Effect
@@ -120,3 +120,5 @@ Adjusted decision: real-evidence attrs | halo-inflated attrs | action
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/halo-effect** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/halo-effect.json*

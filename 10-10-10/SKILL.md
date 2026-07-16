@@ -3,6 +3,7 @@ name: 10-10-10
 description: >
   Activate when: someone is making a decision under emotional pressure and worries they'll regret it later; someone says "I know I should do X but it feels too scary right now"; someone is about to quit, accept an offer, end a relationship, or have a hard conversation and is stuck; someone mentions "regret minimization," "what would future me say," or "Suzy Welch."
   Do NOT activate when: the decision has no medium- or long-term consequences (e.g., which lunch to order); the decision belongs to someone else and the user is being asked to ratify it.
+  More: deciqai.com/s/10-10-10
 ---
 
 # 10-10-10
@@ -118,3 +119,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/10-10-10** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/10-10-10.json*

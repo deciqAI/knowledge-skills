@@ -1,6 +1,6 @@
 ---
 name: narrow-gate-strategy
-description: "Activate when: user says 'this is taking too long', 'everyone else is doing X', 'should we take the easier path', 'is this worth it', 'we need to build a moat', 'choosing which capability to invest in long-term', or 'should we persist or pivot on this hard path'. Do NOT activate when: the path is only hard but not value-building (sunk-cost rationalization), or when the vindication horizon exceeds the organization's survival window."
+description: "Activate when: user says 'this is taking too long', 'everyone else is doing X', 'should we take the easier path', 'is this worth it', 'we need to build a moat', 'choosing which capability to invest in long-term', or 'should we persist or pivot on this hard path'. Do NOT activate when: the path is only hard but not value-building (sunk-cost rationalization), or when the vindication horizon exceeds the organization's survival window. More: deciqai.com/s/narrow-gate-strategy"
 ---
 
 # Narrow Gate Strategy
@@ -116,3 +116,5 @@ Survivability: Min resource threshold P2: / Runway: / Survivable?:
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/narrow-gate-strategy** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/narrow-gate-strategy.json*

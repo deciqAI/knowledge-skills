@@ -1,7 +1,7 @@
 ---
 name: chestertons-fence
 description: "Activate when: someone says 'let's just remove this', 'why do we still have this rule?', 'this seems useless/outdated', 'nobody knows why this is here', new leadership restructuring without knowing the history, a developer deleting code whose purpose isn't documented, a regulator repealing a law without tracing its origin.
-  Do NOT activate when: the fence's history is fully documented and the documented purpose is confirmed obsolete (investigation already done); the reformer is the original builder and the rationale is fully understood."
+  Do NOT activate when: the fence's history is fully documented and the documented purpose is confirmed obsolete (investigation already done); the reformer is the original builder and the rationale is fully understood. More: deciqai.com/s/chestertons-fence"
 ---
 
 # Chesterton's Fence
@@ -120,3 +120,5 @@ Docs: updated fence docs / removal note / monitoring owner + rebuild criteria
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/chestertons-fence** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/chestertons-fence.json*

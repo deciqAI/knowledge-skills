@@ -1,7 +1,7 @@
 ---
 name: k-factor-viral
 description: "Activate when: user says 'viral coefficient,' 'K-factor,' 'going viral,' 'our product is viral,' 'referral program,' 'invite mechanic,' 'built in sharing,' growth plateauing despite viral elements, or a growth forecast is being justified by virality without a K calculation.
-  Do NOT activate when: product is B2B enterprise (sales-led growth); focus is engagement/retention not new-user acquisition; product has not yet achieved PMF."
+  Do NOT activate when: product is B2B enterprise (sales-led growth); focus is engagement/retention not new-user acquisition; product has not yet achieved PMF. More: deciqai.com/s/k-factor-viral"
 ---
 
 # K-Factor and Viral Coefficient
@@ -118,3 +118,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/k-factor-viral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/k-factor-viral.json*

@@ -1,6 +1,6 @@
 ---
 name: insurance-suitability-principal-agent
-description: "Activate when: an insurance agent's compensation conflicts with the client's best coverage; 'which product do I recommend', commission-driven product choice, captive vs independent conflicts, best-interest duty. Do NOT activate when: no recommendation is being made (pure servicing) or no conflict exists."
+description: "Activate when: an insurance agent's compensation conflicts with the client's best coverage; 'which product do I recommend', commission-driven product choice, captive vs independent conflicts, best-interest duty. Do NOT activate when: no recommendation is being made (pure servicing) or no conflict exists. More: deciqai.com/s/insurance-suitability-principal-agent"
 ---
 
 # Insurance Agent — Suitability & Principal-Agent Conflict
@@ -40,3 +40,5 @@ Two annuities fit; one pays you 2× commission.
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/insurance-suitability-principal-agent** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/insurance-suitability-principal-agent.json*

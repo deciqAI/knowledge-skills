@@ -1,6 +1,6 @@
 ---
 name: estimated-tax-safety-buffer
-description: "Activate when: self-employed / K-1 / variable-income client planning quarterly 1040-ES; 'how much should I set aside?', 'will I owe a penalty?', volatile income year. Do NOT activate when: W-2 withholding fully covers liability."
+description: "Activate when: self-employed / K-1 / variable-income client planning quarterly 1040-ES; 'how much should I set aside?', 'will I owe a penalty?', volatile income year. Do NOT activate when: W-2 withholding fully covers liability. More: deciqai.com/s/estimated-tax-safety-buffer"
 ---
 
 # Tax Prep — Estimated-Tax Safe-Harbor Buffer
@@ -43,3 +43,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [margin-of-safety](../margin-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/estimated-tax-safety-buffer** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/estimated-tax-safety-buffer.json*

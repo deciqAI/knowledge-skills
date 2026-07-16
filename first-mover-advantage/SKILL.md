@@ -1,6 +1,6 @@
 ---
 name: first-mover-advantage
-description: "Activate when: user asks 'should we move first or wait?', 'is it too late to enter this market?', 'how long can they hold their lead?', 'what makes the first mover hard to beat here?', or needs to assess how durable a market leader's position is or map where a pioneer's advantages are weakest. Do NOT activate when: no one has entered the market yet and the question is whether the market exists at all; or when the decision is primarily about execution quality rather than entry timing."
+description: "Activate when: user asks 'should we move first or wait?', 'is it too late to enter this market?', 'how long can they hold their lead?', 'what makes the first mover hard to beat here?', or needs to assess how durable a market leader's position is or map where a pioneer's advantages are weakest. Do NOT activate when: no one has entered the market yet and the question is whether the market exists at all; or when the decision is primarily about execution quality rather than entry timing. More: deciqai.com/s/first-mover-advantage"
 ---
 
 # First-Mover Advantage
@@ -118,3 +118,5 @@ Key evidence: <specific observable mechanism per source>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/first-mover-advantage** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/first-mover-advantage.json*

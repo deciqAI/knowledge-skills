@@ -1,7 +1,7 @@
 ---
 name: strategic-spiral-momentum
 description: "Activate when: organization's strategy is losing momentum despite doing the right things; team disagrees on which strategic phase they're in; deciding whether to push deeper into current strategy or start a new cycle; setting phase-appropriate goals and resource allocation; preparing a mid-cycle board or investor assessment.
-  Do NOT activate when: individual career or personal strategy planning (use shi-momentum); single-product feature prioritization; organization is in true crisis/turnaround mode."
+  Do NOT activate when: individual career or personal strategy planning (use shi-momentum); single-product feature prioritization; organization is in true crisis/turnaround mode. More: deciqai.com/s/strategic-spiral-momentum"
 ---
 
 # Strategic Spiral Momentum
@@ -111,3 +111,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-spiral-momentum** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategic-spiral-momentum.json*

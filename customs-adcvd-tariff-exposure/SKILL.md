@@ -1,6 +1,6 @@
 ---
 name: customs-adcvd-tariff-exposure
-description: "Activate when: goods may fall under an antidumping/countervailing duty order or Section 301; sourcing changes; 'are we exposed to AD/CVD or 301?'; scope ambiguity. Do NOT activate when: product clearly outside any order and no special tariff applies."
+description: "Activate when: goods may fall under an antidumping/countervailing duty order or Section 301; sourcing changes; 'are we exposed to AD/CVD or 301?'; scope ambiguity. Do NOT activate when: product clearly outside any order and no special tariff applies. More: deciqai.com/s/customs-adcvd-tariff-exposure"
 ---
 
 # Customs — AD/CVD & Tariff Exposure Cascade
@@ -48,3 +48,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [second-order-thinking](../se
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customs-adcvd-tariff-exposure** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customs-adcvd-tariff-exposure.json*

@@ -1,7 +1,7 @@
 ---
 name: tunnel-vision-slack
 description: "Activate when: user says 'I'm always firefighting,' 'I never have time to think,' 'everything feels urgent,' 'I can't get ahead,' or 'we keep pushing strategic work because of day-to-day fires.'
-  Do NOT activate when: the urgency is a single bounded crisis with a clear end date; or the person lacks goal clarity and does not yet know what strategic work to protect time for."
+  Do NOT activate when: the urgency is a single bounded crisis with a clear end date; or the person lacks goal clarity and does not yet know what strategic work to protect time for. More: deciqai.com/s/tunnel-vision-slack"
 ---
 
 # Tunnel Vision & Slack
@@ -118,3 +118,5 @@ Outside-the-tunnel activities: [Activity 1] / [Activity 2] / [Activity 3]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/tunnel-vision-slack** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/tunnel-vision-slack.json*

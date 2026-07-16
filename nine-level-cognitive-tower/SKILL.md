@@ -1,7 +1,7 @@
 ---
 name: nine-level-cognitive-tower
 description: "Activate when: user says 'how do I level up my thinking', 'why do I keep copying others', 'I don't know what I don't know', 'how do I develop independent judgment', or their reasoning shows systematic deference to authority, inability to form original views, or frustration at being stuck at the same thinking level for years.
-  Do NOT activate when: the person needs domain knowledge rather than thinking structure (content gap, not cognition gap), or when motivation and engagement are the real issue rather than cognitive development."
+  Do NOT activate when: the person needs domain knowledge rather than thinking structure (content gap, not cognition gap), or when motivation and engagement are the real issue rather than cognitive development. More: deciqai.com/s/nine-level-cognitive-tower"
 ---
 
 # Nine-Level Cognitive Tower
@@ -118,3 +118,5 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/nine-level-cognitive-tower** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/nine-level-cognitive-tower.json*

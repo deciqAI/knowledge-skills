@@ -1,7 +1,7 @@
 ---
 name: lateral-thinking
 description: "Activate when: user says 'we've tried everything,' 'think outside the box,' 'we need a breakthrough,' 'challenge assumptions,' or 'how might we'; a team keeps cycling through the same 2-3 options; an industry assumption has gone unchallenged for years; conventional analysis keeps returning to the same answer.
-  Do NOT activate when: the problem has a mathematical or logical optimum where vertical analysis gives a definitive answer; time pressure requires a decision in under 5 minutes."
+  Do NOT activate when: the problem has a mathematical or logical optimum where vertical analysis gives a definitive answer; time pressure requires a decision in under 5 minutes. More: deciqai.com/s/lateral-thinking"
 ---
 
 # Lateral Thinking
@@ -118,3 +118,5 @@ Contribute a pack: top 5 assumption targets + richest stimulation sources + 2–
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/lateral-thinking** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/lateral-thinking.json*

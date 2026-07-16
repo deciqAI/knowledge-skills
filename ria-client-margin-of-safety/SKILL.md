@@ -1,6 +1,6 @@
 ---
 name: ria-client-margin-of-safety
-description: "Activate when: building a retirement/decumulation plan; setting cash buffers/withdrawal rates; stress-testing a plan; client near retirement; 'will they be okay if markets drop early?'. Do NOT activate when: pure accumulation with long horizon and no near-term draws."
+description: "Activate when: building a retirement/decumulation plan; setting cash buffers/withdrawal rates; stress-testing a plan; client near retirement; 'will they be okay if markets drop early?'. Do NOT activate when: pure accumulation with long horizon and no near-term draws. More: deciqai.com/s/ria-client-margin-of-safety"
 ---
 
 # RIA — Client Plan Margin of Safety
@@ -44,3 +44,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [margin-of-safety](../margin-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/ria-client-margin-of-safety** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/ria-client-margin-of-safety.json*

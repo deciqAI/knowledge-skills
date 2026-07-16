@@ -1,7 +1,7 @@
 ---
 name: cognitive-load-theory
 description: "Activate when: someone says 'this is too much to take in at once', 'learners aren't getting it despite good material', 'our onboarding is overwhelming new hires', 'why does this tutorial confuse people', 'how do I design training that actually works', 'this documentation is hard to follow', 'cognitive load', 'working memory'.
-  Do NOT activate when: the audience is already expert (expertise-reversal applies — novice techniques frustrate experts); the bottleneck is motivational rather than cognitive."
+  Do NOT activate when: the audience is already expert (expertise-reversal applies — novice techniques frustrate experts); the bottleneck is motivational rather than cognitive. More: deciqai.com/s/cognitive-load-theory"
 ---
 
 # Cognitive Load Theory
@@ -114,3 +114,5 @@ Test plan: target learner · comprehension test · iteration trigger · owner
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cognitive-load-theory** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/cognitive-load-theory.json*

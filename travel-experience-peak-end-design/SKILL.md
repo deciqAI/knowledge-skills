@@ -1,6 +1,6 @@
 ---
 name: travel-experience-peak-end-design
-description: "Activate when: designing an itinerary you want remembered and referred; planning honeymoon/milestone/luxury trips; 'how do I get repeat clients and referrals?'; setting surprise-and-delight touches. Do NOT activate when: pure transactional booking with no relationship goal."
+description: "Activate when: designing an itinerary you want remembered and referred; planning honeymoon/milestone/luxury trips; 'how do I get repeat clients and referrals?'; setting surprise-and-delight touches. Do NOT activate when: pure transactional booking with no relationship goal. More: deciqai.com/s/travel-experience-peak-end-design"
 ---
 
 # Travel Advisor — Peak-End Experience Design
@@ -43,3 +43,5 @@ Part of **deciqAI Knowledge Skills**. Core method: [peak-end-rule](../peak-end-r
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/travel-experience-peak-end-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/travel-experience-peak-end-design.json*

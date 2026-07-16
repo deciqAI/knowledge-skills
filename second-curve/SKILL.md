@@ -1,6 +1,6 @@
 ---
 name: second-curve
-description: "Activate when: user says 'our growth is slowing and we need to figure out what's next', 'we keep doubling down on the core but I'm worried about disruption', 'when is the right time to start something new alongside the main business', 'should we diversify now or wait', 'competitors are moving into adjacent spaces'. Do NOT activate when: the company has not yet reached product-market fit; resources are so constrained that any investment outside the core would kill the business."
+description: "Activate when: user says 'our growth is slowing and we need to figure out what's next', 'we keep doubling down on the core but I'm worried about disruption', 'when is the right time to start something new alongside the main business', 'should we diversify now or wait', 'competitors are moving into adjacent spaces'. Do NOT activate when: the company has not yet reached product-market fit; resources are so constrained that any investment outside the core would kill the business. More: deciqai.com/s/second-curve"
 ---
 
 # The Second Curve
@@ -117,3 +117,5 @@ Defense: success-attribution <…> / resource-attachment <…> / identity <…>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/second-curve** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/second-curve.json*

@@ -1,6 +1,6 @@
 ---
 name: founder-trajectory-matrix
-description: "Activate when: a founder says they're hitting a ceiling despite working harder; a founding team keeps fighting about who makes decisions; someone asks 'why do some founders progress faster than me?' or 'do I need a co-founder?'; a founder is moving from early stage to scaling and things that worked before are now breaking. Do NOT activate when: the real constraint is product-market fit, runway, or capital (use pmf-crossing-the-chasm or jobs-to-be-done instead); the founder has operated fewer than 6 months and lacks behavioral data to diagnose."
+description: "Activate when: a founder says they're hitting a ceiling despite working harder; a founding team keeps fighting about who makes decisions; someone asks 'why do some founders progress faster than me?' or 'do I need a co-founder?'; a founder is moving from early stage to scaling and things that worked before are now breaking. Do NOT activate when: the real constraint is product-market fit, runway, or capital (use pmf-crossing-the-chasm or jobs-to-be-done instead); the founder has operated fewer than 6 months and lacks behavioral data to diagnose. More: deciqai.com/s/founder-trajectory-matrix"
 ---
 
 # Founder Trajectory Matrix
@@ -117,3 +117,5 @@ Domain-specific extensions adding behavioral signatures calibrated to a specific
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-trajectory-matrix** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/founder-trajectory-matrix.json*

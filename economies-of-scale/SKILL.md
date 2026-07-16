@@ -7,6 +7,7 @@ description: >
   or deciding whether to invest in capacity ahead of demand.
   Do NOT activate when: the advantage is demand-side value growth with users (use network-effects
   instead); the business competes on differentiation/IP/relationships where cost is not the driver.
+  More: deciqai.com/s/economies-of-scale
 ---
 
 # Economies of Scale
@@ -120,3 +121,5 @@ Decision:        Below/at/beyond MES | Action | Stop rule
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/economies-of-scale** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/economies-of-scale.json*

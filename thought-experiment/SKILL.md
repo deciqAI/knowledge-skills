@@ -1,6 +1,6 @@
 ---
 name: thought-experiment
-description: "Activate when: user says 'what if,' 'let's reason through this,' 'imagine that,' or 'thought experiment'; a strategic decision is too risky or irreversible to test empirically; someone wants to refute a claim by reasoning rather than data; hidden assumptions in a business model need surfacing; counterfactual or ethical analysis is requested. Do NOT activate when: the question can be empirically tested at reasonable cost; time pressure makes structured reasoning impractical."
+description: "Activate when: user says 'what if,' 'let's reason through this,' 'imagine that,' or 'thought experiment'; a strategic decision is too risky or irreversible to test empirically; someone wants to refute a claim by reasoning rather than data; hidden assumptions in a business model need surfacing; counterfactual or ethical analysis is requested. Do NOT activate when: the question can be empirically tested at reasonable cost; time pressure makes structured reasoning impractical. More: deciqai.com/s/thought-experiment"
 ---
 
 # Thought Experiment
@@ -115,3 +115,5 @@ Application: what follows | next step
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/thought-experiment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/thought-experiment.json*

@@ -1,6 +1,6 @@
 ---
 name: cynefin
-description: "Activate when: 'our best practices keep failing', 'experts disagree on the right answer', 'the old playbook isn't working', 'we're in crisis and don't know what to do first', 'best practice doesn't apply here', 'we need a different approach'. Do NOT activate when: situation is unambiguously routine (execution only); a specialized tool (OODA, expected value) already fits."
+description: "Activate when: 'our best practices keep failing', 'experts disagree on the right answer', 'the old playbook isn't working', 'we're in crisis and don't know what to do first', 'best practice doesn't apply here', 'we need a different approach'. Do NOT activate when: situation is unambiguously routine (execution only); a specialized tool (OODA, expected value) already fits. More: deciqai.com/s/cynefin"
 ---
 
 # Cynefin
@@ -118,3 +118,5 @@ Boundary watch: [shift signals | monitoring owner | re-diagnosis schedule]
 ---
 
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cynefin** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/cynefin.json*

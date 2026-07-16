@@ -1,6 +1,6 @@
 ---
 name: referral-loop-design
-description: "Activate when: a founder wants customers to bring customers; 'how do we get referrals / word of mouth', designing a referral program, improving virality; loops, incentives, timing. Do NOT activate when: the product has weak retention/love (fix that first — referrals amplify a leaky bucket)."
+description: "Activate when: a founder wants customers to bring customers; 'how do we get referrals / word of mouth', designing a referral program, improving virality; loops, incentives, timing. Do NOT activate when: the product has weak retention/love (fix that first — referrals amplify a leaky bucket). More: deciqai.com/s/referral-loop-design"
 ---
 
 # Referral Loop Design — Turn Customers into a Channel
@@ -39,3 +39,5 @@ A referral loop is a **repeatable cycle where using the product produces new use
 
 ---
 *Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/referral-loop-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/referral-loop-design.json*
