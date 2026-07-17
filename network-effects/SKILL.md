@@ -118,6 +118,6 @@ Run the **Network-Effect Audit**: diagnose, classify, size, design.
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/network-effects** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/network-effects** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/network-effects.json*

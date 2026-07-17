@@ -116,6 +116,6 @@ Domain-specific extensions adding behavioral signatures calibrated to a specific
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-trajectory-matrix** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/founder-trajectory-matrix** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/founder-trajectory-matrix.json*

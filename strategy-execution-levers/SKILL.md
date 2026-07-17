@@ -117,6 +117,6 @@ Metric: [behavioral] | Baseline→Target: [X→Y] | Method: [how collected]
 - [ ] Single named owner — not a committee? Earlier levers confirmed stable?
 
 ---
-*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategy-execution-levers** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategy-execution-levers** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategy-execution-levers.json*

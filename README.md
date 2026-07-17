@@ -2,7 +2,7 @@
 
 **Open-source thinking-framework skills that make rigorous reasoning executable for AI agents.**
 
-227 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
+228 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) · Built by [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) · Contributions welcome
 
@@ -10,7 +10,7 @@
 
 ## Install
 
-Add all 227 skills:
+Add all 228 skills:
 
 ```bash
 npx skills add deciqAI/knowledge-skills
@@ -66,6 +66,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Confirmation Bias](./confirmation-bias) | [↗](https://www.deciqai.com/skills/confirmation-bias?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Confirmation bias is the systematic tendency to seek, interpret, remember, and weight evidence in ways that support existing beliefs — and to correspondingly miss disconfirming evi |
 | [Content Led Growth](./content-led-growth) | [↗](https://www.deciqai.com/skills/content-led-growth?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Content-led growth turns a website into a compounding acquisition asset by covering the topics your buyers search, organized as pillar + cluster pages that build topical authority. |
 | [Continuous Discovery](./continuous-discovery) | [↗](https://www.deciqai.com/skills/continuous-discovery?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Continuous discovery (Teresa Torres, Continuous Discovery Habits, 2021) replaces one-off research with a weekly cadence of customer touchpoints by the team building the product, st |
+| [Contrarian Question](./contrarian-question) | [↗](https://www.deciqai.com/skills/contrarian-question?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Peter Thiel opens Zero to One (2014) with an interview question he says he asks constantly: "What important truth do very few people agree with you on?" Its business translation as |
 | [Critical Thinking](./critical-thinking) | [↗](https://www.deciqai.com/skills/critical-thinking?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Critical thinking evaluates a conclusion by explicitly testing it against alternative interpretations — the conclusion that survives the most disconfirmation attempts is the one to |
 | [Cross Disciplinary Creativity](./cross-disciplinary-creativity) | [↗](https://www.deciqai.com/skills/cross-disciplinary-creativity?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Importing an actual mechanism from a foreign domain and applying it structurally to a home-domain problem — producing a configuration no expert in either field could conceive alone |
 | [Curiosity Learning Curve](./curiosity-learning-curve) | [↗](https://www.deciqai.com/skills/curiosity-learning-curve?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Biological learning capacity remains measurable into the 70s and 80s. |
@@ -279,4 +280,4 @@ New skills and improvements to existing ones are welcome — see [CONTRIBUTING.m
 
 ---
 
-These are the same 227 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
+These are the same 228 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.

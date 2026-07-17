@@ -38,6 +38,6 @@ From *Traction* (Weinberg & Mares, 2014): most startups die from **lack of distr
 - [ ] Focus concentrated on the single working channel
 
 ---
-*Part of **deciqAI Knowledge Skills** — 227 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/bullseye-traction-channels** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/bullseye-traction-channels** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/bullseye-traction-channels.json*
