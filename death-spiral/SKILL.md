@@ -1,7 +1,7 @@
 ---
 name: death-spiral
 description: "Activate when: user says 'we're losing market share,' 'our growth keeps slowing and I don't know why,' 'a competitor is gaining on us fast,' 'what's the worst-case trajectory here,' or a business shows two or more consecutive quarters of declining key metrics with no identified reversal mechanism.
-  Do NOT activate when: decline is clearly seasonal or macro-cyclical with demonstrated historical recovery; or the company is pre-product/pre-revenue with no existing moat to audit. More: deciqai.com/s/death-spiral"
+  Do NOT activate when: decline is clearly seasonal or macro-cyclical with demonstrated historical recovery; or the company is pre-product/pre-revenue with no existing moat to audit."
 ---
 
 # Death Spiral
@@ -16,6 +16,7 @@ A death spiral is a self-reinforcing negative feedback loop in competitive marke
 - Competitor has established a durable product, distribution, or network advantage
 - R&D budget being cut in response to revenue shortfalls (most dangerous early-spiral indicator)
 - Leadership team minimizing a competitive threat as "temporary" without quantitative analysis
+- A free general-purpose AI tool is doing the job your product charges for — growth slowed since a model release and "add AI features" is the whole response plan
 
 **When NOT to use:** Decline is cyclical with demonstrated historical recovery; company is pre-product/pre-revenue; feedback loop has already completed (post-mortem use only).
 
@@ -59,6 +60,7 @@ INTERVENTION WINDOW: Last viable step __ | Current position __ | Time remaining 
 INTERVENTION: Type | Actions | Resources | Success metrics
 ```
 *→ Method in Action: [Kodak's Death Spiral (1994–2012)](examples/kodaks-death-spiral-1994-2012.md)*
+*→ 2026 lens: [Chegg's AI death spiral (2022–2026)](examples/cheggs-ai-death-spiral-2022-2026.md) — Kodak's 18-year loop, rerun in 3 years at consumer-subscription speed.*
 
 ## Death Spiral Packs
 **Startup Pack:** Apply pre-emptively — identify which early moats could be breached and design moat diversity before the first breach. For founders + early-stage investors.
@@ -111,5 +113,3 @@ INTERVENTION: Type | Actions | Resources | Success metrics
 
 ---
 *Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/death-spiral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
-
-*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/death-spiral.json*
