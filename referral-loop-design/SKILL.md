@@ -38,6 +38,6 @@ A referral loop is a **repeatable cycle where using the product produces new use
 - [ ] Each loop step instrumented and iterated
 
 ---
-*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/referral-loop-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/referral-loop-design** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/referral-loop-design.json*

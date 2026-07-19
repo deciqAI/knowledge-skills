@@ -2,7 +2,7 @@
 
 **Open-source thinking-framework skills that make rigorous reasoning executable for AI agents.**
 
-228 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
+233 composable mental models — packaged as installable [Agent Skills](https://www.deciqai.com/skills). Each turns a reasoning method that usually lives in a book into a step-by-step process an AI agent can actually run, with worked historical examples and cited sources.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE) · Built by [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) · Contributions welcome
 
@@ -10,7 +10,7 @@
 
 ## Install
 
-Add all 228 skills:
+Add all 233 skills:
 
 ```bash
 npx skills add deciqAI/knowledge-skills
@@ -80,6 +80,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Death Spiral](./death-spiral) | [↗](https://www.deciqai.com/skills/death-spiral?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A death spiral is a self-reinforcing negative feedback loop in competitive markets. |
 | [Decision Tree](./decision-tree) | [↗](https://www.deciqai.com/skills/decision-tree?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A decision tree maps a multi-stage decision: decision nodes (squares) for choices you control, chance nodes (circles) for outcomes you don't, probabilities on every branch, payoffs |
 | [Deep Work](./deep-work) | [↗](https://www.deciqai.com/skills/deep-work?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Cal Newport's framework (2016): deep work = undistracted, cognitively demanding activity that creates hard-to-replicate value; shallow work = logistical, responsive, easy-to-replic |
+| [Definite Optimism](./definite-optimism) | [↗](https://www.deciqai.com/skills/definite-optimism?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | In Zero to One (2014, ch. |
 | [Deliberate Practice](./deliberate-practice) | [↗](https://www.deciqai.com/skills/deliberate-practice?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Most people confuse repetition with learning — they accumulate years of experience and plateau. |
 | [Demand Leadership](./demand-leadership) | [↗](https://www.deciqai.com/skills/demand-leadership?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The highest-value market position is not to fulfill demand but to define it — to become the entity whose framing of the problem the customer adopts as their own. |
 | [Design Thinking](./design-thinking) | [↗](https://www.deciqai.com/skills/design-thinking?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Design thinking — formalized by Tim Brown at IDEO and Stanford's d.school, grounded in Simon (1969) and Rittel's "wicked problems" — replaces assumption-driven decisions with evide |
@@ -135,6 +136,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Knowing And Doing As One](./knowing-and-doing-as-one) | [↗](https://www.deciqai.com/skills/knowing-and-doing-as-one?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | When you say "I know I should but I just don't do it," the standard explanation is a failure of willpower. |
 | [Kotter Change](./kotter-change) | [↗](https://www.deciqai.com/skills/kotter-change?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | John Kotter built this model from studying one hundred corporate transformations — most failed. |
 | [Landing Page Conversion](./landing-page-conversion) | [↗](https://www.deciqai.com/skills/landing-page-conversion?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A landing page converts when a visitor, in seconds, understands what it is, who it's for, why it's better, and what to do next — with nothing in the way. |
+| [Last Mover Advantage](./last-mover-advantage) | [↗](https://www.deciqai.com/skills/last-mover-advantage?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Most founders and strategists treat "first" as the prize: enter before anyone else and the market is yours. |
 | [Lateral Thinking](./lateral-thinking) | [↗](https://www.deciqai.com/skills/lateral-thinking?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Lateral thinking is the discipline of solving problems by approaching them from unexpected angles — not by going deeper along an existing logical path but by moving sideways to a n |
 | [Latticework](./latticework) | [↗](https://www.deciqai.com/skills/latticework?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Latticework is the practice of cross-wiring mental models from multiple disciplines on the same situation. |
 | [Lean Startup](./lean-startup) | [↗](https://www.deciqai.com/skills/lean-startup?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A startup is a temporary organization searching for a repeatable, scalable business model under extreme uncertainty (Steve Blank). |
@@ -152,6 +154,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Minimum Viable Audience](./minimum-viable-audience) | [↗](https://www.deciqai.com/skills/minimum-viable-audience?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The Minimum Viable Audience (Seth Godin) is the smallest group of people whose problem you can solve so well they tell others — the deliberate opposite of appealing to everyone. |
 | [Minsky Moment](./minsky-moment) | [↗](https://www.deciqai.com/skills/minsky-moment?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | A Minsky Moment is the point at which a leveraged financial system tips from apparent stability into rapid self-reinforcing collapse — caused by the internal dynamic of debt accumu |
 | [Momentum And Form](./momentum-and-form) | [↗](https://www.deciqai.com/skills/momentum-and-form?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Competitive advantage is two distinct things, not one: form (形, xíng) — the structural stock built before any contest (capital, distribution, brand, product, org capability) — and  |
+| [Monopoly Vs Competition](./monopoly-vs-competition) | [↗](https://www.deciqai.com/skills/monopoly-vs-competition?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Under perfect competition, no firm makes economic profit: entrants arrive until price equals marginal cost, and every player fights for scraps while telling itself the fight builds |
 | [Mortgage Lo Comp Respa Design](./mortgage-lo-comp-respa-design) | [↗](https://www.deciqai.com/skills/mortgage-lo-comp-respa-design?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
 | [Mortgage Loan Fallout Premortem](./mortgage-loan-fallout-premortem) | [↗](https://www.deciqai.com/skills/mortgage-loan-fallout-premortem?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
 | [Mortgage Loan Program Matching](./mortgage-loan-program-matching) | [↗](https://www.deciqai.com/skills/mortgage-loan-program-matching?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) |  |
@@ -214,6 +217,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Second Order Thinking](./second-order-thinking) | [↗](https://www.deciqai.com/skills/second-order-thinking?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | First-level thinking asks "what will happen?" and stops. |
 | [Self Evolution 3d](./self-evolution-3d) | [↗](https://www.deciqai.com/skills/self-evolution-3d?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Treats personal growth as three orthogonal dimensions — Height (mission vantage), Width (perspective breadth), Depth (self-awareness accuracy) — each with a distinct mechanism and  |
 | [Self Renewal](./self-renewal) | [↗](https://www.deciqai.com/skills/self-renewal?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Self-renewal is the structured practice of identifying which mental models have passed their expiry date and genuinely updating — not merely annotating — them. |
+| [Seven Questions Test](./seven-questions-test) | [↗](https://www.deciqai.com/skills/seven-questions-test?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Most business failures are not bad luck — they are unexamined answers. |
 | [Shi Momentum](./shi-momentum) | [↗](https://www.deciqai.com/skills/shi-momentum?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | 势 (shì) is the propensity of a situation to evolve in a direction — a wave you read and ride, not power you exert. |
 | [Signaling Games](./signaling-games) | [↗](https://www.deciqai.com/skills/signaling-games?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | One party knows something the other cannot verify. |
 | [Situational Leadership](./situational-leadership) | [↗](https://www.deciqai.com/skills/situational-leadership?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Match your leadership style to each person's development level on each specific task — cycling through four styles (Directing, Coaching, Supporting, Delegating) as competence and c |
@@ -261,6 +265,7 @@ Each folder is also a self-contained `SKILL.md` with `examples/` and `references
 | [Winners Curse](./winners-curse) | [↗](https://www.deciqai.com/skills/winners-curse?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | The winner's curse is the systematic tendency, in a common-value auction — one where every bidder is estimating the same uncertain value from noisy private signals — for the winner |
 | [Wu Wei](./wu-wei) | [↗](https://www.deciqai.com/skills/wu-wei?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Wu wei (无为) — Daoist principle (Daodejing, ~4th century BCE): act without forcing, not without acting. |
 | [Zero Sum Game](./zero-sum-game) | [↗](https://www.deciqai.com/skills/zero-sum-game?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Zero-sum means total value is fixed — one player's gain is another's exact loss. |
+| [Zero To One Secrets](./zero-to-one-secrets) | [↗](https://www.deciqai.com/skills/zero-to-one-secrets?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) | Every great business is built around a secret: an important truth that is knowable but that few people know. |
 
 ---
 
@@ -280,4 +285,4 @@ New skills and improvements to existing ones are welcome — see [CONTRIBUTING.m
 
 ---
 
-These are the same 228 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.
+These are the same 233 skills wired into every [deciqAI](https://www.deciqai.com/skills?utm_source=github&utm_medium=readme&utm_campaign=knowledge-skills) agent — which runs them autonomously to operate your company.

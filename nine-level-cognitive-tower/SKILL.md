@@ -117,6 +117,6 @@ In Coach mode, respond one step at a time. Each [WAIT] is a hard stop — output
 - [ ] At least one peer reviewed the self-assessment; experiment targets behavior, not reading
 
 ---
-*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/nine-level-cognitive-tower** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/nine-level-cognitive-tower** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/nine-level-cognitive-tower.json*

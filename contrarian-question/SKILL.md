@@ -11,7 +11,7 @@ Peter Thiel opens *Zero to One* (2014) with an interview question he says he ask
 
 Why the question matters: Thiel's observation is that brilliant thinking is rare, but the willingness to state an unpopular truth out loud is scarcer still — the binding constraint is courage, not IQ. And the payoff structure is asymmetric. If your claim is consensus and right, it is already priced in — competitors, investors, and markets got there first, so being right earns you little. If it is non-consensus and right, you get the future early, with years of head start before the crowd arrives. That window is exactly where durable companies are founded and outsized returns are made. The gate exists because *feeling* contrarian is cheap and common; *being* contrarian and right is rare and checkable.
 
-This skill is the **interview-question-shaped gate**: a pass/fail test you run one claim through. Its closest sibling, [non-consensus-thinking](../non-consensus-thinking/SKILL.md), is the broader hunting discipline for generating and managing non-consensus views across a portfolio — generate candidates there, gate them here. Compose with [first-principles](../first-principles/SKILL.md) (build the defense from bedrock, not analogy), zero-to-one-secrets (a passing answer *is* a secret — that skill covers where secrets hide), and monopoly-vs-competition (why a passing business answer points at an uncontested market rather than a crowded one).
+This skill is the **interview-question-shaped gate**: a pass/fail test you run one claim through. Its closest sibling, [non-consensus-thinking](../non-consensus-thinking/SKILL.md), is the broader hunting discipline for generating and managing non-consensus views across a portfolio — generate candidates there, gate them here. Compose with [first-principles](../first-principles/SKILL.md) (build the defense from bedrock, not analogy), [zero-to-one-secrets](../zero-to-one-secrets/SKILL.md) (a passing answer *is* a secret — that skill covers where secrets hide), and [monopoly-vs-competition](../monopoly-vs-competition/SKILL.md) (why a passing business answer points at an uncontested market rather than a crowded one).
 
 ## When to Use
 
@@ -155,6 +155,6 @@ The ways people fake a contrarian answer. If you catch yourself in the left colu
 
 ---
 
-*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/contrarian-question** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/contrarian-question** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/contrarian-question.json*

@@ -116,6 +116,6 @@ Stop-rule: "What unstated need did we address this quarter?" → blank = cap at 
 - [ ] Move has named owner, specific action, and observable success evidence; timeline 1–4 quarters
 - [ ] If Rung 4–5, a proprietary asset the customer cannot source elsewhere has been named
 
-*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customer-relationship-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/customer-relationship-ladder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
 
 *Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/customer-relationship-ladder.json*

@@ -1,7 +1,7 @@
 ---
 name: death-spiral
 description: "Activate when: user says 'we're losing market share,' 'our growth keeps slowing and I don't know why,' 'a competitor is gaining on us fast,' 'what's the worst-case trajectory here,' or a business shows two or more consecutive quarters of declining key metrics with no identified reversal mechanism.
-  Do NOT activate when: decline is clearly seasonal or macro-cyclical with demonstrated historical recovery; or the company is pre-product/pre-revenue with no existing moat to audit."
+  Do NOT activate when: decline is clearly seasonal or macro-cyclical with demonstrated historical recovery; or the company is pre-product/pre-revenue with no existing moat to audit. More: deciqai.com/s/death-spiral"
 ---
 
 # Death Spiral
@@ -112,4 +112,6 @@ INTERVENTION: Type | Actions | Resources | Success metrics
 - [ ] False-positive check: cyclical/execution explanations explicitly ruled out
 
 ---
-*Part of **deciqAI Knowledge Skills** — 228 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/death-spiral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+*Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/death-spiral** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
+
+*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/death-spiral.json*
