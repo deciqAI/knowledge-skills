@@ -1,0 +1,29 @@
+# Method in Action: TSMC Arizona and the AI-Capex Commitment Race (2020–2026)
+
+> *Example for the [strategic-commitment](../SKILL.md) skill.*
+
+The 2020–2026 AI buildout produced the largest peacetime capital commitments in corporate history — and the clearest modern demonstrations of why commitment beats flexibility in games where counterparties act on what they believe you will do. Two linked cases: TSMC's Arizona fabs (a commitment made credible to governments and customers), and the hyperscalers' multi-year AI capex escalation (commitments aimed at rivals, suppliers, and the capital markets simultaneously). Run both through the Credibility Audit.
+
+### Case 1 — TSMC Arizona: making "we will build outside Taiwan" credible
+
+**Step 1 — State the commitment precisely.** Action: build and operate leading-edge fabs in Arizona. Trigger: US customers' and the US government's demand for supply-chain resilience. Audience: Washington (subsidy and export-policy decisions), US customers (Apple, Nvidia, AMD — "can we count on non-Taiwan supply?"), and rivals (Intel, Samsung) deciding their own capacity bets.
+
+**Step 2 — CAVE audit.** *Capability:* present — TSMC is the only firm that has repeatedly executed leading-edge fabs at scale. *Action taken:* irreversible — announced in 2020 and escalated in stages to a reported ~$65B across three Arizona fabs by 2024, with the first fab reaching volume production of 4nm-class chips in late 2024/early 2025; poured concrete and installed EUV tools cannot be un-spent. *Visibility:* maximal — presidential visits, CHIPS Act grant announcements, quarterly disclosure. *Enforcement:* CHIPS funding milestones and customer prepayment/agreement structures add third-party penalty for retreat. All four present — this is why the commitment moved policy and customer behavior where a press release would not have.
+
+**Step 3–4 — Cost of retreat and device.** Each escalation raised the cost of walking away (sunk cost + reputation with two governments + customer reliance). The device is classic **sunk-cost + third-party constraint**: the money in the ground is the message.
+
+**Step 5 — Post-commitment game tree.** Follow-through became non-dominated retreat: abandoning Arizona after CHIPS milestones and customer commitments would cost more (politically and commercially) than completing fabs whose standalone economics are worse than Taiwan's. That inversion is precisely what makes the audience believe.
+
+**Step 6 — Rigidity risk.** Real and priced in: higher US costs, staffing friction, the risk that demand shifts. TSMC kept conditionality narrow (phasing, tool-timing flexibility) without undermining the core signal.
+
+### Case 2 — Hyperscaler AI capex: commitment as deterrence in the model race
+
+The 2024–2026 AI capex escalation — combined annual capital expenditure by the largest US hyperscalers reported in the hundreds of billions of dollars by 2025, with multi-year model-training and compute purchase agreements (e.g., Microsoft's multi-billion-dollar OpenAI partnership from 2019–2023 onward) — reads as a **CAVE-complete commitment aimed at three audiences at once**: rivals ("we will not be outspent — entering the frontier race against us is expensive"), suppliers ("build the capacity; the demand is contracted"), and talent/markets ("this is a decade bet, not a feature"). The *Action-taken* element is the disclosed capex itself; *Enforcement* is quarterly earnings scrutiny — a CFO who guides capex up and then retreats pays a visible price. Contrast the counter-case: enterprises that ran dozens of hedged AI pilots ("keep options open") signaled exactly the opposite, and their pilots were treated accordingly by vendors, talent, and their own organizations — flexibility read as absence of intent. The same structural point [definite-optimism](../definite-optimism/SKILL.md) makes about plans applies here to signals: optionality is illegible; commitment is information.
+
+**The founder-scale version of the audit.** The mechanism is size-independent — what changes is the device menu:
+
+**Founder takeaway (startup):** Your "we're all-in on X" claim is theatrical until it passes CAVE. Investors, candidates, and early customers read *Action-taken*, not vision slides: what did you irreversibly spend, kill, or turn down? Killing your fallback product line, publishing a falsifiable roadmap, taking a niche-exclusive contract — each is a small Arizona. If your deck says focus and your burn says hedging, sophisticated audiences believe the burn.
+
+**Founder takeaway (SMB):** Commitment devices are how a small player makes a big player's threat irrelevant — a 3-year lease in the neighborhood you serve, a published service guarantee with teeth (refund policy = enforcement), a niche you name publicly. And run CAVE in reverse on competitors: the chain announcing "we'll match any local price" has Capability but often no Action-taken — check whether their threat has concrete cost behind it before you surrender margin.
+
+*Sources: TSMC Arizona expansion to three fabs and ~$65B announced investment: TSMC press releases and April 2024 U.S. Department of Commerce CHIPS announcement (commerce.gov; up to $6.6B in direct funding), as widely reported; first Arizona fab volume production of 4nm-class chips in late 2024/early 2025 per TSMC and press reporting. Hyperscaler AI capital expenditure levels 2024–2025: company quarterly reports and earnings guidance as widely reported; figures are order-of-magnitude and vary by fiscal year and firm. Microsoft–OpenAI multi-year, multi-billion-dollar partnership (2019, 2021, January 2023): Microsoft official blog announcements. Commitment theory: Schelling, T. (1960). The Strategy of Conflict. Harvard University Press — see this skill's primary sources. Precise private contract terms are not public; characterizations are as reported.*

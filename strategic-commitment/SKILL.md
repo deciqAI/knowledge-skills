@@ -1,7 +1,7 @@
 ---
 name: strategic-commitment
 description: "Activate when: someone says 'they don't believe we'll follow through', 'how do I make my threat credible?', 'how do we deter a competitor from entering?', 'we need to lock in this customer/partner', 'should we burn our bridges?', or when a stated threat or promise is being discounted by the other side.
-  Do NOT activate when: the problem is capability (you cannot execute the threat, not just credibility that you will), or when the environment is changing so fast that any lock-in creates more rigidity than credibility gain. More: deciqai.com/s/strategic-commitment"
+  Do NOT activate when: the problem is capability (you cannot execute the threat, not just credibility that you will), or when the environment is changing so fast that any lock-in creates more rigidity than credibility gain."
 ---
 
 # Strategic Commitment
@@ -20,6 +20,7 @@ Apply when:
 - In negotiation where the other side exploits your visible flexibility
 - Signaling strategic intent to multiple audiences with a single costly action
 - Evaluating whether a competitor's stated threat is real or theatrical
+- Deciding whether to make a concentrated AI-era bet credible (capex, an all-in product pivot, a "we're AI-first" claim) — or auditing whether a rival's AI commitment is money-in-the-ground or a press release
 
 **When NOT to use:** commitment is unobservable to the target audience; environment changes so fast that lock-in outweighs credibility gain; cost of following through exceeds the value being protected; genuine one-shot anonymous game with no reputational audience.
 
@@ -68,6 +69,7 @@ Recommendation: <device · implementation · what opponent should now believe>
 ```
 
 *→ Method in Action: [Amazon's Everyday Low Price Commitment (1994–present)](examples/amazon-everyday-low-price-commitment-1994-present.md)*
+*→ 2026 lens: [TSMC Arizona and the AI-capex commitment race (2020–2026)](examples/tsmc-arizona-and-ai-capex-commitments-2020-2026.md) — the money in the ground is the message.*
 
 ## Commitment Packs
 
@@ -118,5 +120,3 @@ Recommendation: <device · implementation · what opponent should now believe>
 ---
 
 *Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/strategic-commitment** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
-
-*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/strategic-commitment.json*
