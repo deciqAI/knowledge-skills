@@ -11,3 +11,5 @@
 - Reason, J. (1990). *Human Error.* Cambridge University Press. The cognitive foundations.
 - Pronovost, P. & Vohr, E. (2010). *Safe Patients, Smart Hospitals.* Hudson Street Press. ISBN 978-1594630613. The Pronovost story.
 - Roth, D. L. (1997). *Crazy from the Heat.* Hyperion. The brown M&M rider clause as checklist verification.
+- NIST (2023). *Artificial Intelligence Risk Management Framework (AI RMF 1.0)*, January 2023. https://www.nist.gov/itl/ai-risk-management-framework — the institutional codification of pre-deployment AI checking; the WHO-surgical-checklist moment for AI systems.
+- Moffatt v. Air Canada, British Columbia Civil Resolution Tribunal, February 2024 (as widely reported). The airline was held responsible for its chatbot's incorrect bereavement-fare advice — the "consequence of skipping" that embeds AI pre-flight checklists in workflow (Step 5).

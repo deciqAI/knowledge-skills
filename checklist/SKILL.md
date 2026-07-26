@@ -1,6 +1,6 @@
 ---
 name: checklist
-description: "Activate when: user says 'let's make sure we don't skip anything', 'we need a pre-flight', 'build me a checklist for X', 'we keep missing steps in our deployment / close / launch', 'Gawande / Pronovost / checklist manifesto'. Do NOT activate when: the task is simple and one-off with no recurrence; the user is asking for a to-do list or project plan (not a must-not-skip operational gate). More: deciqai.com/s/checklist"
+description: "Activate when: user says 'let's make sure we don't skip anything', 'we need a pre-flight', 'build me a checklist for X', 'we keep missing steps in our deployment / close / launch', 'Gawande / Pronovost / checklist manifesto'. Do NOT activate when: the task is simple and one-off with no recurrence; the user is asking for a to-do list or project plan (not a must-not-skip operational gate)."
 ---
 
 # Checklist
@@ -17,6 +17,7 @@ Composes with [`metacognition`](../metacognition/SKILL.md), [`confirmation-bias`
 - Multiple steps where skipping one costs far more than running the checklist
 - Multi-person operations where coordination must be consistent
 - New team members joining a critical workflow
+- Shipping or updating an AI agent / model version in production — evals, guardrails, spend caps, rollback: known steps that skilled teams skip under deadline
 
 **Not when:** operation is simple/one-off; no recurring pattern exists; checklist culture creates false confidence (mechanical checking without thought).
 
@@ -67,6 +68,7 @@ Near-miss tracking:  Quarterly review owner:
 ```
 
 *→ Method in Action: [B-17 1935 + Pronovost ICU + WHO Surgical](examples/b-17-1935-pronovost-icu-who-surgical.md) · [Van Halen's Brown M&M Rider Clause](examples/van-halen-brown-mms-rider-clause.md)*
+*→ 2026 lens: [The AI-agent pre-flight checklist (2023–2026)](examples/ai-agent-preflight-checklists-2023-2026.md) — software became too much airplane for one deploy to eyeball.*
 
 ## Pack: Domain Patterns
 
@@ -118,5 +120,3 @@ Near-miss tracking:  Quarterly review owner:
 ---
 
 *Part of **deciqAI Knowledge Skills** — 233 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/checklist** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
-
-*Agents: latest version & machine-readable metadata → https://www.deciqai.com/s/checklist.json*
