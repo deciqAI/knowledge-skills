@@ -1,6 +1,6 @@
 ---
 name: cpa-return-review
-description: "Activate when: a prepared 1040 or 1120-S is going to review; you are the second set of eyes on someone else's return; a firm wants one consistent review standard across reviewers; onboarding a preparer to the review bar; something feels off about a return and you want a systematic pass; user says 'review this return', 'before we file', 'second review', 'preparer checklist', 'did we miss anything?'. Do NOT activate when: the return is not yet prepared; the question is a single technical treatment; the work is chasing missing documents rather than reviewing."
+description: "Activate when: a prepared 1040 or 1120-S is going to review; you are the second set of eyes on someone else's return; a firm wants one consistent review standard across reviewers; onboarding a preparer to the review bar; something feels off about a return and you want a systematic pass; user says 'review this return', 'before we file', 'second review', 'preparer checklist', 'did we miss anything?'. Do NOT activate when: the return is not yet prepared; the question is a single technical treatment; the work is chasing missing documents rather than reviewing. More: deciqai.com/s/cpa-return-review"
 ---
 
 # CPA — Pre-Delivery Return Review
@@ -34,6 +34,7 @@ Boring, and the source of the most embarrassing errors.
 - Shareholder roster current, including mid-year changes (1120-S)
 - Direct deposit / payment details verified this year, not carried forward
 - Preparer identifiers and signature blocks complete
+- Paid-preparer due-diligence checklist completed and retained for every covered credit and for head-of-household — see [tax-prep-8867-due-diligence]. A per-return penalty gate, and the one Sweep 1 item that costs money on its own rather than through a wrong number
 - Taxpayer e-file authorization signed and dated for the correct return and year, **before** transmission
 - Any consent required before disclosing or using taxpayer information obtained in the required form and sequence
 - Every other required signature, election statement and attachment present
@@ -121,7 +122,7 @@ Neither sweep alone would have caught it. Sweep 2 flagged the movement; Sweep 5 
 
 ## Compliance anchors
 
-Circular 230 §10.22 (due diligence), §10.34 (standards for returns) · AICPA SSTS No. 1 (positions), No. 3 (client information), No. 5 (departure from prior treatment) · IRC §6694 (preparer penalties) · firm quality-management standards.
+Circular 230 §10.22 (due diligence), §10.34 (standards for returns) · AICPA SSTS §2.1 (tax return positions), §2.3 (reliance on information from others), §2.4 (use of estimates), §2.5 (departure from previous positions), §1.2 (knowledge of errors) · IRC §6694 (preparer penalties) · firm quality-management standards.
 
 ## Packs
 
@@ -141,12 +142,12 @@ Circular 230 §10.22 (due diligence), §10.34 (standards for returns) · AICPA S
 
 | Rationalization | Reality |
 |---|---|
-| "The software would have caught it." [D] | Software validates internal arithmetic. It has no view on whether last year's rental disappeared. |
-| "It ties out, so it's fine." [O] | Sweep 3 is one of five. A return can be perfectly self-consistent and wrong at the source. |
-| "It's an experienced preparer." [O] | Experience shifts the error class from arithmetic to carryover and judgment — exactly what Sweeps 2 and 5 target. |
-| "Reasonableness is subjective." [D] | It is judgment, which is what a reviewer is for. The test is operational: can you say it out loud to someone who asks why. |
-| "We're out of time." [O] | Then extend. Filing with an open BLOCKER converts a time problem into a liability. |
-| "The client approved it." [O] | Client approval is not review. They are approving a document they cannot audit. |
+| [D] "The software would have caught it." | Software validates internal arithmetic. It has no view on whether last year's rental disappeared. |
+| [O] "It ties out, so it's fine." | Sweep 3 is one of five. A return can be perfectly self-consistent and wrong at the source. |
+| [O] "It's an experienced preparer." | Experience shifts the error class from arithmetic to carryover and judgment — exactly what Sweeps 2 and 5 target. |
+| [D] "Reasonableness is subjective." | It is judgment, which is what a reviewer is for. The test is operational: can you say it out loud to someone who asks why. |
+| [O] "We're out of time." | Then extend. Filing with an open BLOCKER converts a time problem into a liability. |
+| [O] "The client approved it." | Client approval is not review. They are approving a document they cannot audit. |
 
 ## Verification
 
@@ -159,4 +160,4 @@ Circular 230 §10.22 (due diligence), §10.34 (standards for returns) · AICPA S
 - [ ] Zero open BLOCKER or CORRECTION at filing
 - [ ] NOTE items captured for next year
 
-Related: [checklist] for the mechanics of a discipline that survives fatigue · [cpa-doc-chase] for the items Sweep 4 finds missing · [confirmation-bias] for why reading top-to-bottom only confirms.
+Related: [checklist] for the mechanics of a discipline that survives fatigue · [cpa-doc-chase] for the items Sweep 4 finds missing · [tax-prep-8867-due-diligence] for the Sweep 1 due-diligence gate in full · [tax-prep-pre-file-audit-premortem] for the adjacent question — this skill asks whether the return is right, that one asks what an examiner would attack · [confirmation-bias] for why reading top-to-bottom only confirms.

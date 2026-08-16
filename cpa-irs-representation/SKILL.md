@@ -1,6 +1,6 @@
 ---
 name: cpa-irs-representation
-description: "Activate when: a client receives an IRS notice or letter; an examination opens or an IDR arrives; a client has unfiled returns, a balance owed, or a lien/levy pending; deciding whether to appeal an adjustment or collection action; scoping a representation engagement; user says 'IRS notice', 'audit letter', 'exam', 'IDR', 'levy', 'lien', 'back taxes', 'unfiled returns', 'Form 2848', 'appeal this', 'the IRS is after my client'. Do NOT activate when: the work is return preparation or review with no controversy; the matter is purely a state or local authority (different rules and timelines); facts suggest criminal exposure — stop and involve counsel."
+description: "Activate when: a client receives an IRS notice or letter; an examination opens or an IDR arrives; a client has unfiled returns, a balance owed, or a lien/levy pending; deciding whether to appeal an adjustment or collection action; scoping a representation engagement; user says 'IRS notice', 'audit letter', 'exam', 'IDR', 'levy', 'lien', 'back taxes', 'unfiled returns', 'Form 2848', 'appeal this', 'the IRS is after my client'. Do NOT activate when: the work is return preparation or review with no controversy; the matter is purely a state or local authority (different rules and timelines); facts suggest criminal exposure — stop and involve counsel. More: deciqai.com/s/cpa-irs-representation"
 ---
 
 # CPA/EA — IRS Representation
@@ -122,7 +122,7 @@ The remaining balance was payable over time. **The settlement conversation the c
 
 ## Compliance anchors
 
-Circular 230 §10.3 (who may practice), §10.21 (known errors), §10.22 (due diligence), §10.29 (conflicting interests), §10.30 (solicitation/fees), §10.34 · IRC §7525 (limited practitioner privilege, with its exclusions) · §6672 (trust fund recovery exposure) · §7216 (disclosure and use) · Forms 2848 and 8821 as scope instruments · AICPA SSTS and firm conflict-check policy.
+Circular 230 §10.3 (who may practice), §10.21 (known errors), §10.22 (due diligence), §10.29 (conflicting interests), §10.30 (solicitation/fees), §10.34 · IRC §7525 (limited practitioner privilege, with its exclusions) · §6672 (trust fund recovery exposure) · §7216 (disclosure and use) · Forms 2848 and 8821 as scope instruments · AICPA SSTS No. 4 (standards for members providing tax representation services) and §1.2 (knowledge of errors) · firm conflict-check policy.
 
 ## Packs
 
@@ -144,13 +144,13 @@ Circular 230 §10.3 (who may practice), §10.21 (known errors), §10.22 (due dil
 
 | Rationalization | Reality |
 |---|---|
-| "Being fully cooperative will help us." [O] | Precision helps. Volunteering expands scope, and expanded scope has never been narrowed by goodwill. |
-| "I'll pull transcripts after I understand the story." [D] | The story is the least reliable input available. The record comes first or the analysis is built on sand. |
-| "The client says they can afford it." [O] | Test it against the actual month, including next year's tax. Optimism at signing is the default state. |
-| "It's a straightforward notice, I don't need the document." [O] | Notice type, periods and the window are all on the document. Descriptions get all three wrong routinely. |
-| "We can appeal if it goes badly." [D] | Only if the right survives. Some windows foreclose permanently, and 'we'll appeal' is not a plan. |
-| "I've done these before, I know the thresholds." [O] | Eligibility and terms change. A remembered figure is the single most common source of a wasted proposal. |
-| "Referring it out looks like I can't handle it." [O] | Knowing when to decline is a skill, not a failure. Taking it anyway is how a client's problem becomes yours. |
+| [O] "Being fully cooperative will help us." | Precision helps. Volunteering expands scope, and expanded scope has never been narrowed by goodwill. |
+| [D] "I'll pull transcripts after I understand the story." | The story is the least reliable input available. The record comes first or the analysis is built on sand. |
+| [O] "The client says they can afford it." | Test it against the actual month, including next year's tax. Optimism at signing is the default state. |
+| [O] "It's a straightforward notice, I don't need the document." | Notice type, periods and the window are all on the document. Descriptions get all three wrong routinely. |
+| [D] "We can appeal if it goes badly." | Only if the right survives. Some windows foreclose permanently, and 'we'll appeal' is not a plan. |
+| [O] "I've done these before, I know the thresholds." | Eligibility and terms change. A remembered figure is the single most common source of a wasted proposal. |
+| [O] "Referring it out looks like I can't handle it." | Knowing when to decline is a skill, not a failure. Taking it anyway is how a client's problem becomes yours. |
 
 ## Verification
 
@@ -165,4 +165,4 @@ Circular 230 §10.3 (who may practice), §10.21 (known errors), §10.22 (due dil
 - [ ] Every material conversation and client instruction documented
 - [ ] Outcome confirmed against the account record; follow-through diarised; authority withdrawn or retained deliberately
 
-Related: [cpa-doc-chase] for the records a case needs · [cpa-form-finder] for scoping unfiled years · [cpa-return-review] before anything goes back to the IRS · [principal-agent] for the entity-versus-responsible-person conflict · [margin-of-safety] for why the sustainable arrangement beats the optimal one.
+Related: [cpa-doc-chase] for the records a case needs · [cpa-form-finder] for scoping unfiled years · [cpa-return-review] before anything goes back to the IRS · [estimated-tax-safety-buffer] for the process failure behind most balances, which closing out is supposed to address · [principal-agent] for the entity-versus-responsible-person conflict · [margin-of-safety] for why the sustainable arrangement beats the optimal one.

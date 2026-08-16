@@ -1,6 +1,6 @@
 ---
 name: cpa-doc-chase
-description: "Activate when: a tax or bookkeeping engagement is blocked on client paperwork; a client has gone quiet on a document request; drafting an initial PBC/document request; deciding whether to extend, deliver incomplete, or disengage; user says 'chase the client', 'missing documents', 'PBC list', 'client won't respond', 'what am I still waiting on?'. Do NOT activate when: the documents are in hand and the question is technical treatment; the request is to prepare or review the return itself."
+description: "Activate when: a tax or bookkeeping engagement is blocked on client paperwork; a client has gone quiet on a document request; drafting an initial PBC/document request; deciding whether to extend, deliver incomplete, or disengage; user says 'chase the client', 'missing documents', 'PBC list', 'client won't respond', 'what am I still waiting on?'. Do NOT activate when: the documents are in hand and the question is technical treatment; the request is to prepare or review the return itself. More: deciqai.com/s/cpa-doc-chase"
 ---
 
 # CPA — Client Document Chase
@@ -41,7 +41,7 @@ The **why** column decides whether anything arrives. "Required for the return" p
 **4. Write the request.** Five properties, all required:
 
 1. **Short** — blockers only, under ten items, ideally under five
-2. **Specific** — "your 2025 mortgage interest statement from [lender]", not "mortgage documents"
+2. **Specific** — "your [year] mortgage interest statement from [lender]", not "mortgage documents"
 3. **Dated** — a real date with working room before the true deadline, never "at your earliest convenience"
 4. **Consequence stated once, neutrally** — extension, delay, or item excluded. A fact, not a threat, and not repeated
 5. **One action** — one channel, one reply, one destination. Never offer three upload options
@@ -79,7 +79,7 @@ Stage 1 asked for the three, with substitutes named for two. The closing stateme
 
 ## Compliance anchors
 
-Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client information) · engagement letter scope and termination terms · firm documentation retention policy · AICPA Statements on Standards for Tax Services on client-supplied information.
+Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client information) · engagement letter scope and termination terms · firm documentation retention policy · AICPA SSTS §2.3 (reliance on information from others).
 
 ## Packs
 
@@ -99,12 +99,12 @@ Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client informati
 
 | Rationalization | Reality |
 |---|---|
-| "I don't want to be pushy — they're a good client." [O] | Good clients are the ones who can absorb a dated request. The chase you avoid becomes the extension they didn't want. |
-| "I'll send the whole list so they can do it all at once." [D] | Twenty items reads as a project and gets scheduled for never. Three reads as a task. |
-| "They said they'd send it this week." [O] | Promised is a status, not a receipt. The ladder does not pause for a promise. |
-| "It's faster to just call them again." [O] | Repeating stage 2 in a new medium is still stage 2. Escalation means changing the ask, not the channel alone. |
-| "We'll extend anyway, so the date doesn't matter." [D] | Then say so at stage 1 and set the real date. A soft date the client can sense is soft trains next year's behavior. |
-| "If I disengage I lose the fee." [O] | An engagement that cannot be completed and cannot be documented is a liability carrying a receivable. |
+| [O] "I don't want to be pushy — they're a good client." | Good clients are the ones who can absorb a dated request. The chase you avoid becomes the extension they didn't want. |
+| [D] "I'll send the whole list so they can do it all at once." | Twenty items reads as a project and gets scheduled for never. Three reads as a task. |
+| [O] "They said they'd send it this week." | Promised is a status, not a receipt. The ladder does not pause for a promise. |
+| [O] "It's faster to just call them again." | Repeating stage 2 in a new medium is still stage 2. Escalation means changing the ask, not the channel alone. |
+| [D] "We'll extend anyway, so the date doesn't matter." | Then say so at stage 1 and set the real date. A soft date the client can sense is soft trains next year's behavior. |
+| [O] "If I disengage I lose the fee." | An engagement that cannot be completed and cannot be documented is a liability carrying a receivable. |
 
 ## Verification
 

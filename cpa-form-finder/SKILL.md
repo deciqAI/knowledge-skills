@@ -1,6 +1,6 @@
 ---
 name: cpa-form-finder
-description: "Activate when: scoping or quoting a new tax engagement; a client describes a transaction and you need to place it; building a document request list; sanity-checking that a return has the schedules its facts imply; user says 'what forms does this need', 'which schedule', 'what do I file for', 'is there a form for', 'what am I forgetting?'. Do NOT activate when: the forms are known and the question is how to complete a line; the question is a threshold, limit, rate, or filing date — those are not in this skill and must come from current guidance."
+description: "Activate when: scoping or quoting a new tax engagement; a client describes a transaction and you need to place it; building a document request list; sanity-checking that a return has the schedules its facts imply; user says 'what forms does this need', 'which schedule', 'what do I file for', 'is there a form for', 'what am I forgetting?'. Do NOT activate when: the forms are known and the question is how to complete a line; the question is a threshold, limit, rate, or filing date — those are not in this skill and must come from current guidance. More: deciqai.com/s/cpa-form-finder"
 ---
 
 # CPA — Form Finder
@@ -45,6 +45,9 @@ The output of this skill is always **two lists** — forms likely in scope, and 
 | Child and dependent care | Form 2441 |
 | Energy-related property | Form 5695 and related credit forms |
 | Casualty or theft loss | Form 4684 |
+| Noncash charitable contribution | Form 8283; appraisal requirements scale with value — verify against current instructions |
+| Gifts to individuals during the year | Form 709, on its own filing schedule separate from the income tax return |
+| Paid preparer claiming EITC, CTC/ACTC/ODC, AOTC, or head-of-household | Form 8867, one per covered credit — a per-return penalty gate, not a formality |
 | Net operating loss (non-corporate) | Form 172 and carryover schedules |
 | Passive activity involvement | Form 8582 |
 | At-risk limitations | Form 6198 |
@@ -104,7 +107,7 @@ Asking about location per element produced two facts the client had not connecte
 
 ## Compliance anchors
 
-Circular 230 §10.22 (due diligence), §10.34 · AICPA SSTS No. 2 (questions on returns) · IRC §6694 · engagement letter scope, which is where unpriced state filings become disputes.
+Circular 230 §10.22 (due diligence), §10.34 · AICPA SSTS §2.2 (tax return questions) · IRC §6694 · engagement letter scope, which is where unpriced state filings become disputes.
 
 ## Packs
 
@@ -124,11 +127,11 @@ Circular 230 §10.22 (due diligence), §10.34 · AICPA SSTS No. 2 (questions on 
 
 | Rationalization | Reality |
 |---|---|
-| "It's a simple return." [O] | Simple describes the forms you know about. Simplicity is a conclusion of scoping, not an input. |
-| "They'd have told me if they had foreign accounts." [D] | They do not classify a foreign pension or signature authority as an account. Ask by function. |
-| "One state — they only live in one place." [O] | Residence is one trigger of eight. Property, remote work, customers and pass-through operations are the others. |
-| "I'll figure out the state part later." [O] | Later is after the fee was quoted. State filings are where scoping errors turn into unbillable work. |
-| "The software will prompt for what's needed." [D] | Software prompts on data entered. It cannot prompt on a state you never asked about. |
+| [O] "It's a simple return." | Simple describes the forms you know about. Simplicity is a conclusion of scoping, not an input. |
+| [D] "They'd have told me if they had foreign accounts." | They do not classify a foreign pension or signature authority as an account. Ask by function. |
+| [O] "One state — they only live in one place." | Residence is one trigger of eight. Property, remote work, customers and pass-through operations are the others. |
+| [O] "I'll figure out the state part later." | Later is after the fee was quoted. State filings are where scoping errors turn into unbillable work. |
+| [D] "The software will prompt for what's needed." | Software prompts on data entered. It cannot prompt on a state you never asked about. |
 
 ## Verification
 
@@ -141,4 +144,4 @@ Circular 230 §10.22 (due diligence), §10.34 · AICPA SSTS No. 2 (questions on 
 - [ ] Engagement letter and fee reflect the jurisdictions found
 - [ ] Every threshold, date and eligibility question routed to current guidance, not answered from memory
 
-Related: [mece] for decomposing the situation without overlap or gaps · [cpa-doc-chase] for turning the form list into a request · [cpa-return-review] for checking the prepared return carries the schedules its facts imply.
+Related: [mece] for decomposing the situation without overlap or gaps · [cpa-doc-chase] for turning the form list into a request · [cpa-return-review] for checking the prepared return carries the schedules its facts imply · [tax-prep-8867-due-diligence] once a covered credit or head-of-household lands in scope · [estimated-tax-safety-buffer] once Form 1040-ES does.
