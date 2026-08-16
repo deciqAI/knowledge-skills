@@ -279,6 +279,18 @@ Want these skills to *act* instead of just reason? [deciqAI agents](https://www.
 
 ---
 
+## Scope & disclaimer
+
+**Every skill in this library is guidance, not professional advice.** Nothing here is legal, tax, accounting, financial, investment, insurance, or regulatory advice, and using a skill creates no professional relationship of any kind.
+
+Skills covering regulated work deliberately carry **no thresholds, rates, dollar limits, or filing dates** — those expire, and a copy frozen in a prompt file is a liability rather than a feature. Every such question is routed to current authority instead. See [CATALOG.md](CATALOG.md) for which skills carry that constraint and why.
+
+The output of a skill is a draft for a qualified person to review, correct, and own. Where a matter carries a professional duty, a licensing requirement, or a filing consequence, the credentialed practitioner who acts owns the decision — not the skill, not the agent running it, and not this repository.
+
+Provided as-is under the [MIT License](LICENSE), which includes its warranty and liability terms.
+
+---
+
 ## Contributing
 
 New skills and improvements to existing ones are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the skill anatomy, the template, and quality bars.

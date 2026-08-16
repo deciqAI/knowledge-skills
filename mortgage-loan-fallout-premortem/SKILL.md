@@ -6,6 +6,7 @@ description: "Activate when: a file is submitted or in underwriting; rate lock i
 # Mortgage — Loan Fallout Premortem
 
 > **Industry front door for [premortem](../premortem/SKILL.md).** Adds domain triggers, example, packs only. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** a file is submitted or in underwriting; rate lock is ticking; "what could kill this loan before closing?"; thin-file or borderline borrower.
 **Do NOT activate when:** clear-to-close with no open conditions.

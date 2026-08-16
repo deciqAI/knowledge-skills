@@ -6,6 +6,7 @@ description: "Activate when: a client needs to cancel/change; deciding refund vs
 # Travel Advisor — Cancellation & Refund Decision
 
 > **Industry front door for [decision-tree](../decision-tree/SKILL.md).** Adds domain triggers, example, packs only. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** a client needs to cancel/change; deciding refund vs credit vs insurance claim; comparing supplier penalties; "what's my best move to recover the most?"
 **Do NOT activate when:** fully refundable booking, no decision needed.

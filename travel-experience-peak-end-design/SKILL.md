@@ -6,6 +6,7 @@ description: "Activate when: designing an itinerary you want remembered and refe
 # Travel Advisor — Peak-End Experience Design
 
 > **Industry front door for [peak-end-rule](../peak-end-rule/SKILL.md).** Adds domain triggers, example, packs only. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** designing an itinerary you want remembered and referred; planning honeymoon/milestone/luxury trips; "how do I get repeat clients and referrals?"; setting surprise-and-delight touches.
 **Do NOT activate when:** pure transactional booking with no relationship goal.

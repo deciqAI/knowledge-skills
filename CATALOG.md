@@ -6,6 +6,8 @@
 
 Every skill in this repository is MIT licensed, complete, and free. That does not change, and this file does not gate anything.
 
+**Every skill is guidance, not professional advice** — see [Scope & disclaimer](README.md#scope--disclaimer). The tiers below do not change that; a higher tier means the reader carries *more* responsibility, never less.
+
 What the tiers describe is **how much domain-specific machinery a skill needs before it can answer with a number**. A reasoning framework needs none — it is complete as written and will be correct in ten years. A regulated-practice skill is complete as *method* but deliberately carries no thresholds, rates, or filing dates, because those expire; anyone running it has to bring current authority to the numbers.
 
 So the tier is a property of the subject matter, not a price. It answers: *what does a reader still have to supply after reading this file?*
@@ -125,5 +127,7 @@ No domain license, no jurisdiction, no expiry. These are the library's core and 
 **Picking a skill.** L0 applies anywhere. L1–L3 assume the reader works in that domain; running a regulated-practice skill without the credential produces a plausible answer you are not entitled to act on.
 
 **Contributing.** New verticals should state their tier in the PR. The test for L2 and above: *does an error here carry a penalty, a license consequence, or a duty to a third party?* If yes, the skill must carry no thresholds, rates or dates — route every one of them to current authority, and say so in the disclaimer line. That convention is what keeps these files from silently going stale.
+
+Every skill carries a disclaimer line under its title. L2 and L3 files state the specific class of thing that expires in that domain, because a generic disclaimer tells a reader nothing about *what* to go verify.
 
 **Auditing.** Anything in L2 or L3 containing a hard number, a filing date, or a rate is a bug. Open an issue.

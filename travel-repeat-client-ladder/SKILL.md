@@ -6,6 +6,7 @@ description: "Activate when: turning one-trip bookers into annual clients; build
 # Travel Advisor — Repeat-Client Relationship Ladder
 
 > **Industry front door for [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs only. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** turning one-trip bookers into annual clients; building a client-for-life book; planning post-trip nurture; "how do I stop starting from zero every year?"
 **Do NOT activate when:** pure one-off transactional volume with no repeat intent.
