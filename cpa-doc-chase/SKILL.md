@@ -5,7 +5,7 @@ description: "Activate when: a tax or bookkeeping engagement is blocked on clien
 
 # CPA — Client Document Chase
 
-> **Not legal or tax advice.** Verify required documentation against your engagement letter, firm standards, and current IRS/state guidance. The practitioner who signs owns the file.
+> **Not legal or tax advice.** Verify required documentation against your engagement letter, firm standards, and current IRS/state guidance. No penalty rates, retention periods, extension effects or plan-funding deadlines appear here — all of them expire. Route every such question to current authority rather than supplying a remembered figure, including inside a message drafted for a client. The practitioner who signs owns the file.
 
 **Activate when:** an engagement cannot progress without client materials; a client has gone silent; you are drafting a document request or a follow-up; a deadline is approaching and the chase has not converged; you are handing an engagement to a colleague and need the blocking state written down.
 **Do NOT activate when:** the materials are complete; the question is how to treat an item you already have.
@@ -105,6 +105,7 @@ Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client informati
 | [O] "It's faster to just call them again." | Repeating stage 2 in a new medium is still stage 2. Escalation means changing the ask, not the channel alone. |
 | [D] "We'll extend anyway, so the date doesn't matter." | Then say so at stage 1 and set the real date. A soft date the client can sense is soft trains next year's behavior. |
 | [O] "If I disengage I lose the fee." | An engagement that cannot be completed and cannot be documented is a liability carrying a receivable. |
+| [O] "While I'm explaining the extension I'll just mention what the late-filing penalty runs and which plan deadlines it moves." | Observed: a remembered penalty ratio and a remembered plan-funding deadline, neither of them checked, both landing in a message addressed to the client. The chase plan is not the place to answer a rate or a date — name the question and route it. |
 
 ## Verification
 
@@ -116,5 +117,6 @@ Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client informati
 - [ ] Actual document holder identified, not assumed to be the signer
 - [ ] Terminal action taken at the stated date, not deferred
 - [ ] Disposition and rationale in the engagement file in writing
+- [ ] Every penalty rate, deadline and retention period routed to current authority, not answered from memory — checked against the client-facing messages too, not only the plan
 
 Related: [checklist] for the standing item list · [reciprocity] and [door-in-the-face] for why the narrowed stage-3 ask outperforms the full list · [switching-costs] for why chronic non-responders are expensive to keep.

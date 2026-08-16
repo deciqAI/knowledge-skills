@@ -1,6 +1,6 @@
 ---
 name: cpa-form-finder
-description: "Activate when: scoping or quoting a new tax engagement; a client describes a transaction and you need to place it; building a document request list; sanity-checking that a return has the schedules its facts imply; user says 'what forms does this need', 'which schedule', 'what do I file for', 'is there a form for', 'what am I forgetting?'. Do NOT activate when: the forms are known and the question is how to complete a line; the question is a threshold, limit, rate, or filing date — those are not in this skill and must come from current guidance. More: deciqai.com/s/cpa-form-finder"
+description: "Activate when: scoping or quoting a new tax engagement; a client describes a transaction and you need to place it; building a document request list; sanity-checking that a return has the schedules its facts imply; user says 'what forms does this need', 'which schedule', 'what do I file for', 'is there a form for', 'what filings am I forgetting?'. Do NOT activate when: the forms are known and the question is how to complete a line; the return is already prepared and the question is whether it is right (use cpa-return-review instead); the question is a threshold, limit, rate, or filing date — those are not in this skill and must come from current guidance. More: deciqai.com/s/cpa-form-finder"
 ---
 
 # CPA — Form Finder
@@ -8,7 +8,7 @@ description: "Activate when: scoping or quoting a new tax engagement; a client d
 > **Not legal or tax advice.** This maps situations to form *families* only. No thresholds, limits, rates, phase-outs, eligibility tests or dates appear here — all of them expire. Verify against current IRS instructions for the applicable year and the relevant state authority.
 
 **Activate when:** scoping, quoting, or building a document request; a client describes something you want to place quickly; checking that a prepared return has the schedules its facts imply.
-**Do NOT activate when:** the question is a number, a limit, or a deadline.
+**Do NOT activate when:** the question is a number, a limit, or a deadline; the return is already prepared and the question is whether it is right — that is [cpa-return-review].
 
 ## Why this skill
 

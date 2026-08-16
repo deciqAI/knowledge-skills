@@ -1,6 +1,6 @@
 ---
 name: cpa-return-review
-description: "Activate when: a prepared 1040 or 1120-S is going to review; you are the second set of eyes on someone else's return; a firm wants one consistent review standard across reviewers; onboarding a preparer to the review bar; something feels off about a return and you want a systematic pass; user says 'review this return', 'before we file', 'second review', 'preparer checklist', 'did we miss anything?'. Do NOT activate when: the return is not yet prepared; the question is a single technical treatment; the work is chasing missing documents rather than reviewing. More: deciqai.com/s/cpa-return-review"
+description: "Activate when: a prepared 1040 or 1120-S is going to review; you are the second set of eyes on someone else's return; a firm wants one consistent review standard across reviewers; onboarding a preparer to the review bar; something feels off about a return and you want a systematic pass; user says 'review this return', 'before we file', 'second review', 'preparer checklist', 'did we miss anything on this return?'. Do NOT activate when: the return is not yet prepared; the question is a single technical treatment; the work is chasing missing documents rather than reviewing; the question is what an examiner would attack or whether a position invites audit rather than whether the return is right (use tax-prep-pre-file-audit-premortem instead — it applies to 1120-S as much as 1040). More: deciqai.com/s/cpa-return-review"
 ---
 
 # CPA — Pre-Delivery Return Review
@@ -8,7 +8,7 @@ description: "Activate when: a prepared 1040 or 1120-S is going to review; you a
 > **Not legal or tax advice.** No thresholds, limits, rates, or dates appear here — all of them expire. Verify every amount and every rule against current IRS/state guidance and current-year software logic. The practitioner who signs owns the return.
 
 **Activate when:** a return is prepared and going to review; you are reviewing someone else's work; you want the same discipline applied by every reviewer in the firm.
-**Do NOT activate when:** you are preparing rather than reviewing, or the question is one isolated treatment.
+**Do NOT activate when:** you are preparing rather than reviewing; the question is one isolated treatment; the question is what an examiner would attack rather than whether the return is right — that is [tax-prep-pre-file-audit-premortem], on 1120-S as much as on 1040.
 
 ## Why this skill
 
