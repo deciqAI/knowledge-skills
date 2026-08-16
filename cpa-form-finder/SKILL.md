@@ -146,7 +146,6 @@ Circular 230 §10.22 (due diligence), §10.34 · AICPA SSTS §2.2 (tax return qu
 
 Related: [mece] for decomposing the situation without overlap or gaps · [cpa-doc-chase] for turning the form list into a request · [cpa-return-review] for checking the prepared return carries the schedules its facts imply · [tax-prep-8867-due-diligence] once a covered credit or head-of-household lands in scope · [estimated-tax-safety-buffer] once Form 1040-ES does.
 
-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 237 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cpa-form-finder** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

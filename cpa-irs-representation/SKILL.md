@@ -167,7 +167,6 @@ Circular 230 §10.3 (who may practice), §10.21 (known errors), §10.22 (due dil
 
 Related: [cpa-doc-chase] for the records a case needs · [cpa-form-finder] for scoping unfiled years · [cpa-return-review] before anything goes back to the IRS · [estimated-tax-safety-buffer] for the process failure behind most balances, which closing out is supposed to address · [principal-agent] for the entity-versus-responsible-person conflict · [margin-of-safety] for why the sustainable arrangement beats the optimal one.
 
-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 237 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cpa-irs-representation** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

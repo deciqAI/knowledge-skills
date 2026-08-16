@@ -162,7 +162,6 @@ Circular 230 §10.22 (due diligence), §10.34 (standards for returns) · AICPA S
 
 Related: [checklist] for the mechanics of a discipline that survives fatigue · [cpa-doc-chase] for the items Sweep 4 finds missing · [tax-prep-8867-due-diligence] for the Sweep 1 due-diligence gate in full · [tax-prep-pre-file-audit-premortem] for the adjacent question — this skill asks whether the return is right, that one asks what an examiner would attack · [confirmation-bias] for why reading top-to-bottom only confirms.
 
-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 237 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cpa-return-review** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*

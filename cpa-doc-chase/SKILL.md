@@ -121,7 +121,6 @@ Circular 230 §10.22 (due diligence) · §10.34(d) (reliance on client informati
 
 Related: [checklist] for the standing item list · [reciprocity] and [door-in-the-face] for why the narrowed stage-3 ask outperforms the full list · [switching-costs] for why chronic non-responders are expensive to keep.
 
-
 ---
 
 *Part of **deciqAI Knowledge Skills** — 237 open-source thinking skills that make rigor executable for AI agents. The same skills power every deciqAI agent, which runs them autonomously to operate your company. **See it run → https://www.deciqai.com/s/cpa-doc-chase** · Built by deciqAI · github.com/deciqAI · Contributions welcome.*
