@@ -6,6 +6,7 @@ description: "Activate when: a real estate agent wants clients who refer and ret
 # Real Estate — Closing Experience (Peak-End) Design
 
 > **Industry front door for [peak-end-rule](../peak-end-rule/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** designing the client experience across a transaction; planning the closing/keys moment; deciding where to invest effort for referrals.
 **Do NOT activate when:** no relationship/referral objective.

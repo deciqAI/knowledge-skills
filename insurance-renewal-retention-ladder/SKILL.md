@@ -6,6 +6,7 @@ description: "Activate when: an insurance agent wants to keep clients renewing a
 # Insurance Agent — Renewal & Retention Ladder
 
 > **Industry front door for [customer-relationship-ladder](../customer-relationship-ladder/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** building a renewal/retention cadence; deciding cross-sell timing; a book with single-line clients; retention slipping at renewal.
 **Do NOT activate when:** no book yet.

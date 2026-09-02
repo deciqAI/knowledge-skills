@@ -6,6 +6,7 @@ description: "Activate when: a freight broker must balance shipper and carrier i
 # Freight Broker — Shipper/Carrier Principal-Agent Balance
 
 > **Industry front door for [principal-agent](../principal-agent/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** structuring shipper agreements; deciding margin transparency; a conflict between cheapest-for-shipper and loyal-carrier; setting service expectations both sides rely on.
 **Do NOT activate when:** you carry the freight yourself (no intermediary role).

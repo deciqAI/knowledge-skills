@@ -6,6 +6,7 @@ description: "Activate when: a freight broker must quote a lane and decide accep
 # Freight Broker — Lane Pricing & Load Decision
 
 > **Industry front door for [decision-tree](../decision-tree/SKILL.md).** Adds domain triggers, example, packs. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** quoting a shipper; deciding whether to accept a carrier's rate; spot vs contract; a tight-margin load; reposition/deadhead trade-offs.
 **Do NOT activate when:** a locked contract rate applies.

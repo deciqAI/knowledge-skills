@@ -5,6 +5,8 @@ description: "Activate when: user needs US company registration data (LLCs, corp
 
 # US Business Registry Open Data
 
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
+
 ## Overview
 
 Several US states publish their **entire business registry** — every LLC, corporation, and nonprofit ever registered — as open data on Socrata portals, explicitly in the public domain or licensed for commercial use. Five states (New York, Colorado, Pennsylvania, Oregon, Connecticut) yield **~12.4 million entities** with names, entity types, formation dates, addresses, and registered agents, for free, via a documented API. Most people assume this data is locked behind OpenCorporates pricing or state paywalls; for these states, it isn't.

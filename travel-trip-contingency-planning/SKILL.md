@@ -6,6 +6,7 @@ description: "Activate when: building a complex/high-value itinerary; multi-supp
 # Travel Advisor — Trip Contingency Planning
 
 > **Industry front door for [scenario-planning](../scenario-planning/SKILL.md).** Adds domain triggers, example, packs only. Parent Process unchanged.
+> **Guidance, not professional advice.** No legal, tax, financial or regulatory advice; verify anything jurisdiction- or rate-dependent against current authority. The professional who acts owns the decision.
 
 **Activate when:** building a complex/high-value itinerary; multi-supplier or international trip; hurricane/advisory season; client asks "what if something goes wrong?"; designing a group/FIT trip.
 **Do NOT activate when:** single refundable booking with trivial exposure.
