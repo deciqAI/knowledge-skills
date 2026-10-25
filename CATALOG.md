@@ -1,6 +1,6 @@
 # Catalog — depth tiers
 
-237 skills, classified by **domain** and **professional depth**.
+253 skills, classified by **domain** and **professional depth**.
 
 ## What this file is, and is not
 
@@ -14,9 +14,9 @@ So the tier is a property of the subject matter, not a price. It answers: *what 
 
 | Tier | Reader still supplies | Count |
 |---|---|---|
-| **L0 · Universal** | Nothing. The method is the whole answer. | 195 |
+| **L0 · Universal** | Nothing. The method is the whole answer. | 210 |
 | **L1 · Vertical front door** | Their own market's numbers and norms. | 17 |
-| **L2 · Regulated practice** | Current rules, thresholds, dates, state variants. | 17 |
+| **L2 · Regulated practice** | Current rules, thresholds, dates, state variants. | 18 |
 | **L3 · High-exposure specialist** | Current rules, plus judgment about personal or firm liability, plus in some cases counsel. | 8 |
 
 Depth rises with **regulatory duty and consequence of error**, not with difficulty. A hard strategy question is L0; a simple-looking filing checklist whose omission carries a per-return penalty is L2.
@@ -38,7 +38,7 @@ Regulated matters where an error creates personal liability, license exposure, o
 | [mortgage-lo-comp-respa-design](./mortgage-lo-comp-respa-design) | Mortgage | Loan officer compensation and RESPA enforcement |
 | [ria-fiduciary-conflict-disclosure](./ria-fiduciary-conflict-disclosure) | RIA | Fiduciary duty; disclosure adequacy |
 
-## L2 · Regulated practice (17)
+## L2 · Regulated practice (18)
 
 Credentialed or duty-bearing work. The method is stable; the numbers and dates attached to it are not, and none appear in these files.
 
@@ -61,6 +61,7 @@ Credentialed or duty-bearing work. The method is stable; the numbers and dates a
 | [realtor-transaction-fair-housing-checklist](./realtor-transaction-fair-housing-checklist) | Real estate | Protected classes, state and local additions, advertising rules |
 | [ria-adv-crs-compliance-checklist](./ria-adv-crs-compliance-checklist) | RIA | Filing content, timing, delivery obligations |
 | [travel-cancellation-refund-decision](./travel-cancellation-refund-decision) | Travel | Supplier terms, carrier rules, statutory refund rights |
+| [ai-risk-compliance-baseline](./ai-risk-compliance-baseline) | AI governance | Disclosure obligations, data-protection rules, applicability tests, effective dates, vendor terms |
 
 ## L1 · Vertical front door (17)
 
@@ -86,7 +87,7 @@ Domain judgment without a regulatory clock. Complete as written; sharper once th
 | [travel-trip-contingency-planning](./travel-trip-contingency-planning) | Travel |
 | [us-business-registry-open-data](./us-business-registry-open-data) | Data / research |
 
-## L0 · Universal (195)
+## L0 · Universal (210)
 
 No domain license, no jurisdiction, no expiry. These are the library's core and the reason it exists.
 
@@ -99,17 +100,20 @@ No domain license, no jurisdiction, no expiry. These are the library's core and 
 **Cognitive bias & self-deception (21)**
 [anchoring](./anchoring) · [authority-bias](./authority-bias) · [availability-heuristic](./availability-heuristic) · [confirmation-bias](./confirmation-bias) · [dual-system-thinking](./dual-system-thinking) · [dunning-kruger](./dunning-kruger) · [endowment-effect](./endowment-effect) · [framing-effect](./framing-effect) · [fundamental-attribution-error](./fundamental-attribution-error) · [halo-effect](./halo-effect) · [hanlons-razor](./hanlons-razor) · [hindsight-bias](./hindsight-bias) · [hyperbolic-discounting](./hyperbolic-discounting) · [loss-aversion-prospect-theory](./loss-aversion-prospect-theory) · [narrative-fallacy](./narrative-fallacy) · [representativeness-heuristic](./representativeness-heuristic) · [status-quo-bias](./status-quo-bias) · [sunk-cost-fallacy](./sunk-cost-fallacy) · [survivorship-bias](./survivorship-bias) · [mr-market](./mr-market) · [minsky-moment](./minsky-moment)
 
-**Strategy & competition (43)**
-[ansoff-matrix](./ansoff-matrix) · [bcg-matrix](./bcg-matrix) · [blue-ocean-strategy](./blue-ocean-strategy) · [business-model-canvas](./business-model-canvas) · [change-and-constants](./change-and-constants) · [demand-leadership](./demand-leadership) · [disruptive-innovation](./disruptive-innovation) · [dynamic-core-competence](./dynamic-core-competence) · [economic-moat](./economic-moat) · [first-mover-advantage](./first-mover-advantage) · [hidden-elite-advantages](./hidden-elite-advantages) · [incremental-vs-leap-growth](./incremental-vs-leap-growth) · [last-mover-advantage](./last-mover-advantage) · [momentum-and-form](./momentum-and-form) · [monopoly-vs-competition](./monopoly-vs-competition) · [narrow-gate-strategy](./narrow-gate-strategy) · [network-effects](./network-effects) · [non-consensus-thinking](./non-consensus-thinking) · [organic-plus-extension-growth](./organic-plus-extension-growth) · [overseas-expansion-framework](./overseas-expansion-framework) · [point-line-plane-solid](./point-line-plane-solid) · [porters-five-forces](./porters-five-forces) · [red-queen-effect](./red-queen-effect) · [resource-integration-hierarchy](./resource-integration-hierarchy) · [resource-time-compression](./resource-time-compression) · [s-curve-technology-adoption](./s-curve-technology-adoption) · [second-curve](./second-curve) · [shi-momentum](./shi-momentum) · [strategic-commitment](./strategic-commitment) · [strategic-execution-3d9](./strategic-execution-3d9) · [strategic-spiral-momentum](./strategic-spiral-momentum) · [strategy-execution-levers](./strategy-execution-levers) · [switching-costs](./switching-costs) · [swot-analysis](./swot-analysis) · [three-radius-model](./three-radius-model) · [value-chain-analysis](./value-chain-analysis) · [voltage-effect](./voltage-effect) · [zero-to-one-secrets](./zero-to-one-secrets) · [death-spiral](./death-spiral) · [emergence](./emergence) · [comparative-advantage](./comparative-advantage) · [economies-of-scale](./economies-of-scale) · [gravity-field-empowerment](./gravity-field-empowerment)
+**Strategy & competition (45)**
+[ansoff-matrix](./ansoff-matrix) · [bcg-matrix](./bcg-matrix) · [blue-ocean-strategy](./blue-ocean-strategy) · [business-model-canvas](./business-model-canvas) · [change-and-constants](./change-and-constants) · [demand-leadership](./demand-leadership) · [disruptive-innovation](./disruptive-innovation) · [dynamic-core-competence](./dynamic-core-competence) · [economic-moat](./economic-moat) · [first-mover-advantage](./first-mover-advantage) · [hidden-elite-advantages](./hidden-elite-advantages) · [incremental-vs-leap-growth](./incremental-vs-leap-growth) · [last-mover-advantage](./last-mover-advantage) · [momentum-and-form](./momentum-and-form) · [monopoly-vs-competition](./monopoly-vs-competition) · [narrow-gate-strategy](./narrow-gate-strategy) · [network-effects](./network-effects) · [non-consensus-thinking](./non-consensus-thinking) · [organic-plus-extension-growth](./organic-plus-extension-growth) · [overseas-expansion-framework](./overseas-expansion-framework) · [point-line-plane-solid](./point-line-plane-solid) · [porters-five-forces](./porters-five-forces) · [red-queen-effect](./red-queen-effect) · [resource-integration-hierarchy](./resource-integration-hierarchy) · [resource-time-compression](./resource-time-compression) · [s-curve-technology-adoption](./s-curve-technology-adoption) · [second-curve](./second-curve) · [shi-momentum](./shi-momentum) · [strategic-commitment](./strategic-commitment) · [strategic-execution-3d9](./strategic-execution-3d9) · [strategic-spiral-momentum](./strategic-spiral-momentum) · [strategy-execution-levers](./strategy-execution-levers) · [switching-costs](./switching-costs) · [swot-analysis](./swot-analysis) · [three-radius-model](./three-radius-model) · [value-chain-analysis](./value-chain-analysis) · [voltage-effect](./voltage-effect) · [zero-to-one-secrets](./zero-to-one-secrets) · [death-spiral](./death-spiral) · [emergence](./emergence) · [comparative-advantage](./comparative-advantage) · [economies-of-scale](./economies-of-scale) · [gravity-field-empowerment](./gravity-field-empowerment) · [ai-disruption-risk-audit](./ai-disruption-risk-audit) · [proprietary-data-moat](./proprietary-data-moat)
 
-**Growth, product & go-to-market (28)**
-[aarrr-pirate-metrics](./aarrr-pirate-metrics) · [activation-onboarding-playbook](./activation-onboarding-playbook) · [bullseye-traction-channels](./bullseye-traction-channels) · [commitment-consistency](./commitment-consistency) · [content-led-growth](./content-led-growth) · [continuous-discovery](./continuous-discovery) · [customer-relationship-ladder](./customer-relationship-ladder) · [design-thinking](./design-thinking) · [discovery-call-spin](./discovery-call-spin) · [door-in-the-face](./door-in-the-face) · [jobs-to-be-done](./jobs-to-be-done) · [k-factor-viral](./k-factor-viral) · [landing-page-conversion](./landing-page-conversion) · [lifestage-value-curve](./lifestage-value-curve) · [minimum-viable-audience](./minimum-viable-audience) · [north-star-metric](./north-star-metric) · [nudge-theory](./nudge-theory) · [objection-handling](./objection-handling) · [peak-end-rule](./peak-end-rule) · [positioning-obviously-awesome](./positioning-obviously-awesome) · [reciprocity](./reciprocity) · [referral-loop-design](./referral-loop-design) · [social-proof](./social-proof) · [the-mom-test](./the-mom-test) · [thousand-true-fans](./thousand-true-fans) · [trust-brand-architecture](./trust-brand-architecture) · [user-insight-engine](./user-insight-engine) · [tipping-point](./tipping-point)
+**Growth, product & go-to-market (33)**
+[aarrr-pirate-metrics](./aarrr-pirate-metrics) · [activation-onboarding-playbook](./activation-onboarding-playbook) · [bullseye-traction-channels](./bullseye-traction-channels) · [commitment-consistency](./commitment-consistency) · [content-led-growth](./content-led-growth) · [continuous-discovery](./continuous-discovery) · [customer-relationship-ladder](./customer-relationship-ladder) · [design-thinking](./design-thinking) · [discovery-call-spin](./discovery-call-spin) · [door-in-the-face](./door-in-the-face) · [jobs-to-be-done](./jobs-to-be-done) · [k-factor-viral](./k-factor-viral) · [landing-page-conversion](./landing-page-conversion) · [lifestage-value-curve](./lifestage-value-curve) · [minimum-viable-audience](./minimum-viable-audience) · [north-star-metric](./north-star-metric) · [nudge-theory](./nudge-theory) · [objection-handling](./objection-handling) · [peak-end-rule](./peak-end-rule) · [positioning-obviously-awesome](./positioning-obviously-awesome) · [reciprocity](./reciprocity) · [referral-loop-design](./referral-loop-design) · [social-proof](./social-proof) · [the-mom-test](./the-mom-test) · [thousand-true-fans](./thousand-true-fans) · [trust-brand-architecture](./trust-brand-architecture) · [user-insight-engine](./user-insight-engine) · [tipping-point](./tipping-point) · [aeo-answer-engine-optimization](./aeo-answer-engine-optimization) · [agent-outreach-lead-nurturing](./agent-outreach-lead-nurturing) · [agent-ready-product-data](./agent-ready-product-data) · [ai-content-factory-brand-consistency](./ai-content-factory-brand-consistency) · [geo-generative-engine-optimization](./geo-generative-engine-optimization)
 
-**Finance, economics & unit economics (9)**
-[ar-dso-discipline](./ar-dso-discipline) · [cash-conversion-cycle](./cash-conversion-cycle) · [compound-interest](./compound-interest) · [opportunity-cost](./opportunity-cost) · [pricing-strategy](./pricing-strategy) · [unit-economics-cac-ltv-payback](./unit-economics-cac-ltv-payback) · [bootstrapping-vs-raising](./bootstrapping-vs-raising) · [ramen-profitability](./ramen-profitability) · [antifragile](./antifragile)
+**Finance, economics & unit economics (10)**
+[ar-dso-discipline](./ar-dso-discipline) · [cash-conversion-cycle](./cash-conversion-cycle) · [compound-interest](./compound-interest) · [opportunity-cost](./opportunity-cost) · [pricing-strategy](./pricing-strategy) · [unit-economics-cac-ltv-payback](./unit-economics-cac-ltv-payback) · [bootstrapping-vs-raising](./bootstrapping-vs-raising) · [ramen-profitability](./ramen-profitability) · [antifragile](./antifragile) · [outcome-based-ai-pricing](./outcome-based-ai-pricing)
 
 **Systems, incentives & game theory (17)**
 [arrow-information-paradox](./arrow-information-paradox) · [batna-zopa](./batna-zopa) · [feedback-loops](./feedback-loops) · [goodharts-law](./goodharts-law) · [incentive-design](./incentive-design) · [nash-equilibrium](./nash-equilibrium) · [non-zero-sum](./non-zero-sum) · [principal-agent](./principal-agent) · [prisoners-dilemma](./prisoners-dilemma) · [repeated-games-reputation](./repeated-games-reputation) · [reverse-information-paradox](./reverse-information-paradox) · [signaling-games](./signaling-games) · [theory-of-constraints](./theory-of-constraints) · [thucydides-trap](./thucydides-trap) · [tragedy-of-the-commons](./tragedy-of-the-commons) · [zero-sum-game](./zero-sum-game) · [checklist](./checklist)
+
+**AI adoption & agent operations (7)**
+[agent-delegability-assessment](./agent-delegability-assessment) · [agent-ops-monitoring](./agent-ops-monitoring) · [ai-output-verification-trust-tiers](./ai-output-verification-trust-tiers) · [ai-pilot-to-scale](./ai-pilot-to-scale) · [ai-roi-business-case](./ai-roi-business-case) · [build-buy-partner-ai](./build-buy-partner-ai) · [human-ai-role-redesign](./human-ai-role-redesign)
 
 **Founder & early-stage operating (9)**
 [definite-optimism](./definite-optimism) · [do-things-that-dont-scale](./do-things-that-dont-scale) · [founder-burnout-sustainability](./founder-burnout-sustainability) · [founder-led-sales](./founder-led-sales) · [founder-mindset](./founder-mindset) · [founder-trajectory-matrix](./founder-trajectory-matrix) · [lean-startup](./lean-startup) · [mvp](./mvp) · [pmf-crossing-the-chasm](./pmf-crossing-the-chasm)
